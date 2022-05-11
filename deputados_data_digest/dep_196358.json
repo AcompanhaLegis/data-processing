@@ -1,0 +1,42 @@
+{
+    "proposicoes_by_year": {
+        "2017": {
+            "amount": 1,
+            "types": {
+                "EMC": 1
+            }
+        },
+        "2019": {
+            "amount": 59,
+            "types": {
+                "PL": 11,
+                "RIC": 4,
+                "REQ": 5,
+                "PRC": 1,
+                "EMC": 38
+            }
+        },
+        "2020": {
+            "amount": 1,
+            "types": {
+                "DOC": 1
+            }
+        },
+        "2021": {
+            "amount": 13,
+            "types": {
+                "DOC": 4,
+                "PEC": 1,
+                "REQ": 3,
+                "PL": 4,
+                "PLP": 1
+            }
+        },
+        "2022": {
+            "amount": 2,
+            "types": {
+                "REQ": 2
+            }
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "proposicoes_by_year": {
+        "2013": {
+            "amount": 18,
+            "types": {
+                "INC": 2,
+                "REQ": 5,
+                "PL": 7,
+                "EMC": 4
+            }
+        },
+        "0": {
+            "amount": 29,
+            "types": {
+                "PRL": 19,
+                "SBT": 6,
+                "EMP": 3,
+                "ATACN": 1
+            }
+        },
+        "2014": {
+            "amount": 9,
+            "types": {
+                "PL": 2,
+                "RIC": 2,
+                "REQ": 2,
+                "EMC": 3
+            }
+        },
+        "2015": {
+            "amount": 32,
+            "types": {
+                "REQ": 4,
+                "EMC": 24,
+                "PL": 3,
+                "PLP": 1
+            }
+        },
+        "2016": {
+            "amount": 15,
+            "types": {
+                "EMC": 15
+            }
+        },
+        "2017": {
+            "amount": 10,
+            "types": {
+                "EMC": 6,
+                "PL": 3,
+                "REQ": 1
+            }
+        },
+        "2018": {
+            "amount": 6,
+            "types": {
+                "EMC": 6
+            }
+        },
+        "2019": {
+            "amount": 149,
+            "types": {
+                "REQ": 3,
+                "INC": 8,
+                "PL": 7,
+                "EMC": 129,
+                "RIC": 1,
+                "PLP": 1
+            }
+        },
+        "2020": {
+            "amount": 22,
+            "types": {
+                "PL": 5,
+                "INC": 12,
+                "REQ": 2,
+                "EMC": 1,
+                "RIC": 1,
+                "PLP": 1
+            }
+        },
+        "2021": {
+            "amount": 19,
+            "types": {
+                "DOC": 6,
+                "REQ": 4,
+                "PL": 1,
+                "PEC": 4,
+                "EMO": 1,
+                "RAT": 1,
+                "INC": 1,
+                "ATACN": 1
+            }
+        }
+    }
+}

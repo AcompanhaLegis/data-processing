@@ -1,0 +1,92 @@
+{
+    "proposicoes_by_year": {
+        "2015": {
+            "amount": 42,
+            "types": {
+                "EMC": 11,
+                "PL": 11,
+                "PLP": 2,
+                "EMP": 3,
+                "PRC": 2,
+                "PEC": 1,
+                "PDC": 2,
+                "REQ": 10
+            }
+        },
+        "0": {
+            "amount": 53,
+            "types": {
+                "PPP": 5,
+                "PEP": 5,
+                "RDF": 2,
+                "PRL": 3,
+                "EMP": 31,
+                "ERD": 1,
+                "EMC": 5,
+                "SBT": 1
+            }
+        },
+        "2016": {
+            "amount": 31,
+            "types": {
+                "PL": 1,
+                "REQ": 23,
+                "EMA": 1,
+                "EMP": 3,
+                "EMC": 3
+            }
+        },
+        "2017": {
+            "amount": 40,
+            "types": {
+                "PL": 4,
+                "REQ": 28,
+                "EMP": 4,
+                "EMA": 2,
+                "PFC": 1,
+                "DOC": 1
+            }
+        },
+        "2018": {
+            "amount": 13,
+            "types": {
+                "REQ": 2,
+                "ERD": 2,
+                "EMP": 1,
+                "RCP": 1,
+                "PL": 6,
+                "EMC": 1
+            }
+        },
+        "2019": {
+            "amount": 89,
+            "types": {
+                "PL": 16,
+                "REQ": 9,
+                "PEC": 5,
+                "EMP": 1,
+                "EMC": 53,
+                "EMA": 3,
+                "INC": 1,
+                "ERD": 1
+            }
+        },
+        "2020": {
+            "amount": 47,
+            "types": {
+                "REQ": 39,
+                "PL": 7,
+                "EMC": 1
+            }
+        },
+        "2021": {
+            "amount": 18,
+            "types": {
+                "DOC": 6,
+                "REQ": 4,
+                "PL": 5,
+                "PEC": 3
+            }
+        }
+    }
+}

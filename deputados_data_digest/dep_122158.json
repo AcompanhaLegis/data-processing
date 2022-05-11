@@ -1,0 +1,99 @@
+{
+    "proposicoes_by_year": {
+        "2011": {
+            "amount": 3,
+            "types": {
+                "PL": 3
+            }
+        },
+        "2012": {
+            "amount": 3,
+            "types": {
+                "EMP": 1,
+                "EMC": 2
+            }
+        },
+        "2014": {
+            "amount": 10,
+            "types": {
+                "PL": 6,
+                "PLP": 2,
+                "EMC": 1,
+                "SOR": 1
+            }
+        },
+        "0": {
+            "amount": 42,
+            "types": {
+                "PRL": 5,
+                "PPP": 6,
+                "SBT": 3,
+                "PEP": 7,
+                "PPR": 4,
+                "SSP": 3,
+                "RDF": 4,
+                "ERD": 2,
+                "EMP": 8
+            }
+        },
+        "2015": {
+            "amount": 2,
+            "types": {
+                "PL": 1,
+                "REQ": 1
+            }
+        },
+        "2016": {
+            "amount": 4,
+            "types": {
+                "PL": 2,
+                "PLP": 2
+            }
+        },
+        "2017": {
+            "amount": 23,
+            "types": {
+                "EMC": 20,
+                "REQ": 2,
+                "ERD": 1
+            }
+        },
+        "2018": {
+            "amount": 18,
+            "types": {
+                "REQ": 6,
+                "PL": 4,
+                "PEC": 4,
+                "EMC": 4
+            }
+        },
+        "2019": {
+            "amount": 241,
+            "types": {
+                "REQ": 5,
+                "PLP": 1,
+                "RIC": 6,
+                "INC": 1,
+                "EMC": 221,
+                "PL": 6,
+                "PEC": 1
+            }
+        },
+        "2020": {
+            "amount": 8,
+            "types": {
+                "PLP": 2,
+                "EMC": 1,
+                "REQ": 2,
+                "RIC": 1,
+                "PL": 2
+            }
+        },
+        "2021": {
+            "amount": 2,
+            "types": {
+                "DOC": 2
+            }
+        }
+    }
+}

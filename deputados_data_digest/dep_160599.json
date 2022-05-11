@@ -1,0 +1,96 @@
+{
+    "proposicoes_by_year": {
+        "2011": {
+            "amount": 11,
+            "types": {
+                "PL": 7,
+                "REQ": 3,
+                "INC": 1
+            }
+        },
+        "2012": {
+            "amount": 7,
+            "types": {
+                "INC": 1,
+                "PL": 4,
+                "REQ": 2
+            }
+        },
+        "2013": {
+            "amount": 34,
+            "types": {
+                "INC": 4,
+                "PL": 14,
+                "RIC": 1,
+                "REQ": 11,
+                "EMC": 4
+            }
+        },
+        "0": {
+            "amount": 12,
+            "types": {
+                "PRL": 4,
+                "SBT": 3,
+                "PES": 1,
+                "ATACN": 1,
+                "EMP": 1,
+                "EMC": 2
+            }
+        },
+        "2014": {
+            "amount": 5,
+            "types": {
+                "PL": 3,
+                "INC": 1,
+                "RIC": 1
+            }
+        },
+        "2015": {
+            "amount": 15,
+            "types": {
+                "REQ": 1,
+                "EMC": 14
+            }
+        },
+        "2016": {
+            "amount": 3,
+            "types": {
+                "EMC": 3
+            }
+        },
+        "2017": {
+            "amount": 44,
+            "types": {
+                "EMC": 10,
+                "RIC": 32,
+                "PL": 1,
+                "REQ": 1
+            }
+        },
+        "2019": {
+            "amount": 22,
+            "types": {
+                "REQ": 3,
+                "EMC": 18,
+                "PL": 1
+            }
+        },
+        "2021": {
+            "amount": 27,
+            "types": {
+                "DOC": 6,
+                "PEC": 3,
+                "REQ": 16,
+                "PL": 1,
+                "INC": 1
+            }
+        },
+        "2022": {
+            "amount": 2,
+            "types": {
+                "DOC": 1,
+                "REQ": 1
+            }
+        }
+    }
+}

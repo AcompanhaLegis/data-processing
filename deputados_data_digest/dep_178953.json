@@ -1,0 +1,94 @@
+{
+    "proposicoes_by_year": {
+        "2015": {
+            "amount": 53,
+            "types": {
+                "EMC": 26,
+                "REQ": 11,
+                "PL": 12,
+                "RIC": 1,
+                "PDC": 1,
+                "SOR": 2
+            }
+        },
+        "0": {
+            "amount": 62,
+            "types": {
+                "PRL": 17,
+                "RRL": 1,
+                "VTS": 2,
+                "EMR": 6,
+                "SBT": 4,
+                "RDF": 7,
+                "EMP": 13,
+                "EMC": 9,
+                "PEP": 1,
+                "PRLE": 1,
+                "SSP": 1
+            }
+        },
+        "2016": {
+            "amount": 33,
+            "types": {
+                "REQ": 4,
+                "EMP": 1,
+                "EMC": 27,
+                "PLP": 1
+            }
+        },
+        "2017": {
+            "amount": 82,
+            "types": {
+                "EMC": 71,
+                "REQ": 5,
+                "PL": 2,
+                "PRC": 1,
+                "PFC": 2,
+                "EMP": 1
+            }
+        },
+        "2018": {
+            "amount": 15,
+            "types": {
+                "PDC": 1,
+                "REQ": 5,
+                "PL": 2,
+                "EMC": 7
+            }
+        },
+        "2019": {
+            "amount": 313,
+            "types": {
+                "PL": 21,
+                "EMC": 280,
+                "INC": 2,
+                "REQ": 10
+            }
+        },
+        "2020": {
+            "amount": 14,
+            "types": {
+                "PL": 4,
+                "EMC": 6,
+                "REQ": 4
+            }
+        },
+        "2021": {
+            "amount": 28,
+            "types": {
+                "DOC": 7,
+                "PEC": 3,
+                "PL": 3,
+                "PLP": 1,
+                "REQ": 13,
+                "REC": 1
+            }
+        },
+        "2022": {
+            "amount": 3,
+            "types": {
+                "REQ": 3
+            }
+        }
+    }
+}

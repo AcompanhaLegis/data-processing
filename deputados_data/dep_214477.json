@@ -1,0 +1,31 @@
+{
+    "id": 214477,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/214477",
+    "nome": "RRenato Queiroz",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "RR",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/214477.jpg",
+    "email": "dep.rrenatoqueiroz@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 2263551,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2263551",
+            "siglaTipo": "PRLP",
+            "codTipo": 891,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Abre crédito extraordinário, em favor do Ministério da Saúde, no valor de R$ 4.489.224.000,00, para o fim que especifica"
+        },
+        {
+            "id": 2263553,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2263553",
+            "siglaTipo": "PPP",
+            "codTipo": 192,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Renato Queiroz (MDB-RR), pela Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, que conclui pelo atendimento dos pressupostos constitucionais de relevância, urgência e imprevisibilidade; pela constitucionalidade, juridicidade e técnica legislativa; pela adequação financeira e orçamentária; e, no mérito, pela aprovação Medida Provisória nº 976/2020."
+        }
+    ]
+}

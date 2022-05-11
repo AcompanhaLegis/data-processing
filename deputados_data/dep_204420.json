@@ -1,0 +1,1768 @@
+{
+    "id": 204420,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204420",
+    "nome": "Julian Lemos",
+    "siglaPartido": "UNIÃO",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/38009",
+    "siglaUf": "PB",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204420.jpg",
+    "email": "dep.julianlemos@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 2190752,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2190752",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 246,
+            "ano": 2019,
+            "ementa": "Institui o \"Programa Escola sem Partido\""
+        },
+        {
+            "id": 2192186,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192186",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 34,
+            "ano": 2019,
+            "ementa": "Altera dispositivo da Lei Complementar nº 80, de 12 de janeiro de 1994, que organiza a Defensoria Pública da União, do Distrito Federal e dos Territórios e prescreve normas gerais para sua organização nos Estados, e da Lei nº 1.060, de 5 de fevereiro de 1950, e dá outras providências."
+        },
+        {
+            "id": 2192775,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192775",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 579,
+            "ano": 2019,
+            "ementa": "Requerimento de inclusão na Ordem do Dia da Proposta de Emenda à Constituição nº 372/2017"
+        },
+        {
+            "id": 2192776,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192776",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 88,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Aroeiras no estado da Paraíba."
+        },
+        {
+            "id": 2192777,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192777",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 89,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Desenvolvimento Integral na Primeira Infância-Criança Feliz no Município de Patos no estado da Paraíba."
+        },
+        {
+            "id": 2192778,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192778",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 90,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Uiraúna no estado da Paraíba"
+        },
+        {
+            "id": 2192779,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192779",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 91,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Sertãozinho no estado da Paraíba."
+        },
+        {
+            "id": 2192780,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192780",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 92,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Tavares no estado da Paraíba."
+        },
+        {
+            "id": 2192781,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192781",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 93,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Serra Grande no estado da Paraíba."
+        },
+        {
+            "id": 2192782,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192782",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 94,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de São José de Piranhas no estado da Paraíba."
+        },
+        {
+            "id": 2192783,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192783",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 95,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de São João do Cariri no estado da Paraíba"
+        },
+        {
+            "id": 2192784,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192784",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 96,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Serviços de Proteção Social Básica no Município de Santa Rita no estado da Paraíba."
+        },
+        {
+            "id": 2192785,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192785",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 97,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Santa Luiza no estado da Paraíba."
+        },
+        {
+            "id": 2192786,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192786",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 98,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Aguiar no estado da Paraíba."
+        },
+        {
+            "id": 2192787,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192787",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 99,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Riachão no estado da Paraíba."
+        },
+        {
+            "id": 2192788,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192788",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 100,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Queimadas no estado da Paraíba."
+        },
+        {
+            "id": 2192790,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192790",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 101,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Picuí no estado da Paraíba"
+        },
+        {
+            "id": 2192791,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192791",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 102,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Pedra Lavada no estado da Paraíba."
+        },
+        {
+            "id": 2192792,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192792",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 103,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Paulista no estado da Paraíba"
+        },
+        {
+            "id": 2192793,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192793",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 104,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Nova Floresta no estado da Paraíba"
+        },
+        {
+            "id": 2192794,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192794",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 105,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Mulungu no estado da Paraíba."
+        },
+        {
+            "id": 2192795,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192795",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 106,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Monteiro no estado da Paraíba."
+        },
+        {
+            "id": 2192796,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192796",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 107,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Montadas no estado da Paraíba."
+        },
+        {
+            "id": 2193277,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193277",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1186,
+            "ano": 2019,
+            "ementa": "Altera o art. 80 da Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos da Previdência Social e dá outras providências."
+        },
+        {
+            "id": 2193278,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193278",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 127,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Cabedelo no estado da Paraíba."
+        },
+        {
+            "id": 2193279,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193279",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 128,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Implementação de Politicas de Atenção a Saúde no Município de São Bento no estado da Paraíba."
+        },
+        {
+            "id": 2193280,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193280",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 129,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Promoção da Assistência Farmacêutica e insumos Estratégicos na atenção Básica em Saúde no Município de Campina Grande no estado da Paraíba."
+        },
+        {
+            "id": 2193281,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193281",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 130,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Alagoa Nova no estado da Paraíba."
+        },
+        {
+            "id": 2193282,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193282",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 131,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários Apoio a Politica Nacional de Desenvolvimento Urbano no Município de Sapé no estado da Paraíba."
+        },
+        {
+            "id": 2193283,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193283",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 132,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Barra de Santa Rosa no estado da Paraíba."
+        },
+        {
+            "id": 2193389,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193389",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 138,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação -  FUNDEB no Município de Alagoinha no estado da Paraíba."
+        },
+        {
+            "id": 2193390,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193390",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 139,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Alagoinha no estado da Paraíba."
+        },
+        {
+            "id": 2193527,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193527",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 152,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Guarabira no estado da Paraíba"
+        },
+        {
+            "id": 2193528,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193528",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 153,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Incentivo Financeiro aos Estados Distrito Federal e Municípios para a Vigilância em saúde no Município de Guarabira no estado da Paraíba."
+        },
+        {
+            "id": 2193529,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193529",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 154,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Ibiara no estado da Paraíba."
+        },
+        {
+            "id": 2193530,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193530",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 155,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Censo Escolar da Educação Básica no Município de João Pessoa no estado da Paraíba."
+        },
+        {
+            "id": 2193531,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193531",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 156,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Lucena no estado da Paraíba."
+        },
+        {
+            "id": 2193532,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193532",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 157,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Borborema no estado da Paraíba."
+        },
+        {
+            "id": 2193534,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193534",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 158,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Coremas no estado da Paraíba."
+        },
+        {
+            "id": 2193535,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193535",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 159,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Diamante no estado da Paraíba."
+        },
+        {
+            "id": 2193536,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193536",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 160,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Esperança no estado da Paraíba"
+        },
+        {
+            "id": 2193537,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193537",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 161,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Fagundes no estado da Paraíba."
+        },
+        {
+            "id": 2193538,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193538",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 162,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Sousa no estado da Paraíba"
+        },
+        {
+            "id": 2193539,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193539",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 163,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Baraúna no estado da Paraíba."
+        },
+        {
+            "id": 2193541,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193541",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 164,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Serviços de Proteção Social Básica no Município de Bayeux no estado da Paraíba."
+        },
+        {
+            "id": 2193542,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193542",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 165,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Belém do Brejo do Cruz no estado da Paraíba."
+        },
+        {
+            "id": 2193543,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193543",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 166,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Bernardino Batista no estado da Paraíba."
+        },
+        {
+            "id": 2195399,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195399",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 11,
+            "ano": 2019,
+            "ementa": "Requer o envio de delegação desta comissão, sem ônus para esta casa, para acompanhar a Feira Internacional de Defesa e Segurança, a LAAD Defence & Security, importante feira de defesa e de segurança da América Latina."
+        },
+        {
+            "id": 2195641,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195641",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1793,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 8.069 de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, e dá outras providências."
+        },
+        {
+            "id": 2195643,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195643",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1794,
+            "ano": 2019,
+            "ementa": "Altera o artigo 107 da Lei 8.069 de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente."
+        },
+        {
+            "id": 2195644,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195644",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1795,
+            "ano": 2019,
+            "ementa": "Obriga fabricantes de equipamentos eletrônicos de comunicação e informática que especifica a divulgarem alerta sobre possíveis danos à saúde de crianças, decorrentes de seu uso prolongado e ininterrupto."
+        },
+        {
+            "id": 2195646,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195646",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1796,
+            "ano": 2019,
+            "ementa": "Dispõe sobre garantias dos integrantes dos órgãos responsáveis pela Segurança Pública."
+        },
+        {
+            "id": 2195754,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195754",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 276,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Implementação de Politicas de Atenção a Saúde no Município de Pilõezinhos no estado da Paraíba."
+        },
+        {
+            "id": 2195755,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195755",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 277,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Cajazeiras no estado da Paraíba."
+        },
+        {
+            "id": 2195756,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195756",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 278,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Cacimbas no estado da Paraíba."
+        },
+        {
+            "id": 2195757,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195757",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 279,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Consolidação da Implantação do Sistema Alimentar e Nutricional- SISAN no Município de João Pessoa no estado da Paraíba."
+        },
+        {
+            "id": 2195758,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195758",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 280,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Implantação de Politicas de Atenção a Saúde no Município de Passagem no estado da Paraíba."
+        },
+        {
+            "id": 2195759,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195759",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 281,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Nova Palmeira no estado da Paraíba."
+        },
+        {
+            "id": 2195760,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195760",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 282,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Mari no estado da Paraíba"
+        },
+        {
+            "id": 2195762,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195762",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 283,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Mamanguape no estado da Paraíba."
+        },
+        {
+            "id": 2195764,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195764",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 284,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Implantação de Politicas de Atenção a Saúde no Município de Lucena no estado da Paraíba."
+        },
+        {
+            "id": 2195768,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195768",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 285,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Logradouro no estado da Paraíba."
+        },
+        {
+            "id": 2195769,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195769",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 286,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Pilões no estado da Paraíba."
+        },
+        {
+            "id": 2195770,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195770",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 287,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Piancó no estado da Paraíba."
+        },
+        {
+            "id": 2195772,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195772",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 288,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Patos no estado da Paraíba."
+        },
+        {
+            "id": 2195774,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195774",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 289,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Princesa Isabel no estado da Paraíba."
+        },
+        {
+            "id": 2195776,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195776",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 290,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Santa Inês no estado da Paraíba."
+        },
+        {
+            "id": 2195778,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195778",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 291,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Caraúbas no estado da Paraíba."
+        },
+        {
+            "id": 2195779,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195779",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 292,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Conceição no estado da Paraíba."
+        },
+        {
+            "id": 2195780,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195780",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 293,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Conde no estado da Paraíba."
+        },
+        {
+            "id": 2195782,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195782",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 294,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Coremas no estado da Paraíba."
+        },
+        {
+            "id": 2195783,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195783",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 295,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Cuité no estado da Paraíba."
+        },
+        {
+            "id": 2195785,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195785",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 296,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Esperança no estado da Paraíba"
+        },
+        {
+            "id": 2195786,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195786",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 297,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Fagundes no estado da Paraíba."
+        },
+        {
+            "id": 2195787,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195787",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 298,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Itatuba no estado da Paraíba."
+        },
+        {
+            "id": 2195788,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195788",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 299,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Alagoa Nova no estado da Paraíba."
+        },
+        {
+            "id": 2195789,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195789",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 300,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Implantação e Modernização de Infraestrutura para Esporte Educacional, Recreativo e de Lazer no Município de Areial no estado da Paraíba."
+        },
+        {
+            "id": 2195790,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195790",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 301,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Bananeiras no estado da Paraíba."
+        },
+        {
+            "id": 2195791,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195791",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 302,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Piso de Atenção Básica em Saúde no Município de Barra de São Miguel no estado da Paraíba."
+        },
+        {
+            "id": 2195793,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195793",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 303,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Bayeux no estado da Paraíba."
+        },
+        {
+            "id": 2195794,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195794",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 304,
+            "ano": 2019,
+            "ementa": "Alude a liberação de recursos orçamentários para Atenção a Saúde da População para Procedimentos em Média e Alta Complexidade no Município de Caaporã no estado da Paraíba."
+        },
+        {
+            "id": 2196280,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196280",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 21,
+            "ano": 2019,
+            "ementa": "Requer a realização de audiência pública para discutir a operação \"Luz da Infância\" Convidando o Superintendente da Policia Federal e o Secretario de Operações Integradas do Ministério da Justiça e Segurança Pública, responsáveis pela intervenção, para prestarem esclarecimentos sobre as operações deflagradas pelo Ministério da Justiça com as polícias civis dos estados, onde apuram crimes de abuso e exploração sexual contra crianças e adolescentes na internet."
+        },
+        {
+            "id": 2196805,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196805",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2038,
+            "ano": 2019,
+            "ementa": "Dispõe sobre o Cadastro Federal de Informações para a Proteção da Infância e da Juventude - Cadastro de Pedófilos."
+        },
+        {
+            "id": 2196806,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196806",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2039,
+            "ano": 2019,
+            "ementa": "Dispõe sobre a isenção do imposto de importação na compra de uma única arma de fogo, sem similaridade nacional, para isso pessoal por policiais civis, policiais militares, policiais federais, bombeiros militares, guardas municipais e policiais legislativos da câmara dos deputados e do senado federal."
+        },
+        {
+            "id": 2196807,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196807",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2040,
+            "ano": 2019,
+            "ementa": "Acresce o art. 218-D ao Decreto-Lei nº2. 848, de 7 de setembro de 1940 (Código Penal), a fim de estabelecer responsabilidades àqueles que submetem ou permitem crianças e adolescentes em eventos, inclusive na internet, que contenha nudez, apresente ou simulem atos de lascívia ou sexo explícito e dá outras providências."
+        },
+        {
+            "id": 2197725,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197725",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 35,
+            "ano": 2019,
+            "ementa": "Requer o convite para o Diretor Geral  da Policia Federal e o Secretario de Operações Integradas do Ministério da Justiça e Segurança Pública, responsáveis pela operação \"Luz da Infância\" para prestarem esclarecimentos sobre as operações deflagradas pelo Ministério da Justiça com as polícias civis dos estados, onde apuram crimes de abuso e exploração sexual contra crianças e adolescentes na internet."
+        },
+        {
+            "id": 2199064,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2199064",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2476,
+            "ano": 2019,
+            "ementa": "Altera a redação do inciso VII, do art. 6º, da Lei nº. 10.826/2003, autorizando o porte de arma para os oficiais de justiça."
+        },
+        {
+            "id": 2199065,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2199065",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2477,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 8.989 de 24 de fevereiro de 1995, modificada pela Lei nº 10.754 de 31 de outubro de 2003, para estender a isenção de imposto sobre produtos industrializados - IPI - aos veículos utilizados pelos oficiais de justiça usados em serviço."
+        },
+        {
+            "id": 2199066,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2199066",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2478,
+            "ano": 2019,
+            "ementa": "Designa a obrigatoriedade de psicólogo educacional em todas as instituições de ensino no país."
+        },
+        {
+            "id": 2200218,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200218",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 4,
+            "ano": 2019,
+            "ementa": "Altera as regras do financiamento da seguridade social, por meio da incorporação dos novos §§ 5º e 6º, ao art. 159 da Constituição Federal."
+        },
+        {
+            "id": 2203138,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203138",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 53,
+            "ano": 2019,
+            "ementa": "Requer a realização de Audiência Pública no âmbito da Comissão de Segurança Pública e Combate ao Crime Organizado relacionada ao Decreto nº 9.785 de 07 de maio de 2019, para discutir e deliberar acerca de suas especificidades."
+        },
+        {
+            "id": 2203468,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203468",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2910,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014, que estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil, para estabelecer o direito a policiais federais, policiais rodoviários federais, policiais ferroviários federais, policiais legislativos federais, policiais civis, policiais militares e bombeiros militares de removerem de aplicações de busca na internet resultados de pesquisa que contenham suas informações pessoais."
+        },
+        {
+            "id": 2203499,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203499",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 9,
+            "ano": 2019,
+            "ementa": "Altera o item 3 da alínea \"e\" do inciso I do § 1º do art. 40 da Constituição Federal, alterado pelo art. 1º da PEC nº 6, de 2019 e ao § 6º do art. 4º da PEC nº 6, de 2019."
+        },
+        {
+            "id": 2203549,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203549",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 12,
+            "ano": 2019,
+            "ementa": "Altera dispositivos dos artigos 1º, 4º, 10 e 12 da PEC 06/2019 para dispor sobre o regime previdenciário dos policiais dos órgãos a que se referem o inciso IV do caput do art. 51, o inciso XIII, do caput do art. 52 e os incisos I a IV do caput do art. 144  da Constituição e dá outras providências.\""
+        },
+        {
+            "id": 2203565,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203565",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 13,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências"
+        },
+        {
+            "id": 2203631,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203631",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 14,
+            "ano": 2019,
+            "ementa": "Inclui as Guardas Municipais no rol das forças de segurança pública previstas no Art. 144 da Constituição Federal e lhes assegura tratamento isonômico das regras previdenciárias, com relação as demais categorias da segurança pública."
+        },
+        {
+            "id": 2203690,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203690",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 15,
+            "ano": 2019,
+            "ementa": "Altera o artigo 42 da Constituição Federal para garantir reciprocidade da contagem do tempo de serviço, bem como garantir a simetria no Sistema de Proteção Social dos militares federais; e suprime dispositivos da PEC 06/2019 (art. 1º, inciso XXI do art. 22; §§ 1º, 2º e 3º do art. 42; e art. 17)."
+        },
+        {
+            "id": 2204013,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204013",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2982,
+            "ano": 2019,
+            "ementa": "Dispõe sobre o Piso Salarial do Enfermeiro, do Técnico de Enfermagem, do Auxiliar de Enfermagem e da Parteira."
+        },
+        {
+            "id": 2204015,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204015",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2983,
+            "ano": 2019,
+            "ementa": "Dispõe sobre a obrigatoriedade da divulgação, na contracapa, da Central de Atendimento à Violência, Abuso Sexual contra criança e adolescente (Disque 100), em todos os Livros, alfarrábios, folhetos e similares elaborados pelo Ministério da Educação."
+        },
+        {
+            "id": 2204161,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204161",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3034,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014, que estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil, para estabelecer o direito a Agentes Penitenciários, Agentes Socioeducativos, Guardas Municipais, Oficiais de Justiça, Peritos oficiais de Natureza Criminal, Agentes de Transito, Vigilantes de atividade de Segurança Privada de removerem de aplicações de busca na internet resultados de pesquisa que contenham suas informações pessoais."
+        },
+        {
+            "id": 2204224,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204224",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 17,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204261,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204261",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 19,
+            "ano": 2019,
+            "ementa": "Adiciona ao art. 1º da Proposta de Emenda Constitucional 6, de 2019, o inciso V do § 7º do art. 201 e o artigo 25 para dispor sobre o regime previdenciário dos vigilantes e dá outras providências."
+        },
+        {
+            "id": 2204284,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204284",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 21,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204456,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204456",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 25,
+            "ano": 2019,
+            "ementa": "Acrescenta artigo à PEC 06/2019 para incluir na regra de transição período adicional de contribuição de trinta por cento."
+        },
+        {
+            "id": 2204639,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204639",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 38,
+            "ano": 2019,
+            "ementa": "Acrescente-se ao art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, a seguinte redação:"
+        },
+        {
+            "id": 2205097,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205097",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 65,
+            "ano": 2019,
+            "ementa": "Requer aditamento ao Requerimento nº 21/2019, referente ao pedido de Audiência Pública destinada a discutir a operação \"Luz da Infância\" incluindo convidados para ampliar a discussão sobre o tema abordado, onde apuram crimes de abuso e exploração sexual contra crianças e adolescentes na internet."
+        },
+        {
+            "id": 2205262,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205262",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 65,
+            "ano": 2019,
+            "ementa": "Altera o § 1º do art. 203 da Constituição Federal, para dispor sobre a condição de concessão do BPC ao deficiente e para permitir que outro benefício assistencial já concedido a membro da família não seja computado para fins de cálculo da renda familiar."
+        },
+        {
+            "id": 2205548,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205548",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 78,
+            "ano": 2019,
+            "ementa": "Altera dispositivos dos artigos 1º, 5º, 10 e 12 da PEC 06/2019 para dispor sobre o regime previdenciário dos agentes penitenciários, socioeducativos e guardas municipais e dá outras providências."
+        },
+        {
+            "id": 2205593,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205593",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 87,
+            "ano": 2019,
+            "ementa": "Altera o art. 37 da Constituição tornando ato de improbidade administrativa a concessão ou a requisição de parcelas materialmente remuneratórias, mas formalmente indenizatórias e dá outras providências"
+        },
+        {
+            "id": 2205596,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205596",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 90,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205745,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205745",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 140,
+            "ano": 2019,
+            "ementa": "Art. 1º O § 3º do artigo 28 da Proposta de Emenda Constituição nº 06, de 2019, que passa a vigorar com a seguinte redação:"
+        },
+        {
+            "id": 2205762,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205762",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 145,
+            "ano": 2019,
+            "ementa": "Art. 1º Acrescente-se ao art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, a seguinte redação; Art. 2º Dê-se aos art. 4º, art.  5º, e  art. 17 da Proposta de Emenda à Constituição nº 6, de 2019, a seguinte redação;  Art. 3º  acrescente-se à Proposta de Emenda à Constituição nº 6/2019, a seguinte redação; Art. 4º Suprima-se os números 2 e 3 da letra e inciso I do § 1º do art. 40, alterado pelo art.1º,  e os incisos II e III do § 4º do art. 12 da Proposta de Emenda à Constituição nº 6 de 2019, renumerando os demais."
+        },
+        {
+            "id": 2205764,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205764",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 147,
+            "ano": 2019,
+            "ementa": "APOSENTADORIA ESPECIAL DOS VIGILANTES BRASILEIROS. Modifica o artº 201 da CF/88, assim como os artº 21 e 25 da PEC 06/2019, para dispor sobre as regras de aposentadoria especiais."
+        },
+        {
+            "id": 2205778,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205778",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 151,
+            "ano": 2019,
+            "ementa": "Emenda Modiificativa que altera as condições para a aposentadoria de deficientes físicos, descritas na PEC nº 06/2019."
+        },
+        {
+            "id": 2205789,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205789",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 157,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205858,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205858",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 177,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, define os parâmetros do Sistema de Capitalização Intergeracional - Capitalização Solidária, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205861,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205861",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 178,
+            "ano": 2019,
+            "ementa": "O art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, passa a ter a seguinte redação:"
+        },
+        {
+            "id": 2205959,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205959",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 241,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências"
+        },
+        {
+            "id": 2206404,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206404",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 679,
+            "ano": 2019,
+            "ementa": "Solicito informações à Ministra da agricultura, Sra. Tereza Cristina sobre o cumprimento e aplicação da Lei 13.789 de 2019, sancionada em Janeiro do corrente ano, que dispõe sobre o limite de aquisição de leite no âmbito do Programa de Aquisição de Alimentos (PAA)."
+        },
+        {
+            "id": 2208754,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208754",
+            "siglaTipo": "REQ",
+            "codTipo": 311,
+            "numero": 1792,
+            "ano": 2019,
+            "ementa": "Requer a retirada de tramitação do Requerimento de Informações nº 679, de 2019."
+        },
+        {
+            "id": 2210392,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210392",
+            "siglaTipo": "SLD",
+            "codTipo": 612,
+            "numero": 13,
+            "ano": 2019,
+            "ementa": ""
+        },
+        {
+            "id": 2210393,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210393",
+            "siglaTipo": "SLD",
+            "codTipo": 612,
+            "numero": 14,
+            "ano": 2019,
+            "ementa": ""
+        },
+        {
+            "id": 2210394,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210394",
+            "siglaTipo": "SLD",
+            "codTipo": 612,
+            "numero": 15,
+            "ano": 2019,
+            "ementa": ""
+        },
+        {
+            "id": 2210395,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210395",
+            "siglaTipo": "SLD",
+            "codTipo": 612,
+            "numero": 16,
+            "ano": 2019,
+            "ementa": ""
+        },
+        {
+            "id": 2210396,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210396",
+            "siglaTipo": "SLD",
+            "codTipo": 612,
+            "numero": 17,
+            "ano": 2019,
+            "ementa": ""
+        },
+        {
+            "id": 2210397,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210397",
+            "siglaTipo": "SLD",
+            "codTipo": 612,
+            "numero": 18,
+            "ano": 2019,
+            "ementa": ""
+        },
+        {
+            "id": 2210398,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210398",
+            "siglaTipo": "SLD",
+            "codTipo": 612,
+            "numero": 19,
+            "ano": 2019,
+            "ementa": ""
+        },
+        {
+            "id": 2210940,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210940",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 175,
+            "ano": 2019,
+            "ementa": "DISPÕE SOBRE A ARGUIÇÃO DE INVASÃO DE COMPETÊNCIA LEGISLATIVA E DÁ OUTRAS PROVIDÊNCIAS."
+        },
+        {
+            "id": 2212300,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212300",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2019,
+            "ementa": "Dê-se à Proposta de Emenda à Constituição n° 45, de 2019, a seguinte redação: \"Cria o imposto federal sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira."
+        },
+        {
+            "id": 2215317,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2215317",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4515,
+            "ano": 2019,
+            "ementa": "Ob-roga o art. 166, do Decreto-lei nº 1.001, de 21 de outubro de 1969 - Código Penal Militar."
+        },
+        {
+            "id": 2216364,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2216364",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Julian Lemos (PSL-PB), pela aprovação."
+        },
+        {
+            "id": 2218058,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218058",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 17,
+            "ano": 2019,
+            "ementa": "Altera o Artigo 1º da PEC 45/2019 - do Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2218303,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218303",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4826,
+            "ano": 2019,
+            "ementa": "Altera a redação da Lei nº 7.716, de 5 de janeiro de 1989, para criminalizar o comunismo."
+        },
+        {
+            "id": 2218561,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218561",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 20,
+            "ano": 2019,
+            "ementa": "COMISSÃO ESPECIAL DESTINADA A PROFERIR PARECER À PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 45-A, DE 2019, DO SR. BALEIA ROSSI E OUTROS, QUE \"ALTERA O SISTEMA TRIBUTÁRIO NACIONAL E DÁ OUTRAS PROVIDÊNCIAS\" PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 45-A, DE 2019 Altera o Sistema Tributário Nacional e dá outras providências.  EMENDA SUBSTITUTIVA Nº Dê-se à Proposta de Emenda à Constituição n° 45, de 2019, a seguinte redação: \"Cria o imposto único nacional sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira."
+        },
+        {
+            "id": 2218835,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218835",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 27,
+            "ano": 2019,
+            "ementa": "Insere dispositivos para prever a celebração de convênios entre os estados e o Distrito Federal sobre isenções do imposto sobre operações relativas à circulação de mercadorias."
+        },
+        {
+            "id": 2219062,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219062",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 47,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional, para acrescer o artigo 152-A à Constituição Federal e modificar o inciso I do parágrafo único do art. 115 do Ato das Disposições Constitucionais Transitórias."
+        },
+        {
+            "id": 2219063,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219063",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 48,
+            "ano": 2019,
+            "ementa": "Altera os artigos 155 e 156 da Constituição Federal referentes ao Sistema Tributário Nacional."
+        },
+        {
+            "id": 2219380,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219380",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4928,
+            "ano": 2019,
+            "ementa": "Altera a Lei no 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, para aprimorar o combate à produção, venda e distribuição de pornografia infantil, bem como criminalizar a aquisição e a posse de tal material e outras condutas relacionadas à pedofilia na internet."
+        },
+        {
+            "id": 2220497,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2220497",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5084,
+            "ano": 2019,
+            "ementa": "Acrescenta o inciso IX ao artigo 1º, da Lei n.º 8.072, de 25 de julho de 1990, para tornar a corrupção um crime hediondo."
+        },
+        {
+            "id": 2220636,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2220636",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 142,
+            "ano": 2019,
+            "ementa": "Requer a inclusão de palestrante/debatedor relacionado à audiência pública para tratar acerca do alto índice de transtornos mentais que são gatilho para o suicídio que acometem policiais e agentes no País, na data de 30/10, às 16h00 nesta Comissão."
+        },
+        {
+            "id": 2220700,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2220700",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 143,
+            "ano": 2019,
+            "ementa": "Requer envio de Moção de Apoio aos parlamentares que solicitaram a retirada de seus nomes do Requerimento de Criação de uma Comissão Parlamentar de Inquérito -  CPI   contra o Excelentíssimo Senhor Ministro da Justiça e Segurança Pública, Sérgio Moro e os Membros da Procuradoria da República do Estado do Paraná."
+        },
+        {
+            "id": 2223880,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2223880",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 179,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências. EMENDA Nº (Do Sr. Deputado Capitão Alberto Neto) Dá nova redação ao art. 1º da Proposta de Emenda Constitucional nº 45, de 2019: \"Art. 1º.......................................................................:......... ............................................................................................ Art. 152-A............................................................................. ............................................................................................. § 3º ...................................................................................... I - incidirá a alíquota do Estado ou Distrito Federal e do Município de origem; II - o imposto pertencerá ao Estado ou Distrito Federal e ao Município de origem. ..................................................................................\" (NR)."
+        },
+        {
+            "id": 2223887,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2223887",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 180,
+            "ano": 2019,
+            "ementa": "Garantir créditos tributários do IBS nas operações com produtos regionais da Amazônia, nos termos do Decreto-Lei nº 1.435, de 16 de dezembro de 1975, de forma a salvaguardar a produção e industrialização com o uso de matérias primas regionais da Amazônia."
+        },
+        {
+            "id": 2224436,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224436",
+            "siglaTipo": "SOR",
+            "codTipo": 611,
+            "numero": 19,
+            "ano": 2019,
+            "ementa": "Desenvolvimento de Políticas de Segurança Pública, Prevenção, e Enfrentamento à Criminalidade (AÇÃO 21BM; PROG. 5016; META 10) MJSP."
+        },
+        {
+            "id": 2247062,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2247062",
+            "siglaTipo": "PPP",
+            "codTipo": 192,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Julian Lemos (PSL-PB), pela Comissão de Defesa do Consumidor, que conclui pela aprovação da matéria, na forma do Substitutivo apresentado."
+        },
+        {
+            "id": 2247071,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2247071",
+            "siglaTipo": "PPP",
+            "codTipo": 192,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Julian Lemos (PSL-PB), pela Comissão de Finanças e Tributação, que conclui pela adequação financeira e orçamentária; e, no mérito, pela aprovação da matéria, na forma do Substitutivo adotado pelo Relator da Comissão de Defesa do Consumidor."
+        },
+        {
+            "id": 2247073,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2247073",
+            "siglaTipo": "PPP",
+            "codTipo": 192,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Julian Lemos (PSL-PB), pela Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e técnica legislativa."
+        },
+        {
+            "id": 2247083,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2247083",
+            "siglaTipo": "PEP",
+            "codTipo": 442,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer às Emendas de Plenário proferido pelo Relator, Dep. Julian Lemos (PSL-PB), pela Comissão de Defesa do Consumidor, que conclui pela rejeição."
+        },
+        {
+            "id": 2247084,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2247084",
+            "siglaTipo": "PEP",
+            "codTipo": 442,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer às Emendas de Plenário proferido pelo Relator, Dep. Julian Lemos (PSL-PB), pela Comissão de Finanças e Tributação, que conclui pela adequação financeira e orçamentária; e, no mérito, pela rejeição."
+        },
+        {
+            "id": 2247086,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2247086",
+            "siglaTipo": "PEP",
+            "codTipo": 442,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer às Emendas de Plenário proferido pelo Relator, Dep. Julian Lemos (PSL-PB), pela Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e técnica legislativa."
+        },
+        {
+            "id": 2247089,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2247089",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2253052,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2253052",
+            "siglaTipo": "RCP",
+            "codTipo": 143,
+            "numero": 1,
+            "ano": 2020,
+            "ementa": "Requer a Vossa Excelência, nos termos do § 3º do art. 58 da Constituição Federal e dos arts. 35, 36 e 37, do Regimento Interno da Câmara dos Deputados, a criação de Comissão Parlamentar de Inquérito, com a finalidade de investigar crimes de abuso e exploração sexual contra crianças e adolescentes na internet em apoio à operação \"Luz da Infância\"."
+        },
+        {
+            "id": 2253804,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2253804",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 1295,
+            "ano": 2020,
+            "ementa": "Requer Urgência para apreciação do PL 2.215/2020  que  \"Altera a Lei nº 9.074, de 7 de julho de 1995 para estabelecer o Sistema de Compensação de Energia Elétrica (SCEE)\"."
+        },
+        {
+            "id": 2254893,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254893",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 1,
+            "ano": 2020,
+            "ementa": "Os Deputados  do PSL, solicitam apoiamento de assinatura para estabelecer o Deputado Felipe Francischini para ser indicado a Líder do PSL."
+        },
+        {
+            "id": 2254897,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254897",
+            "siglaTipo": "PRLP",
+            "codTipo": 891,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Suspende retroativamente e impede novas inscrições nos cadastros de empresas de análises e informações para decisões de crédito enquanto vigente a calamidade pública decorrente da pandemia da Covid-19."
+        },
+        {
+            "id": 2254901,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254901",
+            "siglaTipo": "PPP",
+            "codTipo": 192,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Julian Lemos (PSL-PB), pela Comissão de Defesa do Consumidor, que conclui pela rejeição do Substitutivo do Senado Federal ao PL nº 675-A, de 2020."
+        },
+        {
+            "id": 2254903,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254903",
+            "siglaTipo": "PPP",
+            "codTipo": 192,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Julian Lemos (PSL-PB), pela Comissão de Finanças e Tributação, que conclui pela pela incompatibilidade financeira e orçamentária; e, no mérito, pela rejeição do Substitutivo do Senado Federal ao PL nº 675-A, de 2020."
+        },
+        {
+            "id": 2254904,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254904",
+            "siglaTipo": "PPP",
+            "codTipo": 192,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer proferido em Plenário pelo Relator, Dep. Julian Lemos (PSL-PB), pela Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Substitutivo do Senado Federal ao Projeto de Lei nº 675-A, de 2020, com exceção de seu art. 8º."
+        },
+        {
+            "id": 2255221,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2255221",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3329,
+            "ano": 2020,
+            "ementa": "Assegura a garantia e suspende o\ndecurso dos prazos de garantia\ndos bens e serviços adquiridos sob\na égide da Lei n. 8.078 (Código de\nDefesa do Consumidor), durante a\npandemia do (COVID-19) e estado\nde emergência, e dá outras\nprovidências."
+        },
+        {
+            "id": 2255223,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2255223",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3331,
+            "ano": 2020,
+            "ementa": "Reduz temporariamente os valores das anuidades dos conselhos profissionais."
+        },
+        {
+            "id": 2263408,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2263408",
+            "siglaTipo": "DOC",
+            "codTipo": 863,
+            "numero": 6,
+            "ano": 2020,
+            "ementa": "Constitui o Bloco PSL/PROS/PTB"
+        },
+        {
+            "id": 2267510,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2267510",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "ltera a Lei no 8.906, de 4 de julho de 1994, que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil – OAB, para incluir disposições sobre a atividade privativa de advogado, a fiscalização, a competência, as prerrogativas, as sociedades de advogados, o advogado associado, os honorários advocatícios e os limites de impedimentos ao exercício da advocacia."
+        },
+        {
+            "id": 2267511,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2267511",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 4,
+            "ano": 0,
+            "ementa": "Altera a Lei no 8.906, de 4 de julho de 1994, que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil – OAB, para incluir disposições sobre a atividade privativa de advogado, a fiscalização, a competência, as prerrogativas, as sociedades de advogados, o advogado associado, os honorários advocatícios e os limites de impedimentos ao exercício da advocacia."
+        },
+        {
+            "id": 2267512,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2267512",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 5,
+            "ano": 0,
+            "ementa": "Altera a Lei no 8.906, de 4 de julho de 1994, que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil – OAB, para incluir disposições sobre a atividade privativa de advogado, a fiscalização, a competência, as prerrogativas, as sociedades de advogados, o advogado associado, os honorários advocatícios e os limites de impedimentos ao exercício da advocacia."
+        },
+        {
+            "id": 2267513,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2267513",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 6,
+            "ano": 0,
+            "ementa": "Altera a Lei no 8.906, de 4 de julho de 1994, que dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil – OAB, para incluir disposições sobre a atividade privativa de advogado, a fiscalização, a competência, as prerrogativas, as sociedades de advogados, o advogado associado, os honorários advocatícios e os limites de impedimentos ao exercício da advocacia."
+        },
+        {
+            "id": 2268630,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268630",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 29,
+            "ano": 2021,
+            "ementa": "Comunica líder do Bloco Parlamentar PP, PL, PSD, REPUBLICANOS, PROS, PODEMOS, PSC, AVANTE, PATRIOTA."
+        },
+        {
+            "id": 2270800,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270800",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 3,
+            "ano": 2021,
+            "ementa": "Altera os arts. 14, 27, 53, 102 e 105 da Constituição Federal, para dispor sobre as prerrogativas parlamentares e dá outras providências."
+        },
+        {
+            "id": 2270969,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270969",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 8,
+            "ano": 2021,
+            "ementa": "ATA DA REUNIÃO DA BANCADA DA PARAÍBA, REALIZADA EM 24 DE FEVEREIRO DE 2021"
+        },
+        {
+            "id": 2271122,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271122",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 40,
+            "ano": 2021,
+            "ementa": "ATA DA REUNIÃO DA BANCADA DA PARAÍBA,\nREALIZADA EM 24 DE FEVEREIRO DE 2021"
+        },
+        {
+            "id": 2273569,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273569",
+            "siglaTipo": "ATACN",
+            "codTipo": 897,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "ATA DA REUNIÃO DA BANCADA DA PARAÍBA,\nREALIZADA EM 10 DE MARÇO DE 2021\n(Remanejamento entre Emendas)"
+        },
+        {
+            "id": 2277090,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277090",
+            "siglaTipo": "RDF",
+            "codTipo": 197,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Suspende retroativamente e impede novas inscrições nos cadastros de empresas de análises e informações para decisões de crédito enquanto vigente a calamidade pública decorrente da pandemia da Covid-19."
+        },
+        {
+            "id": 2277458,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277458",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Altera a Lei nº 11.901, de 12 de janeiro de 2009, para permitir a atuação do Bombeiro Civil em atividade distinta do combate ao fogo em situações de emergência."
+        },
+        {
+            "id": 2277459,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277459",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Altera a Lei nº 11.901, de 12 de janeiro de 2009, para permitir a atuação do Bombeiro Civil em atividade distinta do combate ao fogo em situações de emergência."
+        },
+        {
+            "id": 2278250,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278250",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 775,
+            "ano": 2021,
+            "ementa": "Requer registro da Frente Parlamentar Mista - Brasil Competitivo."
+        },
+        {
+            "id": 2282791,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2282791",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 10,
+            "ano": 2021,
+            "ementa": "Altera o inciso IV, § 2º, do art. 4º da Emenda Constitucional Nº 109, de 2021."
+        },
+        {
+            "id": 2286770,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2286770",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a PEC 32/2020( reforma administrativa) para criar o Regime Jurídico Peculiar dos Policiais Civis da União e do Distrito Federal, estendendo esse regime aos Estados e Municípios, para os seus \"policiais\".  As categorias englobadas são:  UNIÃO: Policiais Federais, Policiais Rodoviários Federais, Policiais Penais Federais; ESTADOS E DF: Policiais Civis Distritais e Estaduais, Policiais e Integrantes da Polícia Científica Estadual, Policiais Penais Estaduais, Agentes de Segurança Socioeducativos Estaduais, Agentes de Trânsito Estaduais; MUNICÍPIOS: Guardas Municipais e Agentes de Trânsito Municipais"
+        },
+        {
+            "id": 2288479,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288479",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Dispõe sobre a inclusão do Estatuto da Magistratura na reforma administrativa"
+        },
+        {
+            "id": 2288606,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288606",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Dispõe sobre o regime e benefícios de servidores"
+        },
+        {
+            "id": 2288615,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288615",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 4,
+            "ano": 0,
+            "ementa": "Dispõe sobre férias dos agentes públicos e extingue licença, férias ou afastamento em decorrência de tempo de serviço, previstos em legislação federal, estadual ou municipal."
+        },
+        {
+            "id": 2290272,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290272",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 49,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa"
+        },
+        {
+            "id": 2290383,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290383",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 59,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2292364,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292364",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2699,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a criminalização da prática de HATERS na rede mundial de computadores e dá outras providências"
+        },
+        {
+            "id": 2293881,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293881",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 1641,
+            "ano": 2021,
+            "ementa": "Requer regime de urgência para apreciação do PL 2699/2021. Dispõe sobre a criminalização da prática de HATERS na rede mundial de computadores e dá outras providências\r."
+        },
+        {
+            "id": 2293985,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293985",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 1649,
+            "ano": 2021,
+            "ementa": "Requer dispensa do interstício regimental entre o primeiro e o segundo turno de deliberação da Proposta de Emenda à Constituição nº 125, de 2011."
+        },
+        {
+            "id": 2294240,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2294240",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 1655,
+            "ano": 2021,
+            "ementa": "Requer coautoria do Projeto de Lei 2699/2021."
+        },
+        {
+            "id": 2294640,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2294640",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 1677,
+            "ano": 2021,
+            "ementa": "Requer coautoria do Projeto de Lei 2699/2021."
+        },
+        {
+            "id": 2295414,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2295414",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 107,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1061/2021"
+        },
+        {
+            "id": 2295415,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2295415",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 108,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1061/2021"
+        },
+        {
+            "id": 2303718,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303718",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Julian Lemos (PSL-PB), pela aprovação deste, do PL 554/2019, do PL 942/2019, e do PL 5040/2019, apensados, com substitutivo, pela aprovação parcial do PL 10010/2018, e do PL 6193/2019, apensados, e pela rejeição do PL 10140/2018, apensado."
+        },
+        {
+            "id": 2303719,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303719",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Julian Lemos (PSL-PB), pela aprovação deste, do PL 5938/2019, do PL 3957/2020, e do PL 2186/2021, apensados, com substitutivo."
+        },
+        {
+            "id": 2303720,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303720",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Dispõe sobre a retirada de invasores de propriedade privada."
+        },
+        {
+            "id": 2303721,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303721",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa, Minha Vida, para tratar da reserva de unidades habitacionais para policiais civis, policiais militares, policiais federais, guardas civis e agentes penitenciários e da isenção da necessidade de atendimento dos critérios de renda para os profissionais e unidades habitacionais que especifica."
+        },
+        {
+            "id": 2305082,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305082",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 2274,
+            "ano": 2021,
+            "ementa": "Requer nos termos regimentais o registro da   Frente Parlamentar Mista em Defesa das Cidades Históricas - Patrimônio Cultural Brasileiro."
+        },
+        {
+            "id": 2314698,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314698",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 97,
+            "ano": 2022,
+            "ementa": "As Deputadas e os Deputados Federais abaixo assinados comunicam a indicação do Deputado ELMAR NASCIMENTO para Líder do União Brasil, a partir desta data, conforme o § 2º do art. 9º do Regimento Interno da Câmara dos Deputados."
+        },
+        {
+            "id": 2318583,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318583",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 394,
+            "ano": 2022,
+            "ementa": "Requer a dispensa de interstício entre o 1º e o 2º turno da PEC 517/2010."
+        }
+    ]
+}

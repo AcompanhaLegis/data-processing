@@ -1,0 +1,113 @@
+{
+    "proposicoes_by_year": {
+        "0": {
+            "amount": 30,
+            "types": {
+                "PRL": 17,
+                "EMR": 5,
+                "PPP": 1,
+                "SBT": 3,
+                "PSS": 1,
+                "EMP": 3
+            }
+        },
+        "2011": {
+            "amount": 9,
+            "types": {
+                "REQ": 6,
+                "PL": 3
+            }
+        },
+        "2012": {
+            "amount": 16,
+            "types": {
+                "PL": 6,
+                "RIC": 2,
+                "EMP": 1,
+                "EMC": 2,
+                "REQ": 5
+            }
+        },
+        "2013": {
+            "amount": 22,
+            "types": {
+                "REQ": 12,
+                "EMC": 7,
+                "PL": 3
+            }
+        },
+        "2014": {
+            "amount": 12,
+            "types": {
+                "PL": 5,
+                "REQ": 4,
+                "EMC": 1,
+                "PDC": 1,
+                "PLP": 1
+            }
+        },
+        "2015": {
+            "amount": 27,
+            "types": {
+                "REQ": 11,
+                "PL": 8,
+                "EMC": 7,
+                "RIC": 1
+            }
+        },
+        "2016": {
+            "amount": 9,
+            "types": {
+                "PL": 2,
+                "EMC": 3,
+                "REQ": 4
+            }
+        },
+        "2017": {
+            "amount": 11,
+            "types": {
+                "PL": 5,
+                "PRC": 1,
+                "REQ": 2,
+                "INC": 3
+            }
+        },
+        "2018": {
+            "amount": 14,
+            "types": {
+                "PLP": 1,
+                "REC": 1,
+                "RIC": 1,
+                "PL": 6,
+                "REQ": 2,
+                "SOR": 2,
+                "EMC": 1
+            }
+        },
+        "2019": {
+            "amount": 28,
+            "types": {
+                "PL": 2,
+                "RIC": 2,
+                "REQ": 7,
+                "EMC": 17
+            }
+        },
+        "2020": {
+            "amount": 7,
+            "types": {
+                "PL": 6,
+                "EMC": 1
+            }
+        },
+        "2021": {
+            "amount": 14,
+            "types": {
+                "DOC": 5,
+                "REQ": 4,
+                "PL": 4,
+                "INC": 1
+            }
+        }
+    }
+}

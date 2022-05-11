@@ -1,0 +1,37 @@
+{
+    "proposicoes_by_year": {
+        "2019": {
+            "amount": 292,
+            "types": {
+                "REQ": 25,
+                "PLP": 1,
+                "PFC": 1,
+                "PL": 7,
+                "EMP": 4,
+                "PDL": 1,
+                "EMC": 251,
+                "RIC": 2
+            }
+        },
+        "0": {
+            "amount": 9,
+            "types": {
+                "PRL": 4,
+                "RLP": 1,
+                "SBT": 1,
+                "VTS": 2,
+                "EMP": 1
+            }
+        },
+        "2020": {
+            "amount": 54,
+            "types": {
+                "REQ": 18,
+                "PL": 12,
+                "EMC": 17,
+                "RIC": 5,
+                "PDL": 2
+            }
+        }
+    }
+}

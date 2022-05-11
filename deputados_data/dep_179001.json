@@ -1,0 +1,436 @@
+{
+    "id": 179001,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/179001",
+    "nome": "Márcio Biolchi",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "RS",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/179001.jpg",
+    "email": "dep.marciobiolchi@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 2198578,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198578",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 12,
+            "ano": 0,
+            "ementa": "Voto em Separado"
+        },
+        {
+            "id": 2204310,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204310",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 23,
+            "ano": 2019,
+            "ementa": "Inclui os servidores da Perícia Oficial de Natureza Criminal. emenda aditiva"
+        },
+        {
+            "id": 2205262,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205262",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 65,
+            "ano": 2019,
+            "ementa": "Altera o § 1º do art. 203 da Constituição Federal, para dispor sobre a condição de concessão do BPC ao deficiente e para permitir que outro benefício assistencial já concedido a membro da família não seja computado para fins de cálculo da renda familiar."
+        },
+        {
+            "id": 2205611,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205611",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 95,
+            "ano": 2019,
+            "ementa": "Garante contagem de tempo de contribuição aos ACS e ACE, no período de 1º de janeiro de 1991 a 31 de dezembro de 2006."
+        },
+        {
+            "id": 2205734,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205734",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 133,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205792,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205792",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 158,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205899,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205899",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 195,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências"
+        },
+        {
+            "id": 2205907,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205907",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 197,
+            "ano": 2019,
+            "ementa": "Com o objetivo de adotar uma regra de transição unificada para servidores públicos civis do regime próprio de previdência social e segurados do regime geral de previdência social, modifique-se a redação do inciso V do art. 3º e o inciso II do art. 18, ambos da Proposta de Emenda à Constituição (PEC) nº 6, de 2019, e, em decorrência, suprimam-se os §§ 2º e 3º do art. 3º e os §§ 1º e 2º do art. 18 da referida PEC."
+        },
+        {
+            "id": 2207686,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207686",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 895,
+            "ano": 2019,
+            "ementa": "Sugere à Casa Civil que insira a primeira infância como agenda prioritária e programa de abrangência intersetorial na proposta de Plano Plurianual 2020-2023."
+        },
+        {
+            "id": 2217117,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2217117",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Márcio Biolchi (MDB-RS), pela constitucionalidade, juridicidade e técnica legislativa."
+        },
+        {
+            "id": 2218899,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218899",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 29,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 2218993,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218993",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 33,
+            "ano": 2019,
+            "ementa": "O objetivo desta Emenda é propor solução para evitar que a Reforma Tributária aumente os impostos sobre as mensalidades escolares de 8,65% para 25%, impactando negativamente 15 milhões de estudantes de 10 milhões de famílias brasileiras, dificultando o acesso a uma educação de melhor qualidade. Pelo contrário, coloca a Educação como uma prioridade brasileira ao promover a mesma isenção atribuída aos produtos exportados, até porque as famílias que pagam mensalidades desoneram o Estado Brasileiro."
+        },
+        {
+            "id": 2218994,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218994",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 34,
+            "ano": 2019,
+            "ementa": "O objetivo desta Emenda é que o novo imposto sobre bens e serviços não incida sobre serviços estratégicos essências, como a educações básica, superior e profissional, pois o Educação Particular desonera o Estado Brasileiro do oferecer serviços que seriam de sua responsabilidade a 15 milhões de estudantes. Ao reduzir o custo da mensalidade, mais pais de alunos vão realizar o sonho de uma escola particular para seus filhos e ajudar a reduzir o custo do Estado Brasileiro."
+        },
+        {
+            "id": 2218995,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218995",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 35,
+            "ano": 2019,
+            "ementa": "A geração de empregos precisa ser a principal prioridade do país na reforma tributária, num país com mais de 30 milhões de desempregados e subempregados. A PEC 45/2019 aumenta impostos sobre os setores de serviços (70% dos empregos) e para compensar é imprescindível desonerar a folha salarial, abrindo a possibilidade do uso da movimentação financeira. Além de equilibrar a carga, a medida destravará o emprego no país."
+        },
+        {
+            "id": 2218996,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218996",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 36,
+            "ano": 2019,
+            "ementa": "O objetivo desta Emenda é que evitar forte aumento do imposto sobre as mensalidades escolares, que passariam de 8,65 para 25%, o que prejudicaria mais de 15 milhões de estudantes. Aos estabelecer que a alíquota da Educação não pode ser maior que 20% da alíquota que incide sobre bens, encontra-se uma solução justa e equilibrada."
+        },
+        {
+            "id": 2222885,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222885",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2019,
+            "ementa": "Cria a modalidade de doação direcionada de recursos da União para os entes da Federação cujos recursos poderão vir de emendas de bancada."
+        },
+        {
+            "id": 2226368,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2226368",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Márcio Biolchi (MDB-RS), pela constitucionalidade, juridicidade e técnica legislativa."
+        },
+        {
+            "id": 2234525,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2234525",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Márcio Biolchi (MDB-RS), pela constitucionalidade, juridicidade e técnica legislativa."
+        },
+        {
+            "id": 2242520,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2242520",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1327,
+            "ano": 2020,
+            "ementa": "Altera a Lei n° 13.885, de 17 de outubro de 2019, para autorizar a destinação, por Estados, Distrito Federal e Municípios, de valores arrecadados com os leilões dos volumes excedentes da cessão onerosa à aquisição de equipamentos hospitalares para o combate ao coronavírus (Covid-19)."
+        },
+        {
+            "id": 2245715,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2245715",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 555,
+            "ano": 2020,
+            "ementa": "Dá nova redação à MPV 927/2020"
+        },
+        {
+            "id": 2260434,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260434",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 12,
+            "ano": 0,
+            "ementa": "Altera o § 7º do art. 6º da Lei nº 11.101, de 9 de fevereiro de 2005, que “Regula a recuperação judicial, a extrajudicial e a falência do empresário e da sociedade empresária”, para submeter todos os créditos tributários à recuperação judicial."
+        },
+        {
+            "id": 2260999,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260999",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 2255,
+            "ano": 2020,
+            "ementa": "Requer Regime de Urgência para a apreciação do Projeto de Lei n 1378/19."
+        },
+        {
+            "id": 2268593,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268593",
+            "siglaTipo": "DOC",
+            "codTipo": 863,
+            "numero": 19,
+            "ano": 2021,
+            "ementa": "Os Deputados da Bancada do Partido MDB, consoante o Art. 9º c/c Art. 12 do Regimento Interno da Câmara dos Deputados, deliberam constituir o Bloco Parlamentar ."
+        },
+        {
+            "id": 2268600,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268600",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 24,
+            "ano": 2021,
+            "ementa": "Indicação do Deputado Isnaldo Bulhôes para exercer a função de Líder da Bancada do MDB."
+        },
+        {
+            "id": 2269477,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269477",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 280,
+            "ano": 2021,
+            "ementa": "Denomina “Elevada General Geraldo Antônio Miotto” o trecho rodoviário da BR-116, compreendido em Pelotas, que dá acesso ao Arroio do Padre, no Estado do Rio Grande do Sul."
+        },
+        {
+            "id": 2270800,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270800",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 3,
+            "ano": 2021,
+            "ementa": "Altera os arts. 14, 27, 53, 102 e 105 da Constituição Federal, para dispor sobre as prerrogativas parlamentares e dá outras providências."
+        },
+        {
+            "id": 2270934,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270934",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera os arts. 14, 27, 53, 102 e 105 da Constituição Federal, para dispor sobre as prerrogativas parlamentares e dá outras providências."
+        },
+        {
+            "id": 2270939,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270939",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 303,
+            "ano": 2021,
+            "ementa": "Requer, com base no Regimento Interno da Câmara dos Deputados, a inclusão de coautoria ao PL 280/2021."
+        },
+        {
+            "id": 2271006,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271006",
+            "siglaTipo": "DOC",
+            "codTipo": 864,
+            "numero": 61,
+            "ano": 2021,
+            "ementa": "Adesão do MOVIMENTO DEMOCRÁTICO BRASILEIRO -\nMDB ao Bloco Parlamentar composto pelas seguintes lideranças partidárias: PSL, PL, PP,\nPSD, REPUBLICANOS, PTB, PROS, PODE, PSC, AVANTE, PATRIOTA."
+        },
+        {
+            "id": 2271031,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271031",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 12,
+            "ano": 2021,
+            "ementa": "PROJETO DE LEI ORÇAMENTÁRIA PARA 2021 - PL nº 28/2020-CN\nATA DA REUNIÃO DA BANCADA DO ESTADO DO RIO GRANDE DO SUL – BANCADA GAÚCHA - REALIZADA EM 23 DE FEVEREIRO DE 2021 PARA LEIESCOLHA DAS EMENDAS AO OGU DE 2021"
+        },
+        {
+            "id": 2271704,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271704",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 45,
+            "ano": 2021,
+            "ementa": "ATA DA REUNIÃO DA BANCADA DO ESTADO DO RIO GRANDE DO SUL – BANCADA GAÚCHA - REALIZADA EM 01 DE MARÇO DE  2021  ELEIÇÃO DA COORDENAÇÃO."
+        },
+        {
+            "id": 2273544,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273544",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 423,
+            "ano": 2021,
+            "ementa": "Requer a criação da Frente Parlamentar em Defesa das Energias Renováveis - FER."
+        },
+        {
+            "id": 2275975,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275975",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 442,
+            "ano": 2021,
+            "ementa": "Sugere a prorrogação do prazo para a apresentação da Declaração de Ajuste Anual do IRPF do ano-calendário de 2020."
+        },
+        {
+            "id": 2278250,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278250",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 775,
+            "ano": 2021,
+            "ementa": "Requer registro da Frente Parlamentar Mista - Brasil Competitivo."
+        },
+        {
+            "id": 2279673,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279673",
+            "siglaTipo": "DOC",
+            "codTipo": 865,
+            "numero": 196,
+            "ano": 2021,
+            "ementa": "Desligamento da Bancada do Movimento Democrático Brasileiro – MDB, do Bloco PSL, PL, PP..."
+        },
+        {
+            "id": 2282791,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2282791",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 10,
+            "ano": 2021,
+            "ementa": "Altera o inciso IV, § 2º, do art. 4º da Emenda Constitucional Nº 109, de 2021."
+        },
+        {
+            "id": 2288479,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288479",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Dispõe sobre a inclusão do Estatuto da Magistratura na reforma administrativa"
+        },
+        {
+            "id": 2288606,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288606",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Dispõe sobre o regime e benefícios de servidores"
+        },
+        {
+            "id": 2288615,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288615",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 4,
+            "ano": 0,
+            "ementa": "Dispõe sobre férias dos agentes públicos e extingue licença, férias ou afastamento em decorrência de tempo de serviço, previstos em legislação federal, estadual ou municipal."
+        },
+        {
+            "id": 2289333,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289333",
+            "siglaTipo": "DOC",
+            "codTipo": 863,
+            "numero": 312,
+            "ano": 2021,
+            "ementa": "Formação do Bloco Parlamentar  MDB – SOLIDARIEDADE - CIDADANIA ."
+        },
+        {
+            "id": 2290398,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290398",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 61,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2291065,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291065",
+            "siglaTipo": "ATACN",
+            "codTipo": 897,
+            "numero": 18,
+            "ano": 2021,
+            "ementa": "ATA PARA ESCOLHAS DE EMENDAS DA BANCADA DO RS."
+        },
+        {
+            "id": 2299061,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299061",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 1160,
+            "ano": 2021,
+            "ementa": "Requer informações ao Ministério da Economia sobre os incentivos fiscais concedidos por meio das Leis nº 9.440, de 14 de março de 1997 e nº 9.826, de 23 de agosto de 1999."
+        },
+        {
+            "id": 2299653,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299653",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 1867,
+            "ano": 2021,
+            "ementa": "Requer o registro da Frente Parlamentar em Apoio ao Produtor de Leite perante a Mesa da Câmara dos Deputados."
+        },
+        {
+            "id": 2300330,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2300330",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera os art. 100, art. 109, art. 160, art. 166 e art. 167 da Constituição e acrescenta os art. 80-A e art. 101-A no Ato das Disposições Constitucionais Transitórias, e dá outras providências."
+        },
+        {
+            "id": 2301088,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2301088",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 32,
+            "ano": 2021,
+            "ementa": "Altera a Constituição Federal para elevar para setenta anos a idade máxima para a escolha e nomeação de membros do Supremo Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais, do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho e do Tribunal de Contas da União. NOVA EMENTA: Altera a Constituição Federal para elevar para setenta anos a idade máxima para a escolha e nomeação de membros do Supremo Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais, do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho, do Tribunal de Contas da União e dos Ministros civis do Superior Tribunal Militar."
+        },
+        {
+            "id": 2311078,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311078",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 31,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1069/2021"
+        }
+    ]
+}

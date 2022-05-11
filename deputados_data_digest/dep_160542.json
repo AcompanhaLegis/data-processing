@@ -1,0 +1,58 @@
+{
+    "proposicoes_by_year": {
+        "2011": {
+            "amount": 33,
+            "types": {
+                "REQ": 13,
+                "PL": 10,
+                "EMP": 8,
+                "INC": 1,
+                "PEC": 1
+            }
+        },
+        "0": {
+            "amount": 102,
+            "types": {
+                "PRL": 55,
+                "VTS": 3,
+                "EMR": 13,
+                "SBT": 11,
+                "SBE": 14,
+                "RDF": 1,
+                "PSS": 1,
+                "ESB": 3,
+                "PRST": 1
+            }
+        },
+        "2012": {
+            "amount": 51,
+            "types": {
+                "PL": 17,
+                "PLP": 1,
+                "REQ": 8,
+                "INC": 3,
+                "PRC": 1,
+                "EMC": 21
+            }
+        },
+        "2013": {
+            "amount": 32,
+            "types": {
+                "INC": 3,
+                "REQ": 10,
+                "PL": 8,
+                "EMC": 5,
+                "EMP": 6
+            }
+        },
+        "2014": {
+            "amount": 15,
+            "types": {
+                "REQ": 6,
+                "INC": 3,
+                "PL": 4,
+                "EMP": 2
+            }
+        }
+    }
+}

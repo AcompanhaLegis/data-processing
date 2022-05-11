@@ -1,0 +1,27 @@
+{
+    "proposicoes_by_year": {
+        "2019": {
+            "amount": 89,
+            "types": {
+                "REQ": 9,
+                "EMC": 78,
+                "INC": 1,
+                "PL": 1
+            }
+        },
+        "0": {
+            "amount": 1,
+            "types": {
+                "ATACN": 1
+            }
+        },
+        "2021": {
+            "amount": 7,
+            "types": {
+                "DOC": 4,
+                "PEC": 1,
+                "REQ": 2
+            }
+        }
+    }
+}

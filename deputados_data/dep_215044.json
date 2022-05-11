@@ -1,0 +1,3631 @@
+{
+    "id": 215044,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/215044",
+    "nome": "Vivi Reis",
+    "siglaPartido": "PSOL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36839",
+    "siglaUf": "PA",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/215044.jpg",
+    "email": "dep.vivireis@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 2268469,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268469",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 33,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro de Estado da Educação, Sr. Milton Ribeiro, informações acerca dos preparativos para a realização do Enem 2020, ocorrida no ano civil de 2021, em pleno pico da pandemia de Covid-19, e da reparação do dano causado a diversos participantes pela desorganização do Exame."
+        },
+        {
+            "id": 2268561,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268561",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 62,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro de Estado da Educação, Sr. Eduardo Pazuello, informações acerca da não inclusão de comunidades ribeirinhas e quilombolas na 1ª fase de do Plano Nacional de Operacionalização da Vacinação contra a Covid-19."
+        },
+        {
+            "id": 2268568,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268568",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 67,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro da Cidadania informações acerca das eventuais alterações na operacionalidade do cadastramento de beneficiários de programas sociais no CadÚnico, bem como os detalhamentos sobre as mudanças no papel dos municípios neste processo."
+        },
+        {
+            "id": 2268599,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268599",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 77,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro de Estado da Saúde, Sr. Eduardo Pazuello, informações acerca do risco de desabastecimento de oxigênio medicinal nas cidades do estado do Pará."
+        },
+        {
+            "id": 2268738,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268738",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 13,
+            "ano": 2021,
+            "ementa": "Requer o envio de convite ao Procurador-Geral da República, Sr. Augusto Aras, para que preste esclarecimento ao Plenário da Câmara dos Deputados, quando do retorno dos trabalhos."
+        },
+        {
+            "id": 2268810,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268810",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 36,
+            "ano": 2021,
+            "ementa": "Indica a Dep. Talíria Petrone (PSOL/RJ) líder da Bancada do PSOL na Câmara dos Deputados."
+        },
+        {
+            "id": 2269154,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269154",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 30,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1021/2020"
+        },
+        {
+            "id": 2269243,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269243",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 78,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1023/2020"
+        },
+        {
+            "id": 2269244,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269244",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 79,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1023/2020"
+        },
+        {
+            "id": 2269374,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269374",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 67,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1027/2021"
+        },
+        {
+            "id": 2269378,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269378",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 71,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1027/2021"
+        },
+        {
+            "id": 2269379,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269379",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 72,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1027/2021"
+        },
+        {
+            "id": 2269380,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269380",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 73,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1027/2021"
+        },
+        {
+            "id": 2269499,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269499",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 285,
+            "ano": 2021,
+            "ementa": "Dispõe sobre o pagamento integral, até 31 de dezembro de 2025, do valor da Quota de Reintegração Regulatória das concessionárias de distribuição de energia elétrica da Região Norte não alcançadas pelo inciso VIII, do art. 4°, da Lei n° 5.655/71."
+        },
+        {
+            "id": 2269664,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269664",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 126,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1026/2021"
+        },
+        {
+            "id": 2269713,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269713",
+            "siglaTipo": "REQ",
+            "codTipo": 349,
+            "numero": 104,
+            "ano": 2021,
+            "ementa": "Requer a constituição de Comissão Externa para acompanhar o plano de reestruturação anunciado pelo Banco do Brasil em janeiro de 2021."
+        },
+        {
+            "id": 2269731,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269731",
+            "siglaTipo": "REQ",
+            "codTipo": 150,
+            "numero": 112,
+            "ano": 2021,
+            "ementa": "Requer o comparecimento do Diretor-Presidente da Autoridade Nacional de Proteção de Dados (ANPD), órgão diretamente vinculado à Presidência da República, para prestar esclarecimentos ao Plenário da Câmara dos Deputados sobre os recentes vazamentos de dados, que deixaram expostos 223 milhões de CPFs de cidadãs e cidadãos brasileiros."
+        },
+        {
+            "id": 2269732,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269732",
+            "siglaTipo": "REQ",
+            "codTipo": 349,
+            "numero": 113,
+            "ano": 2021,
+            "ementa": "Requer a criação de Comissão Temporária Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar as investigações em torno de episódios recentes de violência política."
+        },
+        {
+            "id": 2269907,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269907",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 147,
+            "ano": 2021,
+            "ementa": "Requer a convocação Sr. Ministro de Estado da Educação, Milton Ribeiro, para prestar os devidos esclarecimentos acerca da realização do Enem 2020 em pleno pico da pandemia de Covid-19."
+        },
+        {
+            "id": 2269921,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269921",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 1,
+            "ano": 2021,
+            "ementa": "Aos três dias do mês de fevereiro do ano de dois mil e vinte e um, às 10:30 horas, reuniu-se\nREMOTAMENTE, em face das restrições decorrentes da CONVID -19, a Bancada de\nCongressistas do Estado do Pará, sob a coordenação do Deputado Hélio Leite para eleger os\nCoordenadores que representarão a Bancada junto à CMO no período de 03/02/2021 a\n01/02/2022. Registrou-se o comparecimento (online) dos Deputados e dos Senadores que\nsubscrevem eletronicamente a presente ATA. Foram eleitos para Coordenadores da Bancada\ndo estado do Pará o Deputado HÉLIO LEITE e o Senador ZEQUINHA MARINHO. Nada mais\nhavendo a tratar, assinam a presente Ata, os Deputados e Senadores que compõem a\nBancada."
+        },
+        {
+            "id": 2270081,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270081",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 16,
+            "ano": 2021,
+            "ementa": "Susta os efeitos da Portaria nº 457, de 10 de fevereiro de 2021, do Ministério da Mulher, da Família e dos Direitos Humanos/Gabinete do Ministra que “Institui Grupo de Trabalho para realização de Análise Ex Ante da Política Nacional de Direitos Humanos”."
+        },
+        {
+            "id": 2270112,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270112",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 128,
+            "ano": 2021,
+            "ementa": "Requer ao Ministro de Estado da Saúde informações a respeito dos protocolos a serem adotados frente às variantes do Coronavírus detectadas no Brasil."
+        },
+        {
+            "id": 2270220,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270220",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 184,
+            "ano": 2021,
+            "ementa": "Requer a adição de coautorias ao PDL nº 16, de 2021."
+        },
+        {
+            "id": 2270271,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270271",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 19,
+            "ano": 2021,
+            "ementa": "Susta a Resolução nº 4/2021, de 22 de Janeiro de 2021, da Fundação Nacional do Índio – FUNAI, que disciplina os critérios específicos de heteroidentificação que serão observados pela FUNAI na execução de políticas públicas."
+        },
+        {
+            "id": 2270362,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270362",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 45,
+            "ano": 2021,
+            "ementa": "Susta os efeitos do Decreto 10.630, de 12 de fevereiro de 2021, que altera o Decreto n. 9.847, de 25 de junho de 2019, que regulamenta a Lei n. 10.826, de 22 de dezembro de 2003, para dispor sobre a aquisição , o cadastro, o registro, o porte e a comercialização de armas de fogo e de munição e sobre o Sistema Nacional de Armas e o Sistema de Gerenciamento Militar de Armas."
+        },
+        {
+            "id": 2270363,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270363",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 46,
+            "ano": 2021,
+            "ementa": "Susta os efeitos do Decreto 10.629, de 12 de fevereiro de 2021, que altera o Decreto n. 9.846, de 25 de junho de 2029, que regulamenta a Lei n. 10.826, de 22 de dezembro de 2003, para dispor sobre o registro, o cadastro e a aquisição de armas e de munições, por caçadores, colecionadores de armas."
+        },
+        {
+            "id": 2270364,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270364",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 47,
+            "ano": 2021,
+            "ementa": "Susta os efeitos do Decreto 10.628, de 12 de fevereiro de 2021, que altera o Decreto n. 9.845, de 25 de junho de 2019, que regulamenta a Lei n. 10.826, de 22 de dezembro de 2003, para dispor sobre a aquisição, o cadastro, o registro e a posse de armas de fogo e munição."
+        },
+        {
+            "id": 2270365,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270365",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 48,
+            "ano": 2021,
+            "ementa": "Susta os efeitos do Decreto 10.627, de 12 de fevereiro de 2021, que altera o Anexo I ao Decreto n 10.030, de 30 de setembro de 2019, que aprova o Regulamento de Produtos Controlados."
+        },
+        {
+            "id": 2270436,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270436",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 226,
+            "ano": 2021,
+            "ementa": "Requer o envio de convocação ao Ministro da Saúde, Sr. Eduardo Pazuello, para que preste esclarecimento ao Plenário da Câmara dos Deputados sobre os procedimentos de produção e distribuição da vacina contra a COVID-19 em 2021."
+        },
+        {
+            "id": 2270528,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270528",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 235,
+            "ano": 2021,
+            "ementa": "Requer subscrição ao Projeto de Decreto Legislativo nº 48, de 2021."
+        },
+        {
+            "id": 2270530,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270530",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 236,
+            "ano": 2021,
+            "ementa": "Requer subscrição ao Projeto de Decreto Legislativo nº 47, de 2021."
+        },
+        {
+            "id": 2270531,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270531",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 237,
+            "ano": 2021,
+            "ementa": "Requer subscrição ao Projeto de Decreto Legislativo nº 46, de 2021."
+        },
+        {
+            "id": 2270532,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270532",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 238,
+            "ano": 2021,
+            "ementa": "Requer subscrição ao Projeto de Decreto Legislativo nº 45, de 2021."
+        },
+        {
+            "id": 2270646,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270646",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 86,
+            "ano": 2021,
+            "ementa": "Susta os efeitos do Anexo III e do Anexo III - B do Edital de Convocação nº 1/2021 - CGPLI PNLD 2023, do Fundo Nacional de Desenvolvimento da Educação – FNDE/MEC."
+        },
+        {
+            "id": 2270842,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270842",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 167,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro de Estado do Meio Ambiente, Sr. Ricardo Salles, informações acerca da mudança de posição do Ibama sobre a vazão de água a ser liberada na Volta Grande do Xingu pela Usina Hidrelétrica de Belo Monte."
+        },
+        {
+            "id": 2270922,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270922",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 91,
+            "ano": 2021,
+            "ementa": "Susta os efeitos da Instrução Normativa Conjunta nº 1, de 22 de fevereiro de 2021, da Fundação Nacional do Índio/Funai e do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), que dispõe sobre os procedimentos a serem adotados durante o processo de licenciamento ambiental de empreendimentos ou atividades localizados ou desenvolvidos no interior de Terras Indígenas"
+        },
+        {
+            "id": 2270965,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270965",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 183,
+            "ano": 2021,
+            "ementa": "Solicitam ao Ministro do Meio Ambiente, Sr. Ricardo de Aquino Salles, informações relativas à atuação deste Ministério em relação ao Programa Adote Um Parque instituído pelo Decreto nº 10.623, de 9 de Fevereiro de 2021."
+        },
+        {
+            "id": 2271114,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271114",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 32,
+            "ano": 2021,
+            "ementa": "Ata Bancada do Pará-LOA 2021"
+        },
+        {
+            "id": 2271494,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271494",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 326,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1031/2021"
+        },
+        {
+            "id": 2271495,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271495",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 327,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1031/2021"
+        },
+        {
+            "id": 2271496,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271496",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 328,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1031/2021"
+        },
+        {
+            "id": 2271497,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271497",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 329,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1031/2021"
+        },
+        {
+            "id": 2271498,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271498",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 330,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1031/2021"
+        },
+        {
+            "id": 2271499,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271499",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 331,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1031/2021"
+        },
+        {
+            "id": 2271500,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271500",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 332,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1031/2021"
+        },
+        {
+            "id": 2271501,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271501",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 333,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1031/2021"
+        },
+        {
+            "id": 2271502,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271502",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 334,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1031/2021"
+        },
+        {
+            "id": 2271582,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271582",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 412,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1031/2021"
+        },
+        {
+            "id": 2271583,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271583",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 413,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1031/2021"
+        },
+        {
+            "id": 2271983,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271983",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 72,
+            "ano": 2021,
+            "ementa": "Indica Dep Marcelo Freixo, como Líder da oposição/minoria"
+        },
+        {
+            "id": 2273168,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273168",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 104,
+            "ano": 2021,
+            "ementa": "Susta os efeitos da Portaria no 124, de 04 de março de 2021, da Secretaria Especial de Cultura do Ministério do Turismo, que determina, no âmbito que só serão analisadas e publicadas no Diário Oficial da União as propostas culturais, que envolvam interação presencial com o público, cujo local da execução não esteja em ente federativo em que haja restrição de circulação, toque de recolher, lockdown ou outras ações que impeçam a execução do projeto."
+        },
+        {
+            "id": 2273187,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273187",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 386,
+            "ano": 2021,
+            "ementa": "Requer a adição de coautorias ao PDL nº 104 de 2021."
+        },
+        {
+            "id": 2273192,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273192",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 389,
+            "ano": 2021,
+            "ementa": "Solicita inclusão de assinatura a indicação de Liderança Minoria/Oposição."
+        },
+        {
+            "id": 2273358,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273358",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 397,
+            "ano": 2021,
+            "ementa": "Requer adição de coautoria ao PL 285, de 2021."
+        },
+        {
+            "id": 2273408,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273408",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 113,
+            "ano": 2021,
+            "ementa": "Susta os efeitos do Pré-edital da Décima Sétima Rodada de Concessão de Blocos Exploratórios para a Produção de Petróleo e Gás Natural da Agência Nacional de Petróleo e Gás (ANP)."
+        },
+        {
+            "id": 2273418,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273418",
+            "siglaTipo": "EMP",
+            "codTipo": 131,
+            "numero": 11,
+            "ano": 0,
+            "ementa": "Inclua-se o seguinte item 6 na alínea “m” do inciso IV do art. 167, alterado pelo artigo 1º da PEC 186, de 2019"
+        },
+        {
+            "id": 2273420,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273420",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 407,
+            "ano": 2021,
+            "ementa": "Requer a convocação Sr. Ministro da Controladoria-Geral da União (CGU), Wagner de Campos Rosário, para que preste esclarecimentos acerca de atos de intimidação e censura contra servidores públicos federais."
+        },
+        {
+            "id": 2273422,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273422",
+            "siglaTipo": "PRC",
+            "codTipo": 444,
+            "numero": 17,
+            "ano": 2021,
+            "ementa": "Dispoe sobre a localização permanente do Comitê de Imprensa da Câmara dos Deputados"
+        },
+        {
+            "id": 2273466,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273466",
+            "siglaTipo": "EMP",
+            "codTipo": 131,
+            "numero": 16,
+            "ano": 0,
+            "ementa": "Altera os arts. 29-A, 37, 49, 84, 163, 165, 167, 168 e 169 da Constituição Federal e os arts. 101 e 109 do Ato das Disposições Constitucionais Transitórias; acrescenta à Constituição Federal os arts. 164-A, 167-A, 167-B, 167-C, 167-D, 167-E, 167-F e 167-G; revoga dispositivos do Ato das Disposições Constitucionais Transitórias e institui regras transitórias sobre redução de benefícios tributários; desvincula parcialmente    o superávit financeiro de fundos públicos; e suspende condicionalidades para realização de despesas com concessão de auxílio emergencial residual para enfrentar as consequências sociais e econômicas da pandemia de Covid-19."
+        },
+        {
+            "id": 2273467,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273467",
+            "siglaTipo": "EMP",
+            "codTipo": 131,
+            "numero": 17,
+            "ano": 0,
+            "ementa": "Altera os arts. 29-A, 37, 49, 84, 163, 165, 167, 168 e 169 da Constituição Federal e os arts. 101 e 109 do Ato das Disposições Constitucionais Transitórias; acrescenta à Constituição Federal os arts. 164-A, 167-A, 167-B, 167-C, 167-D, 167-E, 167-F e 167-G; revoga dispositivos do Ato das Disposições Constitucionais Transitórias e institui regras transitórias sobre redução de benefícios tributários; desvincula parcialmente o superávit financeiro de fundos públicos; e suspende condicionalidades para realização de despesas com concessão de auxílio emergencial residual para enfrentar as consequências sociais e econômicas da pandemia de Covid-19."
+        },
+        {
+            "id": 2273468,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273468",
+            "siglaTipo": "EMP",
+            "codTipo": 131,
+            "numero": 18,
+            "ano": 0,
+            "ementa": "Altera os arts. 29-A, 37, 49, 84, 163, 165, 167, 168 e 169 da Constituição Federal e os arts. 101 e 109 do Ato das Disposições Constitucionais Transitórias; acrescenta à Constituição Federal os arts. 164-A, 167-A, 167-B, 167-C, 167-D, 167-E, 167-F e 167-G; revoga dispositivos do Ato das Disposições Constitucionais Transitórias e institui regras transitórias sobre redução de benefícios tributários; desvincula parcialmente o superávit financeiro de fundos públicos; e suspende condicionalidades para realização de despesas com concessão de auxílio emergencial residual para enfrentar as consequências sociais e econômicas da pandemia de Covid-19."
+        },
+        {
+            "id": 2273470,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273470",
+            "siglaTipo": "EMP",
+            "codTipo": 131,
+            "numero": 19,
+            "ano": 0,
+            "ementa": "Altera os arts. 29-A, 37, 49, 84, 163, 165, 167, 168 e 169 da Constituição Federal e os arts. 101 e 109 do Ato das Disposições Constitucionais Transitórias; acrescenta à Constituição Federal os arts. 164-A, 167-A, 167-B, 167-C, 167-D, 167-E, 167-F e 167-G; revoga dispositivos do Ato das Disposições Constitucionais Transitórias e institui regras transitórias sobre redução de benefícios tributários; desvincula parcialmente o superávit financeiro de fundos públicos; e suspende condicionalidades para realização de despesas com concessão de auxílio emergencial residual para enfrentar as consequências sociais e econômicas da pandemia de Covid-19."
+        },
+        {
+            "id": 2273471,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273471",
+            "siglaTipo": "EMP",
+            "codTipo": 131,
+            "numero": 20,
+            "ano": 0,
+            "ementa": "Altera os arts. 29-A, 37, 49, 84, 163, 165, 167, 168 e 169 da Constituição Federal e os arts. 101 e 109 do Ato das Disposições Constitucionais Transitórias; acrescenta à Constituição Federal os arts. 164-A, 167-A, 167-B, 167-C, 167-D, 167-E, 167-F e 167-G; revoga dispositivos do Ato das Disposições Constitucionais Transitórias e institui regras transitórias sobre redução de benefícios tributários; desvincula parcialmente o superávit financeiro de fundos públicos; e suspende condicionalidades para realização de despesas com concessão de auxílio emergencial residual para enfrentar as consequências sociais e econômicas da pandemia de Covid-19."
+        },
+        {
+            "id": 2273472,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273472",
+            "siglaTipo": "EMP",
+            "codTipo": 131,
+            "numero": 21,
+            "ano": 0,
+            "ementa": "Altera os arts. 29-A, 37, 49, 84, 163, 165, 167, 168 e 169 da Constituição Federal e os arts. 101 e 109 do Ato das Disposições Constitucionais Transitórias; acrescenta à Constituição Federal os arts. 164-A, 167-A, 167-B, 167-C, 167-D, 167-E, 167-F e 167-G; revoga dispositivos do Ato das Disposições Constitucionais Transitórias e institui regras transitórias sobre redução de benefícios tributários; desvincula parcialmente o superávit financeiro de fundos públicos; e suspende condicionalidades para realização de despesas com concessão de auxílio emergencial residual para enfrentar as consequências sociais e econômicas da pandemia de Covid-19."
+        },
+        {
+            "id": 2273473,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273473",
+            "siglaTipo": "EMP",
+            "codTipo": 131,
+            "numero": 22,
+            "ano": 0,
+            "ementa": "Altera os arts. 29-A, 37, 49, 84, 163, 165, 167, 168 e 169 da Constituição Federal e os arts. 101 e 109 do Ato das Disposições Constitucionais Transitórias; acrescenta à Constituição Federal os arts. 164-A, 167-A, 167-B, 167-C, 167-D, 167-E, 167-F e 167-G; revoga dispositivos do Ato das Disposições Constitucionais Transitórias e institui regras transitórias sobre redução de benefícios tributários; desvincula parcialmente o superávit financeiro de fundos públicos; e suspende condicionalidades para realização de despesas com concessão de auxílio emergencial residual para enfrentar as consequências sociais e econômicas da pandemia de Covid-19."
+        },
+        {
+            "id": 2273478,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273478",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 24,
+            "ano": 0,
+            "ementa": "Propõe o pagamento do auxílio emergencial mensal no valor de R$ 600,00."
+        },
+        {
+            "id": 2273479,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273479",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 25,
+            "ano": 0,
+            "ementa": "Altera o art. 49 da Constituição Federal; acrescenta à Constituição Federal os arts. 251 e 252; e suspende condicionalidades para realização de despesas com concessão de auxílio emergencial residual para enfrentar as consequências sociais e econômicas da pandemia de Covid-19."
+        },
+        {
+            "id": 2273537,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273537",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 2,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública, com o Fórum Nacional Popular de Educação (FNPE), agraciado pelo Prêmio Darcy Ribeiro 2019, para o lançamento da Conferência Nacional Popular de Educação (Conape 2022)."
+        },
+        {
+            "id": 2273744,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273744",
+            "siglaTipo": "PRC",
+            "codTipo": 444,
+            "numero": 20,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a criação do Observatório da Violência Política no âmbito da Câmara dos Deputados e dá outras providências."
+        },
+        {
+            "id": 2273890,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273890",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 253,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro das Relações Exteriores, Sr. Ernesto Araújo, informações e documentos referentes à comitiva brasileira a Israel em março de 2021."
+        },
+        {
+            "id": 2273976,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273976",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 7,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública para tratar de perseguições políticas e cerceamento da liberdade de expressão no Brasil."
+        },
+        {
+            "id": 2273980,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273980",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 118,
+            "ano": 2021,
+            "ementa": "Susta os efeitos da Portaria nº 151, de 10 de março de 2021, do Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), que delega ao Diretor de Pesquisa, Avaliação e Monitoramento da Biodiversidade a competência para autorizar previamente a publicação de manuscritos, textos e compilados científicos produzidos no âmbito e para este Instituto em periódicos, edições especializadas, anais de eventos e afins."
+        },
+        {
+            "id": 2274132,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2274132",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 945,
+            "ano": 2021,
+            "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para regulamentar o uso do reconhecimento fotográfico."
+        },
+        {
+            "id": 2274215,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2274215",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 44,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Ministro de Estado da Saúde para prestar esclarecimentos acerca da política do governo federal e do Ministério da Saúde para o combate à pandemia de COVID-19 no Brasil."
+        },
+        {
+            "id": 2274260,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2274260",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 270,
+            "ano": 2021,
+            "ementa": "Requer ao Ministro de Estado da Justiça e Segurança Pública, Sr. André Mendonça, informações relativas à atuação da Polícia\nFederal na abertura de inquéritos para investigar autores de outdoors com críticas ao Governo Bolsonaro."
+        },
+        {
+            "id": 2274292,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2274292",
+            "siglaTipo": "REQ",
+            "codTipo": 441,
+            "numero": 521,
+            "ano": 2021,
+            "ementa": "Requer Moção de Solidariedade ao comunicador Felipe Neto."
+        },
+        {
+            "id": 2274591,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2274591",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 123,
+            "ano": 2021,
+            "ementa": "Susta os efeitos do Ofício Circular Interno nº 01/2021, de 5 de março de 2021, do Ipea (Instituto de Pesquisa Econômica Aplicada), que alerta pesquisadores da instituição sobre a punição por divulgação de estudos sem autorização"
+        },
+        {
+            "id": 2274777,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2274777",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 17,
+            "ano": 2021,
+            "ementa": "Requer a realização de diligências nas Unidades Penitenciárias do Estado do Pará a fim de apurar indícios de violação aos direitos humanos das pessoas privadas de liberdade."
+        },
+        {
+            "id": 2275068,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275068",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 265,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1039/2021"
+        },
+        {
+            "id": 2275079,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275079",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 275,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1039/2021"
+        },
+        {
+            "id": 2275080,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275080",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 276,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1039/2021"
+        },
+        {
+            "id": 2275081,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275081",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 277,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1039/2021"
+        },
+        {
+            "id": 2275082,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275082",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 278,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1039/2021"
+        },
+        {
+            "id": 2275376,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275376",
+            "siglaTipo": "REQ",
+            "codTipo": 349,
+            "numero": 591,
+            "ano": 2021,
+            "ementa": "Requer a criação de comissão externa temporária destinada a monitorar e diagnosticar as consequências sociais e econômicas da pandemia de COVID-19 e propor medidas para minimizar seus impactos (Comissão da Verdade sobre o impacto da Covid-19 \"Cleonice Gonçalves\")."
+        },
+        {
+            "id": 2275537,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275537",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 5,
+            "ano": 2021,
+            "ementa": "Altera artigo 130-A da Constituição Federal no que trata da composição do Conselho Nacional do Ministério Público e  dá outras providências."
+        },
+        {
+            "id": 2275763,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275763",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 620,
+            "ano": 2021,
+            "ementa": "Autoriza coautoria ao Requerimento 574/2021"
+        },
+        {
+            "id": 2275952,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275952",
+            "siglaTipo": "DOC",
+            "codTipo": 861,
+            "numero": 124,
+            "ano": 2021,
+            "ementa": "Ofício de adesão da deputada Vivi Reis PSOL/PA à Frente Parlamentar Mista em Defesa do Cinema e do Audiovisual Brasileiros."
+        },
+        {
+            "id": 2276091,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2276091",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 30,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Excelentíssimo Ministro da Defesa, Sr. Walter Souza Braga Netto, no âmbito desta Comissão, para explicar sua celebração do golpe de 1964."
+        },
+        {
+            "id": 2276107,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2276107",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1161,
+            "ano": 2021,
+            "ementa": "Cria o Comitê Gestor Interinstitucional do Plano Nacional de Combate à Pandemia de COVID-19"
+        },
+        {
+            "id": 2276394,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2276394",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 409,
+            "ano": 2021,
+            "ementa": "Requer ao Ministro de Estado da Saúde informações a respeito da dispensação de vacinas para as comunidades quilombolas."
+        },
+        {
+            "id": 2276610,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2276610",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 90,
+            "ano": 2021,
+            "ementa": "Requer a inclusão de convidado ao Requerimento de Audiência Pública de nº 9/2021, aprovado nesta Comissão."
+        },
+        {
+            "id": 2277480,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277480",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 714,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Ministro de Estado da Saúde para para prestar os devidos esclarecimentos acerca do iminente desabastecimento de oxigênio em mais de mil cidades brasileiras."
+        },
+        {
+            "id": 2277519,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277519",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 447,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro de Estado do Meio Ambiente, Sr. Ricardo Salles, informações acerca da atuação para liberar a carga apreendida pela Polícia Federal no âmbito da Operação Handroanthus GLO."
+        },
+        {
+            "id": 2277521,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277521",
+            "siglaTipo": "DOC",
+            "codTipo": 861,
+            "numero": 169,
+            "ano": 2021,
+            "ementa": "Adesão da Deputada Federal Vivi Reis (PSOL-PA) à Frente Parlamentar Mista em Defesa do Cinema e Audiovisual Brasileiros."
+        },
+        {
+            "id": 2277567,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277567",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 461,
+            "ano": 2021,
+            "ementa": "Requer do Ministério das Relações Exteriores informações sobre contratos e convênios nacionais e internacionais celebrados pelo Brasil para a aquisição de vacinas contra a COVID-19."
+        },
+        {
+            "id": 2277568,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277568",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 462,
+            "ano": 2021,
+            "ementa": "Requer do Ministério da Saúde informações sobre contratos e convênios nacionais e internacionais celebrados pelo Ministério da Saúde para a aquisição de vacinas contra a COVID-19."
+        },
+        {
+            "id": 2277617,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277617",
+            "siglaTipo": "PRC",
+            "codTipo": 444,
+            "numero": 30,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a extinção de reembolso de despesas privadas referentes a atendimentos médico-hospitalares e odontológicos concedidas aos\nparlamentares desta Casa."
+        },
+        {
+            "id": 2277660,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277660",
+            "siglaTipo": "PRC",
+            "codTipo": 444,
+            "numero": 31,
+            "ano": 2021,
+            "ementa": "Altera o Código de Ética da Câmara dos Deputados para dispor sobre a paridade na composição do Conselho de Ética e a violência contra mulheres enquanto circunstância agravante para fins de sanção disciplinar"
+        },
+        {
+            "id": 2277701,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277701",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 153,
+            "ano": 2021,
+            "ementa": "Susta a aplicação do Decreto nº 10.669, de 8 de abril de 2021, que dispõe sobre a inclusão da Empresa Brasil de Comunicação S.A. no Programa Nacional de Desestatização e altera o Decreto nº 10.354, de 20 de maio de 2020."
+        },
+        {
+            "id": 2277762,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277762",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 32,
+            "ano": 2021,
+            "ementa": "Requer aprovação de Moção de solidariedade a Sônia Guajajara, Coordenadora Executiva da Articulação da População Indígena do Brasil - APIB."
+        },
+        {
+            "id": 2277764,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277764",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 33,
+            "ano": 2021,
+            "ementa": "Solicita realização de audiência pública virtual para tratar dos efeitos do Decreto 9.831/2019 para o Sistema Nacional de Prevenção e Combate à Tortura e ao Mecanismo Nacional de Prevenção e Combate à Tortura."
+        },
+        {
+            "id": 2277864,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277864",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 107,
+            "ano": 2021,
+            "ementa": "REQUER REALIZAÇÃO DE AUDIENCIA PUBLICA PARA DEBATER O APROFUNDAMENTO DA FOME DURANTE A PANDEMIA DA COVID-19"
+        },
+        {
+            "id": 2278048,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278048",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 162,
+            "ano": 2021,
+            "ementa": "Susta os efeitos do Decreto nº 10.670, de 8 de abril de 2021, que dispõe sobre a qualificação da Centrais Elétricas Brasileiras S.A. – Eletrobras - no âmbito do Programa de Parcerias de Investimento da Presidência da República e sobre a sua inclusão no Programa Nacional de Desestatização."
+        },
+        {
+            "id": 2278125,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278125",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 166,
+            "ano": 2021,
+            "ementa": "Susta os efeitos do Decreto nº 10.674, de 13 de abril de 2021, que dispõe sobre a inclusão da Empresa Brasileira de Correios e Telégrafos no Programa Nacional de Desestatização."
+        },
+        {
+            "id": 2278130,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278130",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 766,
+            "ano": 2021,
+            "ementa": "Requer adição de coautorias ao Projeto de Resolução n. 31, de 2021."
+        },
+        {
+            "id": 2278700,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278700",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer da Relatora, Dep. Vivi Reis (PSOL-PA), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2278701,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278701",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Acrescenta ao calendário oficial a “Semana Nacional de Conscientização sobre Direitos das Gestantes”, a ser celebrada anualmente em 15 de agosto, e dá outras providências."
+        },
+        {
+            "id": 2279016,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279016",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 829,
+            "ano": 2021,
+            "ementa": "Requer a inclusão na Ordem do Dia do PL no. 2295/2000 que dispõe sobre a jornada de trabalho dos Enfermeiros, Técnicos e Auxiliares de Enfermagem."
+        },
+        {
+            "id": 2279043,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279043",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 118,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro de Estado da Saúde, Sr. Marcelo Queiroga, informações acerca do envio de recursos financeiros, insumos e vacinas ao Estado do Pará para combate à Covid-19."
+        },
+        {
+            "id": 2279131,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279131",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 44,
+            "ano": 2021,
+            "ementa": "Requer realização de audiência pública para debater o aprofundamento da fome durante a pandemia de COVID-19."
+        },
+        {
+            "id": 2279179,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279179",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 843,
+            "ano": 2021,
+            "ementa": "Requer coautoria do Projeto de Decreto Legislativo nº 166/2021."
+        },
+        {
+            "id": 2279242,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279242",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 176,
+            "ano": 2021,
+            "ementa": "Susta a Portaria nº 13, de 19 de abril de 2021, que torna pública a decisão de incorporar o implante subdérmico de etonogestrel, condicionada à criação de programa específico, na prevenção da gravidez não planejada para mulheres em idade fértil: em situação de rua; com HIV/AIDS em uso de dolutegravir; em uso de talidomida; privadas de liberdade; trabalhadoras do sexo; e em tratamento de tuberculose em uso de aminoglicosídeos, no âmbito do Sistema Único de Saúde - SUS.."
+        },
+        {
+            "id": 2279404,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279404",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 872,
+            "ano": 2021,
+            "ementa": "Requer inclusão da Deputada Natália Bonavides na coautoria do PDL nº 176/2021."
+        },
+        {
+            "id": 2279410,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279410",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 532,
+            "ano": 2021,
+            "ementa": "Requer que sejam solicitadas informações ao Ministro da Economia acerca da avaliação das políticas de cotas nas universidades e no serviço público produzida pela Escola Nacional de Administração Pública."
+        },
+        {
+            "id": 2279412,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279412",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 534,
+            "ano": 2021,
+            "ementa": "Requer que sejam solicitadas informações à Ministra da Mulher, da Família e dos Direitos Humanos acerca da avaliação das políticas de cotas nas universidades e no serviço público."
+        },
+        {
+            "id": 2279420,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279420",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 123,
+            "ano": 2021,
+            "ementa": "Requer a inclusão de convidado ao Requerimento de Audiência Pública de nº 106/2021."
+        },
+        {
+            "id": 2279485,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279485",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para fixar diretrizes que orientem a vacinação e cobertura contra o COVID-19"
+        },
+        {
+            "id": 2280068,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2280068",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 561,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro de Estado da Saúde, Sr. Marcelo Queiroga, informações acerca da Portaria SCTIE/MS n. 13, de 19 de abril de 2021."
+        },
+        {
+            "id": 2280170,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2280170",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 131,
+            "ano": 2021,
+            "ementa": "Requer a realização de audiência pública para debater a Portaria nº 13, de 19 de abril de 2021, que torna pública a decisão de incorporar o implante subdérmico de etonogestrel, condicionada à criação de programa específico, na prevenção da gravidez não planejada para mulheres em idade fértil: em situação de rua; com HIV/AIDS em uso de dolutegravir; em uso de talidomida; privadas de liberdade; trabalhadoras do sexo; e em tratamento de tuberculose em uso de aminoglicosídeos, no âmbito do Sistema Único de Saúde - SUS."
+        },
+        {
+            "id": 2280230,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2280230",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 136,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública para tratar do tema “Saúde mental e atenção psicossocial no Brasil em tempos de pandemia”."
+        },
+        {
+            "id": 2280433,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2280433",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1703,
+            "ano": 2021,
+            "ementa": "Dispõe sobre as locações de imóveis e os procedimentos a elas pertinentes e cria o auxílio-aluguel emergencial para famílias em situação de vulnerabilidade social."
+        },
+        {
+            "id": 2281214,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2281214",
+            "siglaTipo": "REQ",
+            "codTipo": 349,
+            "numero": 982,
+            "ano": 2021,
+            "ementa": "Requer a constituição de Comissão Externa, sem ônus para a Câmara dos Deputados, com a finalidade de acompanhar as graves denúncias acerca da chacina da comunidade do Jacarezinho, a mais letal da história do Rio de Janeiro."
+        },
+        {
+            "id": 2281226,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2281226",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 146,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Ministro de Estado da Saúde, Sr. Marcelo Antônio Cartaxo Queiroga Lopes, para prestar os devidos esclarecimentos sobre a Política Nacional de Saúde Suplementar Para o Enfrentamento da Pandemia da Covid-19 (PNSS-Covid-19)."
+        },
+        {
+            "id": 2281551,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2281551",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 123,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1045/2021"
+        },
+        {
+            "id": 2281553,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2281553",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 124,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1045/2021"
+        },
+        {
+            "id": 2281555,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2281555",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 125,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1045/2021"
+        },
+        {
+            "id": 2282093,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2282093",
+            "siglaTipo": "PRC",
+            "codTipo": 444,
+            "numero": 38,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a criação do Programa Direito à Amamentação no âmbito da Diretoria de Recursos Humanos da Câmara dos Deputados."
+        },
+        {
+            "id": 2282095,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2282095",
+            "siglaTipo": "PRC",
+            "codTipo": 444,
+            "numero": 39,
+            "ano": 2021,
+            "ementa": "Altera o Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 1989, para dispor sobre a Licença Parental devida a deputadas e deputados e dá outras providências."
+        },
+        {
+            "id": 2282210,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2282210",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 150,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública para debater o PL no. 5363/2020 que “Altera a Lei nº 5.991, de 17 de dezembro de 1973, que “Dispõe sobre o Controle Sanitário do Comércio de Drogas, Medicamentos, Insumos Farmacêuticos e Correlatos, e dá outras Providências”, para dispor sobre a assistência de farmacêutico de forma remota”."
+        },
+        {
+            "id": 2282686,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2282686",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1795,
+            "ano": 2021,
+            "ementa": "Inscreve no Livro de Heróis e Heroínas da Pátria o nome de Laudelina de Campos Melo."
+        },
+        {
+            "id": 2283313,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2283313",
+            "siglaTipo": "REQ",
+            "codTipo": 359,
+            "numero": 1085,
+            "ano": 2021,
+            "ementa": "Requer a constituição de Comissão Especial para proferir parecer acerca da PEC no 61/2019 que “Altera a Constituição Federal a fim de atribuir legitimidade ao Defensor Público-Geral Federal para propor ação direta de inconstitucionalidade e ação declaratória de constitucionalidade e para suscitar incidente de deslocamento de competência para a Justiça Federal”."
+        },
+        {
+            "id": 2284008,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284008",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 31,
+            "ano": 2021,
+            "ementa": "Requer a realização do XVIII Seminário LGBTQIA+ do Congresso Nacional."
+        },
+        {
+            "id": 2284377,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284377",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 74,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1052/2021"
+        },
+        {
+            "id": 2284461,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284461",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 69,
+            "ano": 2021,
+            "ementa": "Requer realização de audiência pública sobre conflitos agrários e ameaças de morte contra defensores de direitos humanos no Estado do Pará"
+        },
+        {
+            "id": 2284555,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284555",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 14,
+            "ano": 2021,
+            "ementa": "Altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais."
+        },
+        {
+            "id": 2284818,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284818",
+            "siglaTipo": "REC",
+            "codTipo": 376,
+            "numero": 20,
+            "ano": 2021,
+            "ementa": "Recurso contra a devolução pela Presidência da Câmara do Deputados do Projeto de Decreto Legislativo nº 16, de 2021, com a finalidade de sustar os efeitos da Portaria nº 457, de 02 de fevereiro de 2021, do Ministério da Mulher, da Família e dos Direitos Humanos/Gabinete da Ministra, que Institui o Grupo de Trabalho para Análise Ex Ante da Política Nacional de Direitos Humanos."
+        },
+        {
+            "id": 2284874,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284874",
+            "siglaTipo": "REC",
+            "codTipo": 375,
+            "numero": 21,
+            "ano": 2021,
+            "ementa": "Nos termos do artigo 132, § 6º, combinado com o artigo 144, ambos do Regimento Interno da Câmara dos Deputados, recorro do parecer terminativo pela inadmissibilidade da Emenda de Comissão nº 21, apresentada à MP 1021 de 2020."
+        },
+        {
+            "id": 2284875,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284875",
+            "siglaTipo": "REC",
+            "codTipo": 375,
+            "numero": 22,
+            "ano": 2021,
+            "ementa": "Recurso contra o parecer terminativo aposto à Emenda da Comissão n. 19, apresentada à MPV 1021/2020"
+        },
+        {
+            "id": 2285306,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285306",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 747,
+            "ano": 2021,
+            "ementa": "Requer ao Ministro de Estado da Saúde informações detalhadas acerca do protocolo sanitário de enfrentamento à pandemia de Covid-19 a ser adotado pelo Brasil durante a realização da Copa América de 2021."
+        },
+        {
+            "id": 2285319,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285319",
+            "siglaTipo": "REQ",
+            "codTipo": 150,
+            "numero": 1177,
+            "ano": 2021,
+            "ementa": "Requer o comparecimento do Secretário Especial de Esporte, Sr. MARCELO REIS MAGALHÃES, para que preste esclarecimentos ao Plenário da Câmara dos Deputados sobre o anúncio do Brasil como sede da Copa América de Futebol de 2021."
+        },
+        {
+            "id": 2285479,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285479",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 222,
+            "ano": 2021,
+            "ementa": "Susta os efeitos da Portaria nº 118, de 31 de maio de 2021, do presidente da Fundação Cultural Palmares, que revoga a Instrução Normativa nº 01, de 31 de outubro de 2018"
+        },
+        {
+            "id": 2285589,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285589",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 225,
+            "ano": 2021,
+            "ementa": "Susta os efeitos da Portaria nº 118, de 31 de Maio de 2021, da Fundação Cultural Palmares, que revoga a Instrução Normativa nº 01, de 31 de outubro de 2018, que estabelece procedimentos administrativos a serem observados pela Fundação Cultural Palmares nos processos de licenciamento ambiental de obras, atividades ou empreendimentos que impactem comunidades quilombolas."
+        },
+        {
+            "id": 2285678,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285678",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2043,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a aplicação do princípio da não violência e garantia dos direitos humanos no contexto de manifestações e eventos públicos, bem como na execução de mandados judiciais de manutenção e reintegração de posse."
+        },
+        {
+            "id": 2285691,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285691",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 768,
+            "ano": 2021,
+            "ementa": "Solicitam, novamente, ao Ministro do Meio Ambiente, Sr. Ricardo de Aquino Salles, informações relativas à atuação deste Ministério em relação ao Programa Adote Um Parque instituído pelo Decreto nº 10.623, de 9 de Fevereiro de 2021,  devido ao não atendimento aos questionamentos e solicitações apresentados no RIC 183/2021."
+        },
+        {
+            "id": 2285770,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285770",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 23,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência para debater a inclusão do Estado do Pará nos Programas Rotas de Integração Nacional."
+        },
+        {
+            "id": 2285883,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285883",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 77,
+            "ano": 2021,
+            "ementa": "Requer a realização do XVIII Seminário LGBTQI+ do Congresso Nacional."
+        },
+        {
+            "id": 2285898,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285898",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 199,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Ministro da Cidadania, Sr. João Roma, para que preste esclarecimentos ao Plenário da Câmara dos Deputados sobre o anúncio do Brasil como sede da Copa América de Futebol de 2021"
+        },
+        {
+            "id": 2285899,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285899",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 200,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Ministro da Saúde, Sr. Marcelo Queiroga, para que preste esclarecimentos ao Plenário da Câmara dos Deputados sobre o anúncio do Brasil como sede da Copa América de Futebol de 2021"
+        },
+        {
+            "id": 2285939,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285939",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 1219,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Ministro de Estado de Minas e Energia, SR. BENTO ALBUQUERQUE, para prestar os devidos esclarecimento sobre a possível crise hídrica no país."
+        },
+        {
+            "id": 2286303,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2286303",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 791,
+            "ano": 2021,
+            "ementa": "Solicita informações à Sra. Tereza Cristina Corrêa da Costa Dias, Ministra de Estado da Agricultura, Pecuária e Abastecimento, a respeito da regulamentação do procedimento a ser adotado pelo INCRA ao coordenar as atividades de licenciamento ambiental em terras ocupadas pelos remanescentes de quilombos."
+        },
+        {
+            "id": 2286789,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2286789",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 210,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Ministro da Cidadania, Sr. JOÃO ROMA, para prestar os devidos esclarecimentos sobre as graves denúncias de natureza operacional e política referentes à não concessão do auxílio emergencial para mais de 400 mil famílias em comprovada situação de vulnerabilidade social que já estão, inclusive, cadastradas no Cadastro Único e na fila do Programa Bolsa Família"
+        },
+        {
+            "id": 2286797,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2286797",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 7,
+            "ano": 0,
+            "ementa": "Acrescenta dispositivos à Constituição Federal"
+        },
+        {
+            "id": 2287070,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287070",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 214,
+            "ano": 2021,
+            "ementa": "Requer realização de Audiência Pública para debater os efeitos da reintegração familiar nas vidas de crianças e adolescentes."
+        },
+        {
+            "id": 2287083,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287083",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 1309,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Ministro da Cidadania, Sr. JOÃO ROMA, para prestar os devidos esclarecimentos sobre as graves denúncias de natureza operacional e política referentes à não concessão do auxílio emergencial para mais de 400 mil famílias em comprovada situação de vulnerabilidade social que já estão, inclusive, cadastradas no Cadastro Único e na fila do Programa Bolsa Família"
+        },
+        {
+            "id": 2287302,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287302",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer da Relatora, Dep. Vivi Reis (PSOL-PA), pela aprovação deste, do PL 1031/2020, e do PL 848/2021, apensados, com substitutivo."
+        },
+        {
+            "id": 2287303,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287303",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer da Relatora, Dep. Vivi Reis (PSOL/PA), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2287307,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287307",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer da Relatora, Dep. Vivi Reis (PSOL-PA), pela aprovação."
+        },
+        {
+            "id": 2287875,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287875",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 84,
+            "ano": 2021,
+            "ementa": "Requer a realização de audiência pública sobre regularização migratória e fechamento de fronteiras no contexto da pandemia de Covid-19."
+        },
+        {
+            "id": 2287876,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287876",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 85,
+            "ano": 2021,
+            "ementa": "Requer a realização de audiência pública para debater o tema \"possíveis processos de tombamento dos espaços e edificações relacionados à história e memória das pessoas atingidas pela Hanseníase\"."
+        },
+        {
+            "id": 2287984,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287984",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 24,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública para debater a MPV no. 1.052, de 19 de maio de 2021, que “Altera a Lei no 12.712, de 30 de agosto de 2012, a Lei no 7.827, de 27 de setembro de 1989, a Lei no 10.177, de 12 de janeiro de 2001, e a Lei no 9.126, de 10 de novembro de 1995”."
+        },
+        {
+            "id": 2288161,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288161",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 1372,
+            "ano": 2021,
+            "ementa": "Requer a realização de Sessão Solene, no Plenário da Câmara dos Deputados, em comemoração ao dia do fisioterapeuta."
+        },
+        {
+            "id": 2288437,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288437",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2348,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a criação de Delegacias Especializadas em Atendimento à Mulher, nos municípios com mais de sessenta mil habitantes."
+        },
+        {
+            "id": 2288483,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288483",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 238,
+            "ano": 2021,
+            "ementa": "Requer a realização de audiência pública conjunta para debater a Portaria nº 13, de 19 de abril de 2021, que torna pública a decisão de incorporar o implante subdérmico de etonogestrel, condicionada à criação de programa específico, na prevenção da gravidez não planejada para mulheres em idade fértil: em situação de rua; com HIV/AIDS em uso de dolutegravir; em uso de talidomida; privadas de liberdade; trabalhadoras do sexo; e em tratamento de tuberculose em uso de aminoglicosídeos, no âmbito do Sistema Único de Saúde - SUS."
+        },
+        {
+            "id": 2288507,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288507",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 26,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência para debater: Assistência Estudantil aos povos indígenas e quilombolas no período pandêmico no Estado do Pará."
+        },
+        {
+            "id": 2288527,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288527",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer da Relatora, Dep. Vivi Reis (PSOL-PA), pela implementação."
+        },
+        {
+            "id": 2288529,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288529",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 27,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência para fazer um amplo debate sobre a execução do Programa do Governo Federal \"Abrace o Marajó\" lançado ainda no ano de 2019, com previsão de execução no período de 2020 a 2023."
+        },
+        {
+            "id": 2289234,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289234",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 155,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1055/2021"
+        },
+        {
+            "id": 2289235,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289235",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 156,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1055/2021"
+        },
+        {
+            "id": 2289236,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289236",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 157,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1055/2021"
+        },
+        {
+            "id": 2289237,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289237",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 158,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1055/2021"
+        },
+        {
+            "id": 2289238,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289238",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 159,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1055/2021"
+        },
+        {
+            "id": 2289239,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289239",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 160,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1055/2021"
+        },
+        {
+            "id": 2289240,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289240",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 161,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1055/2021"
+        },
+        {
+            "id": 2289241,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289241",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 162,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1055/2021"
+        },
+        {
+            "id": 2289529,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289529",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 88,
+            "ano": 2021,
+            "ementa": "Requer a realização de Seminário para discutir e celebrar a atualidade e a profundidade da produção teórica e do exemplo de vida de Paulo Freire, patrono da educação brasileira, ao se completarem 100 anos de seu nascimento."
+        },
+        {
+            "id": 2289780,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289780",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 294,
+            "ano": 2021,
+            "ementa": "Susta a Resolução Homologatória nº 2888, de 29 de junho de 2021, que estabelece as faixas de acionamento e os adicionais das bandeiras tarifárias, de que trata o submódulo 6.8 do PRORET, com vigência a partir de 1º de julho de 2021"
+        },
+        {
+            "id": 2289943,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289943",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 5,
+            "ano": 0,
+            "ementa": "Emenda Modificativa à PEC nº 32/2020. Adicional de substituição."
+        },
+        {
+            "id": 2289944,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289944",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 6,
+            "ano": 0,
+            "ementa": "Emenda modificativa à PEC nº 32/2020. Carreiras típicas de Estado."
+        },
+        {
+            "id": 2289949,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289949",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 7,
+            "ano": 0,
+            "ementa": "Emenda Substitutiva Global à PEC nº 32/2020, que altera disposições sobre servidores, empregados públicos e organização administrativa"
+        },
+        {
+            "id": 2289996,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289996",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 9,
+            "ano": 0,
+            "ementa": "Torna atividades típicas de estado o planejamento, avaliação, monitoramento, implantação, assistência técnica, supervisão, auditoria e controle, gestão, execução das políticas sociais."
+        },
+        {
+            "id": 2289998,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289998",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 10,
+            "ano": 0,
+            "ementa": "Explicita os dispositivos que afetam os atuais ocupantes de cargos públicos e altera a PEC 32/20 para garantir a manutenção dos atuais direitos."
+        },
+        {
+            "id": 2290011,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290011",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 11,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290013,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290013",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 12,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290014,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290014",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 13,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290017,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290017",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 14,
+            "ano": 0,
+            "ementa": "Emenda substitutiva global do Partido dos Trabalhadores para assegurar direitos dos servidores e empregados públicos; evitar abusos remuneratórios; retirar privilégios descabidos concedidos aos membros de Poderes e instituições cujas carreiras são disciplinadas por leis complementares específicas e aos militares; garantir a participação da sociedade na gestão dos serviços públicos e sobre os atos da administração; garantir meios mais democráticos de gestão de pessoal e mediação de conflitos nas relações de trabalho no setor público; coibir discriminação e apadrinhamento político nas relações de trabalho no setor público; impedir a excessiva militarização de cargos civis; e garantir estratégia de intervenção do Estado na economia, na medida do interesse e soberania nacional."
+        },
+        {
+            "id": 2290023,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290023",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 15,
+            "ano": 0,
+            "ementa": "Veda a percepção de verbas remuneratórias acima do teto constitucional."
+        },
+        {
+            "id": 2290026,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290026",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 16,
+            "ano": 0,
+            "ementa": "Preserva a separação entre função civil e militar visando a preservação das atribuições no Estado democrático brasileiro."
+        },
+        {
+            "id": 2290036,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290036",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 20,
+            "ano": 0,
+            "ementa": "Proíbe a investidura em cargo, vínculo ou emprego público, pelo prazo de dez anos, de condenado por assédio moral ou sexual, em decisão transitada em julgado ou proferida por órgão judicial colegiado."
+        },
+        {
+            "id": 2290038,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290038",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 21,
+            "ano": 0,
+            "ementa": "Garante percentual mínimo de 50% (cinquenta por cento) às mulheres no provimento dos cargos de liderança e assessoramento."
+        },
+        {
+            "id": 2290040,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290040",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 22,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290047,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290047",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 27,
+            "ano": 0,
+            "ementa": "Veda a concessão de aposentadoria compulsória como modalidade de sanção disciplinar a servidores e membros de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, membros de instituições e carreiras disciplinadas por lei complementar específica prevista nesta Constituição e detentores de mandato eletivo."
+        },
+        {
+            "id": 2290049,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290049",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 29,
+            "ano": 0,
+            "ementa": "Altere-se o §1º no art. 39-A, constante do art. 1º da PEC nº 32, de 2020"
+        },
+        {
+            "id": 2290051,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290051",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 30,
+            "ano": 0,
+            "ementa": "Emenda à PEC 32, de 2020"
+        },
+        {
+            "id": 2290052,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290052",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 31,
+            "ano": 0,
+            "ementa": "Insere-se o § 1º- D  no art. 39-A, constante do art. 1º da PEC nº 32, de 2020"
+        },
+        {
+            "id": 2290103,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290103",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 39,
+            "ano": 0,
+            "ementa": "Emenda a PEC 32, de 2020"
+        },
+        {
+            "id": 2290230,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290230",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 1488,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Ministro de Estado da Defesa do Brasil, Sr. Walter Braga Netto, para comparecer ao Plenário da Câmara dos Deputados a fim de prestar esclarecimentos sobre a tentativa de intimidação, em inaceitável ameaça à democracia, aos trabalhos da Comissão Parlamentar de Inquérito da Covid-19."
+        },
+        {
+            "id": 2290235,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290235",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 1489,
+            "ano": 2021,
+            "ementa": "Requer a adição de coautorias ao PL 945, de 2021."
+        },
+        {
+            "id": 2290284,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290284",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer da Relatora, Dep. Vivi Reis (PSOL-PA), pela aprovação, na forma do substitutivo."
+        },
+        {
+            "id": 2290285,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290285",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Dispõe sobre os efeitos jurídicos das decisões da Comissão Interamericana de Direitos Humanos e da Corte Interamericana de Direitos Humanos e dá outras providências."
+        },
+        {
+            "id": 2291133,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291133",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 21,
+            "ano": 2021,
+            "ementa": "\"Acrescenta ao art. 37 da Constituição Federal o inciso XXIII, vedando aos militares da ativa a ocupação de cargo de natureza civil na Administração Pública, nos três níveis da Federação\"."
+        },
+        {
+            "id": 2291967,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291967",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 1564,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Ministro da Defesa, Sr. WALTER BRAGA NETTO, para que preste esclarecimentos ao Plenário da Câmara dos Deputados sobre as ameaças de golpe caso não seja implementado o voto impresso nas eleições de 2022."
+        },
+        {
+            "id": 2292313,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292313",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 28,
+            "ano": 2021,
+            "ementa": "Requer o aditamento ao requerimento no. 26/2021 CINDRA, para inclusão de convidados na realização de audiência pública."
+        },
+        {
+            "id": 2292752,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292752",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 248,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1058/2021"
+        },
+        {
+            "id": 2292753,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292753",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 249,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1058/2021"
+        },
+        {
+            "id": 2292754,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292754",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 250,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1058/2021"
+        },
+        {
+            "id": 2292755,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292755",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 251,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1058/2021"
+        },
+        {
+            "id": 2292756,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292756",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 252,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1058/2021"
+        },
+        {
+            "id": 2292758,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292758",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 254,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1058/2021"
+        },
+        {
+            "id": 2292759,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292759",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 255,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1058/2021"
+        },
+        {
+            "id": 2292760,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292760",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 256,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1058/2021"
+        },
+        {
+            "id": 2292762,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292762",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 258,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1058/2021"
+        },
+        {
+            "id": 2292763,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292763",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 259,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1058/2021"
+        },
+        {
+            "id": 2293114,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293114",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 377,
+            "ano": 2021,
+            "ementa": "Susta os efeitos da Portaria Interministerial nº 655, de 23 de junho de 2021, que \"Dispõe sobre a restrição excepcional e temporária de entrada no País de estrangeiros, de qualquer nacionalidade, conforme recomendação da Agência Nacional de Vigilância Sanitária - Anvisa.\""
+        },
+        {
+            "id": 2293354,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293354",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 382,
+            "ano": 2021,
+            "ementa": "Susta a Portaria GM/MS nº 1.853, de 05 de agosto de 2021, que torna sem efeito a ato de homologação da Resolução CNS nº 617, de 23 de agosto de 2019, e todos os efeitos decorrentes."
+        },
+        {
+            "id": 2293369,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293369",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 948,
+            "ano": 2021,
+            "ementa": "Sugere Excelentíssimo Senhor Corregedor do Conselho Nacional de Justiça, Ministro Humberto Martins, a abertura, em face da Excelentíssima Senhora Juíza de Direito Gabriela Bertoli, de Representação por Excesso de Prazo e/ou Reclamação Disciplinar no cumprimento do Alvará de Soltura de Paulo Roberto da Silva Lima –conhecido como Paulo Galo."
+        },
+        {
+            "id": 2293414,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293414",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 275,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Ministro da Saúde, Sr. Marcelo Queiroga, para que preste esclarecimentos a esta Comissão acerca da edição da Portaria no 1.853, de 5 de agosto de 2021 (GM/MS), que torna sem efeito o ato de homologação da Resolução CNS no 617, de 23 de agosto de 2019."
+        },
+        {
+            "id": 2293540,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293540",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2760,
+            "ano": 2021,
+            "ementa": "Modifica a Lei 12662/2012 para garantir o registro na Declaração de Nascido Vivo da dupla maternidade ou paternidade aos casais homoafetivos que tiverem filhos."
+        },
+        {
+            "id": 2295096,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2295096",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 1693,
+            "ano": 2021,
+            "ementa": "Requeiro a V. Exa. a coautoria no PL nº 2760, de 2021, que tem a Deputada Federal Talíria Petrone como primeira autora, que “Modifica a Lei 12662/2012 para garantir o registro na Declaração de Nascido Vivo da dupla maternidade ou paternidade aos casais homoafetivos que tiverem filhos”."
+        },
+        {
+            "id": 2295464,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2295464",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 154,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1061/2021"
+        },
+        {
+            "id": 2295929,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2295929",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 8,
+            "ano": 2021,
+            "ementa": "Requer a realização de audiência pública para debater o tema \"cobertura dos planos de saúde de procedimentos solicitados e consultas realizadas por profissionais não-médicos\", com a presença dos seguintes convidados:  1)\tRepresentante do Conselho Federal de Nutricionistas (CFN);  2)\tRepresentante do Conselho Federal de Psicologia (CFP);  3)\tRepresentante do Conselho Federal de Fisioterapia e Terapia Ocupacional (COFFITO);  4)\tRepresentante da Associação Brasileira de Planos de Saúde (ABRAMGE);  5)\tRepresentante do Instituto Brasileiro de Defesa do Consumidor (Idec);  6)\tRepresentante do Ministério da Saúde."
+        },
+        {
+            "id": 2296137,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2296137",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer da Relatora, Dep. Vivi Reis (PSOL-PA), pela aprovação."
+        },
+        {
+            "id": 2296501,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2296501",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 550,
+            "ano": 2021,
+            "ementa": "Susta os efeitos da Instrução Normativa SGP/SEDGG/ME nº 54, de 20 de maio de 2021, que “Dispõe sobre os critérios e procedimentos gerais a serem observados pelos órgãos e entidades integrantes do Sistema de Pessoal Civil da Administração Federal (SIPEC), nas situações de paralisação decorrentes do exercício do direito de greve, para o desconto da remuneração correspondente aos dias de paralisação e para a elaboração do respectivo Termo de Acordo para compensação de horas não trabalhadas.”"
+        },
+        {
+            "id": 2296888,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2296888",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 17,
+            "ano": 2021,
+            "ementa": "Requer a inclusão do Representante da Federação Nacional de Saúde Suplementar na Audiência Pública que debaterá os procedimentos solicitados por não-médicos, contida no Req nº 08/2021 - PL 7419/2006.."
+        },
+        {
+            "id": 2297020,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297020",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 1760,
+            "ano": 2021,
+            "ementa": "Requer dispensa do interstício regimental entre o primeiro e o segundo turno de deliberação da Proposta de Emenda à Constituição nº 17, de 2019."
+        },
+        {
+            "id": 2297331,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297331",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 607,
+            "ano": 2021,
+            "ementa": "Susta a Resolução nº 3, de 31 de agosto de 2021, que determina à Agência Nacional de Energia Elétrica - Aneel que implemente patamar específico das Bandeiras Tarifárias, de que trata o Decreto nº 8.401, de 4 de fevereiro de 2015, para arcar com os custos que especifica."
+        },
+        {
+            "id": 2297384,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297384",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer da Relatora, Dep. Vivi Reis (PSOL-PA), pela aprovação deste, e do PL 333/2015, apensado, com substitutivo."
+        },
+        {
+            "id": 2297388,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297388",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera as Leis nºs 8.212 e 8.213, ambas de 24 de julho de 1991, que dispõem sobre\nos Planos de Custeio e de Benefícios da Previdência Social, para incluir o ministro de\nconfissão religiosa de matriz africana como segurado individual."
+        },
+        {
+            "id": 2297400,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297400",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer da Relatora, Dep. Vivi Reis (PSOL-PA), pela aprovação deste, do PL 5444/2016 e do PL 6275/2019, apensados, com substitutivo."
+        },
+        {
+            "id": 2297401,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297401",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer da Relatora, Dep. Vivi Reis (PSOL-PA), pela aprovação deste, do PL 5444/2016 e do PL 6275/2019, apensados, com substitutivo."
+        },
+        {
+            "id": 2297552,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297552",
+            "siglaTipo": "REC",
+            "codTipo": 375,
+            "numero": 51,
+            "ano": 2021,
+            "ementa": "Recurso contra a apreciação conclusiva do Projeto de Lei n° 5.479 de 2019."
+        },
+        {
+            "id": 2298022,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298022",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3102,
+            "ano": 2021,
+            "ementa": "Modifica a Lei 12,764, de 27 de dezembro de 2012, para dispor sobre o Tratamento Multidisciplinar de Saúde e Educacional para pacientes com Transtorno do Espetro Autista e estabelece prazo para seu início."
+        },
+        {
+            "id": 2298433,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298433",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 32,
+            "ano": 2021,
+            "ementa": "Requer aditamento ao requerimento nº 24/2021 CINDRA, para inclusão de convidado na realização de audiência pública."
+        },
+        {
+            "id": 2298434,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298434",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 315,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública para debater as condições de trabalho das e dos profissionais da Fisioterapia e da Terapia Ocupacional."
+        },
+        {
+            "id": 2298601,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298601",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 1817,
+            "ano": 2021,
+            "ementa": "Requer  a convocação do Sr Ministro Paulo Guedes para prestar esclarecimentos sobre as graves denuncias sobre a não concessão do auxílio Bolsa Familia para mihoes de familias em meio à crise sanitária mundial."
+        },
+        {
+            "id": 2298662,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298662",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 110,
+            "ano": 2021,
+            "ementa": "Solicita realização de audiência pública para tratar do PL 1788/2021"
+        },
+        {
+            "id": 2298683,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298683",
+            "siglaTipo": "REQ",
+            "codTipo": 312,
+            "numero": 1823,
+            "ano": 2021,
+            "ementa": "Solicita a retirada de tramitação do Projeto de Lei nº 7837/2017. Senhor Presidente, Com fulcro no art. 104, do Regimento Interno da Câmara dos Deputados, venho respeitosamente requerer a Vossa Excelência a retirada de tramitação do Projeto de Lei nº 3102/2021, de autoria dos signatários, Modifica a Lei 12,764, de 27 de dezembro de 2012, para dispor sobre o Tratamento Multidisciplinar de Saúde e Educacional para pacientes com Transtorno do Espetro Autista. O projeto será retirado de pauta para reformulação, ouvindo um mais amplo espectro social."
+        },
+        {
+            "id": 2299267,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299267",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3213,
+            "ano": 2021,
+            "ementa": "Dispõe sobre o direito à autodeterminação da identidade de gênero e expressão de gênero e à proteção das características sexuais de cada pessoa, e dá outras providências."
+        },
+        {
+            "id": 2299481,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299481",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 324,
+            "ano": 2021,
+            "ementa": "Solicita que seja convocado o Senhor Eduardo Queiroga, Ministro de Estado da Saúde, a fim de prestar informações sobre a suspensão da vacinação de adolescentes de 12 a 17 sem comorbidades"
+        },
+        {
+            "id": 2299507,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299507",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 327,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Exmo. Sr. Ministro de Estado da Economia, Paulo Guedes, para prestar os devidos esclarecimentos sobre as graves denúncias acerca da não concessão dos benefícios do Programa Bolsa Família para mais de um milhão de famílias, em meio à crise social e sanitária."
+        },
+        {
+            "id": 2299556,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299556",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 115,
+            "ano": 2021,
+            "ementa": "Requer a realização de diligência desta Comissão ao Estado do Pará com vistas a acompanhar casos de abuso e exploração sexual de crianças e adolescentes, bem como a realização de audiências com órgãos locais e entidades da sociedade civil conforme especifica."
+        },
+        {
+            "id": 2300452,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2300452",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 341,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública para debater o Projeto de lei nº 478 de 2007 e apensados, que dispõem sobre o Estatuto do Nascituro e dá outras providências."
+        },
+        {
+            "id": 2300515,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2300515",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 119,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública para debater a situação do Programa Bolsa Permanência e seus impactos sobre estudantes indígenas e quilombolas"
+        },
+        {
+            "id": 2300524,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2300524",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 122,
+            "ano": 2021,
+            "ementa": "Requer encaminhamento de solicitação de informações à Excelentíssima Presidenta do Tribunal de Contas da União, Sra. Ministra Ana Arraes."
+        },
+        {
+            "id": 2300679,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2300679",
+            "siglaTipo": "DOC",
+            "codTipo": 861,
+            "numero": 380,
+            "ano": 2021,
+            "ementa": "Adesão à Frente Parlamentar"
+        },
+        {
+            "id": 2300680,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2300680",
+            "siglaTipo": "DOC",
+            "codTipo": 861,
+            "numero": 383,
+            "ano": 2021,
+            "ementa": "Adesão a Frente Parlamentar registrada."
+        },
+        {
+            "id": 2300803,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2300803",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 123,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública para tratar da Convenção nº 169 da Organização Internacional do Trabalho."
+        },
+        {
+            "id": 2300875,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2300875",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3362,
+            "ano": 2021,
+            "ementa": "Estabelece a competência da justiça comum para o processamento e julgamento de crimes sexuais quando praticados por militar em situação de atividade ou assemelhado contra vítima civil ou militar."
+        },
+        {
+            "id": 2301428,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2301428",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3421,
+            "ano": 2021,
+            "ementa": "Dispõe sobre as diretrizes da política de preços para gasolina, diesel e gás liquefeito de petróleo – GLP, aplicadas à Petróleo Brasileiro S/A – Petrobras."
+        },
+        {
+            "id": 2301534,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2301534",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 37,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública sobre as providências em razão ameaça aos povos quilombolas do Jalapão, em meio ao processo e iminência de concretização da concessão do Parque Estadual para a iniciativa privada, sem haver a demarcação e titulação dos territórios quilombolas, localizado nos municípios de Mateiros, Ponte Alta do Tocantins e São Félix do Tocantins."
+        },
+        {
+            "id": 2302139,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302139",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 4,
+            "ano": 0,
+            "ementa": "Emenda para constitucionalizar os valores mínimos devidos pela fazenda pública referente as requisições de pequenos valores."
+        },
+        {
+            "id": 2302208,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302208",
+            "siglaTipo": "REQ",
+            "codTipo": 312,
+            "numero": 1975,
+            "ano": 2021,
+            "ementa": "Modifica a Lei 12.764, de 27 de dezembro de 2012, para dispor sobre o Tratamento Multidisciplinar de Saúde e Educacional para pacientes com Transtorno do Espectro Autista e estabelece prazo para seu início."
+        },
+        {
+            "id": 2302586,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302586",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 40,
+            "ano": 2021,
+            "ementa": "Requer aditamento ao requerimento nº 23/2021 CINDRA, para inclusão de convidado à audiência pública."
+        },
+        {
+            "id": 2303110,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303110",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 1257,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro de Estado da Defesa, Walter Souza Braga Netto, informações acerca da autorização de ingresso e a permanência temporária de forças militares dos Estados Unidos da América (EUA) no Brasil."
+        },
+        {
+            "id": 2303176,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303176",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 88,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública da Comissão de Cultura para debater “A disputa das cidades como território preto!”."
+        },
+        {
+            "id": 2303244,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303244",
+            "siglaTipo": "REQ",
+            "codTipo": 349,
+            "numero": 2101,
+            "ano": 2021,
+            "ementa": "Requer a criação da Comissão Temporária Externa, sem ônus para esta Casa, para acompanhar a situação dos povos indígenas Yanomami."
+        },
+        {
+            "id": 2303250,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303250",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 369,
+            "ano": 2021,
+            "ementa": "Requer a inclusão de convidados na Audiência Pública que debaterá as condições de trabalho das e dos profissionais da Fisioterapia e da Terapia Ocupacional, tema aprovado por meio do Requerimento 315/2021."
+        },
+        {
+            "id": 2303353,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303353",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 127,
+            "ano": 2021,
+            "ementa": "Requer seja convocado o Ministro da Justiça e Segurança Pública para prestar esclarecimentos e apresentar explicações sobre a morte de crianças da etnia Yanomami ocorridas na comunidade Macuxi Yano, na Terra indígena Yanomami."
+        },
+        {
+            "id": 2303773,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303773",
+            "siglaTipo": "REQ",
+            "codTipo": 308,
+            "numero": 2164,
+            "ano": 2021,
+            "ementa": "Requer o encaminhamento da PEC no. 14/2021, que altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais, à Comissão de Constituição, Justiça e Cidadania."
+        },
+        {
+            "id": 2304152,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304152",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 382,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública para debater o PL no. 5056/2013 que “Dispõe sobre a profissão de Técnico em Nutrição e Dietética, regulamenta o seu exercício e dá outras providências.”"
+        },
+        {
+            "id": 2304585,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304585",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Dá nova redação às alíneas b e c do inciso XXIII do art. 21 da Constituição Federal, para autorizar a produção, a comercialização e a utilização de radioisótopos para a pesquisa e uso médicos."
+        },
+        {
+            "id": 2304867,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304867",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 45,
+            "ano": 2021,
+            "ementa": "Solicita Informações ao Ministério da Infraestrutura relativas a lançamento para contratação para integrada de empresa para o desenvolvimento dos projetos básicos e executivos e execução das obras e demais operações necessárias e suficiente para a construção  de ponte sobre o rio Xingu, na Rodovia BR- 230/PA."
+        },
+        {
+            "id": 2304959,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304959",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 37,
+            "ano": 2021,
+            "ementa": "Altera o art. 5º, caput, acrescenta o inciso X ao art. 170 e o inciso VIII ao §1º do artigo 225 da Constituição Federal."
+        },
+        {
+            "id": 2305816,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305816",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3905,
+            "ano": 2021,
+            "ementa": "Estabelece o marco regulatório do fomento à cultura, no âmbito da administração pública da União, dos Estados, do Distrito Federal e dos Municípios."
+        },
+        {
+            "id": 2306064,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306064",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 2327,
+            "ano": 2021,
+            "ementa": "Requer a coautoria no Projeto de Lei 3421, de 2021, que \"Dispõe sobre as diretrizes da política de preços para gasolina, diesel e gás liquefeito de petróleo – GLP, aplicadas à Petróleo Brasileiro S/A – Petrobras.\""
+        },
+        {
+            "id": 2306065,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306065",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 2328,
+            "ano": 2021,
+            "ementa": "Requer a coautoria no Projeto de Decreto Legislativo 607, de 2021, que \"Susta a Resolução nº 3, de 31 de agosto de 2021, que determina à Agência Nacional de Energia Elétrica - Aneel que implemente patamar específico das Bandeiras Tarifárias, de que trata o Decreto nº 8.401, de 4 de fevereiro de 2015, para arcar com os custos que especifica”."
+        },
+        {
+            "id": 2306066,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306066",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 2329,
+            "ano": 2021,
+            "ementa": "Requer a coautoria no Projeto de Decreto Legislativo 550, de 2021, que “Susta os efeitos da Instrução Normativa SGP/SEDGG/ME nº 54, de 20 de maio de 2021, que “Dispõe sobre os critérios e procedimentos gerais a serem observados pelos órgãos e entidades integrantes do Sistema de Pessoal Civil da Administração Federal (SIPEC), nas situações de paralisação decorrentes do exercício do direito de greve, para o desconto da remuneração correspondente aos dias de paralisação e para a elaboração do respectivo Termo de Acordo para compensação de horas não trabalhadas.”"
+        },
+        {
+            "id": 2306068,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306068",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 2330,
+            "ano": 2021,
+            "ementa": "Requer a coautoria no Projeto de Decreto Legislativo 377, de 2021, que \"Susta os efeitos da Portaria Interministerial nº 655, de 23 de junho de 2021, que \"Dispõe sobre a restrição excepcional e temporária de entrada no País de estrangeiros, de qualquer nacionalidade, conforme recomendação da Agência Nacional de Vigilância Sanitária - Anvisa”."
+        },
+        {
+            "id": 2306070,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306070",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 2331,
+            "ano": 2021,
+            "ementa": "Requer a coautoria no Projeto de Decreto Legislativo 294, de 2021, que “Susta a Resolução Homologatória nº 2888, de 29 de junho de 2021, que estabelece as faixas de acionamento e os adicionais das bandeiras tarifárias, de que trata o submódulo 6.8 do PRORET, com vigência a partir de 1º de julho de 2021”"
+        },
+        {
+            "id": 2306111,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306111",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 1323,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro de Estado das Relações Exteriores, Sr. Carlos França, informações acerca da delegação brasileira na COP-26 em Glasgow, Escócia."
+        },
+        {
+            "id": 2306128,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306128",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 2335,
+            "ano": 2021,
+            "ementa": "Requer inclusão de coautorias ao PL 3905/2021, que \"Estabelece o marco regulatório do fomento à cultura, no âmbito da administração pública da União, dos Estados, do Distrito Federal e dos Municípios.\", do qual sou autora."
+        },
+        {
+            "id": 2306352,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306352",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3945,
+            "ano": 2021,
+            "ementa": "Cria a Semana Nacional de Apoio à Amamentação Negra, a ser celebrada entre os dias 25 e 31 de agosto de cada ano."
+        },
+        {
+            "id": 2307025,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307025",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 2382,
+            "ano": 2021,
+            "ementa": "Requer adição de coautoria ao PL no 3213/2021 que “Dispõe sobre o direito à autodeterminação da identidade de gênero e expressão de gênero e à proteção das características sexuais de cada pessoa, e dá outras providências.”"
+        },
+        {
+            "id": 2307073,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307073",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 139,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública para debater os impactos socioambientais e o cumprimento da legislação por parte do Projeto Volta Grande de Mineração no Pará."
+        },
+        {
+            "id": 2307264,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307264",
+            "siglaTipo": "REQ",
+            "codTipo": 349,
+            "numero": 2396,
+            "ano": 2021,
+            "ementa": "Requer a Criação de Comissão Temporária Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar a situação institucional do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP e a realização Exame Nacional do Ensino Médio (Enem), entre outras ações desenvolvidas pelo órgão."
+        },
+        {
+            "id": 2307333,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307333",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4032,
+            "ano": 2021,
+            "ementa": "Inclui nos efeitos da condenação penal a proibição de nomeação para cargos públicos em comissão, quando a condenação decorrer dos crimes elencados na Lei nº 7.716, de 5 de janeiro de 1989."
+        },
+        {
+            "id": 2307416,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307416",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 140,
+            "ano": 2021,
+            "ementa": "Requer a realização de audiência pública conjunta com a CLP para debater o dia 20 de novembro, dia da Consciência Negra, a partir de dois eixos: 1) A denúncia da Mortalidade Materna da Mulher Negra e 2) Dados do Atlas da Violência 2021."
+        },
+        {
+            "id": 2307437,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307437",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer da Relatora, Dep. Vivi Reis (PSOL-PA), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2307441,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307441",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Dispõe sobre os efeitos jurídicos das decisões da Comissão Interamericana de Direitos Humanos e da Corte Interamericana de Direitos Humanos e dá outras providências."
+        },
+        {
+            "id": 2307616,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307616",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 2412,
+            "ano": 2021,
+            "ementa": "Criação da Frente Parlamentar de Prevenção de Doenças Pulmonares Graves."
+        },
+        {
+            "id": 2307898,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307898",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 1358,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro de Estado do Meio Ambiente, Sr. Joaquim Leite, informações acerca do pavilhão do Brasil na COP-26 em Glasgow, Escócia."
+        },
+        {
+            "id": 2307899,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307899",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 1359,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro de Estado das Relações Exteriores, Sr. Carlos França, informações acerca do pavilhão do Brasil na COP-26 em Glasgow, Escócia."
+        },
+        {
+            "id": 2307940,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307940",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer da Relatora, Dep. Vivi Reis (PSOL-PA), pela aprovação deste, com substitutivo."
+        },
+        {
+            "id": 2307941,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307941",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Dispõe sobre a prorrogação do prazo de vigência da Lei de Cotas."
+        },
+        {
+            "id": 2308081,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308081",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 404,
+            "ano": 2021,
+            "ementa": "Requer o envio de Indicação ao Poder Executivo (Ministério da Cidadania), para sugerir a prorrogação do prazo para execução dos recursos do Programa de Aquisição de Alimentos (PAA) diante do agravamento da situação da fome no Brasil."
+        },
+        {
+            "id": 2308082,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308082",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 405,
+            "ano": 2021,
+            "ementa": "Requer a realização de audiência pública para debater a situação da fome das crianças e adolescentes no Brasil e medidas para seu enfrentamento no âmbito do Sistema Único de Saúde – SUS, Sistema Único de Assistência Social – SUAS e da Seguridade Social."
+        },
+        {
+            "id": 2308789,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308789",
+            "siglaTipo": "REQ",
+            "codTipo": 349,
+            "numero": 2475,
+            "ano": 2021,
+            "ementa": "Requer a constituição de Comissão Externa com a finalidade de acompanhar as graves denúncias acerca da chacina do complexo do Salgueiro, no município de São Gonçalo (RJ)."
+        },
+        {
+            "id": 2309384,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309384",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 417,
+            "ano": 2021,
+            "ementa": "Requer a convocação do Ministro da Saúde, Sr. Marcelo Queiroga, para que preste esclarecimentos a esta Comissão acerca do recente cenário da pandemia de COVID-19, em especial a tomada de providências do governo para controle da variante Ômicron."
+        },
+        {
+            "id": 2309407,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309407",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 148,
+            "ano": 2021,
+            "ementa": "Requer a realização, no âmbito da Comissão de Direitos Humanos e Minorias, do Seminário de Mudanças Climáticas, Direitos Humanos e Amazônia, em Belém, no Pará."
+        },
+        {
+            "id": 2309611,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309611",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 419,
+            "ano": 2021,
+            "ementa": "Requer o convite ao Diretor-Presidente da ANVISA, Sr. Antonio Barra Torres, para prestar esclarecimentos a esta Comissão acerca do recente cenário da pandemia de COVID-19, em especial o controle da variante Ômicron."
+        },
+        {
+            "id": 2309822,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309822",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 1406,
+            "ano": 2021,
+            "ementa": "Requer ao Ministro de Estado da Justiça e Segurança Pública, SR. ANDERSON TORRES, informações relativas às interferências políticas, intimidações e exonerações de delegados/as da Polícia Federal durante o Governo Bolsonaro."
+        },
+        {
+            "id": 2309875,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309875",
+            "siglaTipo": "REQ",
+            "codTipo": 343,
+            "numero": 2598,
+            "ano": 2021,
+            "ementa": "Requer nos termos do Artigo 91, I, do RICD, que  sessão plenária da Câmara dos Deputados seja transformada em Comissão Geral para debater o piso salarial das categorias da enfermagem no Brasil bem como a redução da jornada de trabalho para 30 horas semanais."
+        },
+        {
+            "id": 2310016,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2310016",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 2608,
+            "ano": 2021,
+            "ementa": "Requer a realização de Sessão Solene desta Casa, em março de 2022, para apresentar os resultados alcançados no âmbito do Observatório Parlamentar da Revisão Periódica Universal e para celebrar a assinatura de prorrogação da parceria com o Alto Comissariado das Nações Unidas para os Direitos Humanos e a integração das demais agências, fundos e programas do Sistema Nações Unidas do Brasil ao projeto."
+        },
+        {
+            "id": 2310027,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2310027",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4253,
+            "ano": 2021,
+            "ementa": "Altera a Lei nº 14.216, de 7 de outubro de 2021, para prorrogar seus efeitos e incluir a suspensão de despejos em áreas rurais"
+        },
+        {
+            "id": 2310278,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2310278",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4281,
+            "ano": 2021,
+            "ementa": "Altera e acrescenta dispositivo à Lei 6.015 de 31 de dezembro de 1973 que “Dispõe sobre os registros públicos, e dá outras providências”."
+        },
+        {
+            "id": 2310559,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2310559",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 152,
+            "ano": 2021,
+            "ementa": "Solicita realização de Seminário para tratar das graves denúncias acerca da chacina do Complexo do Salgueiro, no município de São Gonçalo (RJ)."
+        },
+        {
+            "id": 2311266,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311266",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4346,
+            "ano": 2021,
+            "ementa": "Estabelece as Diretrizes Nacionais de Promoção e Defesa dos Direitos Humanos dos Profissionais de Segurança Pública."
+        },
+        {
+            "id": 2311268,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311268",
+            "siglaTipo": "REQ",
+            "codTipo": 349,
+            "numero": 2730,
+            "ano": 2021,
+            "ementa": "Requer a constituição de Comissão Externa com a finalidade de acompanhar os desdobramentos do incidente envolvendo a explosão de um galpão da empresa Imerys, na cidade de Barcarena (PA)."
+        },
+        {
+            "id": 2311869,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311869",
+            "siglaTipo": "CVO",
+            "codTipo": 195,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer com Complementação de Voto, Dep. Vivi Reis (PSOL-PA), pela aprovação deste."
+        },
+        {
+            "id": 2311871,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311871",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Altera os arts. 6º e 7º da Lei no 12.711, de 29 de agosto de 2012 (Lei de Cotas), para estabelecer que a avaliação do programa de acesso à educação superior será realizada no prazo de 20 (vinte) anos a contar da data de publicação da Lei e dá outras providências."
+        },
+        {
+            "id": 2312116,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2312116",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4406,
+            "ano": 2021,
+            "ementa": "Altera a Lei nº 3.765, de 4 de maio de 1960, que dispõe sobre as pensões militares."
+        },
+        {
+            "id": 2312443,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2312443",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4435,
+            "ano": 2021,
+            "ementa": "Introduz novo parágrafo ao art. 31 da Lei no 12. 527, de 2011, para vedar sigilo sobre movimentação de agentes políticos e autoridades."
+        },
+        {
+            "id": 2312444,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2312444",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4436,
+            "ano": 2021,
+            "ementa": "Altera a Lei nº 7.802, de 11 de julho de 1989, para dispor sobre o registro de agrotóxicos e afins."
+        },
+        {
+            "id": 2312521,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2312521",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 430,
+            "ano": 2021,
+            "ementa": "Solicita que seja CONVOCADO o Senhor Marcelo Queiroga, Ministro de Estado da Saúde, a fim de prestar informações sobre o posicionamento e atuação da pasta quanto à exigência de certificação de vacinação para entrada no país e, também, devido ao seu não comparecimento em reunião agendada e confirmada pela pasta para o dia 15 de dezembro de 2021 nesta CSSF."
+        },
+        {
+            "id": 2312532,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2312532",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4449,
+            "ano": 2021,
+            "ementa": "Institui o Programa Nacional de Proteção a Parlamentar, de qualquer nível da Federação, que esteja exposto a grave ameaça que dificulte ou possa impossibilitar o exercício do mandato."
+        },
+        {
+            "id": 2312938,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2312938",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 1483,
+            "ano": 2021,
+            "ementa": "Sugere a ratificação da Convenção 190 da Organização Internacional do Trabalho - OIT."
+        },
+        {
+            "id": 2313125,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313125",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 2862,
+            "ano": 2021,
+            "ementa": "Requer adição de coautoria ao PL 4253/2021."
+        },
+        {
+            "id": 2313163,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313163",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 154,
+            "ano": 2021,
+            "ementa": "Requer seja convocado o Ministro da Saúde para prestar esclarecimentos e apresentar explicações sobre a situação da saúde e desnutrição das crianças indígenas da Terra indígena Yanomami."
+        },
+        {
+            "id": 2313173,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313173",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 1479,
+            "ano": 2021,
+            "ementa": "Requer ao Ministro da Saúde, Sr. Marcelo Queiroga, informações sobre consulta pública da Comissão Nacional de Incorporação de Tecnologias no SUS (Conitec) acerca do uso da eletroconvulsoterapia para tratamento do autismo."
+        },
+        {
+            "id": 2313222,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313222",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4540,
+            "ano": 2021,
+            "ementa": "Altera o artigo 155 do Código Penal para prever o furto por necessidade e o furto insignificante e dá outras providências"
+        },
+        {
+            "id": 2313511,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313511",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Dispõe sobre o uso de nome afetivo para crianças e adolescentes que estejam sob a guarda da família adotiva."
+        },
+        {
+            "id": 2313573,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313573",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 25,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1075/2021"
+        },
+        {
+            "id": 2313634,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313634",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 22,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1076/2021"
+        },
+        {
+            "id": 2313797,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313797",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 19,
+            "ano": 2022,
+            "ementa": "Dispõe sobre medidas emergenciais de amparo aos agricultores familiares para mitigar os impactos socioeconômicos da seca e das enchentes que incidem sobre o país desde o ano de 2021, e dá outras providências."
+        },
+        {
+            "id": 2313810,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313810",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 4,
+            "ano": 2022,
+            "ementa": "Susta os efeitos do Decreto 10.935, de 12 de janeiro de 2022, do Poder Executivo, que dispõe sobre a proteção das cavidades naturais subterrâneas existentes no território nacional."
+        },
+        {
+            "id": 2313899,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313899",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 83,
+            "ano": 2022,
+            "ementa": "Institui o auxilio emergencial para situacoes decorrentes de secas e enchentes"
+        },
+        {
+            "id": 2313900,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313900",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 8,
+            "ano": 2022,
+            "ementa": "Indica Dep Sâmia Bomfim como nova Líder do PSOL"
+        },
+        {
+            "id": 2313980,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313980",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 17,
+            "ano": 2022,
+            "ementa": "Requer a inclusão na Ordem do Dia do PLP no 161/2015"
+        },
+        {
+            "id": 2313987,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313987",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 14,
+            "ano": 2022,
+            "ementa": "Solicita ao Ministro de Estado de Minas e Energia, informações e documentos relativos ao Projeto Volta Grande, da empresa canadense Belo Sun Mineração Ltda."
+        },
+        {
+            "id": 2313988,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313988",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 15,
+            "ano": 2022,
+            "ementa": "Solicita ao Ministro de Estado da Justiça e Segurança Pública, documentos relativos ao Projeto Volta Grande, da empresa canadense Belo Sun Mineração Ltda."
+        },
+        {
+            "id": 2313989,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313989",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 16,
+            "ano": 2022,
+            "ementa": "Solicita ao Ministro de Estado da Agricultura, Pecuária e Abastecimento, informações e documentos relativos ao Projeto Volta Grande, da empresa canadense Belo Sun Mineração Ltda."
+        },
+        {
+            "id": 2314052,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314052",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 35,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão Solene, em 28 de abril de 2022, em homenagem ao Dia Nacional da Trabalhadora Doméstica."
+        },
+        {
+            "id": 2314053,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314053",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 36,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão Solene em 24 de novembro de 2022, no Plenário da Câmara dos Deputados, em homenagem à Política de Redução de Danos."
+        },
+        {
+            "id": 2314054,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314054",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 37,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão Solene em 24 de novembro de 2022, no Plenário da Câmara dos Deputados, em homenagem à Política de Redução de Danos."
+        },
+        {
+            "id": 2314055,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314055",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 38,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão Solene, em 19 de abril de 2022, no Plenário da Câmara, em homenagem ao Dia dos Povos Indígenas."
+        },
+        {
+            "id": 2314056,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314056",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 39,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão Solene, em 29 de novembro de 2022, no Plenário da Câmara, em homenagem ao Dia Internacional de Solidariedade com o Povo Palestino."
+        },
+        {
+            "id": 2314057,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314057",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 40,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão Solene, em 28 de junho de 2022, no Plenário da Câmara, em homenagem ao Dia Internacional do Orgulho LGBTQIA+"
+        },
+        {
+            "id": 2314058,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314058",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 41,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão Solene, em\n25 de julho de 2022, em homenagem ao Dia\nda Mulher Negra, Latina e Caribenha."
+        },
+        {
+            "id": 2314059,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314059",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 42,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão\nSolene, em 06 de junho de 2022, Dia\ndo Meio Ambiente, no Plenário da\nCâmara em homenagem aos\nDefensores Socioambientais que\natuam no Brasil."
+        },
+        {
+            "id": 2314060,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314060",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 43,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão\nSolene, em 14 de março de 2022, no\nPlenário da Câmara, em homenagem\ne memória da vereadora Marielle\nFranco"
+        },
+        {
+            "id": 2314062,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314062",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 44,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão\nSolene, em 08 de março de 2022, no\nPlenário da Câmara, em homenagem\nao Dia Internacional das Mulheres"
+        },
+        {
+            "id": 2314063,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314063",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 45,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão\nSolene, em 18 de maio de 2022, no\nPlenário da Câmara, em homenagem\nao Dia Nacional da Luta\nAntimanicomial"
+        },
+        {
+            "id": 2314064,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314064",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 46,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão Solene em\nhomenagem ao Dia Internacional da\nEnfermagem e do Enfermeiro."
+        },
+        {
+            "id": 2314065,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314065",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 47,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão\nSolene, em 10 de dezembro de\n2022, no Plenário da Câmara dos\nDeputados, em homenagem ao Dia\nInternacional dos Direitos\nHumanos."
+        },
+        {
+            "id": 2314066,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314066",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 48,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão\nSolene, em 21 de novembro de 2022,\nno Plenário da Câmara, em\nhomenagem ao Dia da Consciência\nNegra."
+        },
+        {
+            "id": 2314067,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314067",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 49,
+            "ano": 2022,
+            "ementa": "Requer a realização de sessão\nsolene, em 24 de março de 2022, no\nplenário da Câmara dos Deputados,\nem comemoração ao Dia\nInternacional do Direito à Verdade."
+        },
+        {
+            "id": 2314069,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314069",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 50,
+            "ano": 2022,
+            "ementa": "Requer a convocação do Exmo. Ministro da Economia, Sr. PAULO GUEDES, para que preste esclarecimentos ao Plenário da Câmara dos Deputados sobre a nomeação do SR. JOÃO JOSÉ TAFNER para o cargo de Corregedor da Receita Federal."
+        },
+        {
+            "id": 2314119,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314119",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 26,
+            "ano": 2022,
+            "ementa": "Solicita à Ministra de Estado da Mulher, Família e Direitos Humanos, Sra. Damares Alves, informações e documentos sobre as providências em relação ao brutal assassinato do refugiado congolês Moïse Kabagambe."
+        },
+        {
+            "id": 2314126,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314126",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 151,
+            "ano": 2022,
+            "ementa": "Altera a Lei nº 8.171, de 17 de janeiro de 1991; a Lei nº 9.077, de 10 de julho de 1995; a Lei nº 8.666, de 21 de junho de 1996; e a Lei nº 1.521, de 26 de 26 de dezembro de 1951, para dispor sobre a gestão dos estoques públicos de alimentos."
+        },
+        {
+            "id": 2314147,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314147",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 161,
+            "ano": 2022,
+            "ementa": "Concede pensão especial à Senhora Ivone Lotsove Lololav, mãe de Moïse Mugenyi Kabagambe, refugiado congolês assassinado no Rio de Janeiro."
+        },
+        {
+            "id": 2314196,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314196",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 73,
+            "ano": 2022,
+            "ementa": "Requer a convocação do Ministro de Estado de Minas e Energia, SR. BENTO ALBUQUERQUE, para prestar esclarecimentos sobre aumento expressivo das autorizações para pesquisa de nióbio na Amazônia e outras regiões."
+        },
+        {
+            "id": 2314329,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314329",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 34,
+            "ano": 2022,
+            "ementa": "Requer informações a respeito do processo de mudança na estrutura administrativa interna do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan)."
+        },
+        {
+            "id": 2314330,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314330",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 35,
+            "ano": 2022,
+            "ementa": "Requer informação a respeito da continuidade das atividades do Mestrado Profissional em Preservação do Patrimônio Cultural do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan)."
+        },
+        {
+            "id": 2314437,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314437",
+            "siglaTipo": "REQ",
+            "codTipo": 150,
+            "numero": 104,
+            "ano": 2022,
+            "ementa": "Requer o comparecimento do Exmo. Sr. Secretário Especial da Cultura, Sr. MÁRIO FRIAS, para que preste esclarecimentos ao Plenário da Câmara dos Deputados sobre a política de cultura do Governo Bolsonaro e gasto do erário público em sua recente viagem a Nova York"
+        },
+        {
+            "id": 2314621,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314621",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 40,
+            "ano": 2022,
+            "ementa": "Susta os efeitos do Decreto nº 10.966, de 11 de fevereiro de 2022, do Poder Executivo, que Institui o Programa de Apoio ao Desenvolvimento da Mineração Artesanal e em Pequena Escala e a Comissão Interministerial para o Desenvolvimento da Mineração Artesanal e em Pequena Escala."
+        },
+        {
+            "id": 2314739,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314739",
+            "siglaTipo": "REQ",
+            "codTipo": 349,
+            "numero": 130,
+            "ano": 2022,
+            "ementa": "Requer a criação da Comissão Temporária Externa, sem ônus para esta Casa, para acompanhar a situação de calamidade pública em decorrência das fortes chuvas que acometeram a região de Petrópolis/RJ."
+        },
+        {
+            "id": 2314827,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314827",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 48,
+            "ano": 2022,
+            "ementa": "Solicita ao Ministro das Relações Exteriores, SR. CARLOS ALBERTO FRANÇA, informações e documentos referentes à viagem da comitiva brasileira à Hungria."
+        },
+        {
+            "id": 2314864,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314864",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 140,
+            "ano": 2022,
+            "ementa": "Requer a convocação do Exmo. Ministro da Defesa do Brasil, Sr. WALTER BRAGA NETTO, para que preste esclarecimentos ao Plenário da Câmara dos Deputados sobre documento da área técnica do Tribunal de Contas da União que aponta 'indícios robustos' de fraude por fornecedora de insumo para cloroquina do Exército Brasileiro"
+        },
+        {
+            "id": 2314865,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314865",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 141,
+            "ano": 2022,
+            "ementa": "Requer a convocação do Exmo. Ministro do Trabalho e Previdência do Brasil, Sr. ONYX LORENZONI, para que preste esclarecimentos ao Plenário da Câmara dos Deputados sobre a sua articulação para extinguir a Comissão Nacional para a Implementação da Convenção-Quadro para o Controle do Tabaco (Conicq)."
+        },
+        {
+            "id": 2314876,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314876",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 51,
+            "ano": 2022,
+            "ementa": "Solicita ao Ministro de Estado das Relações Exteriores, Sr. Carlos Alberto Franco França, informações acerca da viagem do Presidente da República e sua comitiva a Moscou (Rússia), onde se reuniu com o Presidente russo  Vladimir Putin."
+        },
+        {
+            "id": 2315008,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2315008",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 150,
+            "ano": 2022,
+            "ementa": "Requer a convocação do Exmo. Ministro da Educação do Brasil, Sr. MILTON RIBEIRO, para que preste esclarecimentos ao Plenário da Câmara dos Deputados sobre os onze servidores da Consultoria Jurídica do MEC que pediram demissão dos cargos em comissão coletivamente."
+        },
+        {
+            "id": 2315195,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2315195",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 65,
+            "ano": 2022,
+            "ementa": "Requer, da Ministra da Agricultura, Pecuária e Abastecimento, informações sobre a edição da Instrução Normativa nº 111, de 22 de dezembro de 2021, do Instituto Nacional de Colonização e Reforma Agrária- Incra."
+        },
+        {
+            "id": 2316150,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2316150",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 57,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1090/2021"
+        },
+        {
+            "id": 2316151,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2316151",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 58,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1090/2021"
+        },
+        {
+            "id": 2316152,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2316152",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 59,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1090/2021"
+        },
+        {
+            "id": 2316153,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2316153",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 60,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1090/2021"
+        },
+        {
+            "id": 2316657,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2316657",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 189,
+            "ano": 2022,
+            "ementa": "Requer a convocação do Exma. Ministra da Mulher, da Família e dos Direitos Humanos, Sra. DAMARES ALVES, para que preste esclarecimentos ao Plenário da Câmara dos Deputados sobre a destituição de nove entidades do Comitê Nacional de Prevenção e Combate à Tortura"
+        },
+        {
+            "id": 2316790,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2316790",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 80,
+            "ano": 2022,
+            "ementa": "Requer informações ao Ministro da Saúde sobre os processos de liberação de medicamentos."
+        },
+        {
+            "id": 2316791,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2316791",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 81,
+            "ano": 2022,
+            "ementa": "Requer informações ao Ministro da Economia acerca de procedimentos de investigação no âmbito da Receita Federal."
+        },
+        {
+            "id": 2317239,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317239",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 197,
+            "ano": 2022,
+            "ementa": "Requer inclusão de coautorias ao PDL 04/2022, que \"Susta os efeitos do Decreto 10.935, de 12 de janeiro de 2022, do Poder Executivo, que dispõe  sobre a proteção das cavidades naturais subterrâneas existentes no território nacional\", do qual sou autora."
+        },
+        {
+            "id": 2317242,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317242",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 87,
+            "ano": 2022,
+            "ementa": "Requer do Ministério das Relações Exteriores informações sobre os protocolos de evacuação e repatriação dos brasileiros residentes na Ucrânia."
+        },
+        {
+            "id": 2317256,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317256",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 198,
+            "ano": 2022,
+            "ementa": "Requer a convocação do Ministro de Estado de Relações Exteriores, SR. CARLOS ALBERTO FRANÇA, para prestar esclarecimentos sobre a ausência de plano de evacuação de brasileiros da Ucrânia."
+        },
+        {
+            "id": 2317353,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317353",
+            "siglaTipo": "REQ",
+            "codTipo": 441,
+            "numero": 216,
+            "ano": 2022,
+            "ementa": "Requer aprovação de moção de repúdio às declarações do Deputado Estadual Arthur do Val, do Estado de São Paulo, em flagrante episódio de misoginia e violência de gênero contra mulheres ucranianas e refugiadas de guerra."
+        },
+        {
+            "id": 2317618,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317618",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 260,
+            "ano": 2022,
+            "ementa": "Requer a convocação do Ministro da Segurança e Justiça Pública, Sr. ANDERSON TORRES, para prestar esclarecimentos ao Plenário da Câmara dos Deputados sobre denúncias de descarte de documentos do Arquivo Nacional acerca da ditadura militar brasileira."
+        },
+        {
+            "id": 2317900,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317900",
+            "siglaTipo": "REQ",
+            "codTipo": 355,
+            "numero": 287,
+            "ano": 2022,
+            "ementa": "Requer moção de pesar pelo falecimento da Profa. Lisete Regina Gomes Arelaro."
+        },
+        {
+            "id": 2317989,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317989",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 301,
+            "ano": 2022,
+            "ementa": "Requer a inclusão na Ordem do Dia do Plenário da Representação 1/2021, \"em face do Senhor Deputado Daniel Silveira, por procedimento incompatível com o decoro parlamentar\"."
+        },
+        {
+            "id": 2318099,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318099",
+            "siglaTipo": "PDL",
+            "codTipo": 550,
+            "numero": 59,
+            "ano": 2022,
+            "ementa": "Susta os efeitos da Portaria MJSP nº 47, de 15 de março de 2022, do Ministério da Justiça e Segurança Pública, que concede a Medalha do Mérito Indigenista, como reconhecimento pelos serviços relevantes em caráter altruísticos, relacionados com o bem-estar, a proteção e a defesa das comunidades indígenas."
+        },
+        {
+            "id": 2318163,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318163",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 60,
+            "ano": 2022,
+            "ementa": "Susta a Portaria nº 47, de 15 de julho de 2022, do Ministério da Justiça e Segurança Pública, que “concede a Medalha do Mérito Indigenista, como reconhecimento pelos serviços relevantes em caráter altruísticos, relacionados com o bem-estar, a proteção e a defesa das comunidades indígenas”."
+        },
+        {
+            "id": 2318246,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318246",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 339,
+            "ano": 2022,
+            "ementa": "Requer a realização de Sessão Solene no dia 19 de abril de 2022 em homenagem ao Abril Indígena."
+        },
+        {
+            "id": 2318429,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318429",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 378,
+            "ano": 2022,
+            "ementa": "Requer a convocação do Exmo. Ministro de Estado da Educação, Sr. Milton Ribeiro, para que preste esclarecimentos ao Plenário da Câmara dos Deputados acerca de denúncias de tráfico de influência e outras irregularidades relacionadas à sua gestão à frente do MEC."
+        },
+        {
+            "id": 2318855,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318855",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 40,
+            "ano": 2022,
+            "ementa": "Revoga dispositivo da Lei Complementar nº 173, de maio de 2020, para restituir a contagem de período aquisitivo de servidores, vedada pelo Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV2 (COVID19)."
+        },
+        {
+            "id": 2319045,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319045",
+            "siglaTipo": "REQ",
+            "codTipo": 150,
+            "numero": 465,
+            "ano": 2022,
+            "ementa": "Requer o comparecimento do Presidente da Petrobrás, Sr. Adriano Pires, para prestar informações sobre as suas declarações públicas em defesa da privatização da empresa."
+        },
+        {
+            "id": 2319463,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319463",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 183,
+            "ano": 2022,
+            "ementa": "Requer ao Ministro de Estado Chefe da Secretaria-geral da Presidência da República, SR. LUIZ EDUARDO RAMOS, esclarecimentos sobre a denúncia de que o Planalto ofereceu cargos pela morte de ex-PM, Adriano da Nóbrega, ligado à família Bolsonaro."
+        },
+        {
+            "id": 2319581,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319581",
+            "siglaTipo": "PRLP",
+            "codTipo": 891,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "PARECER DE PLENÁRIO PELA COMISSÃO ESPECIAL DESTINADA A PROFERIR PARECER AO PROJETO DE LEI Nº 4.251, DE 2021, E APENSADO"
+        },
+        {
+            "id": 2319625,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319625",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 87,
+            "ano": 2022,
+            "ementa": "Susta os efeitos da Portaria nº 715, do Ministério da Saúde, que “Altera a Portaria de Consolidação GM/MS nº 3, de 28 de setembro de 2017, para instituir a Rede de Atenção Materna e Infantil (Rami)”"
+        },
+        {
+            "id": 2319628,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319628",
+            "siglaTipo": "REQ",
+            "codTipo": 441,
+            "numero": 540,
+            "ano": 2022,
+            "ementa": "Requer aprovação de moção de repúdio ao vereador da Câmara Municipal do Rio de Janeiro, Gabriel Monteiro (PL), em virtude dos episódios de assédio moral, assédio sexual, estupro, fraude em seus vídeos e distribuição de material pornográfico envolvendo menores de idade."
+        },
+        {
+            "id": 2319806,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319806",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 563,
+            "ano": 2022,
+            "ementa": "Requer a convocação do Exmo. Ministro-Chefe da Casa Civil, SR. CIRO NOGUEIRA, para que preste esclarecimentos ao Plenário da Câmara dos Deputados acerca do esquema de desvio de recursos do FNDE."
+        },
+        {
+            "id": 2319842,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319842",
+            "siglaTipo": "REQ",
+            "codTipo": 356,
+            "numero": 566,
+            "ano": 2022,
+            "ementa": "Requer a convocação do Exmo. Ministro-Chefe do Gabinete de Segurança Institucional - GSI, SR. AUGUSTO HELENO, para que preste esclarecimentos ao Plenário da Câmara dos Deputados acerca do sigilo imposto às reuniões do Presidente da República com pastores envolvidos em esquemas de corrupção."
+        },
+        {
+            "id": 2319966,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319966",
+            "siglaTipo": "PRLP",
+            "codTipo": 891,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "PARECER DE PLENÁRIO PELA COMISSÃO ESPECIAL DESTINADA A PROFERIR PARECER AO PROJETO DE LEI Nº 4.251, DE 2021, E APENSADO"
+        },
+        {
+            "id": 2320066,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320066",
+            "siglaTipo": "PRLP",
+            "codTipo": 891,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "PARECER DE PLENÁRIO PELA COMISSÃO ESPECIAL DESTINADA A PROFERIR PARECER AO PROJETO DE LEI Nº 4.251, DE 2021, E APENSADO"
+        },
+        {
+            "id": 2320235,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320235",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 247,
+            "ano": 2022,
+            "ementa": "Solicita ao Ministro de Estado da Economia, Sr. Paulo Guedes, informações acerca das orientações sobre demissões no Quadro de Apoio do Banco da Amazônia (BASA)."
+        },
+        {
+            "id": 2320249,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320249",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 251,
+            "ano": 2022,
+            "ementa": "Solicita ao Ministro de Estado da Educação, Sr. Victor Godoy Veiga, informações acerca de repasses de recursos do FUNDEB ao município de Açailândia (MA)."
+        },
+        {
+            "id": 2320254,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320254",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 601,
+            "ano": 2022,
+            "ementa": "Requer a convocação do Ministro das Relações Exteriores, SR. CARLOS ALBERTO FRANÇA, para prestar esclarecimentos sobre o sigilo imposto a documentos solicitados por este parlamento, por meio de requerimentos de informações, sobre a viagem das comitivas brasileiras à Rússia e à Ucrânia."
+        },
+        {
+            "id": 2320255,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320255",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 602,
+            "ano": 2022,
+            "ementa": "Requer o comparecimento do Presidente do Instituto Nacional de Segurança Social (INSS), SR. GUILHERME SERRANO, para que preste esclarecimentos sobre a ausência de novos concursos públicos e reposição salarial e melhores condições de trabalho para as trabalhadoras e trabalhadores do INSS."
+        },
+        {
+            "id": 2320269,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320269",
+            "siglaTipo": "PDL",
+            "codTipo": 557,
+            "numero": 101,
+            "ano": 2022,
+            "ementa": "Susta os efeitos do Decreto de 21 de abril de 2022, do Poder Executivo, que concedeu graça constitucional a Daniel Lucio da Silveira, Deputado Federal, condenado pelo Supremo Tribunal Federal em 20 de abril de 2022, no âmbito da Ação Penal nº 1.044, à pena de oito anos e nove meses de reclusão."
+        },
+        {
+            "id": 2320300,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320300",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 606,
+            "ano": 2022,
+            "ementa": "Requeiro, nos termos do artigo 102 do Regimento Interno desta a inclusão de meu nome\ncomo co-autora do PDL Nº 101/2022, que “Susta os efeitos do Decreto de 21 de abril de\n2022, do Poder executivo, que concedeu graça constitucional a Daniel Lucio da Silveira,\nDeputado Federal, condenado pelo Supremo Tribunal Federal em 20 de abril de 2022, no\nâmbito da Ação Penal nº 1.044, à pena de oito anos e nove meses de reclusão”"
+        },
+        {
+            "id": 2320308,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320308",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 609,
+            "ano": 2022,
+            "ementa": "Requer inclusão da assinatura no PDL Nº 101/2022, que “Susta os efeitos do Decreto de 21 de abril de 2022, do Poder executivo, que concedeu graça constitucional a Daniel Lucio da Silveira, Deputado Federal, condenado pelo Supremo Tribunal Federal em 20 de abril de 2022, no âmbito da Ação Penal nº 1.044, à pena de oito anos e nove meses de reclusão”."
+        },
+        {
+            "id": 2320321,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320321",
+            "siglaTipo": "DOC",
+            "codTipo": 610,
+            "numero": 429,
+            "ano": 2022,
+            "ementa": "CD224057579100"
+        },
+        {
+            "id": 2320335,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320335",
+            "siglaTipo": "DOC",
+            "codTipo": 861,
+            "numero": 430,
+            "ano": 2022,
+            "ementa": "Inclusão de membros– Frente Parlamentar Mista da Educação"
+        },
+        {
+            "id": 2320401,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320401",
+            "siglaTipo": "PRLP",
+            "codTipo": 891,
+            "numero": 4,
+            "ano": 0,
+            "ementa": "PARECER DE PLENÁRIO PELA COMISSÃO ESPECIAL DESTINADA A PROFERIR PARECER AO PROJETO DE LEI Nº 4.251, DE 2021, E APENSADO"
+        },
+        {
+            "id": 2320408,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320408",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 620,
+            "ano": 2022,
+            "ementa": "Requer inclusão da assinatura ao PDL 101/2022, que \"Susta os efeitos do Decreto de 21 de abril de 2022, do Poder Executivo, que concedeu graça constitucional a Daniel Lucio da Silveira, Deputado Federal, condenado pelo Supremo Tribunal Federal em 20 de abril de 2022, no âmbito da Ação Penal nº 1.044, à pena de oito anos e nove meses de reclusão.\""
+        },
+        {
+            "id": 2321109,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321109",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 12,
+            "ano": 2022,
+            "ementa": "Solicita realização de audiência pública para tratar do tema “Abuso e Exploração Sexual de Crianças e Adolescentes”"
+        },
+        {
+            "id": 2321128,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321128",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 14,
+            "ano": 2022,
+            "ementa": "Requer que seja convidado o Historiador Carlos Fico e o Advogado Fernando Augusto Fernandes, para que compareça a esta Comissão de Direitos Humanos para expor os principais achados relacionados aos áudios do Superior Tribunal Militar sobre o protocolo de tortura utilizado nos porões da ditadura."
+        },
+        {
+            "id": 2321699,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321699",
+            "siglaTipo": "REQ",
+            "codTipo": 441,
+            "numero": 703,
+            "ano": 2022,
+            "ementa": "Requer aprovação de moção de repúdio às declarações racistas proferidas pelo Vereador Camilo Cristófaro, do Município de São Paulo/SP, em sessão da Câmara Municipal de São Paulo."
+        },
+        {
+            "id": 2321738,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321738",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 12,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1100/2022"
+        },
+        {
+            "id": 2322121,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2322121",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 708,
+            "ano": 2022,
+            "ementa": "Requer inclusão de coautoria ao Requerimento nº 40/2022."
+        },
+        {
+            "id": 2322301,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2322301",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 18,
+            "ano": 2022,
+            "ementa": "Requer aditamento ao REQ. 9/2022, aprovado, da Comissão de Direitos Humanos e Minorias, para debater o uso de agrotóxicos, especialmente via pulverização aérea, e a violação ao direito humano a saúde e a alimentação adequada."
+        },
+        {
+            "id": 2322343,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2322343",
+            "siglaTipo": "REQ",
+            "codTipo": 310,
+            "numero": 714,
+            "ano": 2022,
+            "ementa": "Requer inclusão de coautoria ao Requerimento nº 40/2022."
+        },
+        {
+            "id": 2322348,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2322348",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 20,
+            "ano": 2022,
+            "ementa": "Requer a realização de Audiência Pública para discutir sobre a Portaria 596/2022, que corta recursos da Rede de Atenção Psicossocial (Raps) do ministério da Saúde e o Edital de Chamamento Público nº 3/2022, que irá selecionar Organizações da Sociedade Civil (OSC) que prestem atendimento como hospital psiquiátrico."
+        },
+        {
+            "id": 2322357,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2322357",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 4,
+            "ano": 2022,
+            "ementa": "Requer a realização de Audiência para debater paridade entre homens e mulheres no poder Judiciário como instrumentos de desenvolvimento e garantia da democracia."
+        },
+        {
+            "id": 2322360,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2322360",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 5,
+            "ano": 2022,
+            "ementa": "Requer o comparecimento do Secretário de Atenção Primária à Saúde – SAPS, do Ministério da Saúde, SR. RAPHAEL CÂMARA MEDEIROS PARENTE, para prestar esclarecimentos sobre as denúncias de violência obstetrícia na nova Caderneta da Gestante, lançada pelo Ministério da Saúde no dia 4 de maio de 2022."
+        },
+        {
+            "id": 2322369,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2322369",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 21,
+            "ano": 2022,
+            "ementa": "Requer o comparecimento do Secretário de Atenção Primária à Saúde – SAPS, do Ministério da Saúde, SR. RAPHAEL CÂMARA MEDEIROS PARENTE, para prestar esclarecimentos sobre as denúncias de violência obstetrícia na nova Caderneta da Gestante, lançada pelo Ministério da Saúde no dia 4 de maio de 2022."
+        },
+        {
+            "id": 2322372,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2322372",
+            "siglaTipo": "REQ",
+            "codTipo": 310,
+            "numero": 720,
+            "ano": 2022,
+            "ementa": "Requer inclusão de coautoria ao Requerimento nº 40/2022, para  realização de Sessão Solene, em 28 de junho de 2022, em homenagem ao Dia Internacional do Orgulho LGBTQIA+"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "proposicoes_by_year": {
+        "2003": {
+            "amount": 57,
+            "types": {
+                "REQ": 6,
+                "RIC": 3,
+                "INC": 2,
+                "PLV": 1,
+                "EMC": 38,
+                "PEC": 5,
+                "RCP": 1,
+                "REC": 1
+            }
+        },
+        "0": {
+            "amount": 41,
+            "types": {
+                "PPP": 1,
+                "PPR": 1,
+                "PRL": 17,
+                "SBT": 13,
+                "CVO": 3,
+                "VTS": 2,
+                "EMR": 1,
+                "RRL": 2,
+                "RDF": 1
+            }
+        },
+        "2004": {
+            "amount": 15,
+            "types": {
+                "EMC": 7,
+                "PEC": 5,
+                "REQ": 3
+            }
+        },
+        "2005": {
+            "amount": 21,
+            "types": {
+                "PRC": 1,
+                "PEC": 5,
+                "REQ": 5,
+                "RIC": 2,
+                "PL": 3,
+                "EMC": 3,
+                "INC": 2
+            }
+        },
+        "2006": {
+            "amount": 10,
+            "types": {
+                "EMC": 3,
+                "RCP": 1,
+                "PEC": 2,
+                "REC": 3,
+                "REQ": 1
+            }
+        },
+        "2011": {
+            "amount": 42,
+            "types": {
+                "PL": 2,
+                "REQ": 8,
+                "INC": 2,
+                "EMC": 29,
+                "RIC": 1
+            }
+        },
+        "2012": {
+            "amount": 13,
+            "types": {
+                "REQ": 9,
+                "PRC": 1,
+                "RIC": 2,
+                "EMC": 1
+            }
+        },
+        "2013": {
+            "amount": 35,
+            "types": {
+                "REQ": 13,
+                "EMC": 20,
+                "PL": 2
+            }
+        }
+    }
+}

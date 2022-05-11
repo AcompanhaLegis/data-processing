@@ -1,0 +1,364 @@
+{
+    "id": 215045,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/215045",
+    "nome": "Pedro Augusto Palareti",
+    "siglaPartido": "PP",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37903",
+    "siglaUf": "RJ",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/215045.jpg",
+    "email": "dep.pedroaugustopalareti@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 2268565,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268565",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 9,
+            "ano": 2021,
+            "ementa": "Indica Líder do Bloco Parlamentar PSL, PL, PP, PSD, REPUBLICANOS, PTB, PROS, PODE, PSC, AVANTE, PATRIOTA."
+        },
+        {
+            "id": 2268576,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268576",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 10,
+            "ano": 2021,
+            "ementa": "Cumprimentando-o cordialmente, informo que os Deputados Federais do Partido Social Democrático (PSD) indicam o Senhor Deputado Antônio Brito (PSD/BA) como Líder da Bancada, a partir dessa data."
+        },
+        {
+            "id": 2268630,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268630",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 29,
+            "ano": 2021,
+            "ementa": "Comunica líder do Bloco Parlamentar PP, PL, PSD, REPUBLICANOS, PROS, PODEMOS, PSC, AVANTE, PATRIOTA."
+        },
+        {
+            "id": 2269518,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269518",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 296,
+            "ano": 2021,
+            "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, para determinar a exibição de mensagens nos rótulos de bebidas alcoólicas."
+        },
+        {
+            "id": 2270571,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270571",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 513,
+            "ano": 2021,
+            "ementa": "Cria linha de crédito de empréstimo e financiamento habitacional aos servidores públicos da força de segurança nacional, agentes da segurança pública e guarda civil."
+        },
+        {
+            "id": 2271101,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271101",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 23,
+            "ano": 2021,
+            "ementa": "ATA BANCADA DO RIO DE JANEIRO PLOA 2021."
+        },
+        {
+            "id": 2272020,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2272020",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 720,
+            "ano": 2021,
+            "ementa": "Altera a Lei 8.987 de 26 de dezembro de 1995 para proibir a suspensão do fornecimento de energia elétrica em caso de inadimplência pelo consumidor."
+        },
+        {
+            "id": 2272030,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2272030",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 212,
+            "ano": 2021,
+            "ementa": "Sugere a realização de parceria entre o Ministério da Infraestrutura e a Secretária de Estado de Transportes - RJ a fim de viabilizar a construção de sanitários nas estações de trem e metrô no Rio de Janeiro."
+        },
+        {
+            "id": 2273927,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273927",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 365,
+            "ano": 2021,
+            "ementa": "Sugere o envio de Indicação ao \nMinistro da Economia, o senhor \nPaulo Guedes, sugerindo a \nadoção das medidas necessárias\n para viabilizar outras formas de\n realização da prova de vida de \naposentados e pensionistas\n para evitar constrangimentos \njunto ao Instituto Nacional de\nSeguridade Social – INSS e\nAgências Bancárias."
+        },
+        {
+            "id": 2274484,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2274484",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 387,
+            "ano": 2021,
+            "ementa": "Sugere ao Ministro de Estado da Ciência,  Tecnologia e Inovações, Senhor Marcos Pontes, a criação da Escola Nacional de  Educação Digital para os Idosos (ENEDI)."
+        },
+        {
+            "id": 2276716,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2276716",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 464,
+            "ano": 2021,
+            "ementa": "Sugere ao Ministro da Economia, a adoção das medidas necessárias em favor das empresas de pequeno e médio porte para que autorize, em caso de débitos, a emissão de certidões negativas de tributos federais e dívida ativa da união durante todo o período de pandemia da Covid-19."
+        },
+        {
+            "id": 2278250,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278250",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 775,
+            "ano": 2021,
+            "ementa": "Requer registro da Frente Parlamentar Mista - Brasil Competitivo."
+        },
+        {
+            "id": 2278540,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278540",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1451,
+            "ano": 2021,
+            "ementa": "Fica instituído o dia Nacional do Youtuber a data de 14 de fevereiro."
+        },
+        {
+            "id": 2279233,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279233",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 531,
+            "ano": 2021,
+            "ementa": "Sugere ao Excelentíssimo Senhor Ministro da Economia, o senhor Paulo Guedes, a adoção das medidas necessárias no sentido de convocar para tomar posse todos os aprovados no último concurso do Instituto Nacional de Seguridade Social e os que se encontram no cadastro de reserva."
+        },
+        {
+            "id": 2280510,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2280510",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1707,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a obrigatoriedade de empresas e construtoras a implantar sistema de captação de energia solar em todos as construções a serem realizadas em território nacional, sejam elas públicas ou privadas e dá outras providencias."
+        },
+        {
+            "id": 2283519,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2283519",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 600,
+            "ano": 2021,
+            "ementa": "Sugere ao Excelentíssimo Ministro da Educação Sr. Milton Ribeiro, a adoção das medidas necessárias no sentido de destinar tratamento igualitário aos alunos universitários matriculados no ensino superior à distância, democratizando os critérios de seleção para aquisição de bolsa permanência de auxílio acadêmico em relação aos alunos de graduação dos cursos presenciais."
+        },
+        {
+            "id": 2284491,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284491",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 615,
+            "ano": 2021,
+            "ementa": "Sugere ao Excelentíssimo Ministro da Economia Senhor Paulo Guedes, a adoção das medidas necessárias no sentido de determinar a exclusão do nome de pessoas físicas e jurídicas dos cadastros de restrição ao crédito, Serasa e SPC, no período de calamidade pública pela covid-19."
+        },
+        {
+            "id": 2285395,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285395",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 672,
+            "ano": 2021,
+            "ementa": "Sugere ao Excelentíssimo Ministro da Economia Doutor Paulo Guedes, a adoção das medidas necessárias para, no período de calamidade pública, dispensar limites, condições e demais restrições de gestão fiscal aplicáveis aos municípios, na forma da lei complementar nº 101 de 04 de maio de 2000."
+        },
+        {
+            "id": 2285501,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285501",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 15,
+            "ano": 2021,
+            "ementa": "Acrescenta o art. 115 ao Ato das Disposições Constitucionais Transitórias, para determinar que os Municípios poderão parcelar seus débitos previdenciários em 240 parcelas, excepcionalmente, em 2021."
+        },
+        {
+            "id": 2287683,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287683",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 766,
+            "ano": 2021,
+            "ementa": "Sugere ao Excelentíssimo Ministro da Saúde, o Senhor Marcelo Queiroga, a adoção das medidas necessárias e urgentes para reestruturação do hospital do idoso Eduardo Rabelo situado na zona oeste da cidade do Rio de Janeiro."
+        },
+        {
+            "id": 2289368,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289368",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 803,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro da Justiça e Segurança Pública, Senhor Anderson Torres as providências necessárias no sentido de construir unidade prisional Federal agrícola no Estado do Rio de Janeiro para trabalho de internos do sistema carcerário"
+        },
+        {
+            "id": 2289369,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289369",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2416,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a entrada gratuita para os idosos hipossuficientes e portadores de doença crônica nos cinemas, teatros, e estabelecimentos que promovam eventos artísticos e culturais, bem como, pontos turísticos e dá outras providencias."
+        },
+        {
+            "id": 2290398,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290398",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 61,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2291330,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291330",
+            "siglaTipo": "DOC",
+            "codTipo": 861,
+            "numero": 328,
+            "ano": 2021,
+            "ementa": "Adesão à  Frente Parlamentar Mista Católica Apostólica Romana"
+        },
+        {
+            "id": 2292192,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292192",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 932,
+            "ano": 2021,
+            "ementa": "Sugere ao Ministro da Infraestrutura, senhor Tarcísio\nGomes de Freitas, a adoção das medidas\nnecessárias junto ao Governo do Estado do Rio de\nJaneiro e Agetransp, para criação de nova concessão\nde transporte marítimo, barcas e aerobarcos na Baía\nde Guanabara, objetivando atender a passageiros no\ntrajeto do centro do Rio de Janeiro até o Município de\nSão Gonçalo e dá outras providências."
+        },
+        {
+            "id": 2292193,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292193",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 933,
+            "ano": 2021,
+            "ementa": "Sugere ao Ministro de Minas e Energia Sr. Bento\nAlbuquerque, a adoção das medidas necessárias para\na retomada dos investimentos no Complexo\nPetroquímico do Estado do Rio de Janeiro, situado no\nMunicípio de Itaboraí"
+        },
+        {
+            "id": 2294087,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2294087",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 961,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro da Defesa, o senhor Walter Souza Braga Netto a adoção das medidas necessárias no sentido de determinar que as unidades médicas das forças armadas atendam aos oficiais da reserva não remunerada e dá outras providências."
+        },
+        {
+            "id": 2297412,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297412",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3063,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a obrigatoriedade das farmácias sediadas em todo território nacional a disponibilizarem banheiros e bebedouro aos clientes e dá outras providencias."
+        },
+        {
+            "id": 2297436,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297436",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 999,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro da Saúde, o doutor Marcelo Queiroga, a adoção das providências cabíveis, no sentido de determinar a implantação nas unidades de saúde, sejam elas públicas ou privadas sediadas em todo o território nacional, o Prontuário Eletrônico do Paciente e o Registro Eletrônico de Saúde e dá outras providências."
+        },
+        {
+            "id": 2298150,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298150",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 1013,
+            "ano": 2021,
+            "ementa": "Solicita ao Senhor Ministro da Saúde, o doutor Marcelo Queiroga, a adoção das providências cabíveis, no sentido de disponibilizar atendimento de fisioterapia e neurológicos na rede SUS através de convênios com clínicas de fisioterapia e consultório médico de neurologia objetivando atender a todos os pacientes vítimas da covid-19 e dá outras providências."
+        },
+        {
+            "id": 2298611,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298611",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 1036,
+            "ano": 2021,
+            "ementa": "Solicita ao Senhor Ministro do meio ambiente, o senhor  Joaquim Álvaro Pereira Leite, a adoção de providências em caráter de urgência, no sentido de determinar o livre acesso da Reitoria do Santuário Cristo Redentor da Arquidiocese do Rio de Janeiro e seus convidados às dependências da unidade religiosa situada no Cristo Redentor e dá outras providências."
+        },
+        {
+            "id": 2300833,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2300833",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3360,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a obrigatoriedade dos condomínios, sejam residenciais ou comerciais, a disponibilizarem guaritas com blindagem aos vigilantes e porteiros e dá outras providências."
+        },
+        {
+            "id": 2302486,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302486",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 1180,
+            "ano": 2021,
+            "ementa": "Solicita ao Ministro de Estado da Infraestrutura, Senhor Tarcísio Freitas as providências necessárias no sentido de adotar políticas públicas de isenção de tarifas de pedágio para as motocicletas e triciclos nas rodovias Federais e dá outras providencias."
+        },
+        {
+            "id": 2304933,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304933",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3805,
+            "ano": 2021,
+            "ementa": "DECLARA Patrimônio Cultural Imaterial brasileiro a Romaria à Basílica de Nossa Senhora Aparecida com abrangência a todas as manifestações artísticas e culturais a ela relacionadas e dá outras providências."
+        },
+        {
+            "id": 2304934,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304934",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3806,
+            "ano": 2021,
+            "ementa": "Acrescenta o artigo 38 - A à Lei 13.869 de 05 de setembro de 2021, para tipificar como crime de abuso de autoridade, decreto prisional fundamentado somente no reconhecimento por fotografia, afastado de outros meios de provas e dá outras providências."
+        },
+        {
+            "id": 2304959,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304959",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 37,
+            "ano": 2021,
+            "ementa": "Altera o art. 5º, caput, acrescenta o inciso X ao art. 170 e o inciso VIII ao §1º do artigo 225 da Constituição Federal."
+        },
+        {
+            "id": 2318625,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318625",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 398,
+            "ano": 2022,
+            "ementa": "Requerimento de quebra de interstício para inclusão na Ordem do Dia da PEC nº 18/2021."
+        },
+        {
+            "id": 2318626,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318626",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 399,
+            "ano": 2022,
+            "ementa": "Impõe aos partidos a aplicação de recursos do fundo partidário na promoção e difusão da participação política das mulheres, bem como a aplicação de recursos desse fundo e do fundo de financiamento de campanha e a divisão do tempo de propaganda gratuita no rádio e na televisão no percentual mínimo de 30% (trinta por cento) para candidaturas femininas."
+        },
+        {
+            "id": 2319469,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319469",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 511,
+            "ano": 2022,
+            "ementa": "Requer quebra de interstício para inclusão na Ordem do Dia da PEC nº 13/2021."
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "proposicoes_by_year": {
+        "2019": {
+            "amount": 233,
+            "types": {
+                "PRC": 1,
+                "REQ": 9,
+                "PL": 3,
+                "EMC": 219,
+                "INC": 1
+            }
+        },
+        "0": {
+            "amount": 35,
+            "types": {
+                "PRL": 18,
+                "EMR": 2,
+                "SBT": 7,
+                "EMP": 1,
+                "SBR": 1,
+                "CVO": 2,
+                "EMC": 4
+            }
+        },
+        "2020": {
+            "amount": 1,
+            "types": {
+                "REQ": 1
+            }
+        },
+        "2021": {
+            "amount": 19,
+            "types": {
+                "DOC": 6,
+                "PEC": 3,
+                "REQ": 7,
+                "REC": 1,
+                "PL": 1,
+                "SOR": 1
+            }
+        },
+        "2022": {
+            "amount": 6,
+            "types": {
+                "DOC": 1,
+                "REQ": 5
+            }
+        }
+    }
+}

@@ -1,0 +1,2164 @@
+{
+    "id": 204449,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204449",
+    "nome": "Nelson Barbudo",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "MT",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204449.jpg",
+    "email": "dep.nelsonbarbudo@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 2190752,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2190752",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 246,
+            "ano": 2019,
+            "ementa": "Institui o \"Programa Escola sem Partido\""
+        },
+        {
+            "id": 2193502,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193502",
+            "siglaTipo": "PDL",
+            "codTipo": 550,
+            "numero": 53,
+            "ano": 2019,
+            "ementa": "Autoriza, nos termos do § 3º do art. 231 da Constituição Federal, o aproveitamento dos recursos hídricos, mediante realização prévia dos Estudos de Viabilidade Técnica, Econômica e Ambiental - EVTEA, dos projetos de engenharia e dos demais Estudos Ambientais, nos trechos das hidrovias que especifica."
+        },
+        {
+            "id": 2193956,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193956",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 2,
+            "ano": 2019,
+            "ementa": "Requer o envio de convite para realização de audiência pública à Sra. Tereza Cristina, Ministra de Estado da Agricultura, Pecuária e Abastecimento, para informar sobre as prioridades da Pasta para o ano de 2019."
+        },
+        {
+            "id": 2194007,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194007",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 6,
+            "ano": 2019,
+            "ementa": "Solicita realização de Mesa Redonda no Estado de Mato Grosso na cidade de SINOP para esclarecer a logística e outras demandas sobre as obras da BR 163 e os impactos sobre e escoamento da Safra."
+        },
+        {
+            "id": 2194402,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194402",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 11,
+            "ano": 2019,
+            "ementa": "Requeremos a realização de Audiência Pública para debater os \"Desafios da Agricultura Familiar frente à aposentadoria rural e os programas de incentivo direcionados aos agricultores familiares e aos empreendimentos familiares rurais\"."
+        },
+        {
+            "id": 2194715,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194715",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 14,
+            "ano": 2019,
+            "ementa": "Requer a criação de Subcomissão Permanente destinada a acompanhar, avaliar e propor medidas sobre a produção de leite no mercado nacional."
+        },
+        {
+            "id": 2196283,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196283",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 49,
+            "ano": 2019,
+            "ementa": "Requer a realização de Audiência Pública para debater o atual cenário da EMBRAPA."
+        },
+        {
+            "id": 2198370,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198370",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 64,
+            "ano": 2019,
+            "ementa": "Requer a criação da Subcomissão Pemanente do Café, no âmbito da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural."
+        },
+        {
+            "id": 2198876,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198876",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 66,
+            "ano": 2019,
+            "ementa": "Requer, nos termos regimentais, seja criado no âmbito da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural a subcomissão Permanente de Pescados."
+        },
+        {
+            "id": 2199200,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2199200",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 514,
+            "ano": 2019,
+            "ementa": "Sugere a edição de decreto presidencial para autorizar a construção do trecho da rodovia TO-500 (Rodovia Transbananal Idjarruri Karajá) situado dentro da Ilha do Bananal, no Estado do Tocantins."
+        },
+        {
+            "id": 2201787,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201787",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 9,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201788,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201788",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 10,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201789,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201789",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 11,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201790,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201790",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 12,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201791,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201791",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 13,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201792,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201792",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 14,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201793,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201793",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 15,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201794,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201794",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 16,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201795,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201795",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 17,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201796,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201796",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 18,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201797,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201797",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 19,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201798,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201798",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 20,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201799,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201799",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 21,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201800,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201800",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 22,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201801,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201801",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 23,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 867/2018"
+        },
+        {
+            "id": 2201986,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201986",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 162,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2201987,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201987",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 163,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2201988,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201988",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 164,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2201989,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201989",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 165,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2201990,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201990",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 166,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2201991,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201991",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 167,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2201992,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201992",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 168,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2201993,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201993",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 169,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2201994,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201994",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 170,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2201995,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201995",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 171,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2201996,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201996",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 172,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2201997,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201997",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 173,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2201998,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201998",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 174,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2201999,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201999",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 175,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202000,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202000",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 176,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202001,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202001",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 177,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202002,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202002",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 178,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202003,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202003",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 179,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202004,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202004",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 180,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202005,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202005",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 181,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202006,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202006",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 182,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202007,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202007",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 183,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202008,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202008",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 184,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202009,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202009",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 185,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202010,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202010",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 186,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202011,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202011",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 187,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202012,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202012",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 188,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202013,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202013",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 189,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202014,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202014",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 190,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202015,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202015",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 191,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202016,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202016",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 192,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202017,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202017",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 193,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202018,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202018",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 194,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202019,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202019",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 195,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202020,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202020",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 196,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202021,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202021",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 197,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202022,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202022",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 198,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202023,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202023",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 199,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202024,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202024",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 200,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202025,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202025",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 201,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202026,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202026",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 202,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202027,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202027",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 203,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202028,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202028",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 204,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202029,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202029",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 205,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202030,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202030",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 206,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202031,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202031",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 207,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202032,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202032",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 208,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202033,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202033",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 209,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202034,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202034",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 210,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202035,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202035",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 211,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202036,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202036",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 212,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2203209,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203209",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2876,
+            "ano": 2019,
+            "ementa": "Dispõe sobre a utilização da palavra \"carne\" e seus sinônimos nas embalagens, rótulos e publicidade de alimentos."
+        },
+        {
+            "id": 2203210,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203210",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2877,
+            "ano": 2019,
+            "ementa": "Altera a Lei n°11.959 de 29 de junho de 2009, que dispõe sobre a Política Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca, para disciplinar a pesca esportiva."
+        },
+        {
+            "id": 2203537,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203537",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 10,
+            "ano": 2019,
+            "ementa": "IInclui oficiais de justiça entre os beneficiários de aposentadoria especial."
+        },
+        {
+            "id": 2204216,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204216",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3045,
+            "ano": 2019,
+            "ementa": "Dispõe sobre o exercício de atividades agrossilvipastoris em terras indígenas e dá outras providências."
+        },
+        {
+            "id": 2204287,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204287",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 22,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204310,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204310",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 23,
+            "ano": 2019,
+            "ementa": "Inclui os servidores da Perícia Oficial de Natureza Criminal. emenda aditiva"
+        },
+        {
+            "id": 2204496,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204496",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 26,
+            "ano": 2019,
+            "ementa": "Modifica arts. 1º, 4º, 5º e 12º da Proposta de Emenda à Constituição nº 6 de 2019."
+        },
+        {
+            "id": 2205759,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205759",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 144,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205907,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205907",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 197,
+            "ano": 2019,
+            "ementa": "Com o objetivo de adotar uma regra de transição unificada para servidores públicos civis do regime próprio de previdência social e segurados do regime geral de previdência social, modifique-se a redação do inciso V do art. 3º e o inciso II do art. 18, ambos da Proposta de Emenda à Constituição (PEC) nº 6, de 2019, e, em decorrência, suprimam-se os §§ 2º e 3º do art. 3º e os §§ 1º e 2º do art. 18 da referida PEC."
+        },
+        {
+            "id": 2205959,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205959",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 241,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências"
+        },
+        {
+            "id": 2206983,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206983",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 4,
+            "ano": 2019,
+            "ementa": "Inclui mecanismo de transparência e de prestação de contas de todos os entes federativos no uso de recursos provenientes do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB"
+        },
+        {
+            "id": 2212184,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212184",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 5,
+            "ano": 2019,
+            "ementa": "Requer realização de audiência pública para discutir e analisar a PEC 45 de 2019, que propõe Reforma Tributária, com a presença do convidado Robson Braga de Andrade, Presidente da Confederação Nacional da Indústria."
+        },
+        {
+            "id": 2212300,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212300",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2019,
+            "ementa": "Dê-se à Proposta de Emenda à Constituição n° 45, de 2019, a seguinte redação: \"Cria o imposto federal sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira."
+        },
+        {
+            "id": 2214585,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2214585",
+            "siglaTipo": "REQ",
+            "codTipo": 305,
+            "numero": 2098,
+            "ano": 2019,
+            "ementa": "Requer a desapensação do Projeto de Lei nº 2.876 de 2019, que \"Dispõe sobre a utilização da palavra \"carne\" e seus sinônimos nas embalagens, rótulos e publicidade de alimentos\", do Projeto de Lei nº 3.479 de 2004 que \"Dispõe sobre a obrigatoriedade de informação nas embalagens e rótulos de alimentos que contenham produtos ou substâncias de origem animal ou seus derivados em sua composição."
+        },
+        {
+            "id": 2215878,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2215878",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 5,
+            "ano": 2019,
+            "ementa": "Dê-se a Proposta de Emenda a Constituição nº 45, de 2019, os arts. 1º a 6º, a seguinte redação:"
+        },
+        {
+            "id": 2217012,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2217012",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 128,
+            "ano": 2019,
+            "ementa": "Requer que seja realizada reunião de Mesa Redonda no Estado de Mato Grosso, para a promoção de debates com autoridades competentes acerca da regularização fundiária."
+        },
+        {
+            "id": 2218058,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218058",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 17,
+            "ano": 2019,
+            "ementa": "Altera o Artigo 1º da PEC 45/2019 - do Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2219266,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219266",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 142,
+            "ano": 2019,
+            "ementa": "Requer moção de aplauso à iniciativa do Presidente da República Jair Messias Bolsonaro por ter autorizado o emprego de militares em uma operação de Garantia da Lei e da Ordem (GLO) para combater as queimadas nas regiões de floresta."
+        },
+        {
+            "id": 2219269,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219269",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 143,
+            "ano": 2019,
+            "ementa": "Requer moção de repúdio ao Sr. Emmanuel Macron, Presidente da República da França por suas declarações desrespeitosas contra o Presidente da República Federativa do Brasil e contra a soberania nacional."
+        },
+        {
+            "id": 2219382,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219382",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2219383,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219383",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2219813,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219813",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 76,
+            "ano": 2019,
+            "ementa": "\"Definição de alíquotas dos impostos seletivos\""
+        },
+        {
+            "id": 2219970,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219970",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 113,
+            "ano": 2019,
+            "ementa": "Acrescente- se inciso VII ao §1º do Art. 152-A da PEC nº 45, de 2019, com a seguinte redação:                          VII - os Estados, o Distrito Federal e os Municípios poderão desenvolver Políticas Públicas de Incentivo Fiscal quando o resultado do Produto Interno Bruto - PIB for considerado negativo ou em recessão relativo ao ano anterior e o Índice de Desenvolvimento Humano - IDH ocupar colocação inferior a 50% dos estados ou municípios federados, descritos no ranking do desenvolvimento do IBGE."
+        },
+        {
+            "id": 2219971,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219971",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 114,
+            "ano": 2019,
+            "ementa": "Acrescente- se inciso III ao §2º do Art. 152-A da PEC nº 45, de 2019, com a seguinte redação:                        III - a alíquota para o imposto será a soma dos impostos que serão substituídos, não podendo ser superior a soma do percentual vigente no momento de sua regulamentação\"."
+        },
+        {
+            "id": 2221354,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221354",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 124,
+            "ano": 2019,
+            "ementa": "Dá nova redação aos artigos 1º e 4º da Proposta de Emenda Constitucional nº 45, de 2019"
+        },
+        {
+            "id": 2222260,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222260",
+            "siglaTipo": "RDF",
+            "codTipo": 197,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Redacao Final"
+        },
+        {
+            "id": 2224483,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224483",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 188,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 2224878,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224878",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 200,
+            "ano": 2019,
+            "ementa": "Introduz o artigo 159-H e altera o inciso IV do artigo 167 na PEC 45/2019 visando a instituição de fundo para o transporte público coletivo urbano e de caráter urbano visando reduzir as tarifas pagas pela população brasileira."
+        },
+        {
+            "id": 2227371,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2227371",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5724,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para dispor sobre destruição, ou queima de instrumentos, petrechos, equipamentos ou veículos de qualquer natureza utilizados em infração ambiental."
+        },
+        {
+            "id": 2230740,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2230740",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2019,
+            "ementa": "Acrescenta o art. 18-A ao Ato das Disposições Constitucionais Transitórias, para dispor sobre a convalidação de atos administrativos praticados no Estado do Tocantins entre 1º de janeiro de 1989 e 31 de dezembro de 1994."
+        },
+        {
+            "id": 2231881,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2231881",
+            "siglaTipo": "RLP",
+            "codTipo": 453,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Relatório Prévio, Dep. Nelson Barbudo (PSL-MT), pela implementação."
+        },
+        {
+            "id": 2232533,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232533",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232534,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232534",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 4,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232668,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232668",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 137,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232669,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232669",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 138,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232670,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232670",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 139,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232671,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232671",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 140,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232672,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232672",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 141,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232673,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232673",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 142,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232674,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232674",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 143,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232675,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232675",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 144,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232676,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232676",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 145,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232677,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232677",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 146,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232678,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232678",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 147,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232679,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232679",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 148,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232680,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232680",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 149,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232681,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232681",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 150,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2232682,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232682",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 151,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 897/2019"
+        },
+        {
+            "id": 2255563,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2255563",
+            "siglaTipo": "REQ",
+            "codTipo": 354,
+            "numero": 1597,
+            "ano": 2020,
+            "ementa": "Requer Moção de Aplauso ao Presidente da República Jair Messias Bolsonaro, pela inestimável contribuição ao Brasil em 500 dias de Governo sem corrupção."
+        },
+        {
+            "id": 2256370,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256370",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 172,
+            "ano": 2020,
+            "ementa": "Altera a Lei nº 5.172, de 25 de outubro de 1966, que “Dispõe sobre o Sistema Tributário Nacional e institui normas gerais de direito tributário aplicáveis à União, Estados e Municípios”, a Lei nº 9.296, de 24 de julho de 1996, que dispõe sobre o sigilo da correspondência e das comunicações telegráficas, de dados e telefônicas, a Lei Complementar nº 105, de 10 de janeiro de 2001, que dispõe sobre o sigilo das operações de instituições financeiras, e a Lei nº 13.979, de 6 de fevereiro de 2020, que “Dispõe sobre as medidas para enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019”, para dispor sobre a renúncia aos sigilos fiscal, das comunicações e bancário nos casos de dispensa de licitação fundamentados na Lei recém citada."
+        },
+        {
+            "id": 2257022,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257022",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3700,
+            "ano": 2020,
+            "ementa": "Altera a Lei 6.001, de 19 de dezembro de 1973."
+        },
+        {
+            "id": 2263069,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2263069",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4655,
+            "ano": 2020,
+            "ementa": "Altera a Lei nº 9.605, de 1998, para limitar o valor da multa ambiental, nas condições que especifica."
+        },
+        {
+            "id": 2263185,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2263185",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4679,
+            "ano": 2020,
+            "ementa": "Altera a Lei nº 11.107, de 6 de abril de 2005 que “Dispõe sobre normas gerais de contratação de consórcios\npúblicos” e dá outras providências."
+        },
+        {
+            "id": 2265216,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2265216",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5172,
+            "ano": 2020,
+            "ementa": "Cria a Zona Franca da Biodiversidade da Amazônia Legal, nas condições que especifica."
+        },
+        {
+            "id": 2265253,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2265253",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 1127,
+            "ano": 2020,
+            "ementa": "Sugere ao Ministério do Meio ambiente a adoção de medidas para impedir a penalização ilegal de produtores que fazem uso da queima controlada em atividades agrosilvopastoris em suas propriedades."
+        },
+        {
+            "id": 2265441,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2265441",
+            "siglaTipo": "REQ",
+            "codTipo": 354,
+            "numero": 2757,
+            "ano": 2020,
+            "ementa": "Requer “Moção de Aplauso” ao Dr. Claudio Queiroz Souza, médico brasileiro na linha de frente no combate ao COVID 19."
+        },
+        {
+            "id": 2266086,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2266086",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5386,
+            "ano": 2020,
+            "ementa": "Dispõe sobre o direito de realocação de não índios ocupantes de terras tradicionalmente ocupadas por índios."
+        },
+        {
+            "id": 2266304,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2266304",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 2870,
+            "ano": 2020,
+            "ementa": "Requer a urgência na tramitação e a imediata inclusão na Ordem do Dia, no Plenário da Câmara dos Deputados."
+        },
+        {
+            "id": 2266321,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2266321",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 2873,
+            "ano": 2020,
+            "ementa": "Requer urgência, nos termos do art. 155 do Regimento Interno, na apreciação do(a) PL 5391/2020."
+        },
+        {
+            "id": 2266414,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2266414",
+            "siglaTipo": "REQ",
+            "codTipo": 354,
+            "numero": 2887,
+            "ano": 2020,
+            "ementa": "Requer “Moção de Aplauso” ao Dr. Wagner Malheiros, médico brasileiro na linha de frente no combate ao COVID 19."
+        },
+        {
+            "id": 2268428,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268428",
+            "siglaTipo": "DOC",
+            "codTipo": 864,
+            "numero": 2,
+            "ano": 2021,
+            "ementa": "Adesão a Bloco Parlamentar"
+        },
+        {
+            "id": 2268473,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268473",
+            "siglaTipo": "DOC",
+            "codTipo": 864,
+            "numero": 7,
+            "ano": 2021,
+            "ementa": "Assunto: Adesão a Bloco Parlamentar."
+        },
+        {
+            "id": 2268565,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268565",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 9,
+            "ano": 2021,
+            "ementa": "Indica Líder do Bloco Parlamentar PSL, PL, PP, PSD, REPUBLICANOS, PTB, PROS, PODE, PSC, AVANTE, PATRIOTA."
+        },
+        {
+            "id": 2268780,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268780",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 34,
+            "ano": 2021,
+            "ementa": "Comunicação de Líder do Partido Social Liberal (PSL)."
+        },
+        {
+            "id": 2268795,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268795",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 127,
+            "ano": 2021,
+            "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014, para dispor sobre os verificadores de fatos."
+        },
+        {
+            "id": 2269002,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269002",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 225,
+            "ano": 2021,
+            "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014, para dispor sobre os verificadores de fatos."
+        },
+        {
+            "id": 2270323,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270323",
+            "siglaTipo": "REQ",
+            "codTipo": 319,
+            "numero": 206,
+            "ano": 2021,
+            "ementa": "Solicita a retirada de proposição em tramitação."
+        },
+        {
+            "id": 2270420,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270420",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 489,
+            "ano": 2021,
+            "ementa": "Acrescenta dispositivo à Lei 7.347, de 24 de julho de 1985, que “Disciplina a ação civil pública de responsabilidade por danos causados ao meio-ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico e dá outras providências. Também Acrescenta dispositivo à Lei 8.078, de 11 de setembro de 1990, que “Dispõe sobre a proteção do consumidor e dá outras providências.”"
+        },
+        {
+            "id": 2270934,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270934",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera os arts. 14, 27, 53, 102 e 105 da Constituição Federal, para dispor sobre as prerrogativas parlamentares e dá outras providências."
+        },
+        {
+            "id": 2271057,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271057",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 15,
+            "ano": 2021,
+            "ementa": "Ata da Bancada de Mato Grosso com as 15 emendas - LOA 2021"
+        },
+        {
+            "id": 2271117,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271117",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 35,
+            "ano": 2021,
+            "ementa": "Ata Bancada MT - Emendas LOA 2021"
+        },
+        {
+            "id": 2272016,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2272016",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 717,
+            "ano": 2021,
+            "ementa": "Altera a lei 9.985 de 18 de julho de 2000, dispõe sobre a desapropriação e indenização de propriedades privadas, e sobre o prazo de elaboração dos planos de manejo das unidades de conservação de domínio público."
+        },
+        {
+            "id": 2273487,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273487",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 416,
+            "ano": 2021,
+            "ementa": "Requer dispensa do interstício regimental entre o primeiro e o segundo turno de deliberação da Proposta de Emenda à Constituição nº 186, de 2019."
+        },
+        {
+            "id": 2275761,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275761",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 17,
+            "ano": 2021,
+            "ementa": "Requer convite ao Excelentíssimo Senhor Ministro de Estado do Meio Ambiente, Ricardo Salles, para realização de audiência pública em conjunto com as Comissões de Meio Ambiente e Desenvolvimento Sustentável e de Viação e Transportes, para prestar esclarecimentos sobre as ações do MMA acerca do Licenciamento Ambiental e aplicação do Orçamento 2021 no combate ao desmatamento."
+        },
+        {
+            "id": 2278250,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278250",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 775,
+            "ano": 2021,
+            "ementa": "Requer registro da Frente Parlamentar Mista - Brasil Competitivo."
+        },
+        {
+            "id": 2284214,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284214",
+            "siglaTipo": "REQ",
+            "codTipo": 354,
+            "numero": 1134,
+            "ano": 2021,
+            "ementa": "Requer moção de aplauso e apoio ao Filipe Garcia Martins Pereira, Chefe da Assessoria Internacional da Presidência da República."
+        },
+        {
+            "id": 2284560,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284560",
+            "siglaTipo": "DOC",
+            "codTipo": 865,
+            "numero": 276,
+            "ano": 2021,
+            "ementa": "Os Deputados da bancada do Partido Social Liberal - PSL, conforme os arts. 9º e 12 do Regimento Interno da Câmara dos Deputados, comunicam o desligamento do Bloco Parlamentar formado pelos partidos: PSL, PL, PP, PSD, MDB, PSDB, REPUBLICANOS, DEM, PODE, AVANTE, PATRIOTA."
+        },
+        {
+            "id": 2284895,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284895",
+            "siglaTipo": "PRV",
+            "codTipo": 191,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer Vencedor, Dep. Nelson Barbudo (PSL-MT), pela rejeição deste, do PDL 341/2019, do PDL 342/2019, do PDL 345/2019, do PDL 353/2019, do PDL 362/2019, e do PDL 378/2019, apensados."
+        },
+        {
+            "id": 2285627,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285627",
+            "siglaTipo": "REQ",
+            "codTipo": 441,
+            "numero": 1202,
+            "ano": 2021,
+            "ementa": "Requer aprovação de Moção de Repúdio ao tratamento desrespeitoso e indigno concedido pelos Senadores da República integrantes da Comissão Parlamentar de Inquérito (CPI) da COVID-19 à Dra. Nise Yamaguchi, médica imunologista e oncologista convidada a depor na referida Comissão no dia 1º de junho de 2021."
+        },
+        {
+            "id": 2287565,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287565",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 1332,
+            "ano": 2021,
+            "ementa": "Requer coautoria do Requerimento nº  1.202/2021."
+        },
+        {
+            "id": 2287772,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287772",
+            "siglaTipo": "REC",
+            "codTipo": 373,
+            "numero": 29,
+            "ano": 2021,
+            "ementa": "Contra a apreciacão conclusiva do Projeto de Lei No 399/2015, do Deputado Fábio Mitidieri, que altera o art. 2º da Lei nº 11.343, de 23 de agosto de 2006, para viabilizar a comercialização de medicamentos que contenham extratos, substratos ou partes da planta Cannabis sativa em sua formulação."
+        },
+        {
+            "id": 2287896,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287896",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela rejeição deste, do PL 3346/2015, e do PL 5482/2016, apensados."
+        },
+        {
+            "id": 2288011,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288011",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela rejeição."
+        },
+        {
+            "id": 2288012,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288012",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pelo encerramento e arquivamento."
+        },
+        {
+            "id": 2288013,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288013",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela rejeição deste, do PL 3346/2015, e do PL 5482/2016, apensados."
+        },
+        {
+            "id": 2288281,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288281",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 49,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública com a presença do Excelentíssimo Ministro do Meio Ambiente, Sr. Joaquim Álvaro Pereira Leite, para apresentar a nova agenda programática e as prioridades da nova gestão Ministerial."
+        },
+        {
+            "id": 2288479,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288479",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Dispõe sobre a inclusão do Estatuto da Magistratura na reforma administrativa"
+        },
+        {
+            "id": 2288606,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288606",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Dispõe sobre o regime e benefícios de servidores"
+        },
+        {
+            "id": 2288615,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288615",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 4,
+            "ano": 0,
+            "ementa": "Dispõe sobre férias dos agentes públicos e extingue licença, férias ou afastamento em decorrência de tempo de serviço, previstos em legislação federal, estadual ou municipal."
+        },
+        {
+            "id": 2289016,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289016",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 53,
+            "ano": 2021,
+            "ementa": "Requer esta comissão que seja autorizada a formação de uma comitiva a fim de representar o colegiado em missão oficial na 26ª Conferência das Nações Unidas sobre Mudanças Climáticas, conhecida como COP-26, que será realizada na cidade de Glasgow, Escócia, de 31 de outubro a 12 de novembro de 2021."
+        },
+        {
+            "id": 2289427,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289427",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 1429,
+            "ano": 2021,
+            "ementa": "Requer, nos termos regimentais, a inclusão como coautor no Requerimento de  Moção de Repúdio ao tratamento desrespeitoso e indigno concedido pelos Senadores da República integrantes da Comissão Parlamentar de Inquérito (CPI) da COVID-19 à Dra. Nise Yamaguchi, médica imunologista e oncologista convidada a depor na referida Comissão no dia 1º de junho de 2021. Req. 1202/2021, de autoria da Deputada Chris Tonieto e Outros."
+        },
+        {
+            "id": 2290001,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290001",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Regulamenta o Mercado Brasileiro de Redução de Emissões (MBRE), determinado pela Política Nacional de Mudança do Clima – Lei nº 12.187, de 29 de dezembro de 2009."
+        },
+        {
+            "id": 2290328,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290328",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 55,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290383,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290383",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 59,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290388,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290388",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2507,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a criação, o manejo e a exposição de aves domésticas de combate."
+        },
+        {
+            "id": 2291070,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291070",
+            "siglaTipo": "ATACN",
+            "codTipo": 897,
+            "numero": 21,
+            "ano": 2021,
+            "ementa": "Ata Bancada MT - Emendas LDO 2022"
+        },
+        {
+            "id": 2296037,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2296037",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela aprovação, com emenda."
+        },
+        {
+            "id": 2296038,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2296038",
+            "siglaTipo": "EMR",
+            "codTipo": 257,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2296204,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2296204",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela rejeição deste."
+        },
+        {
+            "id": 2298079,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298079",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela aprovação deste, e do Substitutivo adotado pela Comissão 1 da CDEICS."
+        },
+        {
+            "id": 2298463,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298463",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 33,
+            "ano": 2021,
+            "ementa": "Requer o Aditamento do Requerimento n° 31/2021 para inclusão de palestrante para a Audiência Pública, para tratar das  autorizações/licenças exigíveis para a exportação de produtos e subprodutos madeireiros de espécies nativas oriundos de florestas naturais ou plantadas."
+        },
+        {
+            "id": 2299653,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299653",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 1867,
+            "ano": 2021,
+            "ementa": "Requer o registro da Frente Parlamentar em Apoio ao Produtor de Leite perante a Mesa da Câmara dos Deputados."
+        },
+        {
+            "id": 2300662,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2300662",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 112,
+            "ano": 2021,
+            "ementa": "Requer que seja realizada reunião de audiência pública para ara debater o Projeto de Lei nº 658/2021, que dispõe sobre a classificação, tratamento e produção de bioinsumos por meio do manejo biológico on farm e ratifica o Programa Nacional de Bioinsumos e dá outras providências."
+        },
+        {
+            "id": 2300727,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2300727",
+            "siglaTipo": "REQ",
+            "codTipo": 688,
+            "numero": 113,
+            "ano": 2021,
+            "ementa": "Requer inclusão de matéria extra-pauta."
+        },
+        {
+            "id": 2301088,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2301088",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 32,
+            "ano": 2021,
+            "ementa": "Altera a Constituição Federal para elevar para setenta anos a idade máxima para a escolha e nomeação de membros do Supremo Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais, do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho e do Tribunal de Contas da União. NOVA EMENTA: Altera a Constituição Federal para elevar para setenta anos a idade máxima para a escolha e nomeação de membros do Supremo Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais, do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho, do Tribunal de Contas da União e dos Ministros civis do Superior Tribunal Militar."
+        },
+        {
+            "id": 2301492,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2301492",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2301493,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2301493",
+            "siglaTipo": "CVO",
+            "codTipo": 195,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer com Complementação de Voto, Dep. Nelson Barbudo (PSL-MT), pela aprovação deste, e do Substitutivo adotado pela CDEICS, com substitutivo."
+        },
+        {
+            "id": 2303289,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303289",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 2111,
+            "ano": 2021,
+            "ementa": "Requer a inclusão na Ordem do dia da Petição protocolada pelo Partido Trabalhista Brasileiro – PTB, no dia 14 de outubro de 2021, formulada com amparo no art. 53, § 3º, da Constituição Federal de 1988, com vistas a sustar o andamento da ação penal 1.044."
+        },
+        {
+            "id": 2303802,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303802",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera  a  Lei  nº  12.651,  de  25  de  maio  de 2012,  para  dispor  sobre  a  exploração  de madeira de  espécimes  mortas  ou naturalmente  tombadas."
+        },
+        {
+            "id": 2303859,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303859",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3702,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a exigência de\nAtestado de Vacinação no âmbito do \nPrograma Nacional de Imunizações,\naltera as Leis nº 6.259, de 30 de \noutubro de 1979, nº 10.406, de 10 de \njaneiro de 2002 e nº 13.979, de 6 de\nfevereiro de 2020, e dá outras \nprovidências."
+        },
+        {
+            "id": 2304576,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304576",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 2242,
+            "ano": 2021,
+            "ementa": "Requer, nos termos regimentais, a inclusão como coautor do Projeto de Lei nº 3702 de 2021, de autoria da Deputada Carla Zambelli (PSL/SP)."
+        },
+        {
+            "id": 2304577,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304577",
+            "siglaTipo": "PRV",
+            "codTipo": 191,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer Vencedor, Dep. Nelson Barbudo (PSL-MT), pela aprovação."
+        },
+        {
+            "id": 2304599,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304599",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 2245,
+            "ano": 2021,
+            "ementa": "Requer a coautoria do Projeto de Lei 3702/2021."
+        },
+        {
+            "id": 2304734,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304734",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 2252,
+            "ano": 2021,
+            "ementa": "Requeiro com base no Regimento Interno da Câmara dos Deputados, a coautoria ao PL 3702/2021"
+        },
+        {
+            "id": 2305003,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305003",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 2269,
+            "ano": 2021,
+            "ementa": "Requer a coautoria do Projeto de Lei nº 3702/2021 que “Dispõe sobre a exigência de Atestado de Vacinação no âmbito do Programa Nacional de Imunizações, altera as Leis nº 6.259, de 30 de outubro de 1979, nº 10.406, de 10 de janeiro de 2002 e nº 13.979, de 6 de fevereiro de 2020, e dá outras providências.”"
+        },
+        {
+            "id": 2305194,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305194",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3850,
+            "ano": 2021,
+            "ementa": "Faculta às empresas de seguros de veículos e de planos de saúde a opção pela aplicação de parcelas do Imposto sobre a Renda, a título de doações, por meio de contribuições aos Programas Educacionais de Resistência às Drogas e à Violência (Proerd), instituídos e geridos pelas polícias militares dos Estados e do Distrito Federal."
+        },
+        {
+            "id": 2306440,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306440",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 2354,
+            "ano": 2021,
+            "ementa": "Requer dispensa do interstício regimental entre o primeiro e o segundo turno de deliberação da Proposta de Emenda à Constituição nº 23, de 2021."
+        },
+        {
+            "id": 2306884,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306884",
+            "siglaTipo": "SOR",
+            "codTipo": 611,
+            "numero": 36,
+            "ano": 2021,
+            "ementa": "Requer o acréscimo de despea para a Gestão e Manutenção do Poder Executivo - Programa: 0032; Ação: 2090; Nacional; ACR-APR; Meta: 15.000 empresas fiscalizadas; Valor: R$ 60.000.000"
+        },
+        {
+            "id": 2306917,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306917",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Susta o § 9º do art. 2º da Instrução Normativa nº 12, de 25 de março de 2019, do IBAMA."
+        },
+        {
+            "id": 2307290,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307290",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela aprovação."
+        },
+        {
+            "id": 2307291,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307291",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela rejeição."
+        },
+        {
+            "id": 2307319,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307319",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a Lei nº 6.938, de 31 de agosto de 1981, que \"Dispõe sobre a Política Nacional do Meio Ambiente, seus fins e mecanismos de formulação e aplicação, e dá outras providências\", para adequar a incidência da Taxa de Controle e Fiscalização Ambiental - TCFA. \nAutor: Deputado Jerônimo Goergen.\nRelator: Deputado Nilto Tatto."
+        },
+        {
+            "id": 2308011,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308011",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela aprovação."
+        },
+        {
+            "id": 2308058,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2308058",
+            "siglaTipo": "RLP",
+            "codTipo": 453,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Relatório Prévio, Dep. Nelson Barbudo (PSL-MT), pela implementação."
+        },
+        {
+            "id": 2309427,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309427",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Cria o Programa Nacional de Proteção Animal - PROANIMAL e altera a Lei nº 9.250, de 26 de dezembro de 1995; a Lei nº 9.249, de 26 de dezembro de 1995; e a Lei nº 9.532, de 10 de dezembro de 1997, para permitir a dedutibilidade do imposto de renda das doações destinadas ao programa."
+        },
+        {
+            "id": 2309584,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309584",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2310603,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2310603",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Dispõe sobre a utilização e proteção da vegetação nativa dos Campos de Altitude associados ou abrangidos pelo bioma Mata Atlântica."
+        },
+        {
+            "id": 2311396,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311396",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2311399,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311399",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 2,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2311404,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311404",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2311405,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311405",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2311608,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311608",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Nelson Barbudo (PSL-MT), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2311609,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311609",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 2,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2311702,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2311702",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 2783,
+            "ano": 2021,
+            "ementa": "Requer urgência para o PL 1998/2020, que autoriza e define a prática da telemedicina em todo o território nacional."
+        },
+        {
+            "id": 2312225,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2312225",
+            "siglaTipo": "RLP",
+            "codTipo": 453,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Relatório Prévio, Dep. Nelson Barbudo (PSL-MT), pela não implementação."
+        },
+        {
+            "id": 2314543,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314543",
+            "siglaTipo": "REQ",
+            "codTipo": 308,
+            "numero": 107,
+            "ano": 2022,
+            "ementa": "Solicita redistribuição do Projeto de Lei nº 46/2021 que \"Torna obrigatória a divulgação, pelos meios que especifica, de mensagem relativa às penas cominadas ao crime de maus-tratos aos animais quando se tratar de cão ou gato, apontando formas para efetuar denúncias.\" para análise de mérito na Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural (CAPADR)."
+        },
+        {
+            "id": 2314821,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314821",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 138,
+            "ano": 2022,
+            "ementa": "REQUER O REGISTRO DA FRENTE PARLAMENTAR MISTA DO EMPREENDEDORISMO"
+        },
+        {
+            "id": 2317658,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317658",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 552,
+            "ano": 2022,
+            "ementa": "Estabelece as condições gerais para manutenção, criação, comercialização e importação de exemplares da fauna silvestre brasileira, exótica e doméstica e para o controle populacional de fauna."
+        },
+        {
+            "id": 2318119,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318119",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 321,
+            "ano": 2022,
+            "ementa": "Requer dispensa do interstício regimental entre o primeiro e o segundo turno de deliberação da Proposta de Emenda à Constituição nº 122, de 2015."
+        },
+        {
+            "id": 2318583,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318583",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 394,
+            "ano": 2022,
+            "ementa": "Requer a dispensa de interstício entre o 1º e o 2º turno da PEC 517/2010."
+        },
+        {
+            "id": 2318830,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318830",
+            "siglaTipo": "REQ",
+            "codTipo": 312,
+            "numero": 442,
+            "ano": 2022,
+            "ementa": "Requer retirada de tramitação do Requerimento nº 322/2022."
+        },
+        {
+            "id": 2319491,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319491",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 515,
+            "ano": 2022,
+            "ementa": "Requer Urgência para o Projeto de Lei nº 3188, de 2021, que “Altera a Lei nº 13.999, de 18 de maio de 2020, que institui o Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe), e a Lei nº 14.161, de 2 de junho de 2021, que dispõe sobre o Pronampe, para permitir melhores condições de sustentabilidade ao Programa como política oficial de crédito permanente no tratamento diferenciado e favorecido aos beneficiários do Programa.”"
+        },
+        {
+            "id": 2320397,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320397",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Adicionem-se parágrafo único ao artigo 3º e inciso XII ao artigo 5º da Lei 13.019, de 31 de julho de 2014 na forma do artigo 19 do substitutivo ao PL 4251/2021."
+        },
+        {
+            "id": 2321377,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321377",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1102,
+            "ano": 2022,
+            "ementa": "Concede anistia aos fatos que especifica."
+        },
+        {
+            "id": 2321461,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321461",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 693,
+            "ano": 2022,
+            "ementa": "Requer nos termos do artigo 155 do regimento Interno da Câmara dos Deputados, tramitação sob o regime de urgência do projeto de lei n° 9436 de 2017."
+        },
+        {
+            "id": 2321864,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321864",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 23,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321865,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321865",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 24,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321866,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321866",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 25,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321867,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321867",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 26,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321868,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321868",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 27,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321869,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321869",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 28,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321870,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321870",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 29,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321871,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321871",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 30,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321883,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321883",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 41,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321884,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321884",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 42,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321885,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321885",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 43,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321890,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321890",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 48,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321891,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321891",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 49,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321892,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321892",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 50,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321893,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321893",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 51,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321895,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321895",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 53,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321896,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321896",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 54,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        },
+        {
+            "id": 2321897,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321897",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 55,
+            "ano": 2022,
+            "ementa": "Dá nova redação à MPV 1104/2022"
+        }
+    ]
+}

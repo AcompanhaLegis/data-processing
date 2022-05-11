@@ -1,0 +1,24 @@
+{
+    "proposicoes_by_year": {
+        "2021": {
+            "amount": 7,
+            "types": {
+                "PEC": 1,
+                "DOC": 1,
+                "REQ": 5
+            }
+        },
+        "0": {
+            "amount": 1,
+            "types": {
+                "PRL": 1
+            }
+        },
+        "2022": {
+            "amount": 6,
+            "types": {
+                "REQ": 6
+            }
+        }
+    }
+}

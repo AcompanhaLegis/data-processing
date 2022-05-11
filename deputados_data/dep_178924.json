@@ -1,0 +1,1381 @@
+{
+    "id": 178924,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178924",
+    "nome": "Capitão Fábio Abreu",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "PI",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178924.jpg",
+    "email": "dep.capitaofabioabreu@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 947848,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/947848",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 439,
+            "ano": 2015,
+            "ementa": "Altera a Lei nº 10.826 de 22 de dezembro de 2003, que dispõe sobre o Sistema Nacional de Armas - Sinarm, para tornar obrigatória a inclusão de circuito eletrônico integrado com dados de identificação nas armas de fogo e localizador GPS."
+        },
+        {
+            "id": 947849,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/947849",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 440,
+            "ano": 2015,
+            "ementa": "Altera a Lei nº 10.826 de 22 de dezembro de 2003, que dispõe sobre o Sistema Nacional de Armas - Sinarm, para estabelecer um prazo máximo de armazenamento das armas de fogo e armas brancas apreendidas e dá outras providências."
+        },
+        {
+            "id": 947853,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/947853",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2015,
+            "ementa": "Inclua-se na Proposta de Emenda à Constituição 344-A, de 2013, onde couber, o seguinte artigo, renumerando-se os demais."
+        },
+        {
+            "id": 961763,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/961763",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 574,
+            "ano": 2015,
+            "ementa": "Altera os artigos 33, 77, 78 e 83 do Código Penal e o artigo 29 da Lei de Execução Penal para estabelecer a reparação do dano causado pela infração como condição à progressão de regime do cumprimento da pena, à suspensão condicional da pena e ao livramento condicional e para estabelecer a destinação de, no mínimo, cem por cento da remuneração decorrente do trabalho do preso à reparação do dano causado pela infração."
+        },
+        {
+            "id": 961820,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/961820",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2015,
+            "ementa": "Acrescenta ao art. 2º da PEC 352/2013 o §1º-A e os  incisos I ao V ao art. 14, que dispõe sobre o voto em trânsito de eleitores no território nacional"
+        },
+        {
+            "id": 964394,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/964394",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 4,
+            "ano": 2015,
+            "ementa": "Altera os arts. 14, 17, 27, 29, 45 e 121 da Constituição Federal, para tornar o voto facultativo, modificar o sistema eleitoral e de coligações, dispor sobre o financiamento de campanhas eleitorais, estabelecer cláusulas de desempenho para candidatos e partidos, prazo mínimo de filiação partidária e critérios para o registro dos estatutos do partido no Tribunal Superior Eleitoral, determinar a coincidência das eleições e a proibição da reeleição para cargos do Poder Executivo, regular as competências da Justiça Eleitoral e submeter a referendo as alterações relativas ao sistema eleitoral.  Explicação: Altera o art. 17 da Constituição Federal para vedar coligações em eleições proporcionais."
+        },
+        {
+            "id": 969174,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/969174",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 10,
+            "ano": 2015,
+            "ementa": "Inclua-se na Proposta de Emenda à Constituição 344-A, de 2013, onde couber, o seguinte artigo, renumerando-se os demais:"
+        },
+        {
+            "id": 994597,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/994597",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 16,
+            "ano": 2015,
+            "ementa": "Inclua-se na Proposta de Emenda à Constituição nº 344/2013, onde couber, o seguinte artigo, renumerando-se os demais:"
+        },
+        {
+            "id": 994636,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/994636",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 18,
+            "ano": 2015,
+            "ementa": "Altera o art. 2º da PEC 352/2013 para vedar contribuições partidárias e de campanha provenientes de pessoa jurídica, mantendo teto para contribuição de pessoa física, a ser definido em lei."
+        },
+        {
+            "id": 994638,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/994638",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 19,
+            "ano": 2015,
+            "ementa": "Altera o art. 2º da PEC 352/2013 para vedar as coligações nos pleitos proporcionais; aumentar o desempenho mínimo para eleição de deputados federais e implicitamente retirar dispositivos que modificam o sistema eleitoral, instituem a federação de partidos e facilitam a criação de novas agremiações."
+        },
+        {
+            "id": 2114454,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2114454",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6318,
+            "ano": 2016,
+            "ementa": "Altera o art. 352 do Código Penal para tipificar o crime de evasão, com ou sem emprego de violência, e para agravar a sanção penal prevista."
+        },
+        {
+            "id": 2114486,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2114486",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 7,
+            "ano": 2016,
+            "ementa": "Altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para prever a inclusão, em quadro em extinção da administração pública federal, de servidor público, de integrante da carreira de policial, civil ou militar, e de pessoa que haja mantido relação ou vínculo funcional, empregatício, estatutário ou de trabalho com a administração pública dos ex-Territórios ou dos Estados do Amapá ou de Roraima, inclusive suas prefeituras, na fase de instalação dessas unidades federadas, e dá outras providências."
+        },
+        {
+            "id": 2114659,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2114659",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6335,
+            "ano": 2016,
+            "ementa": "Altera o art. 354 do Código Penal a fim de agravar a sanção penal prevista para o crime de motim de presos"
+        },
+        {
+            "id": 2158309,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2158309",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 8929,
+            "ano": 2017,
+            "ementa": "Altera o art. 22 da Lei 7.102, de 20 de junho de 1983, para permitir que o vigilante de carros- fortes possam portar ate fuzil 7.62 de fabricação nacional   , em serviço de transporte de valores ."
+        },
+        {
+            "id": 2158310,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2158310",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 8930,
+            "ano": 2017,
+            "ementa": "Dispõe sobre a obrigatoriedade da apresentação da  Carteira  Nacional  de Habilitação categoria A, para  aquisição   de        motocicletas motonetas e ciclomotores novos ou usados."
+        },
+        {
+            "id": 2175517,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2175517",
+            "siglaTipo": "PDC",
+            "codTipo": 408,
+            "numero": 932,
+            "ano": 2018,
+            "ementa": "Suspende temporariamente os efeitos da intervenção federal no Estado do Rio de Janeiro instituída pelo Decreto nº 9.288, de 16 de fevereiro de 2018, nos termo da Constituição Federal, art. 49, IV."
+        },
+        {
+            "id": 2176697,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2176697",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 290,
+            "ano": 2018,
+            "ementa": "Requer a realização de Audiência Pública com representantes da Polícia Federal e da Agência Nacional de Aviação Civil (ANAC) para debater sobre a Resolução nº 461, de 2018, que regula o embarque de passageiros armados."
+        },
+        {
+            "id": 2176816,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2176816",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 291,
+            "ano": 2018,
+            "ementa": "Requer a realização de seminário, em parceria com a Frente Parlamentar da Segurança Pública, em homenagem aos trinta anos da Constituição Federal, com debate da reforma do Poder Judiciário e a Segurança Pública."
+        },
+        {
+            "id": 2180354,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2180354",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PR-PI), pela aprovação deste, dos Projetos de Lei nºs 8.123/2017, 8.189/2017, 8.196/2017, 8.247/2017, e 8.662/2017, apensados, com adoção do Substitutivo adotado pela Comissão de Trabalho, de Administação e Serviço Público - CTASP."
+        },
+        {
+            "id": 2180601,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2180601",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PR-PI), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2180604,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2180604",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Acrescenta o artigo 218-A a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro - que dispõe sobre penalidade por excesso de velocidade."
+        },
+        {
+            "id": 2180606,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2180606",
+            "siglaTipo": "REQ",
+            "codTipo": 304,
+            "numero": 8987,
+            "ano": 2018,
+            "ementa": "Requer a apensação do Projeto de Lei nº 8.929, de 2017, ao Projeto de Lei nº 3.722, de 2012."
+        },
+        {
+            "id": 2181836,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181836",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2018,
+            "ementa": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 293-A, de 2004, do Poder Executivo, que \"altera o Sistema Tributário Nacional e dá outras providências\" (desmembramento da PEC 255/04) ( PEC29304 ) Altera o Sistema Tributário Nacional e dá outras providências. (Desmembramento da PEC nº 255/04, devendo os arts. 3º, 8º e 9º, serem renumerados para 3º, 4º e 5º; e os arts. 146, IV, 150, VI e, 153, § 4º, IV, 158, parágrafo único, I, II, 171-A e parágrafo único, 203, parágrafo único e 216, § 3º, constantes do art. 1º, e os arts., 4º, 5º, 7º, renumerados para 2º, 3º e 4º)."
+        },
+        {
+            "id": 2181837,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181837",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 4,
+            "ano": 2018,
+            "ementa": "Altera o Sistema Tributário Nacional - PEC 293 Reforma Tributária"
+        },
+        {
+            "id": 2181838,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181838",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 5,
+            "ano": 2018,
+            "ementa": "Altera o Sistema Tributário Nacional - PEC 293 Reforma Tributária"
+        },
+        {
+            "id": 2183168,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2183168",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 7,
+            "ano": 2018,
+            "ementa": "Emenda Substitutiva Global à PEC 293-A, de 2004, que altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2185879,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2185879",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 10949,
+            "ano": 2018,
+            "ementa": "Altera o Decreto Lei Nº 2.848, de 7 de dezembro de 1940 - Código Penal, para inserir causa de excludente de ilicitude."
+        },
+        {
+            "id": 2186451,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2186451",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PR-PI), pela rejeição deste, e do Substitutivo 1 da CDC, e pela aprovação do PL 2529/2007, apensado."
+        },
+        {
+            "id": 2186520,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2186520",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 246,
+            "ano": 2018,
+            "ementa": "Requer a realização de Audiência Pública para debater o Estatuto de Defesa do Torcedor, revogando dispositivos que dispõem sobre torcida organizada, e dá outras providências."
+        },
+        {
+            "id": 2188522,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2188522",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2018,
+            "ementa": "Altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios."
+        },
+        {
+            "id": 2189990,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2189990",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PR-PI), pela aprovação deste, com substitutivo, e pela rejeição do PL 2529/2007, apensado, e do Substitutivo adotado pela Comissão de Defesa do Consumidor."
+        },
+        {
+            "id": 2190095,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2190095",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2191359,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2191359",
+            "siglaTipo": "REQ",
+            "codTipo": 363,
+            "numero": 223,
+            "ano": 2019,
+            "ementa": "Requer o desarquivamento de proposições"
+        },
+        {
+            "id": 2194747,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194747",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 5,
+            "ano": 2019,
+            "ementa": "Requer aprovação de Moção de Repúdio ao Prefeito da Cidade do Rio de Janeiro, Sr. Marcelo Crivella, pois em seu pronunciamento manifestou-se no sentido de que a Cidade do Rio de Janeiro é \"uma esculhambação completa\" e atribuiu a Policia Militar do Estado do Rio de Janeiro o cometimento de ilícitos penais."
+        },
+        {
+            "id": 2194754,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194754",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 6,
+            "ano": 2019,
+            "ementa": "Requer seja convidado o Ministro de Estado da Justiça e Segurança Pública, Senhor Sergio Moro, para comparecer na Comissão de Segurança Pública e Combate ao Crime Organizado a fim de prestar esclarecimentos acerca do Decreto 9.685 de 2019 e do Projeto de Lei 882/2019."
+        },
+        {
+            "id": 2194952,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194952",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 904,
+            "ano": 2019,
+            "ementa": "Requer registro da Frente Parlamentar em Defesa da Energia Solar no Brasil."
+        },
+        {
+            "id": 2225567,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2225567",
+            "siglaTipo": "REQ",
+            "codTipo": 363,
+            "numero": 2696,
+            "ano": 2019,
+            "ementa": "Requer o desarquivamento de proposições."
+        },
+        {
+            "id": 2225743,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2225743",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 174,
+            "ano": 2019,
+            "ementa": "Cria a Zona Franca de Teresina, Estado do Piaui."
+        },
+        {
+            "id": 2255156,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2255156",
+            "siglaTipo": "REQ",
+            "codTipo": 363,
+            "numero": 1552,
+            "ano": 2020,
+            "ementa": "Nos termos do art. 105, parágrafo único, do Regimento Interno, requeiro o desarquivamento das seguintes proposições: (PL 574/2015, PL 3665/2015, PL 574/2015, PL 8930/2017, PL 10949/2018 , PL 8929/2017, PL 8930/2017, PL 6318/2016, PL 6335/2016 , REQ 904/2019, PEC 174/2019 e PL 7315/2017)."
+        },
+        {
+            "id": 2258339,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2258339",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 1909,
+            "ano": 2020,
+            "ementa": "Requer o registro da Frente Parlamentar Mista em Defesa da Renda Básica."
+        },
+        {
+            "id": 2258656,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2258656",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3943,
+            "ano": 2020,
+            "ementa": "Projeto de Lei destinado a autorizar o Brasil, a importar medicamentos por meio da Organização Pan-Americana de Saúde - OPAS."
+        },
+        {
+            "id": 2261958,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2261958",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 2316,
+            "ano": 2020,
+            "ementa": "Requer o registro da Frente Parlamentar Mista Pelo Fortalecimento do SUS."
+        },
+        {
+            "id": 2262058,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2262058",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 2324,
+            "ano": 2020,
+            "ementa": "Requer a criação institucional, no âmbito da Câmara dos Deputados, da Frente Parlamentar Mista da Telessaúde."
+        },
+        {
+            "id": 2263289,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2263289",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4709,
+            "ano": 2020,
+            "ementa": "Altera o art. 61 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a fim de tornar uma circunstância agravante da pena ter o agente cometido o crime por meio de ato de discriminação ou preconceito de raça, cor, etnia, religião, procedência nacional, orientação sexual ou identidade de gênero, contra a pessoa no exercício do seu trabalho."
+        },
+        {
+            "id": 2263290,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2263290",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4710,
+            "ano": 2020,
+            "ementa": "Projeto de Lei destinado a autorizar o Brasil, a importar medicamentos por meio da Organização Pan-Americana de Saúde - OPAS.  NOVA EMENTA: Autoriza o Brasil a importar medicamentos, insumos e demais itens e equipamentos relacionados à área da saúde por meio da Organização Pan-Americana da Saúde (Opas); e dá outras providências."
+        },
+        {
+            "id": 2263291,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2263291",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4711,
+            "ano": 2020,
+            "ementa": "Projeto de Lei destinado a autorizar o Brasil, a importar medicamentos por meio da Organização Pan-Americana de Saúde - OPAS."
+        },
+        {
+            "id": 2263667,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2263667",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4781,
+            "ano": 2020,
+            "ementa": "\"Altera a Lei n. 10.826, de 22 de dezembro de 2003, para definir a cor laranja para os simulacros de arma de fogo.\""
+        },
+        {
+            "id": 2263669,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2263669",
+            "siglaTipo": "REQ",
+            "codTipo": 311,
+            "numero": 2498,
+            "ano": 2020,
+            "ementa": "Requer a retirada de tramitação e o arquivamento do Projeto de Lei 4711/2020 destinado a autorizar o Brasil, a importar medicamentos por meio da Organização Pan-Americana de Saúde – OPAS."
+        },
+        {
+            "id": 2266466,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2266466",
+            "siglaTipo": "ATACN",
+            "codTipo": 897,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "ATA DA REUNIÃO DA  BANCADA DO PIAUÍ EMENDAS LDO 2021"
+        },
+        {
+            "id": 2266470,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2266470",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 16,
+            "ano": 0,
+            "ementa": "Altera o PL 4.372/2020."
+        },
+        {
+            "id": 2267454,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2267454",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5561,
+            "ano": 2020,
+            "ementa": "Dispõe sobre o direito do empregado que é exposto a roubos ou outras espécies de violência física não precisam de perícia técnica para receber adicional de periculosidade."
+        },
+        {
+            "id": 2268427,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268427",
+            "siglaTipo": "DOC",
+            "codTipo": 863,
+            "numero": 1,
+            "ano": 2021,
+            "ementa": "Constitui Bloco Parlamentar."
+        },
+        {
+            "id": 2268565,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268565",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 9,
+            "ano": 2021,
+            "ementa": "Indica Líder do Bloco Parlamentar PSL, PL, PP, PSD, REPUBLICANOS, PTB, PROS, PODE, PSC, AVANTE, PATRIOTA."
+        },
+        {
+            "id": 2269516,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269516",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 295,
+            "ano": 2021,
+            "ementa": "Altera o Art. 118 da Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências."
+        },
+        {
+            "id": 2270352,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270352",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 475,
+            "ano": 2021,
+            "ementa": "Dá nova redação ao § 2º do art. 310 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal)."
+        },
+        {
+            "id": 2270401,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270401",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 483,
+            "ano": 2021,
+            "ementa": "Dá nova redação, aperfeiçoando o Art. 18-A da Lei nº 9.615, de 24 de março de 1998 (Lei Pelé)."
+        },
+        {
+            "id": 2270460,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270460",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 227,
+            "ano": 2021,
+            "ementa": "Requer a realização de Sessão Solene, no dia 3 de setembro próximo, em homenagem ao \"Dia do Biólogo\"."
+        },
+        {
+            "id": 2270472,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270472",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 232,
+            "ano": 2021,
+            "ementa": "Solicita a realização de Sessão Solene em Homenagem ao Dia do Vigilante."
+        },
+        {
+            "id": 2270473,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270473",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 233,
+            "ano": 2021,
+            "ementa": "Solicita a realização de Sessão Solene em Homenagem ao Dia do Delegado de Polícia."
+        },
+        {
+            "id": 2270474,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270474",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 234,
+            "ano": 2021,
+            "ementa": "Solicita a realização de Sessão Solene em Homenagem ao Dia do Policial Federal."
+        },
+        {
+            "id": 2270632,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270632",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 248,
+            "ano": 2021,
+            "ementa": "Requer a convocação de Sessão Solene da Câmara dos Deputados no dia 23/11/2021, em celebração ao Dia Nacional de Combate ao Câncer Infantil."
+        },
+        {
+            "id": 2270667,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270667",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 541,
+            "ano": 2021,
+            "ementa": "Determina que mulheres em situação de vulnerabilidade social terão prioridade nas iniciativas de qualificação profissional."
+        },
+        {
+            "id": 2271885,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271885",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 671,
+            "ano": 2021,
+            "ementa": "Dá nova redação, aperfeiçoando o Art. 6º da Lei nº 10.826, de 22 de Dezembro de 2003 (Estatuto do Desarmamento)."
+        },
+        {
+            "id": 2273435,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273435",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 409,
+            "ano": 2021,
+            "ementa": "Requer urgência para o PL 5375/2020, que “Altera a Lei n° 12.527, de 18 de novembro de 2011, para instituir o cadastro nacional de servidores públicos”, para conter informações unificadas sobre remoção e redistribuição de servidores."
+        },
+        {
+            "id": 2273478,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273478",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 24,
+            "ano": 0,
+            "ementa": "Propõe o pagamento do auxílio emergencial mensal no valor de R$ 600,00."
+        },
+        {
+            "id": 2273487,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273487",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 416,
+            "ano": 2021,
+            "ementa": "Requer dispensa do interstício regimental entre o primeiro e o segundo turno de deliberação da Proposta de Emenda à Constituição nº 186, de 2019."
+        },
+        {
+            "id": 2273544,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273544",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 423,
+            "ano": 2021,
+            "ementa": "Requer a criação da Frente Parlamentar em Defesa das Energias Renováveis - FER."
+        },
+        {
+            "id": 2273701,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273701",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 437,
+            "ano": 2021,
+            "ementa": "Requer urgência para tramitação para o Projeto de Lei nº 6.366 de 2019, que “ Institui o Dia Nacional das Defensoras e Defensores de Direitos Humanos.”"
+        },
+        {
+            "id": 2273713,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273713",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 439,
+            "ano": 2021,
+            "ementa": "Requeremos, nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, urgência urgentíssima para apreciação Projeto de Lei nº 837/2021, do Senhor Rodrigo de Castro, que institui mecanismos para a ampliação da proteção do meio ambiente e para o fortalecimento do desenvolvimento sustentável na Amazônia Legal."
+        },
+        {
+            "id": 2273731,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273731",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 864,
+            "ano": 2021,
+            "ementa": "Dá nova redação aos Arts. 6º, e 23 da Lei nº 10.826, de 22 de Dezembro de 2003 (Estatuto do Desarmamento)."
+        },
+        {
+            "id": 2273732,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273732",
+            "siglaTipo": "REQ",
+            "codTipo": 319,
+            "numero": 440,
+            "ano": 2021,
+            "ementa": "Requer a retirada de tramitação do Projeto de Lei Nº 671/2021."
+        },
+        {
+            "id": 2273780,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273780",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 450,
+            "ano": 2021,
+            "ementa": "Requer regime de Urgência para apreciação do Projeto de Lei nº 569/2021, que “institui o Programa Gás Social”."
+        },
+        {
+            "id": 2273928,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273928",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 465,
+            "ano": 2021,
+            "ementa": "Solicita a realização de Sessão Solene para a primeira quinzena do mês de julho deste ano, em dia e hora a serem definidos, a fim de prestar homenagem, em Plenário, ao 60 anos do Centro Espírita Beneficente União do Vegetal."
+        },
+        {
+            "id": 2274489,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2274489",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 34,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública sobre a necessidade de priorização para vacinação de todos os profissionais de Salvamento e Segurança Pública: que no exercício de suas funções se expõem diariamente a possibilidade de contaminação pela Covid-19."
+        },
+        {
+            "id": 2278250,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278250",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 775,
+            "ano": 2021,
+            "ementa": "Requer registro da Frente Parlamentar Mista - Brasil Competitivo."
+        },
+        {
+            "id": 2279219,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279219",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1526,
+            "ano": 2021,
+            "ementa": "Dá nova redação aos Arts. 132, 133 e 134 da Lei nº 8.069, de 13 de Julho de 1990 (Estatuto da Criança e do Adolescente)."
+        },
+        {
+            "id": 2279561,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279561",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1579,
+            "ano": 2021,
+            "ementa": "Dá nova redação ao Art. 349-A do Decreto Lei Nº 2.848, de 7 de Dezembro de 1940 (Código Penal Brasileiro)."
+        },
+        {
+            "id": 2279872,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279872",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 909,
+            "ano": 2021,
+            "ementa": "Requer regime de urgência urgentíssima para apreciação do Projeto de Lei 4710/2020, de autoria do Deputado Federal Capitão Fábio Abreu - PL/PI, que “autoriza o Brasil a importar medicamentos por meio da Organização Pan-Americana de Saúde - OPAS.”"
+        },
+        {
+            "id": 2282099,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2282099",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1745,
+            "ano": 2021,
+            "ementa": "Dá nova redação ao Art. 121, aumentando as penas para os homicídios qualificados, além de alterar o texto do inciso VII do §2º do Decreto Lei Nº 2.848, de 7 de Dezembro de 1940 (Código Penal Brasileiro)."
+        },
+        {
+            "id": 2283263,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2283263",
+            "siglaTipo": "EMP",
+            "codTipo": 873,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a MPV 1.031/2021."
+        },
+        {
+            "id": 2283388,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2283388",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação, com Emenda."
+        },
+        {
+            "id": 2283390,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2283390",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação."
+        },
+        {
+            "id": 2283392,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2283392",
+            "siglaTipo": "EMR",
+            "codTipo": 257,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Altera a Lei nº 12.741, de 8 de dezembro de 2012, para exigir a informação, nos documentos fiscais ou equivalentes, de todos os tributos federais, estaduais e municipais incluídos nos preços de venda das mercadorias e serviços."
+        },
+        {
+            "id": 2284022,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284022",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 1128,
+            "ano": 2021,
+            "ementa": "Requer nos termos do art. 114, inciso XIV, do RICD, a inclusão na Ordem do Dia da Proposta de Emenda à Constituição nº 22 de 2011."
+        },
+        {
+            "id": 2284555,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284555",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 14,
+            "ano": 2021,
+            "ementa": "Altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais."
+        },
+        {
+            "id": 2284904,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284904",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 1156,
+            "ano": 2021,
+            "ementa": "Requer a realização de Sessão Solene da Câmara dos Deputados para celebrar o Dia Nacional do Movimento Municipalista Brasileiro."
+        },
+        {
+            "id": 2284976,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284976",
+            "siglaTipo": "CVO",
+            "codTipo": 195,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer com Complementação de Voto, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação, com emenda."
+        },
+        {
+            "id": 2284977,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284977",
+            "siglaTipo": "EMR",
+            "codTipo": 257,
+            "numero": 3,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2285907,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285907",
+            "siglaTipo": "DOC",
+            "codTipo": 865,
+            "numero": 284,
+            "ano": 2021,
+            "ementa": "Saída do Bloco Parlamentar PSL, PL, PP, PSD, REPUBLICANOS, PTB, PROS, PODE, PSC, AVANTE, PATRIOTA"
+        },
+        {
+            "id": 2286636,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2286636",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação, com Substitutivo."
+        },
+        {
+            "id": 2286770,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2286770",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a PEC 32/2020( reforma administrativa) para criar o Regime Jurídico Peculiar dos Policiais Civis da União e do Distrito Federal, estendendo esse regime aos Estados e Municípios, para os seus \"policiais\".  As categorias englobadas são:  UNIÃO: Policiais Federais, Policiais Rodoviários Federais, Policiais Penais Federais; ESTADOS E DF: Policiais Civis Distritais e Estaduais, Policiais e Integrantes da Polícia Científica Estadual, Policiais Penais Estaduais, Agentes de Segurança Socioeducativos Estaduais, Agentes de Trânsito Estaduais; MUNICÍPIOS: Guardas Municipais e Agentes de Trânsito Municipais"
+        },
+        {
+            "id": 2286797,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2286797",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 7,
+            "ano": 0,
+            "ementa": "Acrescenta dispositivos à Constituição Federal"
+        },
+        {
+            "id": 2287186,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287186",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação deste, e do Substitutivo adotado pela Comissão dos Direitos da Mulher."
+        },
+        {
+            "id": 2287772,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287772",
+            "siglaTipo": "REC",
+            "codTipo": 373,
+            "numero": 29,
+            "ano": 2021,
+            "ementa": "Contra a apreciacão conclusiva do Projeto de Lei No 399/2015, do Deputado Fábio Mitidieri, que altera o art. 2º da Lei nº 11.343, de 23 de agosto de 2006, para viabilizar a comercialização de medicamentos que contenham extratos, substratos ou partes da planta Cannabis sativa em sua formulação."
+        },
+        {
+            "id": 2287989,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287989",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a Lei nº 9.279, de 14 de maio de 1996, para reduzir a burocracia e conferir tratamento isonômico entre nacionais e estrangeiros."
+        },
+        {
+            "id": 2288161,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288161",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 1372,
+            "ano": 2021,
+            "ementa": "Requer a realização de Sessão Solene, no Plenário da Câmara dos Deputados, em comemoração ao dia do fisioterapeuta."
+        },
+        {
+            "id": 2288214,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288214",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 1377,
+            "ano": 2021,
+            "ementa": "Solicita urgência urgentíssima (art. 155 do Regimento Interno da Câmara dos Deputados) para apreciação do Projeto de Lei nº 2.170, de 2021."
+        },
+        {
+            "id": 2289623,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289623",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 1445,
+            "ano": 2021,
+            "ementa": "Requer regime de urgência para apreciação do PL n. 1305/21."
+        },
+        {
+            "id": 2289797,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289797",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 41,
+            "ano": 2021,
+            "ementa": "Requer a realização de Audiência Pública para debater o Projeto de Lei Complementar nº 246 de 2020 que “Institui o complexo geoeconômico e social do Matopiba, nos termos do art. 43 da Constituição Federal e dá outras providências”."
+        },
+        {
+            "id": 2289853,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289853",
+            "siglaTipo": "REC",
+            "codTipo": 373,
+            "numero": 33,
+            "ano": 2021,
+            "ementa": "Recurso ao Plenário contra a apreciação conclusiva do Projeto de Lei nº 1.595/2020, que que “Altera a Lei n° 13.105, de 16 de março de 2015 (Código de Processo Civil), para prever a intimação eletrônica por meio de aplicativo de mensagens multiplataforma.”"
+        },
+        {
+            "id": 2289944,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289944",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 6,
+            "ano": 0,
+            "ementa": "Emenda modificativa à PEC nº 32/2020. Carreiras típicas de Estado."
+        },
+        {
+            "id": 2289985,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289985",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 8,
+            "ano": 0,
+            "ementa": "Altera a redação do inciso XI e parágrafo 12, ambos do art. 37 da Constituição Federal."
+        },
+        {
+            "id": 2290003,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290003",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 1475,
+            "ano": 2021,
+            "ementa": "Requeremos, nos termos do art. 150, parágrafo único, combinado com o art. 202, §8º do Regimento Interno da Câmara dos Deputados, a QUEBRA DO INTERSTÍCIO de 5 (cinco) sessões, para votação do segundo turno da PEC 397/2017, constante na pauta da presente sessão."
+        },
+        {
+            "id": 2290048,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290048",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 28,
+            "ano": 0,
+            "ementa": "Emenda à PEC 32 que Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290054,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290054",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 33,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290227,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290227",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 43,
+            "ano": 0,
+            "ementa": "Acrescenta artigo ao Ato das Disposições Constitucionais Transitórias, para dispor sobre as regras de vigência da Emenda à Constituição nº 32/2020."
+        },
+        {
+            "id": 2290228,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290228",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 44,
+            "ano": 0,
+            "ementa": "Emenda à PEC nº 32/2020, que altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2291092,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291092",
+            "siglaTipo": "ATACN",
+            "codTipo": 897,
+            "numero": 30,
+            "ano": 2021,
+            "ementa": "ATA DA BANCADA DO PIAUÍ EMENDAS LDO 2022"
+        },
+        {
+            "id": 2291144,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291144",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação deste, do PL 5756/2019, do PL 5795/2019, do PL 6110/2019, e do PL 3516/2020, apensados, com Substitutivo."
+        },
+        {
+            "id": 2291145,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291145",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, para dispor sobre a obrigatoriedade de contratação de seguro de danos causados por colisão, incêndio, furto ou roubo dos veículos utilizados no transporte remunerado privado individual de passageiros."
+        },
+        {
+            "id": 2291884,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291884",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2630,
+            "ano": 2021,
+            "ementa": "Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Déficit de Atenção com Hiperatividade (TDAH)."
+        },
+        {
+            "id": 2292334,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292334",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 2,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2292454,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292454",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação."
+        },
+        {
+            "id": 2292677,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292677",
+            "siglaTipo": "CVO",
+            "codTipo": 195,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer com Complementação de Voto, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2293387,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293387",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação deste, com Emenda, e pela rejeição da Emenda Adotada pela Comissão de Relações Exteriores e de Defesa Nacional."
+        },
+        {
+            "id": 2293389,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293389",
+            "siglaTipo": "EMR",
+            "codTipo": 257,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Acrescenta o Art. 12-A na Lei nº 12.598, de 21 de março de 2012, para permitir que a propriedade intelectual sirva de garantia de acesso aos benefícios de financiamentos previstos em Lei."
+        },
+        {
+            "id": 2293978,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293978",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 1648,
+            "ano": 2021,
+            "ementa": "Requer dispensa de interstício regimental para deliberação da PEC nº 125, de 2011, em Plenário, antes do decurso de 2 sessões"
+        },
+        {
+            "id": 2293985,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293985",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 1649,
+            "ano": 2021,
+            "ementa": "Requer dispensa do interstício regimental entre o primeiro e o segundo turno de deliberação da Proposta de Emenda à Constituição nº 125, de 2011."
+        },
+        {
+            "id": 2297793,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297793",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 63,
+            "ano": 0,
+            "ementa": "Institui o Código Eleitoral."
+        },
+        {
+            "id": 2297970,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297970",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação deste."
+        },
+        {
+            "id": 2297977,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297977",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2297996,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297996",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2298008,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298008",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2298010,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298010",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2298220,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298220",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 57,
+            "ano": 2021,
+            "ementa": "Requer a realização de audiência pública para debater o PL Nº 6.387/2019 – oriundo do Senado Federal como PLS 769/2015 – que “altera a Lei nº 9.294, de 15 de julho de 1996 (Lei Antifumo), para vedar a exposição e publicidade de produtos fumígenos, derivados ou não do tabaco, e o uso de aditivos, bem como estabelece o aumento das mensagens de advertências sanitárias; e altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para qualificar como infração de trânsito o ato de fumar em veículos quando houver passageiros menores de 18 (dezoito) anos”."
+        },
+        {
+            "id": 2298287,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298287",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação deste, do PDL 536/2020, do PDL 532/2020, do PDL 533/2020, do PDL 534/2020, do PDL 535/2020, do PDL 537/2020, do PDL 538/2020, do PDL 540/2020, do PDL 543/2020, e do PDL 546/2020, apensados, com substitutivo."
+        },
+        {
+            "id": 2298288,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298288",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Susta os efeitos da Resolução GECEX Nº 126, de 8 de dezembro de 2020, que altera o Anexo II da Resolução nº 125, de 15 de dezembro de 2016."
+        },
+        {
+            "id": 2299653,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299653",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 1867,
+            "ano": 2021,
+            "ementa": "Requer o registro da Frente Parlamentar em Apoio ao Produtor de Leite perante a Mesa da Câmara dos Deputados."
+        },
+        {
+            "id": 2301347,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2301347",
+            "siglaTipo": "EMP",
+            "codTipo": 873,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "INSTITUI A CÂMARA DE REGRAS EXCEPCIONAIS PARA GESTÃO HIDROENERGÉTICA COM O OBJETIVO DE ESTABELECER MEDIDAS EMERGENCIAIS PARA A OTIMIZAÇÃO DO USO DOS RECURSOS HIDROENERGÉTICOS E PARA O ENFRENTAMENTO DA ATUAL SITUAÇÃO DE ESCASSEZ HÍDRICA, A FIM DE GARANTIR A CONTINUIDADE E A SEGURANÇA DO SUPRIMENTO ELETROENERGÉTICO NO PAÍS."
+        },
+        {
+            "id": 2302448,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302448",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3514,
+            "ano": 2021,
+            "ementa": "Altera a LEI Nº 13.432, DE 11 DE ABRIL DE 2017, inserindo os detetives, e agentes de investigação, como profissionais auxiliares das forças de segurança pública."
+        },
+        {
+            "id": 2303534,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303534",
+            "siglaTipo": "REQ",
+            "codTipo": 308,
+            "numero": 2136,
+            "ano": 2021,
+            "ementa": "Requeiro, nos termos regimentais, que a proposta de Emenda à Constituição nº 14/2021 seja encaminhada para manifestação da Comissão de Constituição e Justiça e Cidadania (CCJC)."
+        },
+        {
+            "id": 2303578,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303578",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 2145,
+            "ano": 2021,
+            "ementa": "Requer a realização de Sessão Solene em homenagem aos 40 anos de regulamentação do Conselho Federal de Fonoaudiologia a ser comemorado no dia 09 de dezembro de 2021."
+        },
+        {
+            "id": 2304959,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2304959",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 37,
+            "ano": 2021,
+            "ementa": "Altera o art. 5º, caput, acrescenta o inciso X ao art. 170 e o inciso VIII ao §1º do artigo 225 da Constituição Federal."
+        },
+        {
+            "id": 2307616,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307616",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 2412,
+            "ano": 2021,
+            "ementa": "Criação da Frente Parlamentar de Prevenção de Doenças Pulmonares Graves."
+        },
+        {
+            "id": 2309567,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309567",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PL-PI), pela aprovação deste, do PL 1940/2021, e do PL 2392/2021, apensados, com substitutivo."
+        },
+        {
+            "id": 2309569,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309569",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2310246,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2310246",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Capitão Fábio Abreu (PL-PI), pela rejeição."
+        },
+        {
+            "id": 2312528,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2312528",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 2823,
+            "ano": 2021,
+            "ementa": "Requer a realização de Sessão Solene para comemoração dos 08 anos da sanção da Lei nº 13.022/2014 – Estatuto Geral das Guardas Municipais."
+        },
+        {
+            "id": 2314379,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314379",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 214,
+            "ano": 2022,
+            "ementa": "Altera a alínea “I’, do inciso III, do Art. 1º, da LEI Nº 7.960, DE 21 DE DEZEMBRO DE 1989, adequando o dispositivo legal à atual redação do Art. 288 do Código Penal, DECRETO-LEI Nº 2.848, DE 7 DE DEZEMBRO DE 1940."
+        },
+        {
+            "id": 2314381,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314381",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 216,
+            "ano": 2022,
+            "ementa": "Altera o § 1º do Art. 159 do Código Penal Brasileiro, DECRETO-LEI Nº 2.848, DE 7 DE DEZEMBRO DE 1940."
+        },
+        {
+            "id": 2314595,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314595",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 81,
+            "ano": 2022,
+            "ementa": "Os Deputados do Partido Liberal, consoante ao art. 9º do Regimento Interno da Câmara dos Deputados, decidiram indicar o Deputado ALTINEU CÔRTES (PL/RJ), como Líder do Partido."
+        },
+        {
+            "id": 2314821,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314821",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 138,
+            "ano": 2022,
+            "ementa": "REQUER O REGISTRO DA FRENTE PARLAMENTAR MISTA DO EMPREENDEDORISMO"
+        },
+        {
+            "id": 2318458,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318458",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 668,
+            "ano": 2022,
+            "ementa": "Altera o Art. 62 da LEI Nº 11.343, DE 23 DE AGOSTO DE 2006, adequando o dispositivo legal para que qualquer entidade que atue de modo preventivo ou repressivo no combate ao tráfico e ao uso de drogas proibidas possa fazer uso de quaisquer bens tratados no Art. 61 do mesmo diploma legal."
+        },
+        {
+            "id": 2318625,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318625",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 398,
+            "ano": 2022,
+            "ementa": "Requerimento de quebra de interstício para inclusão na Ordem do Dia da PEC nº 18/2021."
+        },
+        {
+            "id": 2318626,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318626",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 399,
+            "ano": 2022,
+            "ementa": "Impõe aos partidos a aplicação de recursos do fundo partidário na promoção e difusão da participação política das mulheres, bem como a aplicação de recursos desse fundo e do fundo de financiamento de campanha e a divisão do tempo de propaganda gratuita no rádio e na televisão no percentual mínimo de 30% (trinta por cento) para candidaturas femininas."
+        },
+        {
+            "id": 2318703,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318703",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 146,
+            "ano": 2022,
+            "ementa": "Solicita informações ao Sr. Ministro da Saúde sobre o tratamento medicamentoso disponibilizado pelo Sistema Único de Saúde (SUS) aos pacientes diagnosticados com Transtorno do Déficit de Atenção com Hiperatividade (TDAH)."
+        },
+        {
+            "id": 2319002,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319002",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 460,
+            "ano": 2022,
+            "ementa": "Solicita coautoria no RIC 146/2022, de autoria do Deputado Fábio Trad - PSD/MS, que solicita informações ao Sr. Ministro da Saúde sobre o tratamento medicamentoso disponibilizado pelo Sistema Único de Saúde (SUS) aos pacientes diagnosticados com Transtorno do Déficit de Atenção com Hiperatividade (TDAH)."
+        },
+        {
+            "id": 2319307,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319307",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 500,
+            "ano": 2022,
+            "ementa": "Requerem a realização de Sessão Solene em homenagem ao Dia Mundial do Transtorno de Déficit de Atenção com Hiperatividade (TDAH)."
+        },
+        {
+            "id": 2320054,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320054",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 958,
+            "ano": 2022,
+            "ementa": "Altera a LEI Nº 9.250, DE 26 DE DEZEMBRO DE 1995 que dispõe sobre a legislação do imposto de renda das pessoas físicas, para incluir despesas veterinárias, e aumentar o limite máximo individual de gasto com instrução e dá outras providências."
+        },
+        {
+            "id": 2320572,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320572",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1047,
+            "ano": 2022,
+            "ementa": "Altera o Decreto Lei Nº 667, de 2 de julho de 1.969, que reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal, e dá outras providências."
+        },
+        {
+            "id": 2322034,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2322034",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 10,
+            "ano": 2022,
+            "ementa": "Complementarmente ao REQ n. 06/2022, protocolado na CCTCI, requer que sejam convidados um representante de cada operadora de telefonia móvel e internet que atue em todo território nacional, principalmente da Oi, Vivo, TIM e Claro, assim como um representante da sociedade civil organizada, para audiência pública que discutirá situação da telefonia, como a qualidade da cobertura e suas obrigações, e bem como a melhoria do sinal da telefonia móvel e internet."
+        },
+        {
+            "id": 2322344,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2322344",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 715,
+            "ano": 2022,
+            "ementa": "Requer urgência na apreciação do PL nº 2676, de 2021, de minha autoria, que “Institui o Dia Nacional do Terço dos Homens.”"
+        }
+    ]
+}

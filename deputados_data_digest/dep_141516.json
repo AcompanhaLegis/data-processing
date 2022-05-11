@@ -1,0 +1,179 @@
+{
+    "proposicoes_by_year": {
+        "2007": {
+            "amount": 44,
+            "types": {
+                "PEC": 21,
+                "REQ": 9,
+                "RCP": 2,
+                "REC": 3,
+                "PL": 2,
+                "EMC": 4,
+                "EMP": 1,
+                "SPP": 1,
+                "SOR": 1
+            }
+        },
+        "0": {
+            "amount": 163,
+            "types": {
+                "PRL": 108,
+                "EMR": 10,
+                "VTS": 5,
+                "SBT": 5,
+                "RLP": 3,
+                "PEP": 1,
+                "PPP": 1,
+                "RDF": 12,
+                "PRV": 1,
+                "ESB": 2,
+                "ATACN": 1,
+                "EMP": 9,
+                "SBR": 2,
+                "EMC": 3
+            }
+        },
+        "2008": {
+            "amount": 148,
+            "types": {
+                "REQ": 10,
+                "PRC": 1,
+                "EMC": 127,
+                "INC": 2,
+                "REC": 1,
+                "PLP": 1,
+                "PL": 6
+            }
+        },
+        "2009": {
+            "amount": 33,
+            "types": {
+                "REQ": 9,
+                "EMC": 13,
+                "PEC": 1,
+                "EMP": 9,
+                "PL": 1
+            }
+        },
+        "2010": {
+            "amount": 6,
+            "types": {
+                "EMC": 6
+            }
+        },
+        "2011": {
+            "amount": 108,
+            "types": {
+                "PL": 8,
+                "PRC": 2,
+                "EMC": 51,
+                "REQ": 29,
+                "RIC": 14,
+                "EMA": 1,
+                "PLP": 1,
+                "INC": 1,
+                "REC": 1
+            }
+        },
+        "2012": {
+            "amount": 9,
+            "types": {
+                "PL": 3,
+                "REQ": 3,
+                "EMC": 3
+            }
+        },
+        "2013": {
+            "amount": 45,
+            "types": {
+                "REQ": 22,
+                "EMC": 19,
+                "EMP": 1,
+                "PLP": 1,
+                "PL": 2
+            }
+        },
+        "2014": {
+            "amount": 11,
+            "types": {
+                "INC": 1,
+                "PL": 4,
+                "EMC": 4,
+                "REQ": 2
+            }
+        },
+        "2015": {
+            "amount": 54,
+            "types": {
+                "REQ": 9,
+                "PL": 10,
+                "EMC": 30,
+                "RIC": 4,
+                "PDC": 1
+            }
+        },
+        "2016": {
+            "amount": 26,
+            "types": {
+                "REQ": 8,
+                "PL": 7,
+                "EMC": 11
+            }
+        },
+        "2017": {
+            "amount": 62,
+            "types": {
+                "EMC": 43,
+                "PL": 13,
+                "REQ": 5,
+                "PLP": 1
+            }
+        },
+        "2018": {
+            "amount": 13,
+            "types": {
+                "PL": 8,
+                "REM": 1,
+                "EMC": 3,
+                "REQ": 1
+            }
+        },
+        "2019": {
+            "amount": 134,
+            "types": {
+                "REQ": 5,
+                "EMC": 126,
+                "PL": 1,
+                "RIC": 1,
+                "PEC": 1
+            }
+        },
+        "2020": {
+            "amount": 9,
+            "types": {
+                "EMC": 3,
+                "PL": 5,
+                "REQ": 1
+            }
+        },
+        "2021": {
+            "amount": 30,
+            "types": {
+                "DOC": 3,
+                "PL": 3,
+                "REQ": 8,
+                "PEC": 3,
+                "REC": 1,
+                "PLP": 2,
+                "EMC": 10
+            }
+        },
+        "2022": {
+            "amount": 2,
+            "types": {
+                "DOC": 1,
+                "REQ": 1
+            }
+        }
+    }
+}

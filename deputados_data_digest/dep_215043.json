@@ -1,0 +1,33 @@
+{
+    "proposicoes_by_year": {
+        "2021": {
+            "amount": 18,
+            "types": {
+                "EMC": 2,
+                "DOC": 4,
+                "REQ": 4,
+                "PL": 5,
+                "PEC": 1,
+                "REC": 1,
+                "PLP": 1
+            }
+        },
+        "0": {
+            "amount": 23,
+            "types": {
+                "VTS": 1,
+                "EMC": 9,
+                "EMP": 11,
+                "PRL": 2
+            }
+        },
+        "2022": {
+            "amount": 5,
+            "types": {
+                "REQ": 2,
+                "PLP": 1,
+                "DOC": 2
+            }
+        }
+    }
+}

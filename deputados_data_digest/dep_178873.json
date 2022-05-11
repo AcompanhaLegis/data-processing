@@ -1,0 +1,107 @@
+{
+    "proposicoes_by_year": {
+        "2015": {
+            "amount": 44,
+            "types": {
+                "EMC": 14,
+                "REQ": 20,
+                "PL": 10
+            }
+        },
+        "0": {
+            "amount": 303,
+            "types": {
+                "VTS": 17,
+                "PRL": 80,
+                "EMR": 19,
+                "PRV": 3,
+                "ESB": 12,
+                "SBT": 20,
+                "CVO": 1,
+                "EMP": 68,
+                "EMC": 83
+            }
+        },
+        "2016": {
+            "amount": 40,
+            "types": {
+                "PL": 9,
+                "REQ": 23,
+                "EMC": 6,
+                "PLP": 1,
+                "REC": 1
+            }
+        },
+        "2017": {
+            "amount": 100,
+            "types": {
+                "REQ": 30,
+                "EMC": 58,
+                "PDC": 6,
+                "PL": 6
+            }
+        },
+        "2018": {
+            "amount": 25,
+            "types": {
+                "PDC": 2,
+                "PRC": 1,
+                "PL": 7,
+                "REQ": 7,
+                "EMC": 7,
+                "PLP": 1
+            }
+        },
+        "2019": {
+            "amount": 259,
+            "types": {
+                "REQ": 54,
+                "PL": 10,
+                "PDL": 10,
+                "RIC": 1,
+                "EMC": 184
+            }
+        },
+        "2020": {
+            "amount": 291,
+            "types": {
+                "REQ": 101,
+                "PL": 89,
+                "PDL": 25,
+                "PLP": 3,
+                "EMC": 27,
+                "RIC": 42,
+                "REC": 1,
+                "INC": 2,
+                "PRC": 1
+            }
+        },
+        "2021": {
+            "amount": 205,
+            "types": {
+                "RIC": 12,
+                "DOC": 6,
+                "PL": 47,
+                "REQ": 90,
+                "PDL": 19,
+                "PRC": 3,
+                "EMC": 3,
+                "PLP": 3,
+                "PEC": 6,
+                "REC": 12,
+                "ATACN": 1,
+                "SOR": 3
+            }
+        },
+        "2022": {
+            "amount": 26,
+            "types": {
+                "DOC": 1,
+                "PL": 7,
+                "REQ": 12,
+                "PDL": 5,
+                "RIC": 1
+            }
+        }
+    }
+}

@@ -1,0 +1,1093 @@
+{
+    "id": 204382,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204382",
+    "nome": "Loester Trutis",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "MS",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204382.jpg",
+    "email": "dep.loestertrutis@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 2194894,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194894",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 11,
+            "ano": 2019,
+            "ementa": "Requer a criação de Subcomissão Especial sobre Tecnologia 5G no âmbito da Comissão de Ciência, Tecnologia, Comunicação e Informática."
+        },
+        {
+            "id": 2196100,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196100",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 1010,
+            "ano": 2019,
+            "ementa": "Requer o registro da FRENTE PARLAMENTAR ARMAMENTISTA - FPAR."
+        },
+        {
+            "id": 2197637,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197637",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 101,
+            "ano": 2019,
+            "ementa": "Altera a Lei n° 5.172, de 25 de outubro de 1966, e o Decreto-Lei n° 195, de 24 de fevereiro de 1967, para estabelecer que a taxa municipal ou distrital de coleta domiciliar de lixo e a contribuição de melhoria cobrada em virtude de pavimentação e de melhoramentos congêneres sejam exigidos de forma conjunta com o imposto sobre a propriedade predial e territorial urbana (IPTU)."
+        },
+        {
+            "id": 2197770,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197770",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2197774,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197774",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2197803,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197803",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2197809,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197809",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2197813,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197813",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2197814,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197814",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2198525,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198525",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2364,
+            "ano": 2019,
+            "ementa": "Institui a \"Semana Nacional da Prevenção do Acidente Doméstico\" a ser celebrada anualmente na segunda semana do mês de junho, e dá outras providências."
+        },
+        {
+            "id": 2200755,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200755",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 605,
+            "ano": 2019,
+            "ementa": "Sugere ao Ministro da Educação prestar contínuas e justas homenagens à Professora Helley de Abreu Silva Batista."
+        },
+        {
+            "id": 2203537,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203537",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 10,
+            "ano": 2019,
+            "ementa": "IInclui oficiais de justiça entre os beneficiários de aposentadoria especial."
+        },
+        {
+            "id": 2203549,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203549",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 12,
+            "ano": 2019,
+            "ementa": "Altera dispositivos dos artigos 1º, 4º, 10 e 12 da PEC 06/2019 para dispor sobre o regime previdenciário dos policiais dos órgãos a que se referem o inciso IV do caput do art. 51, o inciso XIII, do caput do art. 52 e os incisos I a IV do caput do art. 144  da Constituição e dá outras providências.\""
+        },
+        {
+            "id": 2203565,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203565",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 13,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências"
+        },
+        {
+            "id": 2205759,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205759",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 144,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205959,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205959",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 241,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências"
+        },
+        {
+            "id": 2206414,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206414",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3298,
+            "ano": 2019,
+            "ementa": "Lei Graziela Barroso que institui o Programa Nacional de Apoio à Iniciação Científica (PRONAIC)."
+        },
+        {
+            "id": 2206437,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206437",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2206448,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206448",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Eleva o Jiu-Jitsu à condição de manifestação da cultura nacional e de patrimônios culturais imateriais."
+        },
+        {
+            "id": 2206773,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206773",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2206795,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206795",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2019,
+            "ementa": "Altera o art. 3 da PEC 15/2015 e o art. 213 da Constituição Federal para possibilitar que estados e municípios optem por direcionar parte dos recursos do FUNDEB para organizações da sociedade civil e para financiar bolsas de estudo em instituições de ensino privadas."
+        },
+        {
+            "id": 2206983,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206983",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 4,
+            "ano": 2019,
+            "ementa": "Inclui mecanismo de transparência e de prestação de contas de todos os entes federativos no uso de recursos provenientes do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB"
+        },
+        {
+            "id": 2209283,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2209283",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 76,
+            "ano": 2019,
+            "ementa": "Requer a inclusão de Fernanda Teixeira Souza Domingos, Procuradora da República no Estado de São Paulo e coordenadora adjunta do Grupo de Apoio de Combate aos Crimes Cibernéticos da 2ª Câmara de Coordenação e Revisão do Ministério Público Federal, na Audiência Pública para debater os crimes cibernéticos e as soluções legais para que as autoridades de persecução penal acessem provas telemáticas importantes para resolução de investigações criminais, aprovada por esta Comissão em decorrência do Requerimento nº 28/2019, do Sr. David Soares."
+        },
+        {
+            "id": 2210483,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210483",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3847,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 6.360, de 23 de setembro de 1976, para dispor sobre a concessão automática de registro aos medicamentos que já tenham sido autorizados por autoridades sanitárias de outros países."
+        },
+        {
+            "id": 2212266,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212266",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 900,
+            "ano": 2019,
+            "ementa": "Requer o envio ao Poder Executivo deste pedido de informações sobre o impacto orçamentário do Projeto de Lei nº 3.298, de 2019."
+        },
+        {
+            "id": 2212300,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212300",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2019,
+            "ementa": "Dê-se à Proposta de Emenda à Constituição n° 45, de 2019, a seguinte redação: \"Cria o imposto federal sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira."
+        },
+        {
+            "id": 2218058,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218058",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 17,
+            "ano": 2019,
+            "ementa": "Altera o Artigo 1º da PEC 45/2019 - do Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2218561,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218561",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 20,
+            "ano": 2019,
+            "ementa": "COMISSÃO ESPECIAL DESTINADA A PROFERIR PARECER À PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 45-A, DE 2019, DO SR. BALEIA ROSSI E OUTROS, QUE \"ALTERA O SISTEMA TRIBUTÁRIO NACIONAL E DÁ OUTRAS PROVIDÊNCIAS\" PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 45-A, DE 2019 Altera o Sistema Tributário Nacional e dá outras providências.  EMENDA SUBSTITUTIVA Nº Dê-se à Proposta de Emenda à Constituição n° 45, de 2019, a seguinte redação: \"Cria o imposto único nacional sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira."
+        },
+        {
+            "id": 2219062,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219062",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 47,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional, para acrescer o artigo 152-A à Constituição Federal e modificar o inciso I do parágrafo único do art. 115 do Ato das Disposições Constitucionais Transitórias."
+        },
+        {
+            "id": 2219914,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219914",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 92,
+            "ano": 2019,
+            "ementa": "Altera os arts. 62, 150 e 163 da Constituição Federal e acrescenta o art. 115 do Ato das Disposições Constitucionais Transitórias para instituir novos parâmetros de controle para a concessão de isenções, incentivos e benefícios fiscais."
+        },
+        {
+            "id": 2219915,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219915",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 93,
+            "ano": 2019,
+            "ementa": "Amplia o alcance do Imposto de Renda, passando a incidir sobre verbas indenizatórias não decorrentes de dano patrimonial e lucros e dividendos distribuídos por pessoas jurídicas, de forma progressiva e com faixas de isenção."
+        },
+        {
+            "id": 2219922,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219922",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 97,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional, estabelecendo parâmetros para a desoneração da folha de salários na faixa de 1 (um) salário mínimo, progressivamente, no período de 10 (dez) anos"
+        },
+        {
+            "id": 2219924,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219924",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 98,
+            "ano": 2019,
+            "ementa": "Modifica o art. 155, III da Constituição Federal para estender a cobrança de IPVA aos veículos automotores aquáticos e aéreos"
+        },
+        {
+            "id": 2219927,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219927",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 99,
+            "ano": 2019,
+            "ementa": "Acrescenta piso para alíquota singular do imposto sobre bens e serviços vinculada a programa de transferência de renda com condicionalidades."
+        },
+        {
+            "id": 2223996,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2223996",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2224336,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224336",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 129,
+            "ano": 2019,
+            "ementa": "Requer a realização de audiência pública para debater as perspectivas de cooperação entre o Brasil e a Organização do Tratado do Atlântico Norte (OTAN), com a participação do Deputado Major Vitor Hugo, proponente da criação do Grupo Parlamentar de Amizade Brasil -  OTAN; e representantes do Ministério da Defesa; do Gabinete de Segurança Institucional da Presidência da República (GSI/PR); do Ministério das Relações Exteriores (MRE); da EMBRAER DEFESA; e da Associação Brasileira das Indústrias de Materiais de Defesa e Segurança (ABIMDE)."
+        },
+        {
+            "id": 2224376,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224376",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 130,
+            "ano": 2019,
+            "ementa": "Requer a realização de audiência pública para debater a atual questão geopolítica envolvendo o 5G no mundo e seus impactos para o Brasil, com a participação dos senhores Leonardo Euler Morais, Presidente da ANATEL; Carlos Lauria (Diretor de Relações Governamentais e Assuntos Regulatórios da Huawei do Brasil); Francisco Soares (Diretor de Assuntos Governamentais da Qualcomm Brasil); Tiago Machado (Diretor de Relações Governamentais da Ericsson Telecomunicações S/A); e representantes da Nokia e do Google."
+        },
+        {
+            "id": 2228162,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2228162",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 2873,
+            "ano": 2019,
+            "ementa": "Requer o registro da FRENTE PARLAMENTAR EM PROL DA INICIAÇÃO CIENTÍFICA - FPIC."
+        },
+        {
+            "id": 2230433,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2230433",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 4,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação deste, e pela rejeição da Emenda 1/2017 da CREDN."
+        },
+        {
+            "id": 2238523,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238523",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 554,
+            "ano": 2020,
+            "ementa": "Esta lei altera a Lei nº 2.848 de 07 de dezembro de 1940 para incluir a alínea \"a\" ao inciso II do artigo 226."
+        },
+        {
+            "id": 2238524,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238524",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 555,
+            "ano": 2020,
+            "ementa": "Esta Lei altera a Lei nº 2.848 de 07 de dezembro de 1940 para igualar as penas dispostas em seu artigo 213 de acordo com a maior (art. 213 § 2º), tendo em vista o dano irreparável causado pelo autor na vida da vítima."
+        },
+        {
+            "id": 2238525,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238525",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 556,
+            "ano": 2020,
+            "ementa": "Esta Lei altera a Lei nº 2.848 de 07 de dezembro de 1940 para triplicar a pena aplicada em caso de estupro de vulnerável por ascendente ou pessoa que exerça autoridade sobre a vítima."
+        },
+        {
+            "id": 2238864,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238864",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 602,
+            "ano": 2020,
+            "ementa": "Altera o art. 6º da Lei nº 10.826, de 22 de dezembro de 2003 - Estatuto do Desarmamento, para permitir o porte de arma para agentes de fiscalização."
+        },
+        {
+            "id": 2238987,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238987",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 429,
+            "ano": 2020,
+            "ementa": "Requer o registro da FRENTE PARLAMENTAR EM APOIO AO ECOTURISMO - ECOFPAR."
+        },
+        {
+            "id": 2239094,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2239094",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 639,
+            "ano": 2020,
+            "ementa": "Esta Lei altera a Lei nº 8.072 de 25 de julho de 1990 para incluir o crime de lesão corporal no rol de Crimes Hediondos quando praticados contra autoridade ou agentes de segurança."
+        },
+        {
+            "id": 2239095,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2239095",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 640,
+            "ano": 2020,
+            "ementa": "Altera a Lei nº 10.826, de 22 de dezembro de 2003, para conceder o porte de arma de fogo aos integrantes do quadro efetivo dos órgãos e entidades da Administração Pública federal, estadual, distrital e municipal."
+        },
+        {
+            "id": 2250782,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2250782",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2253,
+            "ano": 2020,
+            "ementa": "Esta lei reconhece o povo de Taiwan como povo amigo do Brasil."
+        },
+        {
+            "id": 2252491,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2252491",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2587,
+            "ano": 2020,
+            "ementa": "Em virtude da crise decorrente da pandemia de Covid-19, esta lei acrescenta dispositivo à Lei nº 8.313, de 23 de dezembro de 1991, para que passe a contemplar, fomentar e impulsionar a iniciação científica em instituições públicas de ensino fundamental, médio e técnico."
+        },
+        {
+            "id": 2254589,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254589",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3145,
+            "ano": 2020,
+            "ementa": "Altera a Lei n° 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir educação financeira no rol dos temas transversais obrigatórios da educação básica."
+        },
+        {
+            "id": 2254893,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254893",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 1,
+            "ano": 2020,
+            "ementa": "Os Deputados  do PSL, solicitam apoiamento de assinatura para estabelecer o Deputado Felipe Francischini para ser indicado a Líder do PSL."
+        },
+        {
+            "id": 2256685,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256685",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3617,
+            "ano": 2020,
+            "ementa": "Concede à Cidade de Bonito, localizada no Estado do Mato Grosso do Sul, o título de Capital Nacional do Ecoturismo."
+        },
+        {
+            "id": 2257465,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257465",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3747,
+            "ano": 2020,
+            "ementa": "Concede ao município de Corumbá, localizado no Estado do Mato Grosso do Sul, o título de Capital Nacional da Pesca Esportiva em rios de água doce."
+        },
+        {
+            "id": 2259230,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259230",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4053,
+            "ano": 2020,
+            "ementa": "Altera a Lei n° 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir aulas de xadrez e raciocínio lógico no rol dos temas transversais obrigatórios da educação básica."
+        },
+        {
+            "id": 2259421,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259421",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4092,
+            "ano": 2020,
+            "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990, para qualificar como crime hediondo o desvio de verba, corrupção, formação de quadrilha e peculato, quando as práticas estiverem relacionadas a contratos, programas, licitações ou qualquer ação referente aos fundos constitucionais para a educação, abrangendo o FUNDEB e demais fundos educacionais criados."
+        },
+        {
+            "id": 2260490,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260490",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4220,
+            "ano": 2020,
+            "ementa": "Tipifica a conduta de consumir, transportar, mesmo que em pequenas quantidades, e/ou entregar a consumo, mesmo que gratuitamente, drogas ilícitas nas dependências ou dentro do raio de um quilômetro de escolas públicas e particulares, universidades públicas e particulares, ou qualquer instituição de ensino regular em todo território nacional, alterando a Lei nº 11.343, de 23 de agosto de 2006."
+        },
+        {
+            "id": 2260491,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260491",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4221,
+            "ano": 2020,
+            "ementa": "Enquadra como ato de terrorismo a emboscada de agentes públicos com uso de explosivos, granadas ou armas cuja energia seja superior a 1000 Joules."
+        },
+        {
+            "id": 2260513,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260513",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4230,
+            "ano": 2020,
+            "ementa": "Altera a Lei nº 10.826, de 22 de dezembro de 2003, para conceder o porte de arma de fogo aos Defensores Públicos."
+        },
+        {
+            "id": 2260515,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260515",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 216,
+            "ano": 2020,
+            "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990, para dispor sobre a inelegibilidade dos dirigentes de sindicatos de servidores públicos que não se afastarem dos cargos que ocupam nessas entidades ao menos 12 (doze) meses antes do pleito."
+        },
+        {
+            "id": 2260677,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2260677",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4283,
+            "ano": 2020,
+            "ementa": "Altera a Lei nº 12.850, de 2 de agosto de 2013 (Lei das Organizações Criminosas), para vedar a progressão de regime prisional, o livramento condicional e outros benefícios prisionais ao condenado que promova, constitua, financie ou integre organização criminosa, pessoalmente ou por interposta pessoa, abrangendo condenados expressamente em sentença e condenados que passem a integrar organização criminosa no decorrer do regime prisional."
+        },
+        {
+            "id": 2263408,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2263408",
+            "siglaTipo": "DOC",
+            "codTipo": 863,
+            "numero": 6,
+            "ano": 2020,
+            "ementa": "Constitui o Bloco PSL/PROS/PTB"
+        },
+        {
+            "id": 2264355,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2264355",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 7,
+            "ano": 2020,
+            "ementa": "Indica o Deputado Felipe Francischini (PSL/PR) para o exercício do cargo de Líder do Bloco Parlamentar PSL/PROS/PTB."
+        },
+        {
+            "id": 2266816,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2266816",
+            "siglaTipo": "ATACN",
+            "codTipo": 897,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "ATA DA REUNIÃO DA BANCADA - EMENDAS PLDO 09/2020"
+        },
+        {
+            "id": 2268428,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268428",
+            "siglaTipo": "DOC",
+            "codTipo": 864,
+            "numero": 2,
+            "ano": 2021,
+            "ementa": "Adesão a Bloco Parlamentar"
+        },
+        {
+            "id": 2268473,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268473",
+            "siglaTipo": "DOC",
+            "codTipo": 864,
+            "numero": 7,
+            "ano": 2021,
+            "ementa": "Assunto: Adesão a Bloco Parlamentar."
+        },
+        {
+            "id": 2268780,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268780",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 34,
+            "ano": 2021,
+            "ementa": "Comunicação de Líder do Partido Social Liberal (PSL)."
+        },
+        {
+            "id": 2269958,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269958",
+            "siglaTipo": "PDL",
+            "codTipo": 560,
+            "numero": 14,
+            "ano": 2021,
+            "ementa": "Inclui dispositivo ao Decreto Legislativo nº 276, de 18 de dezembro de 2014, para congelar o salário dos membros do Congresso Nacional por duas legislaturas, ou seja, até a 58ª Legislatura, como medida efetiva para socorrer e auxiliar no crescimento econômico do País nos próximos anos, tendo em vista os inúmeros gastos para combate da pandemia de Covid-19."
+        },
+        {
+            "id": 2270194,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270194",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 432,
+            "ano": 2021,
+            "ementa": "Altera o Código Penal para tornar crime a simulação de aplicação de vacina, ou qualquer ato, com intuito de fraudar, desviar, desfalcar ou burlar, em benefício próprio ou de outrem, o processo de imunização estabelecido pelo Plano Nacional de Vacinação, elaborado pelo Ministério da Saúde e adotado em cada estado da federação."
+        },
+        {
+            "id": 2270359,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270359",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 476,
+            "ano": 2021,
+            "ementa": "Inclui dispositivo na Lei 10.826, de 22 de dezembro de 2003 para conceder porte de arma de fogo aos médicos veterinários que exerçam cargo público com função de fiscalização e aos médicos veterinários, profissionais liberais, que trabalhem em propriedade rural, seja em linha fronteiriça ou não."
+        },
+        {
+            "id": 2271083,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271083",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 18,
+            "ano": 2021,
+            "ementa": "PROJETO DE LEI ORÇAMENTÁRIA PARA 2021, PLN nº 028/2020-CN, ATA DE BANCADA ESTADUAL (REUNIÃO DA BANCADA DO ESTADO DE MATO GROSSO DO SUL, REALIZADA EM 23,24 e25 DE FEVEREIRO DE 2021)"
+        },
+        {
+            "id": 2273421,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273421",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 48,
+            "ano": 2021,
+            "ementa": "PROJETO DE LEI ORÇAMENTÁRIA PARA 2021 PLN nº 028/2020-CN\nATA DE BANCADA ESTADUAL(REUNIÃO DA BANCADA DO ESTADO DE MATO GROSSO DO SUL, REALIZADA EM 23, 24 e25 DE FEVEREIRO E 8 MARÇO DE 2021"
+        },
+        {
+            "id": 2276496,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2276496",
+            "siglaTipo": "PRC",
+            "codTipo": 444,
+            "numero": 27,
+            "ano": 2021,
+            "ementa": "Direciona 50% do valor a ser disponibilizado como Cota para o Exercício da Atividade Parlamentar no ano de 2021, instituída pelo Ato da Mesa nº 43, de 21 de maio de 2009, para compor os repasses de auxílio emergencial, em razão da pandemia do COVID-19, possibilitando o aumento do valor e da quantidade de parcelas a serem destinadas à população."
+        },
+        {
+            "id": 2277268,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277268",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1298,
+            "ano": 2021,
+            "ementa": "Esta lei acrescenta dispositivos ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940, para definir a chamada school zone, e dispõe sobre os casos de aumento de pena dos crimes cometidos na school zone."
+        },
+        {
+            "id": 2277273,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277273",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1300,
+            "ano": 2021,
+            "ementa": "Esta lei acrescenta dispositivos ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940, no qual prevê os casos de aumento de pena dos crimes praticados na school zone, quando a vítima for estudante ou profissional da educação."
+        },
+        {
+            "id": 2281007,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2281007",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1727,
+            "ano": 2021,
+            "ementa": "Altera o Decreto-Lei nº 2.848, em seu artigo 22, do Código Penal, para penalizar integralmente a mãe ou o pai, ou qualquer ascendente ou responsável que, por ação ou omissão, cometa ou permita que seja cometido crimes contra a vida, contra a honra, contra a dignidade sexual e/ou lesão corporal de qualquer natureza, contra seu filho, descendente ou filho do seu cônjuge, tornando sem efeito nestes casos a penalização mais branda ou aplicação de hipótese de coação irresistível, tendo em vista o dever de proteção exercido pelo autor."
+        },
+        {
+            "id": 2281033,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2281033",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1728,
+            "ano": 2021,
+            "ementa": "Esta lei determina que o sexo biológico será o único critério definidor do gênero dos competidores em partidas esportivas oficiais em todo território nacional."
+        },
+        {
+            "id": 2283111,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2283111",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1826,
+            "ano": 2021,
+            "ementa": "Esta Lei altera o artigo 59 e inclui o art. 60-A a Lei nº 9.394, de 20 de dezembro de 1996 – Lei de Diretrizes e Bases da Educação Nacional, no qual fica proibido que escolas públicas contratem docentes sem especialização adequada para lidar com alunos com deficiência, transtornos globais do desenvolvimento (TGD) e altas habilidades ou superdotação de nível fundamental e médio."
+        },
+        {
+            "id": 2284555,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284555",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 14,
+            "ano": 2021,
+            "ementa": "Altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais."
+        },
+        {
+            "id": 2285611,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285611",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2038,
+            "ano": 2021,
+            "ementa": "Inclui o artigo 241-F a Lei nº 8.069 de 13 de julho de 1990, Estatuto da Criança e do Adolescente, para criminalizar expressamente a conduta de quem expõe, aborda e explana conteúdo sexual em canais televisivos, internet e redes sociais para menores de 16 anos."
+        },
+        {
+            "id": 2285795,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285795",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2052,
+            "ano": 2021,
+            "ementa": "Altera a Lei nº 14.125, de 10 de março de 2021, para dispor sobre a aquisição e a distribuição de vacinas por pessoas jurídicas de direito privado."
+        },
+        {
+            "id": 2286281,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2286281",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2114,
+            "ano": 2021,
+            "ementa": "Esta lei veda expressamente o ensino da linguagem neutra em todas as instituições de ensino públicas e privadas de todo território nacional e aplica multa às instituições privadas que violarem a norma."
+        },
+        {
+            "id": 2286297,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2286297",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 693,
+            "ano": 2021,
+            "ementa": "Sugere ao Ministro de Estado da Educação a  inclusão de aulas de Xadrez e Raciocínio Lógico, como temas transversais, no currículo da Educação Básica, da rede pública e privada."
+        },
+        {
+            "id": 2286770,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2286770",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a PEC 32/2020( reforma administrativa) para criar o Regime Jurídico Peculiar dos Policiais Civis da União e do Distrito Federal, estendendo esse regime aos Estados e Municípios, para os seus \"policiais\".  As categorias englobadas são:  UNIÃO: Policiais Federais, Policiais Rodoviários Federais, Policiais Penais Federais; ESTADOS E DF: Policiais Civis Distritais e Estaduais, Policiais e Integrantes da Polícia Científica Estadual, Policiais Penais Estaduais, Agentes de Segurança Socioeducativos Estaduais, Agentes de Trânsito Estaduais; MUNICÍPIOS: Guardas Municipais e Agentes de Trânsito Municipais"
+        },
+        {
+            "id": 2287271,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287271",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 727,
+            "ano": 2021,
+            "ementa": "Sugere ao Ministro de Estado da Educação a\ninclusão da Educação Financeira, como tema\ntransversal, no currículo da Educação Básica,\nda rede pública e privada."
+        },
+        {
+            "id": 2287772,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287772",
+            "siglaTipo": "REC",
+            "codTipo": 373,
+            "numero": 29,
+            "ano": 2021,
+            "ementa": "Contra a apreciacão conclusiva do Projeto de Lei No 399/2015, do Deputado Fábio Mitidieri, que altera o art. 2º da Lei nº 11.343, de 23 de agosto de 2006, para viabilizar a comercialização de medicamentos que contenham extratos, substratos ou partes da planta Cannabis sativa em sua formulação."
+        },
+        {
+            "id": 2288191,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288191",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 1376,
+            "ano": 2021,
+            "ementa": "Requer coautoria ao Projeto de Lei nº 2.052/2021."
+        },
+        {
+            "id": 2288479,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288479",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Dispõe sobre a inclusão do Estatuto da Magistratura na reforma administrativa"
+        },
+        {
+            "id": 2289440,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289440",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2426,
+            "ano": 2021,
+            "ementa": "Altera a lei nº 8.213, de 24 de julho de 1991; Dispõe sobre a suspensão pelo prazo de quatro anos do auxílio-reclusão, em razão do contingenciamento de gastos."
+        },
+        {
+            "id": 2289649,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289649",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2451,
+            "ano": 2021,
+            "ementa": "Esta lei acrescenta dispositivo ao Decreto-lei nº 2.848, de 7 de dezembro de 1940; Prevê como crime, quem, de qualquer modo, criar, produzir, divulgar, incitar, reproduzir, distribuir ou financiar por meio digital, rádio e televisão, ou em materiais impressos, mesmo que de forma gratuita, campanhas de incentivo ao aborto."
+        },
+        {
+            "id": 2290328,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290328",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 55,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2293878,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293878",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 117,
+            "ano": 2021,
+            "ementa": "Esta lei veda expressamente a incidência do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) em valores provenientes de emendas federais."
+        },
+        {
+            "id": 2299653,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299653",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 1867,
+            "ano": 2021,
+            "ementa": "Requer o registro da Frente Parlamentar em Apoio ao Produtor de Leite perante a Mesa da Câmara dos Deputados."
+        },
+        {
+            "id": 2302454,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302454",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3516,
+            "ano": 2021,
+            "ementa": "Inclui dispositivo ao Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), no qual dispõe sobre a extinção da audiência de custódia no caso de recaptura de preso agente de crime de grande violência ou integrante de organização criminosa."
+        },
+        {
+            "id": 2302489,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302489",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2302491,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302491",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2302494,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302494",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2302647,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302647",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2302650,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302650",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2302651,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302651",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2302654,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302654",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2302657,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302657",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2302660,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302660",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2302661,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302661",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2303349,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303349",
+            "siglaTipo": "REQ",
+            "codTipo": 308,
+            "numero": 2128,
+            "ano": 2021,
+            "ementa": "Requer o encaminhamento da PEC n. 14/2021 à CCJC."
+        },
+        {
+            "id": 2305003,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305003",
+            "siglaTipo": "REQ",
+            "codTipo": 313,
+            "numero": 2269,
+            "ano": 2021,
+            "ementa": "Requer a coautoria do Projeto de Lei nº 3702/2021 que “Dispõe sobre a exigência de Atestado de Vacinação no âmbito do Programa Nacional de Imunizações, altera as Leis nº 6.259, de 30 de outubro de 1979, nº 10.406, de 10 de janeiro de 2002 e nº 13.979, de 6 de fevereiro de 2020, e dá outras providências.”"
+        },
+        {
+            "id": 2305205,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305205",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 99,
+            "ano": 2021,
+            "ementa": "Requer a elaboração de uma nota oficial de congratulações aos Policiais envolvidos na Operação ‘Novo Cangaço’ pela bravura, eficiência e competência profissional."
+        },
+        {
+            "id": 2306951,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306951",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2306952,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306952",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2306953,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306953",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2306954,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306954",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Loester Trutis (PSL-MS), pela aprovação."
+        },
+        {
+            "id": 2318481,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318481",
+            "siglaTipo": "PRC",
+            "codTipo": 141,
+            "numero": 7,
+            "ano": 2022,
+            "ementa": "Define como limite mensal o valor de R$982,29 para gastos com alimentação, dentre os valores disponibilizados como Cota para o Exercício da Atividade Parlamentar, instituída pelo Ato da Mesa nº 43, de 21 de maio de 2009."
+        },
+        {
+            "id": 2318527,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318527",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 679,
+            "ano": 2022,
+            "ementa": "Autoriza a retirada dos recursos do Fundo Nacional Penitenciário para construção de cobertura de telas em presídios de segurança máxima, para que impeça entrada de ilícitos por meio de drones e/ou arremesso. O objetivo é que dificulte a comunicação entre os criminosos, dentro e fora dos presídios, já que a tela funciona como uma gaiola de Faraday."
+        },
+        {
+            "id": 2318528,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318528",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 680,
+            "ano": 2022,
+            "ementa": "Esta lei determina que quando for caracterizada fraude em licitação e fraude em obra pública, o CNPJ e o CPF dos sócios da empresa ficarão bloqueados e impossibilitados de participar de novas licitações."
+        },
+        {
+            "id": 2318533,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318533",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 681,
+            "ano": 2022,
+            "ementa": "Esta lei autoriza a aquisição, a posse e o porte de lâmina de até 10 centímetros para mulheres, desde que não possua antecedentes criminais, apresente comprovação de ocupação e endereço fixo."
+        },
+        {
+            "id": 2318534,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318534",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 682,
+            "ano": 2022,
+            "ementa": "Inclui o inciso 8º, ao artigo 6º da Lei 10.826 de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas – SINARM define crimes e dá outras providências."
+        },
+        {
+            "id": 2318538,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318538",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 683,
+            "ano": 2022,
+            "ementa": "Esta lei responsabiliza civil, penalmente e administrativamente, qualquer agente de segurança que desrespeite as regras impostas aos CACs (caçadores, atiradores e colecionadores), aplicando-se o crime de abuso de autoridade."
+        },
+        {
+            "id": 2318562,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318562",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 692,
+            "ano": 2022,
+            "ementa": "Proíbe Estados e prefeituras de conceder incentivos a empresas concessionárias por mais de um ano sem indicação de fonte alternativa de receita compensatória e proibição de conceder beneficio nos 180 (cento e oitenta) dias anteriores ao final do mandato."
+        },
+        {
+            "id": 2318563,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318563",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 693,
+            "ano": 2022,
+            "ementa": "Esta Lei altera dispositivo da Instrução Normativa nº 3, de 31 de janeiro de 2013 do IBAMA, para alterar o prazo de validade de autorização de manejo de javalis para 12 (doze) meses."
+        },
+        {
+            "id": 2319933,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319933",
+            "siglaTipo": "REQ",
+            "codTipo": 311,
+            "numero": 571,
+            "ano": 2022,
+            "ementa": "Requer a retirada de tramitação do Projeto de Lei nº 692/2022, que altera a Lei Complementar nº 101, de 4 de maio de 2000, para proibir Estados e prefeituras de conceder incentivos a empresas concessionárias por mais de um ano sem indicação de fonte alternativa de receita compensatória e proibição de conceder beneficio nos 180 (cento e oitenta) dias anteriores ao final do mandato."
+        },
+        {
+            "id": 2320662,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320662",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 65,
+            "ano": 2022,
+            "ementa": "Esta lei acrescenta dispositivo a Lei Complementar nº 101, de 4 de maio de 2000. Proíbe Estados e prefeituras de conceder incentivos a empresas concessionárias por mais de um ano sem indicação de fonte alternativa de receita compensatória e proibição de conceder beneficio nos 180 (cento e oitenta) dias anteriores ao final do mandato."
+        },
+        {
+            "id": 2321377,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321377",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1102,
+            "ano": 2022,
+            "ementa": "Concede anistia aos fatos que especifica."
+        }
+    ]
+}

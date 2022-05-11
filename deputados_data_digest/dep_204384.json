@@ -1,0 +1,30 @@
+{
+    "proposicoes_by_year": {
+        "2019": {
+            "amount": 7,
+            "types": {
+                "REQ": 2,
+                "PL": 5
+            }
+        },
+        "2020": {
+            "amount": 30,
+            "types": {
+                "REQ": 2,
+                "PL": 28
+            }
+        },
+        "0": {
+            "amount": 1,
+            "types": {
+                "EMP": 1
+            }
+        },
+        "2022": {
+            "amount": 2,
+            "types": {
+                "DOC": 2
+            }
+        }
+    }
+}

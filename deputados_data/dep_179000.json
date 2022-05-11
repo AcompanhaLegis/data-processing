@@ -1,0 +1,2065 @@
+{
+    "id": 179000,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/179000",
+    "nome": "Marcelo Álvaro Antônio",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "MG",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/179000.jpg",
+    "email": "dep.marceloalvaroantonio@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 964480,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/964480",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 6,
+            "ano": 2015,
+            "ementa": "Introduz dispositivos ao Ato das Disposições Constitucionais Transitórias - ADCT a fim de separar as eleições para os cargos do Poder Executivo e do Poder Legislativo, em todos os níveis."
+        },
+        {
+            "id": 969174,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/969174",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 10,
+            "ano": 2015,
+            "ementa": "Inclua-se na Proposta de Emenda à Constituição 344-A, de 2013, onde couber, o seguinte artigo, renumerando-se os demais:"
+        },
+        {
+            "id": 969199,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/969199",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 11,
+            "ano": 2015,
+            "ementa": "Altera o art. 17 da Constituição Federal, condicionando o acesso dos partidos políticos ao fundo partidário e ao uso gratuito do rádio e da televisão a prévia disputa eleitoral e à eleição de representante para a Câmara dos Deputados ou Senado Federal."
+        },
+        {
+            "id": 969200,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/969200",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 12,
+            "ano": 2015,
+            "ementa": "Suprimam-se a alteração ao §3º e o §3º-A do artigo 17 constantes do art 2 da PEC 352/2013 e os artigos 4º e 5º da PEC 352/2013."
+        },
+        {
+            "id": 969201,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/969201",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 13,
+            "ano": 2015,
+            "ementa": "Dê-se ao caput do art. 45 da Constituição Federal, constante do artigo 2º da PEC 352/2013, a seguinte redação: \"Art. 45. A Câmara dos Deputados compõe-se de representantes do povo, eleitos, pelo sistema proporcional, em cada Estado, em cada Território e no Distrito Federal, podendo concorrer à distribuição dos lugares todos os partidos, independente de terem obtido número de votos igual ou superior ao quociente eleitoral."
+        },
+        {
+            "id": 994636,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/994636",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 18,
+            "ano": 2015,
+            "ementa": "Altera o art. 2º da PEC 352/2013 para vedar contribuições partidárias e de campanha provenientes de pessoa jurídica, mantendo teto para contribuição de pessoa física, a ser definido em lei."
+        },
+        {
+            "id": 994638,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/994638",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 19,
+            "ano": 2015,
+            "ementa": "Altera o art. 2º da PEC 352/2013 para vedar as coligações nos pleitos proporcionais; aumentar o desempenho mínimo para eleição de deputados federais e implicitamente retirar dispositivos que modificam o sistema eleitoral, instituem a federação de partidos e facilitam a criação de novas agremiações."
+        },
+        {
+            "id": 994639,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/994639",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 20,
+            "ano": 2015,
+            "ementa": "Altera o art. 2º da PEC 352/2013 para manter o voto obrigatório, o atual prazo de filiação e tornar obrigatória a realização de novas eleições majoritárias em todos os casos de cassação de registro, mandato ou diploma dos eleitos."
+        },
+        {
+            "id": 994680,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/994680",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 21,
+            "ano": 2015,
+            "ementa": "Estabelece a coincidência entre as datas de eleições municipais, estaduais, distritais e nacionais, estende para cinco anos o período de exercício de mandatos eletivos e extingue a reeleição para cargos do poder executivo."
+        },
+        {
+            "id": 994682,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/994682",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 22,
+            "ano": 2015,
+            "ementa": "Altera o sistema de financiamento de campanha."
+        },
+        {
+            "id": 996554,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996554",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 23,
+            "ano": 2015,
+            "ementa": "Acrescenta ao art. 2º da PEC 352/2013 o inciso V-A ao art. 14 e os §1º-C, §1º-D, §1º-E ao art. 17, para estipular prazo de filiação posterior à convenção destinada à escolha das coligações; tornar obrigatória a realização de duas convenções partidárias, sendo uma para deliberar sobre coligações e outra para escolha de candidatos; abrir janela para troca de partido pelos candidatos no período entre as duas convenções."
+        },
+        {
+            "id": 996634,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996634",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 24,
+            "ano": 2015,
+            "ementa": "Modifica-se o art. 17, § 3º-A da PEC 352 de 2013."
+        },
+        {
+            "id": 996677,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996677",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 26,
+            "ano": 2015,
+            "ementa": "Acrescenta dispositivo à Constituição Federal para prever que a lei eleitoral garantirá mecanismos que promovam a representação dos diversos segmentos sociais e que facilitem o exercício da soberania popular, incluindo outros mecanismos de participação social."
+        },
+        {
+            "id": 996678,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996678",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 27,
+            "ano": 2015,
+            "ementa": "Modifica dispositivos da PEC 352/2013 que se referem a cláusulas de desempenho para que partidos tenham direito a funcionamento parlamentar, acesso a rádio e TV e a recursos do fundo partidário; coligações e federações partidárias; financiamento de campanhas; sistema eleitoral e referendo."
+        },
+        {
+            "id": 996696,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996696",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 28,
+            "ano": 2015,
+            "ementa": "Altera o art. 17 da Constituição Federal, condicionando o acesso dos partidos políticos ao fundo partidário e ao uso gratuito do rádio e da televisão a prévia disputa eleitoral e à eleição de representante para a Câmara dos Deputados ou o Senado Federal."
+        },
+        {
+            "id": 996705,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996705",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 31,
+            "ano": 2015,
+            "ementa": "Altera o art. 17 da Constituição Federal, condicionando o acesso dos partidos políticos ao fundo partidário e ao uso gratuito do rádio e da televisão a prévia disputa eleitoral e à eleição de representante para a Câmara dos Deputados ou o Senado Federal."
+        },
+        {
+            "id": 996706,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996706",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 33,
+            "ano": 2015,
+            "ementa": "Altera o art. 17 da Constituição Federal, condicionando o acesso dos partidos políticos ao fundo partidário e ao uso gratuito do rádio e da televisão a prévia disputa eleitoral e à eleição de representante para a Câmara dos Deputados ou o Senado Federal."
+        },
+        {
+            "id": 996708,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996708",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 34,
+            "ano": 2015,
+            "ementa": "Altera o art. 17 da Constituição Federal, condicionando o acesso dos partidos políticos ao fundo partidário e ao uso gratuito do rádio e da televisão a prévia disputa eleitoral e à eleição de representante para a Câmara dos Deputados ou o Senado Federal."
+        },
+        {
+            "id": 996711,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996711",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 32,
+            "ano": 2015,
+            "ementa": "Altera o art. 17 da Constituição Federal, condicionando o acesso dos partidos políticos ao fundo partidário e ao uso gratuito do rádio e da televisão a prévia disputa eleitoral e à eleição de representante para a Câmara dos Deputados ou o Senado Federal."
+        },
+        {
+            "id": 996712,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996712",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 35,
+            "ano": 2015,
+            "ementa": "Altera o art. 17 da Constituição Federal, condicionando o acesso dos partidos políticos ao fundo partidário e ao uso gratuito do rádio e da televisão a prévia disputa eleitoral e à eleição de representante para a Câmara dos Deputados ou o Senado Federal."
+        },
+        {
+            "id": 996713,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996713",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 36,
+            "ano": 2015,
+            "ementa": "Altera o art. 17 da Constituição Federal, condicionando o acesso dos partidos políticos ao fundo partidário e ao uso gratuito do rádio e da televisão a prévia disputa eleitoral e à eleição de representante para a Câmara dos Deputados ou o Senado Federal."
+        },
+        {
+            "id": 996715,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996715",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 37,
+            "ano": 2015,
+            "ementa": "Altera o art. 17 da Constituição Federal, condicionando o acesso dos partidos políticos ao fundo partidário e ao uso gratuito do rádio e da televisão a prévia disputa eleitoral e à eleição de representante para a Câmara dos Deputados ou o Senado Federal."
+        },
+        {
+            "id": 1215397,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1215397",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1253,
+            "ano": 2015,
+            "ementa": "Acrescenta dispositivo ao art. 36 da Lei nº 9.394, de 20 de dezembro de 1996, para inserir a disciplina de orçamento público na grade escolar do Ensino Médio."
+        },
+        {
+            "id": 1227870,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1227870",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 1597,
+            "ano": 2015,
+            "ementa": "Requer nos termos regimentais a inclusão em pauta da PEC 443-A, de 2009 que fixa parâmetros para a remuneração dos advogados públicos na ordem do dia."
+        },
+        {
+            "id": 1280234,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1280234",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2015,
+            "ementa": "\"Acresce parágrafos ao art. 101 da Constituição Federal e altera o art. 100 do ADCT.\""
+        },
+        {
+            "id": 1280235,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1280235",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2015,
+            "ementa": "\"Altera os §§1º e 3º do art. 128 da Constituição Federal.\""
+        },
+        {
+            "id": 1598384,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1598384",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2526,
+            "ano": 2015,
+            "ementa": "Regulamenta a profissão de Gestor de Serviços de Saúde."
+        },
+        {
+            "id": 1598385,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1598385",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2527,
+            "ano": 2015,
+            "ementa": "Institui a obrigatoriedade de atendimento psicológico nas escolas de educação básica, fundamental e ensino médio. ."
+        },
+        {
+            "id": 1598404,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1598404",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2015,
+            "ementa": "Altera o art. 88 da Constituição Federal."
+        },
+        {
+            "id": 1672709,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1672709",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2736,
+            "ano": 2015,
+            "ementa": "Estabelece a obrigatoriedade das farmácias e drogarias disponibilizarem a quantidade de medicação especificada na receita médica."
+        },
+        {
+            "id": 1999848,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1999848",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2015,
+            "ementa": "Acrescenta o artigo 132-A à Constituição da República, e os parágrafos 1º, 2º e 3º ao artigo 69 do Ato das Disposições Constitucionais Transitórias, estabelecendo as procuradorias autárquicas e fundacionais e regulando a transição das atividades de assistência, assessoramento e consultoria jurídica para o sistema orgânico das Procuradorias Gerais dos Estados, Distrito Federal e Municípios."
+        },
+        {
+            "id": 2002127,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2002127",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 64,
+            "ano": 2015,
+            "ementa": "Dá nova redação à MPV 678/2015"
+        },
+        {
+            "id": 2002148,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2002148",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 65,
+            "ano": 2015,
+            "ementa": "Dá nova redação à MPV 678/2015"
+        },
+        {
+            "id": 2012960,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2012960",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 82,
+            "ano": 2015,
+            "ementa": "Requeiro com fundamento no art. 255 do Regimento Interno, a realização de Audiência Pública, para discutir o equilíbrio econômico dos empreendimentos leiloados pela EPE/ANEEL, visando atender a transmissão e geração nas suas diversas modalidades de energia elétrica."
+        },
+        {
+            "id": 2025941,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2025941",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2015,
+            "ementa": "Acrescenta parágrafos ao artigo 100 da Constituição Federal, dispondo sobre o regime de pagamento de débitos públicos decorrentes de condenações judiciais, e acrescenta disposições ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento para os casos em mora."
+        },
+        {
+            "id": 2055895,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2055895",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3692,
+            "ano": 2015,
+            "ementa": "Fica criado o \"Programa Nacional da Cultura de Paz no Trânsito\" e o \"Prêmio Nacional da Cultura de Paz no Trânsito\" e dá outras providências.\""
+        },
+        {
+            "id": 2056092,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2056092",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do relator, Dep. Marcelo Álvaro Antônio, pela não implicação da matéria com aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária e, no mérito, pela aprovação, com Substitutivo."
+        },
+        {
+            "id": 2056093,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2056093",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2056095,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2056095",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do relator, Dep. Marcelo Álvaro Antônio, pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária; e, no mérito, pela aprovação."
+        },
+        {
+            "id": 2056096,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2056096",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do relator, Dep. Marcelo Álvaro Antônio, pela incompatibilidade e inadequação financeira e orçamentária."
+        },
+        {
+            "id": 2058358,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2058358",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2015,
+            "ementa": "Altera o art. 76 do Ato das Disposições Constitucionais Transitórias (Prorroga a vigência da DRU até 31 de dezembro de 2019. Propõe a retirada escalonada da incidência da desvinculação de receita da arrecadação das contribuições sociais destinadas ao financiamento da seguridade social)"
+        },
+        {
+            "id": 2075569,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2075569",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4087,
+            "ano": 2015,
+            "ementa": "Regulamenta a Profissão de Terapeuta Naturalista e outros e dá outras providências"
+        },
+        {
+            "id": 2075570,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2075570",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4088,
+            "ano": 2015,
+            "ementa": "Regulamenta a profissão de massoterapeuta e dá outras providências."
+        },
+        {
+            "id": 2088105,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2088105",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5573,
+            "ano": 2016,
+            "ementa": "Inclui o §1º e o §2º, ao inciso III, do art. 2º, da Lei 7.853, de 24 de outubro de 1989, que \"dispõe sobre o apoio às pessoas portadoras de deficiência, sua integração social, sobre a Coordenadoria Nacional para Integração da Pessoa Portadora de Deficiência-Corde, institui a tutela jurisdicional de interesses coletivos ou difusos dessas pessoas, disciplina a atuação do Ministério Público, define crime, e dá outras providências. \""
+        },
+        {
+            "id": 2088106,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2088106",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5574,
+            "ano": 2016,
+            "ementa": "Inclui a Tomografia por Emissão de Pósitrons - PET SCAN, como exame obrigatório no âmbito do Sistema Único de Saúde a ser realizado em todos os recém-nascidos, na hipótese de indicação médica especializada."
+        },
+        {
+            "id": 2088108,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2088108",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5575,
+            "ano": 2016,
+            "ementa": "Torna obrigatória, no âmbito das unidades da Rede Pública de Saúde, a realização do \"Teste do Olhinho\" e dá outras providências."
+        },
+        {
+            "id": 2091656,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2091656",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 2378,
+            "ano": 2016,
+            "ementa": "Sugere ao Senhor Ministro de Estado de Minas e Energia encaminhar à Agência Nacional de Energia Elétrica (Aneel) a sugestão ora feita, para alterações nas normas reguladoras, de forma a melhor atender às necessidades dos consumidores deficientes visuais."
+        },
+        {
+            "id": 2111197,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2111197",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 16,
+            "ano": 2016,
+            "ementa": "Altera o Ato das Disposições Constitucionais Transitórias, para instituir o Novo Regime Fiscal."
+        },
+        {
+            "id": 2111198,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2111198",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 17,
+            "ano": 2016,
+            "ementa": "Altera o Ato das Disposições Constitucionais Transitórias, para instituir o Novo Regime Fiscal."
+        },
+        {
+            "id": 2111655,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2111655",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 19,
+            "ano": 2016,
+            "ementa": "Exclui dos limites do Art. 102 do ADCT as despesas das funções educação, saúde e assistência social."
+        },
+        {
+            "id": 2111656,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2111656",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 20,
+            "ano": 2016,
+            "ementa": "Inclui o Artigo 163-A à CF e o 106 ao ADCT."
+        },
+        {
+            "id": 2111657,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2111657",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 21,
+            "ano": 2016,
+            "ementa": "Fixa limite de despesas referentes ao pagamento da dívida pública."
+        },
+        {
+            "id": 2111658,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2111658",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 22,
+            "ano": 2016,
+            "ementa": "Altera o Artigo 159 a CF."
+        },
+        {
+            "id": 2113111,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2113111",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2016,
+            "ementa": "Altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para prever a inclusão, em quadro em extinção da administração pública federal, de servidor público, de integrante da carreira de policial, civil ou militar, e de pessoa que haja mantido relação ou vínculo funcional, empregatício, estatutário ou de trabalho com a administração pública dos ex-Territórios ou dos Estados do Amapá ou de Roraima, inclusive suas prefeituras, na fase de instalação dessas unidades federadas, e dá outras providências."
+        },
+        {
+            "id": 2113954,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2113954",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 4,
+            "ano": 2016,
+            "ementa": "Acrescenta-se o artigo 9º à PEC nº 199 de março de 2016, observando-se a renumeração dos demais artigos, a seguinte redação: Art. 9º Os servidores dos Ex-Territórios Federais, abrangidos pelo art. 3º da Emenda Constitucional nº 79, 2014, lotados em órgãos de Controle Interno dos Estados do Amapá e de Roraima, serão enquadrados, caso assim optarem, em cargos correlatos da Carreira de Finanças e Controle, assegurados os direitos, vantagens e padrões remuneratórios a eles inerentes."
+        },
+        {
+            "id": 2114157,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2114157",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 5,
+            "ano": 2016,
+            "ementa": "COMISSÃO ESPECIAL DESTINADA A PROFERIR PARECER À PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 199, DE 2016 PROPOSTA DE EMENDA ADITIVA À CONSTITUIÇÃO Nº 199, DE 2016    (Dep. Cabuçu Borges)  Acrescente-se o art. 9° à PEC nº 199, de março de 2016, observando-se a renumeração dos demais artigos, a seguinte redação:                             Art. 9° os servidores dos ex-Territórios Federais, abrangidos pelo art. 3º da Emenda Constitucional nº 79, de 2014, lotados nas Secretarias de Planejamento, dos estados do Amapá e de Roraima serão enquadrados, caso assim optarem, em cargos correlatos da Carreira de Planejamento e Orçamento da União, assegurados os direitos, vantagens e padrões remuneratórios a eles inerentes."
+        },
+        {
+            "id": 2114486,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2114486",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 7,
+            "ano": 2016,
+            "ementa": "Altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para prever a inclusão, em quadro em extinção da administração pública federal, de servidor público, de integrante da carreira de policial, civil ou militar, e de pessoa que haja mantido relação ou vínculo funcional, empregatício, estatutário ou de trabalho com a administração pública dos ex-Territórios ou dos Estados do Amapá ou de Roraima, inclusive suas prefeituras, na fase de instalação dessas unidades federadas, e dá outras providências."
+        },
+        {
+            "id": 2114688,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2114688",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 8,
+            "ano": 2016,
+            "ementa": "COMISSÃO ESPECIAL DESTINADA A PROFERIR PARECER A PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 199-A, DE 2016, DO SENADO FEDERAL, COMISSÃO ESPECIAL DESTINADA A PROFERIR PARECER A PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 199-A, DE 2016, DO SENADO FEDERAL.              \"altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para prever a inclusão, em quadro em extinção da administração pública federal, de servidor público, de integrante da carreira de policial, civil ou militar, e de pessoa que haja mantido relação ou vínculo funcional, empregatício, estatutário ou de trabalho com a administração pública dos ex-Territórios ou dos Estados do Amapá ou de Roraima, inclusive suas prefeituras, na fase de instalação dessas unidades federadas, e dá outras providências."
+        },
+        {
+            "id": 2114734,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2114734",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 9,
+            "ano": 2016,
+            "ementa": "Altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para prever a inclusão, em quadro em extinção da administração pública federal, de servidor público, de integrante da carreira de policial, civil ou militar, e de pessoa que haja mantido relação ou vínculo funcional, empregatício, estatutário ou de trabalho com a administração pública dos ex-Territórios ou dos Estados do Amapá ou de Roraima, inclusive suas prefeituras, na fase de instalação dessas unidades federadas, e dá outras providências.  Acrescente-se ao texto da proposta, nas referências feitas aos ex-Territórios Federais e atuais Estados do Amapá e de Roraima, menção ao Estado de Rondônia."
+        },
+        {
+            "id": 2114747,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2114747",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 10,
+            "ano": 2016,
+            "ementa": "Altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para prever a inclusão, em quadro, em extinção, da administração pública federal, da pessoa que haja mantido vínculo ou relação de trabalho, empregatícia, estatutária ou funcional, com a Administração Direta e Indireta dos Três Poderes do Estado ou do ex-Território do Amapá ou de Roraima, na fase de instalação dessas unidades federadas, sem prejuízo das demais providências dadas"
+        },
+        {
+            "id": 2123178,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2123178",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6870,
+            "ano": 2017,
+            "ementa": "Adiciona o parágrafo único ao artigo 18 da lei n.º 8.245, de 18 de outubro de 1991, estabelece a obrigatoriedade de fixação do índice de reajuste dos contratos de locação no momento da celebração do contrato."
+        },
+        {
+            "id": 2123179,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2123179",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6871,
+            "ano": 2017,
+            "ementa": "Adequa o uso do farol baixo em rodovias para as situações necessárias, altera o inciso I, do art. 40, e a alínea b, do inciso I, do art. 250 ambos da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro."
+        },
+        {
+            "id": 2123810,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2123810",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6931,
+            "ano": 2017,
+            "ementa": "Altera a redação do inciso III, do art. 4º, do Decreto nº 3.298, de 20 de dezembro de 1999, para assegurar o direito às pessoas com visão monocular a classificação como deficientes"
+        },
+        {
+            "id": 2123819,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2123819",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6934,
+            "ano": 2017,
+            "ementa": "Altera a Lei n.º 9.504, de 30 de setembro de 1997 que estabelece normas para as eleições para revogar o uso de carros de som nas Eleições."
+        },
+        {
+            "id": 2124336,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124336",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2124558,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124558",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 9,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências.   EMENDA MODIFICATIVA Art. 1º Suprimam-se as alterações ao inciso V do art. 201 da Constituição Federal providos pelo art. 1º da PEC 287 de 2016. Art. 2º Dê-se ao § 7º do art. 40 e ao § 16 do art. 201 da Constituição, contidos no art. 1º, e ao art. 4º da Proposta de Emenda à Constituição nº 287, de 2016, a seguinte redação: \"Art. 40................................................................................. § 7º Na concessão do benefício de pensão por morte, cujo valor será equivalente a uma cota familiar de 50%, (cinquenta por cento), acrescida de cotas individuais de 10 (dez) pontos percentuais por dependente, até o limite de 100% (cem por cento), observados o disposto no § 2º do art. 201 e, ainda, o seguinte:"
+        },
+        {
+            "id": 2124616,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124616",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 13,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2124634,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124634",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 14,
+            "ano": 2017,
+            "ementa": "PROPOSTA DE EMENDA À CONSTITUIÇÃO N° 287, DE 2016  Altera os Arts. 37, 40, 109, 149, 167,195. 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências.   EMENDA ADITIVA N.º      DE 2017 (do Sr. Arnaldo Faria de Sá e outros)    I - Inclua-se, no Art. 1° da PEC 287/2016, a seguinte alteração aos § 1º do Art. 40 da Constituição: \"Art. 40 …………………………………………………………………..................... § 1°……………........................................................................ I - por invalidez permanente; II - ………............................................................................. III - …….............................................................................. IV - - O servidor da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, que tenha ingressado no serviço público até 31 de dezembro de 2003, que se aposentou ou venha se aposentar por invalidez permanente, com fundamento no inciso I do § 1° do Art. 40 da Constituição Federal, ressalvada a hipótese do § 16 do Art. 40 da Constituição Federal, tem direito a: a)\t- proventos de aposentadoria calculada com b"
+        },
+        {
+            "id": 2124635,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124635",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 15,
+            "ano": 2017,
+            "ementa": "PROPOSTA DE EMENDA À CONSTITUIÇÃO N° 287, DE 2016  Altera os Arts. 37, 40, 109, 149, 167,195. 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências.  EMENDA ADITIVA N.º      DE 2017 (do Sr. Arnaldo Faria de Sá e outros)    I - Inclua-se, no Art. 1° da PEC 287/2016, a seguinte alteração aos § 21 do Art. 40 da Constituição:  § 21. A contribuição de que trata o parágrafo 18 deste artigo: I - não será cobrada na hipótese de invalidez permanente do titular respectivo benefício; II - terá o seu valor extinto, a partir do sexagésimo quinto aniversário do titular do benefício do titular ou do dependente, no caso de pensão por morte, combinado com a contribuição para o regime de previdência de caráter contributivo e solidário dos servidores ativos e inativos e dos pensionistas, com o limite de trinta e cinco anos de contribuição;  JUSTIFICAÇÃO A contribuição de servidores públicos aposentados e seus pensionistas para o custeio do Regime Próprio de Previdência Social é uma aberração, sob o prisma jurídico e tributário, que somente foi aprovada pelo"
+        },
+        {
+            "id": 2124688,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124688",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 16,
+            "ano": 2017,
+            "ementa": "Inclua-se o seguinte §4-B ao artigo 40 constante do artigo 1º desta Proposta de Emenda à Constituição, com a consequente supressão do inciso II do § 2º do artigo 2º do texto da mesma Proposta."
+        },
+        {
+            "id": 2124697,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124697",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 17,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2124881,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124881",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 18,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2124883,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124883",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 19,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências"
+        },
+        {
+            "id": 2124897,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124897",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 20,
+            "ano": 2017,
+            "ementa": "Modifica o inciso I do § 2 do art. 2 e o art. 11 da Proposta de Emenda à constituição n 287-A de 2016"
+        },
+        {
+            "id": 2124951,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124951",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 22,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2124964,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124964",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 23,
+            "ano": 2017,
+            "ementa": "Proposta de Emenda à Constituição n.º 287, de 2016 (Reforma da Previdência), que \"Altera os arts. 37, 40, 42, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências\"."
+        },
+        {
+            "id": 2124988,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124988",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 24,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2124999,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124999",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 25,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125001,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125001",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 26,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125002,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125002",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 27,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125034,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125034",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 36,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências. (Reintroduz a parte final do § 20 do art. 40, original, da CF \"ressalvado o disposto no art.142, § 3º, X. neste dispositivo alterado pela PEC)"
+        },
+        {
+            "id": 2125035,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125035",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 37,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências   Suprima-se do art. 1º da PEC 287, de 2016 a referência ao art. 42 da Constituição nos seguintes dispositivos: inciso I do § 3º, § 3º-A do art. 40 e §§ 7º-A, 7º-B e 7º-C do art. 201 da CF."
+        },
+        {
+            "id": 2125064,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125064",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 52,
+            "ano": 2017,
+            "ementa": "Emenda aditiva à PEC 287/2016."
+        },
+        {
+            "id": 2125066,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125066",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 53,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125069,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125069",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 55,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125077,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125077",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 57,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201. 203 e revoga os parágrafos do art. 239 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências.  Acrescente-se o art. 23ao Projeto, renumerando-se os demais, alterando a com a seguinte redação: Os incisos I e III do art. 7º e 239 da Constituição Federal passam a ter a seguinte redação? renumerando o parágrafo único do art. 7º para §1º? adiciona-se o seguinte §2º ao art. 7º? o seguinte §2º-A ao art. 195? os seguintes §§ 14, 15 e 16 ao art. 201; o seguinte parágrafo único e inciso VI ao art. 203 e revoga-se os parágrafos do art. 239"
+        },
+        {
+            "id": 2125155,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125155",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 59,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências"
+        },
+        {
+            "id": 2125218,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125218",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 64,
+            "ano": 2017,
+            "ementa": "Altera-se o artigo 4º da Proposta de Emenda à Constituição 287 de 2016"
+        },
+        {
+            "id": 2125219,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125219",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 65,
+            "ano": 2017,
+            "ementa": "Dê-se ao §15º do art. 40 da PEC 287/2016 a seguinte redação:  \"Art. 40. ........................................................................................ § 15. O regime de previdência complementar de que trata o §14 será instituído por lei de iniciativa do respectivo Poder Executivo e oferecerá aos participantes planos de benefícios somente na modalidade de contribuição definida, observado o disposto no art. 202 e seus parágrafos, no que couber, por intermédio de entidades fechadas de previdência complementar, que oferecerão aos respectivos participantes planos de benefícios somente na modalidade de contribuição definida.\" (AC)"
+        },
+        {
+            "id": 2125241,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125241",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 69,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição Federal, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125286,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125286",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 70,
+            "ano": 2017,
+            "ementa": "Altera os arts. 5º, 37, 40, 109, 114, 149, 167, 195, 201, 203 e 250 da Constituição para dispor sobre os regimes próprios de previdência e Seguridade Social, estabelecendo regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125304,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125304",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 74,
+            "ano": 2017,
+            "ementa": "Insere-se o parágrafo § 7º ao art. 2º da PEC 287, de 2016, e, por via de consequência, altere-se o caput do artigo 3º, da forma a seguir:"
+        },
+        {
+            "id": 2125305,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125305",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 75,
+            "ano": 2017,
+            "ementa": "COMISSÃO ESPECIAL DESTINADA AO EXAME DA PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 287, DE 2016  PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 287, DE 2016   Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências.   EMENDA ADITIVA N.º             /2017 (Do Sr. Arnaldo Faria de Sá e outros)   Altere-se o art. 1º da Proposta de Emenda à Constituição n.º 287, de 2016, para acrescentar o §7º-D ao art. 201 da Constituição Federal, com a seguinte redação:  \"Art. 201. ..............................................................................................................  ...............................................................................................................................  § 7° D. O valor da aposentadoria para os aeronautas que cumprirem os requisitos do artigo 201, §7°, corresponderá a 100% (cem por cento) da média dos salários de contribuição e das remunerações utilizadas como base para as contribuições do segurado ao regime geral de previdência, respeitado o limite máximo do salário de contribuição, apurada na forma da lei.\" (NR)   JUSTIFIC"
+        },
+        {
+            "id": 2125320,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125320",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 79,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências"
+        },
+        {
+            "id": 2125321,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125321",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 80,
+            "ano": 2017,
+            "ementa": "Altere-se o § 7º do artigo 40 da Constituição Federal, constante do art. 1º e o art. 3º da PEC 287/2016, como segue"
+        },
+        {
+            "id": 2125322,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125322",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 81,
+            "ano": 2017,
+            "ementa": "Dê-se nova redação ao inciso I do § 3º, e ao § 3º-A do artigo 40 da Constituição Federal, constante do art. 1º da PEC 287/2016, e suprima-se os §§6º e 22 do artigo 40 da Constituição Federal, como segue"
+        },
+        {
+            "id": 2125323,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125323",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 82,
+            "ano": 2017,
+            "ementa": "Dê-se ao § 13º do artigo 37 da Constituição Federal, constante do art. 1º da PEC 287/2016 a seguinte redação"
+        },
+        {
+            "id": 2125324,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125324",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 83,
+            "ano": 2017,
+            "ementa": "Emenda Modificativa"
+        },
+        {
+            "id": 2125325,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125325",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 84,
+            "ano": 2017,
+            "ementa": "Emenda Adiitiva"
+        },
+        {
+            "id": 2125326,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125326",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 85,
+            "ano": 2017,
+            "ementa": "EMENDA SUPRESSIVA"
+        },
+        {
+            "id": 2125328,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125328",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 87,
+            "ano": 2017,
+            "ementa": "PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 287, DE 2016  Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências.    EMENDA MODIFICATIVA  Dê-se ao art. 40 da Constituição, alterado pelo art. 1º da PEC 287/2016, a seguinte redação. \"Art. 1º, altera .... CF, Art. 40 § 2º SUPRESSÃO. [...] § 7º I - na hipótese de óbito do aposentado, as cotas serão calculadas sobre a totalidade dos proventos do servidor falecido; II - na hipótese de óbito de servidor em atividade, as cotas serão calculadas sobre o valor dos proventos aos quais o servidor teria direito caso fosse aposentado por incapacidade permanente na data do óbito, observado o disposto no inciso I do § 3º, e no § 3º-A deste artigo; [...] IV -SUPRESSÃO V - SUPRESSÃO. [...] § 8º SUPRESSÃO\""
+        },
+        {
+            "id": 2125329,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125329",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 88,
+            "ano": 2017,
+            "ementa": "PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 287, DE 2016  Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências.  EMENDA MODIFICATIVA  Dê-se ao art. 40 da Constituição, alterado pelo art. 1º da PEC 287/2016, a seguinte redação. \"Art. 1º, altera .... CF, Art. 40 [...] § 7º  Na concessão do benefício de pensão por morte, cujo valor será equivalente a uma cota familiar de 60% (sessenta por cento), acrescida de cotas individuais de 10 (dez) pontos percentuais por dependente, até o limite de 100% (cem por cento), e será observado o seguinte:"
+        },
+        {
+            "id": 2125330,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125330",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 89,
+            "ano": 2017,
+            "ementa": "Alteram-se os arts. 2º e 3º da PEC 287, de 2016, como segue."
+        },
+        {
+            "id": 2125331,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125331",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 90,
+            "ano": 2017,
+            "ementa": "PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 287, DE 2016  Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências.    EMENDA MODIFICATIVA  Dê-se ao art. 40 da Constituição, alterado pelo art. 1º da PEC 287/2016, a seguinte redação. \"Art. 1º, altera  .... CF, Art. 40 [...] § 6º  É vedado o recebimento conjunto, sem prejuízo de outras hipóteses previstas em lei, de mais de uma aposentadoria à conta dos regimes de previdência dos servidores titulares de cargos efetivos da União, dos Estados, do Distrito Federal e dos Municípios, ressalvadas as aposentadorias decorrentes dos cargos acumuláveis na forma desta Constituição.\" I - SUPRESSÃO II - SUPRESSÃO III - SUPRESSÃO"
+        },
+        {
+            "id": 2125333,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125333",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 91,
+            "ano": 2017,
+            "ementa": "Altera-se o art. 1º e suprima-se o art. 22 da PEC 287, de 2016, como segue"
+        },
+        {
+            "id": 2125338,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125338",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 95,
+            "ano": 2017,
+            "ementa": "§ X. Caso o servidor que, até a data de publicação desta Emenda Constitucional, tenha se aposentado nos termos descritos no inciso I do § 1º deste artigo e retorne à ativa, após a promulgação desta Emenda Constitucional, por ter superado as condições previstas no inciso I do §1º deste artigo, será assegurado a opção para requerer a aposentadoria com os mesmos requisitos exigidos e garantias ao tempo da primeira aposentadoria, ou àquela que lhe for mais vantajosa. (NR).\""
+        },
+        {
+            "id": 2125359,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125359",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 105,
+            "ano": 2017,
+            "ementa": "Art. 1º - O § 4ºA do artigo 40, alterado pelo Art. 1º da Proposta de Emenda à Constituição nº 287, de 2016, que passa a vigorar com a seguinte redação:"
+        },
+        {
+            "id": 2125360,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125360",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 106,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125363,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125363",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 108,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125370,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125370",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 115,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125380,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125380",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 122,
+            "ano": 2017,
+            "ementa": "COMISSÃO ESPECIAL DESTINADA AO EXAME DA PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 287, DE 2016  PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 287, DE 2016   Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências.   EMENDA MODIFICATIVA N.º             /2017 (Do Sr. Arnaldo Faria de Sá e outros)  Art. 1º. Dê-se ao art. 40 da Constituição Federal alterado pelo art. 1º da PEC 287/2016, a seguinte redação:  \"Art. 40. ................................................................................................................ ............................................................................................................................... ............................................................................................................................... § 3º-A. Os proventos de aposentadoria por incapacidade permanente para o trabalho, quando decorrentes exclusivamente de doença grave, definida em Lei, e de acidente do trabalho, corresponderão a 100% (cem por cento) da média das remunerações utilizadas como base para as contribuições aos regimes de pr"
+        },
+        {
+            "id": 2125389,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125389",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 128,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125391,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125391",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 129,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125410,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125410",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 140,
+            "ano": 2017,
+            "ementa": "EMENDA Nº             À PEC Nº 287/2016 (Do Sr. Deputado EVANDRO ROMAN)  Altere-se o Art. 1º, com a seguinte redação: Art. 1º  ............................................................................... \"Art. 7º ................................................................ ............................................................................. §2º  Lei complementar disporá sobre sistema especial de trabalho para pessoas acima de cinquenta e cinco anos. § 3º Lei disciplinará a concessão de benefício específico para a mulher com filhos e com histórico de inserção no mercado de trabalho. ...........................................................................................\" (NR) ...........................................................................................  \"Art. 40. ........................................... .........................."
+        },
+        {
+            "id": 2125415,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125415",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 142,
+            "ano": 2017,
+            "ementa": "Emenda à PEC 287, de 2016, para permitir a acumulação de benefícios previdenciários desde que sua soma não ultrapasse o limite máximo do regime geral de previdência social; para garantir ainda a percepção da totalidade do benefício de pensão por morte enquanto o número de dependentes for igual ou superior a cinco; e assegurar a percepção de benefícios previdenciários, nunca inferior ao salário mínimo."
+        },
+        {
+            "id": 2125897,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125897",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 147,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências"
+        },
+        {
+            "id": 2125917,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125917",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 148,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125975,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125975",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 150,
+            "ano": 2017,
+            "ementa": ""
+        },
+        {
+            "id": 2125980,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125980",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 151,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125991,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125991",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 157,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2126033,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2126033",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 163,
+            "ano": 2017,
+            "ementa": "Emenda aditiva à PEC 287/2016 para garantir pelo menos o benefício da aposentadoria integral àqueles que recebem os salários mais baixos dentre os trabalhadores."
+        },
+        {
+            "id": 2126034,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2126034",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 164,
+            "ano": 2017,
+            "ementa": "Emenda modificativa à PEC 287/2016, do art 40º e art. 201º para garantir um mecanismo de reajuste de benefícios seguindo o Índice Nacional dos Preços ao Consumidor."
+        },
+        {
+            "id": 2127857,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2127857",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela aprovação."
+        },
+        {
+            "id": 2127859,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2127859",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela rejeição deste, do PL 6595/2009, do PL 7125/2010, e do PL 7145/2010, apensados, e pela aprovação do PL 7068/2010, apensado."
+        },
+        {
+            "id": 2127861,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2127861",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela aprovação."
+        },
+        {
+            "id": 2127862,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2127862",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (pendente de análise)"
+        },
+        {
+            "id": 2128667,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2128667",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 7332,
+            "ano": 2017,
+            "ementa": "Dispõe sobre a vedação ao comércio, importação e exportação de marfim."
+        },
+        {
+            "id": 2128814,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2128814",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2128917,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2128917",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (pendente de análise)"
+        },
+        {
+            "id": 2129161,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2129161",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 146,
+            "ano": 2017,
+            "ementa": "Solicita realização de Audiência Pública para discussão do tema: \"A prorrogação das concessões das usinas hidrelétricas de Jaguara, São Simão e Miranda\""
+        },
+        {
+            "id": 2129220,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2129220",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 155,
+            "ano": 2017,
+            "ementa": "Solicita realização de Audiência Pública para discussão do tema: \"A necessidade de aumento de pena e criação de qualificadoras para o crime de maus tratos aos animais\"."
+        },
+        {
+            "id": 2130070,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2130070",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária do Projeto e da Emenda da Comissão de Meio Ambiente Desenvolvimento Sustentável; e, no mérito, pela aprovação."
+        },
+        {
+            "id": 2130452,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2130452",
+            "siglaTipo": "REQ",
+            "codTipo": 311,
+            "numero": 6311,
+            "ano": 2017,
+            "ementa": "Solicita Retirada de Proposição apresentada a casa."
+        },
+        {
+            "id": 2130454,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2130454",
+            "siglaTipo": "PDC",
+            "codTipo": 135,
+            "numero": 628,
+            "ano": 2017,
+            "ementa": "Altera a redação do inciso III, do art. 4º, do Decreto nº 3.298, de 20 de dezembro de 1999, para assegurar o direito às pessoas com visão monocular a classificação como deficientes"
+        },
+        {
+            "id": 2130462,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2130462",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 150,
+            "ano": 2017,
+            "ementa": "Requer a realização de Reunião de Audiência Pública para discutir sobre a inclusão de munícipios de Minas Gerais, do Rio de Janeiro e do Espírito Santo na área da SUDENE."
+        },
+        {
+            "id": 2132910,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2132910",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2132912,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2132912",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Altera a redação do caput do art. 32 da Lei nº 12.852, de 5 de agosto de 2013, que dispõe sobre o Estatuto da Juventude."
+        },
+        {
+            "id": 2133175,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2133175",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 6379,
+            "ano": 2017,
+            "ementa": "Requer a realização de Sessão Solene da Câmara dos Deputados em homenagem aos protetores de animais do Brasil e a seus esforços para preservar e proteger a fauna brasileira."
+        },
+        {
+            "id": 2137104,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2137104",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 375,
+            "ano": 2017,
+            "ementa": "Dá nova redação à MPV 766/2017"
+        },
+        {
+            "id": 2137130,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2137130",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 179,
+            "ano": 2017,
+            "ementa": "Requer a inclusão na lista de Convidados do Requerimento Nº 155/17 as autoridades propostas."
+        },
+        {
+            "id": 2137669,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2137669",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 7651,
+            "ano": 2017,
+            "ementa": "Estabelece condições na qual o público pode ingressar e permanecer em recintos esportivos ou culturais onde esteja acontecendo evento de Vaquejada ou qualquer outro que envolva a exploração de animais."
+        },
+        {
+            "id": 2137868,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2137868",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 6470,
+            "ano": 2017,
+            "ementa": "Requer a inclusão na Ordem do Dia da Proposta de Emenda à Constituição 534/2002, que \" Altera o art. 144 da Constituição Federal para dispor sobre as competências da guarda municipal e criação da guarda nacional."
+        },
+        {
+            "id": 2138565,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2138565",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 181,
+            "ano": 2017,
+            "ementa": "Solicita realização de Audiência Pública para tratar do \"Sucateamento dos Zoológicos brasileiros e sua nova utilidade em favor da fauna nacional\""
+        },
+        {
+            "id": 2138566,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2138566",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 182,
+            "ano": 2017,
+            "ementa": "Solicita realização de Audiência Pública para discussão do tema: \"Possíveis impactos negativos da aprovação do PDC 427/2016, que \"Susta a Portaria nº 444, de 17 de dezembro de 2014, do Ministério do Meio Ambiente, que reconhece \"como espécies da fauna brasileira ameaçadas de extinção aquelas constantes da ''''Lista Nacional Oficial de Espécies da Fauna Ameaçadas de Extinção\". \""
+        },
+        {
+            "id": 2139926,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2139926",
+            "siglaTipo": "REQ",
+            "codTipo": 305,
+            "numero": 6638,
+            "ano": 2017,
+            "ementa": "Requer seja desapensado o PL 7651/2017, que \"Estabelece condições na qual o público pode ingressar e permanecer em recintos esportivos ou culturais onde esteja acontecendo evento de Vaquejada ou qualquer outro que envolva a exploração de animais.\""
+        },
+        {
+            "id": 2140994,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2140994",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2017,
+            "ementa": "Acrescente-se, onde couber, o seguinte artigo à Proposta de Emenda à Constituição nº 77, de 2003:"
+        },
+        {
+            "id": 2141019,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2141019",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela aprovação deste, com substitutivo."
+        },
+        {
+            "id": 2141020,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2141020",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a Lei nº 9503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para facultar ao cidadão a Certificação Digital dos Documentos de porte obrigatório descritos no Código"
+        },
+        {
+            "id": 2141026,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2141026",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária."
+        },
+        {
+            "id": 2141071,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2141071",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 7842,
+            "ano": 2017,
+            "ementa": "Acrescenta o §2, ao Art. 17, da lei nº 8.245, de 18 de outubro de 1991. (Lei do Inquilinato) para vedar a transmissão da obrigação do Imposto Predial e Territorial Urbano (IPTU) ao Locatário."
+        },
+        {
+            "id": 2141130,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2141130",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 157,
+            "ano": 2017,
+            "ementa": "Requer a realização de Mesa Redonda em Governador Valadares, no estado de Minas Gerais, para debate sobre o tema: \"Os impactos decorrentes da Inclusão de munícipios do Vale do Rio Doce, do estado de Minas Gerais e do estado do Espírito Santo, na área da SUDENE\"."
+        },
+        {
+            "id": 2141393,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2141393",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 156,
+            "ano": 2017,
+            "ementa": "Requeiro, com fundamento no Art. 29, inciso I do Regimento Interno desta Casa, a formação de Subcomissão Permanente para \"Avaliar a Importância do uso das Energias Renováveis na Matriz Energética Brasileira\"."
+        },
+        {
+            "id": 2142125,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2142125",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 193,
+            "ano": 2017,
+            "ementa": "Requer a inclusão na lista de Convidados do Requerimento Nº 155/2017 a autoridade proposta."
+        },
+        {
+            "id": 2142771,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2142771",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 7963,
+            "ano": 2017,
+            "ementa": "Altera o a Lei nº 6.766, de 19 de dezembro de 1979, dispõe sobre o parcelamento do solo urbano e dá outras providências."
+        },
+        {
+            "id": 2144024,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2144024",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 5,
+            "ano": 2017,
+            "ementa": "EMENDA MODIFICATIVA  Emenda modificativa à Proposta de Emenda a Constituição Nº 282 de 2016:  PROPOSTA DE EMENDA A CONSTITUIÇÃO Nº 282 DE 2016  \tAltera a Constituição Federal para instituir o fundo eleitoral, estabelecer regras para distribuição do mesmo e da propaganda eleitoral gratuita, e dá outras providências."
+        },
+        {
+            "id": 2144026,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2144026",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 6,
+            "ano": 2017,
+            "ementa": "EMENDA MODIFICATIVA  Emenda modificativa à Proposta de Emenda a Constituição Nº 282 de 2016:  PROPOSTA DE EMENDA A CONSTITUIÇÃO Nº 282 DE 2016  \tAltera a Constituição Federal para instituir o fundo eleitoral, estabelecer normas de fidelidade partidária, e dá outras providências."
+        },
+        {
+            "id": 2144062,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2144062",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 9,
+            "ano": 2017,
+            "ementa": "Altera a Constituição Federal para instituir o fundo eleitoral, estabelecer normas de fidelidade partidária, regras para distribuição do fundo eleitoral, fundo partidário e da propaganda eleitoral gratuita, e dá outras providências."
+        },
+        {
+            "id": 2144063,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2144063",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 10,
+            "ano": 2017,
+            "ementa": "Altera a Constituição Federal para instituir o voto majoritário para eleição dos representantes da Câmara dos Deputados, estabelecer regras para distribuição do fundo partidário, e dá outras providências."
+        },
+        {
+            "id": 2144064,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2144064",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 11,
+            "ano": 2017,
+            "ementa": "Altera o §1º do artigo 17 e os §§ 1º, 2º, 3º, 4º, 5º, 6º, 7º, 8º, 9º, 10 e 11 do artigo 17-A da Constituição Federal, para instituir as federações partidárias, disciplina a autonomia dos partidos políticos, e da outras providências."
+        },
+        {
+            "id": 2144224,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2144224",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 8055,
+            "ano": 2017,
+            "ementa": "Cria o Dia Nacional do Protetor de Animais."
+        },
+        {
+            "id": 2145806,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2145806",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela aprovação deste, e pela rejeição do Substitutivo adotado pela Comissão 1 da CVT."
+        },
+        {
+            "id": 2146409,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2146409",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária; e, no mérito, pela aprovação."
+        },
+        {
+            "id": 2147459,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2147459",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 208,
+            "ano": 2017,
+            "ementa": "Requer a realização de Audiência Pública para discutir um \"plano de ação para prevenção e combate à esporotricose\"."
+        },
+        {
+            "id": 2148427,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2148427",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 212,
+            "ano": 2017,
+            "ementa": "Requer a realização de Audiência Pública conjunta com a Comissão de Seguridade Social e Família para discutir um \"plano de ação para prevenção e combate à esporotricose\"."
+        },
+        {
+            "id": 2148747,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2148747",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 214,
+            "ano": 2017,
+            "ementa": "Requer a criação e instalação no âmbito desta Comissão de Meio Ambiente e Desenvolvimento Sustentável a criação de Subcomissão Permanente em Defesa do Direito Animal destinada a acompanhar as políticas públicas voltadas aos animais e analisar proposições relacionadas a esses."
+        },
+        {
+            "id": 2149535,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2149535",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 174,
+            "ano": 2017,
+            "ementa": "Requer a realização de Audiência Pública para debater a Suposta Dívida da Construtora Andrade Gutierrez em desfavor do Município de Betim e seus impactos sociais."
+        },
+        {
+            "id": 2150355,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2150355",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 7171,
+            "ano": 2017,
+            "ementa": "Requer inclusão na Ordem do Dia da Proposta de Emenda à Constituição N.º 22/2011."
+        },
+        {
+            "id": 2150479,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2150479",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 7177,
+            "ano": 2017,
+            "ementa": "Requer inclusão na Ordem do Projeto de Lei Complementar Nº 76/2007, e apensados, que Modifica o art. 2º da Lei Complementar Nº 125, de 2007."
+        },
+        {
+            "id": 2150683,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2150683",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 3167,
+            "ano": 2017,
+            "ementa": "Solicita informações ao Senhor Ministro de Estado da Fazenda sobre repasses efetuados pela Caixa Econômica Federal referentes ao Projeto CURA."
+        },
+        {
+            "id": 2150687,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2150687",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela aprovação."
+        },
+        {
+            "id": 2150803,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2150803",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 175,
+            "ano": 2017,
+            "ementa": "Requer a inclusão de nomes na Audiência Pública para debater a Suposta Dívida da Construtora Andrade Gutierrez em desfavor do Município de Betim e seus impactos sociais."
+        },
+        {
+            "id": 2151552,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2151552",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 7253,
+            "ano": 2017,
+            "ementa": "Requer a inclusão na pauta do Projeto de Lei nº 466/2015, que Dispõe sobre a adoção de medidas que assegurem a circulação segura de animais silvestres no território nacional, com a redução de acidentes envolvendo pessoas e animais nas estradas, rodovias e ferrovias brasileiras."
+        },
+        {
+            "id": 2152571,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2152571",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela aprovação."
+        },
+        {
+            "id": 2152878,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2152878",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 232,
+            "ano": 2017,
+            "ementa": "Solicita realização de Audiência Pública para discussão do tema: \"PL 6881/2017 e os impactos ambientais e sociais dos fogos de artifício com estampidos\""
+        },
+        {
+            "id": 2152897,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2152897",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Susta a Portaria nº 444, de 17 de dezembro de 2014, do Ministério do Meio Ambiente, que reconhece \"como espécies da fauna brasileira ameaçadas de extinção aquelas constantes da ''''Lista Nacional Oficial de Espécies da Fauna Ameaçadas de Extinção\"."
+        },
+        {
+            "id": 2155241,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2155241",
+            "siglaTipo": "PES",
+            "codTipo": 196,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer às emendas apresentadas ao Substitutivo do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela aprovação deste, e da Emenda ao Substitutivo 1 da CVT, com substitutivo."
+        },
+        {
+            "id": 2155245,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2155245",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer favorável ao PDC nº 10, de 2015, ao Projeto de Decreto Legislativo n.º 274, de 2015, ao Projeto de Decreto Legislativo n.º 275, de 2015, e ao Projeto de Decreto Legislativo n.º 276, de 2015, na forma do substitutivo anexo."
+        },
+        {
+            "id": 2155247,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2155247",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 2,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2155382,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2155382",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela compatibilidade e adequação financeira e orçamentária do Projeto, na forma do Substitutivo da Comissão de Meio Ambiente e Desenvolvimento Sustentável; e, no mérito, pela aprovação do Projeto, na forma do Substitutivo da CMADS."
+        },
+        {
+            "id": 2156091,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2156091",
+            "siglaTipo": "SOR",
+            "codTipo": 611,
+            "numero": 6,
+            "ano": 2017,
+            "ementa": "Tipo: Aprop.- Inclusão. Funcional/Ação: 2054.1D73 (Apoio à Política Nacional de Desenvolvimento Urbano). Quantidade: 1.000. Valor: 100.000.000."
+        },
+        {
+            "id": 2156100,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2156100",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária do Projeto de Lei 2.883/2011 e da Emenda da Comissão de Meio Ambiente e Desenvolvimento Sustentável; e, no mérito, pela aprovação do PL 2.883/2011 e da Emenda da CMADS."
+        },
+        {
+            "id": 2156270,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2156270",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 1,
+            "ano": 2017,
+            "ementa": "Requer a constituição de Comitiva de parlamentares da Subcomissão Permanente em Defesa do Direito Animal para visita ao Ministro de Estado da Saúde."
+        },
+        {
+            "id": 2160414,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2160414",
+            "siglaTipo": "RLP",
+            "codTipo": 453,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Relatório Prévio, Dep. Marcelo Álvaro Antônio (PR-MG), pela implementação"
+        },
+        {
+            "id": 2162144,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2162144",
+            "siglaTipo": "REL",
+            "codTipo": 631,
+            "numero": 1,
+            "ano": 2017,
+            "ementa": "Parecer emitido em virtude das atividades da Comissão Externa, destinada a Verificação a Execução das Obras e Avaliar a Aplicação dos Recursos Objeto da Cobrança de Suposta Dívida da Construtora Andrade Gutierrez em desfavor do Município de Betim - MG."
+        },
+        {
+            "id": 2162986,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2162986",
+            "siglaTipo": "PES",
+            "codTipo": 196,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer às emendas apresentadas ao Substitutivo do Relator, Dep. Marcelo Álvaro Antônio (PR-MG), pela aprovação do Projeto de Lei 2006/15 e da Emenda ao Substitutivo 1 da CVT, com substitutivo."
+        },
+        {
+            "id": 2162987,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2162987",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Altera a Lei nº 9503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para facultar ao cidadão a Certificação Digital dos Documentos de porte obrigatório descritos no Código."
+        },
+        {
+            "id": 2163512,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2163512",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 196,
+            "ano": 2017,
+            "ementa": "Requer a realização de Audiência Pública para debater o Projeto de Lei nº 7194/2017 que \"Altera o inciso I do art. 32 da Lei nº 13.146, de 6 de julho de 2015, que institui a Lei brasileira de inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência)\"."
+        },
+        {
+            "id": 2163787,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2163787",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 7800,
+            "ano": 2017,
+            "ementa": "Requer a inclusão na Ordem do Dia da Câmara dos Deputados, nos termos do art. 114, inciso XIV do Regimento Interno a inclusão da PEC 372/2017, que \"Altera o inciso XIV do art. 21, o parágrafo 4º do art. 32 e o art. 144 da Constituição Federal para criar as polícias penais federal, estaduais e distrital\"."
+        },
+        {
+            "id": 2166528,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2166528",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Proíbe o uso de fogos de artifício com estampido."
+        },
+        {
+            "id": 2169936,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2169936",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 9856,
+            "ano": 2018,
+            "ementa": "Acrescenta dispositivo à Lei nº 8.080, de 19 de setembro de 1990, inserindo obrigação de atualização anualmente da tabela de participação complementar do SUS."
+        },
+        {
+            "id": 2169937,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2169937",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 9857,
+            "ano": 2018,
+            "ementa": "Concede anistia às Santas Casas de Misericórdia, entidades hospitalares sem fins econômicos e hospitais de natureza filantrópica quanto às contribuições devidas e não recolhidas oriundas de débitos tributários, previdenciários, com o fundo Nacional de Saúde e com bancos públicos."
+        },
+        {
+            "id": 2173411,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2173411",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 3507,
+            "ano": 2018,
+            "ementa": "Requer seja solicitada ao Senhor Ministro de Estado da Saúde a estimativa do impacto orçamentário e financeiro decorrente do Projeto de Lei 9857/2018."
+        },
+        {
+            "id": 2173412,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2173412",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 3508,
+            "ano": 2018,
+            "ementa": "Requer seja solicitada ao Senhor Ministro de Estado da Fazenda a estimativa do impacto orçamentário e financeiro decorrente do Projeto de Lei 9857/2018."
+        },
+        {
+            "id": 2173413,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2173413",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 3509,
+            "ano": 2018,
+            "ementa": "Requer seja solicitada ao Senhor Ministro de Estado da Saúde a estimativa do impacto orçamentário e financeiro decorrente do Projeto de Lei 9856/2018."
+        },
+        {
+            "id": 2175565,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2175565",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 10262,
+            "ano": 2018,
+            "ementa": "Altera a Lei nº 5.700, de 1º de setembro de 1971, para tornar obrigatório o hasteamento diário da Bandeira Nacional em todas as instituições públicas do País."
+        },
+        {
+            "id": 2178110,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2178110",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 22,
+            "ano": 2018,
+            "ementa": "Requer a realização de Encontro Regional, em Belo Horizonte, para debater a PEC 333/2017, que altera os arts. 5º, 37, 96, 102, 105, 108 e 125 da Constituição Federal para extinguir o foro especial por prerrogativa de função no caso dos crimes comuns, e revoga o inciso X do art. 29 e o parágrafo 1º do art. 53 da Constituição Federal."
+        },
+        {
+            "id": 2179923,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2179923",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 3626,
+            "ano": 2018,
+            "ementa": "Requer seja solicitada ao Senhor Ministro de Estado da Indústria, Comércio Exterior e Serviços que responda questionamentos quanto a pesca predatória."
+        },
+        {
+            "id": 2179924,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2179924",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 3627,
+            "ano": 2018,
+            "ementa": "Requer informações ao Senhor Ministro de Estado do Meio Ambiente sobre o impacto da pesca no meio ambiente e sua prevenção."
+        },
+        {
+            "id": 2181154,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181154",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 10543,
+            "ano": 2018,
+            "ementa": "Determina a proibição em todo o território nacional do fornecimento, venda, compra e disponibilização de canudos plásticos descartáveis e dá outras providências"
+        },
+        {
+            "id": 2181155,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181155",
+            "siglaTipo": "REQ",
+            "codTipo": 319,
+            "numero": 9014,
+            "ano": 2018,
+            "ementa": "Requer a retirada  de tramitação do Requerimento de Informação nº 3626/2018"
+        },
+        {
+            "id": 2181381,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181381",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2018,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2181653,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181653",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2018,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 2181671,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181671",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 10594,
+            "ano": 2018,
+            "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, para assegurar o direito às pessoas com visão monocular a classificação como deficientes visuais."
+        },
+        {
+            "id": 2181836,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181836",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2018,
+            "ementa": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 293-A, de 2004, do Poder Executivo, que \"altera o Sistema Tributário Nacional e dá outras providências\" (desmembramento da PEC 255/04) ( PEC29304 ) Altera o Sistema Tributário Nacional e dá outras providências. (Desmembramento da PEC nº 255/04, devendo os arts. 3º, 8º e 9º, serem renumerados para 3º, 4º e 5º; e os arts. 146, IV, 150, VI e, 153, § 4º, IV, 158, parágrafo único, I, II, 171-A e parágrafo único, 203, parágrafo único e 216, § 3º, constantes do art. 1º, e os arts., 4º, 5º, 7º, renumerados para 2º, 3º e 4º)."
+        },
+        {
+            "id": 2181837,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181837",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 4,
+            "ano": 2018,
+            "ementa": "Altera o Sistema Tributário Nacional - PEC 293 Reforma Tributária"
+        },
+        {
+            "id": 2181838,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181838",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 5,
+            "ano": 2018,
+            "ementa": "Altera o Sistema Tributário Nacional - PEC 293 Reforma Tributária"
+        },
+        {
+            "id": 2182561,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2182561",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 6,
+            "ano": 2018,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2183168,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2183168",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 7,
+            "ano": 2018,
+            "ementa": "Emenda Substitutiva Global à PEC 293-A, de 2004, que altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2183893,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2183893",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 23,
+            "ano": 2018,
+            "ementa": "Dá nova redação à MPV 848/2018"
+        },
+        {
+            "id": 2183894,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2183894",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 24,
+            "ano": 2018,
+            "ementa": "Dá nova redação à MPV 848/2018"
+        },
+        {
+            "id": 2211541,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2211541",
+            "siglaTipo": "REQ",
+            "codTipo": 363,
+            "numero": 1922,
+            "ano": 2019,
+            "ementa": "Requer o desarquivamento de proposições de sua autoria."
+        },
+        {
+            "id": 2212300,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212300",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2019,
+            "ementa": "Dê-se à Proposta de Emenda à Constituição n° 45, de 2019, a seguinte redação: \"Cria o imposto federal sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira."
+        },
+        {
+            "id": 2268428,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268428",
+            "siglaTipo": "DOC",
+            "codTipo": 864,
+            "numero": 2,
+            "ano": 2021,
+            "ementa": "Adesão a Bloco Parlamentar"
+        },
+        {
+            "id": 2268473,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268473",
+            "siglaTipo": "DOC",
+            "codTipo": 864,
+            "numero": 7,
+            "ano": 2021,
+            "ementa": "Assunto: Adesão a Bloco Parlamentar."
+        },
+        {
+            "id": 2268780,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268780",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 34,
+            "ano": 2021,
+            "ementa": "Comunicação de Líder do Partido Social Liberal (PSL)."
+        },
+        {
+            "id": 2270934,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270934",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera os arts. 14, 27, 53, 102 e 105 da Constituição Federal, para dispor sobre as prerrogativas parlamentares e dá outras providências."
+        },
+        {
+            "id": 2284560,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284560",
+            "siglaTipo": "DOC",
+            "codTipo": 865,
+            "numero": 276,
+            "ano": 2021,
+            "ementa": "Os Deputados da bancada do Partido Social Liberal - PSL, conforme os arts. 9º e 12 do Regimento Interno da Câmara dos Deputados, comunicam o desligamento do Bloco Parlamentar formado pelos partidos: PSL, PL, PP, PSD, MDB, PSDB, REPUBLICANOS, DEM, PODE, AVANTE, PATRIOTA."
+        },
+        {
+            "id": 2287772,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287772",
+            "siglaTipo": "REC",
+            "codTipo": 373,
+            "numero": 29,
+            "ano": 2021,
+            "ementa": "Contra a apreciacão conclusiva do Projeto de Lei No 399/2015, do Deputado Fábio Mitidieri, que altera o art. 2º da Lei nº 11.343, de 23 de agosto de 2006, para viabilizar a comercialização de medicamentos que contenham extratos, substratos ou partes da planta Cannabis sativa em sua formulação."
+        },
+        {
+            "id": 2292025,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292025",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2656,
+            "ano": 2021,
+            "ementa": "Altera legislação para criar a qualificadora para o crime de estupro de vulneráveis cometida contra descente, parentes consanguíneos ou afins ou contra menor que o agente possua poder de mando, ou ascensão, ou laços de confiança, prevalecendo-se de sua condição de superior hierárquico ou ascendência inerentes ao vínculo afetivo com a vítima, incluindo o §6º, ao art. 217 A, do Decreto-Lei n.º 2.484, de 7 de dezembro de 1940, e demais dispositivos."
+        },
+        {
+            "id": 2292026,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292026",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2657,
+            "ano": 2021,
+            "ementa": "Impede que o pedófilo seja beneficiado por uma medida de segurança, obrigando assim, que a pena seja cumprida no sistema prisional como qualquer outro criminoso que tenha cometido crime sexual."
+        },
+        {
+            "id": 2292027,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292027",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2658,
+            "ano": 2021,
+            "ementa": "Proíbe a aplicação do tipo de importunação sexual para crianças e adolescentes, devendo seguir as regras firmadas no Estatuto da Criança e do Adolescente."
+        },
+        {
+            "id": 2293634,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293634",
+            "siglaTipo": "EMP",
+            "codTipo": 873,
+            "numero": 47,
+            "ano": 0,
+            "ementa": "Institui o Novo Programa Emergencial de Manutenção do Emprego e da Renda e dispõe sobre medidas complementares para o enfrentamento das consequências da emergência de saúde pública de importância internacional decorrente do coronavírus (covid-19) no âmbito das relações de trabalho"
+        },
+        {
+            "id": 2298885,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298885",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3178,
+            "ano": 2021,
+            "ementa": "Altera a Lei nº 6.766, de 19 de dezembro de 1979, que dispõe sobre o parcelamento do solo urbano, e a Lei nº 10.257, de 10 de julho de 2001."
+        },
+        {
+            "id": 2299653,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299653",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 1867,
+            "ano": 2021,
+            "ementa": "Requer o registro da Frente Parlamentar em Apoio ao Produtor de Leite perante a Mesa da Câmara dos Deputados."
+        },
+        {
+            "id": 2303289,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303289",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 2111,
+            "ano": 2021,
+            "ementa": "Requer a inclusão na Ordem do dia da Petição protocolada pelo Partido Trabalhista Brasileiro – PTB, no dia 14 de outubro de 2021, formulada com amparo no art. 53, § 3º, da Constituição Federal de 1988, com vistas a sustar o andamento da ação penal 1.044."
+        },
+        {
+            "id": 2305937,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305937",
+            "siglaTipo": "SOR",
+            "codTipo": 611,
+            "numero": 7,
+            "ano": 2021,
+            "ementa": "Apoio à Consolidação, Reestruturação e Modernização das Instituições Federais de Ensino Superior (Programa 5013 - Educação Superior - Graduação, Pós-Graduação, Ensino, Pesquisa e Extensão; Ação: 15R3 - Apoio à Consolidação, Reestruturação e Modernização das Instituições Federais de Ensino Superior; Região Sudeste; APROPRIAÇÃO; Valor: 50.000.000)"
+        },
+        {
+            "id": 2306654,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2306654",
+            "siglaTipo": "SOR",
+            "codTipo": 611,
+            "numero": 4,
+            "ano": 2021,
+            "ementa": "AMPLIAÇÃO DO SISTEMA DE GERAÇÃO DE ENERGIA ELÉTRICA - R$ 500.000.000,00."
+        },
+        {
+            "id": 2321377,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321377",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1102,
+            "ano": 2022,
+            "ementa": "Concede anistia aos fatos que especifica."
+        }
+    ]
+}

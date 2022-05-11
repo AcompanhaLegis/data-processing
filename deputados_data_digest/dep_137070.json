@@ -1,0 +1,103 @@
+{
+    "proposicoes_by_year": {
+        "2015": {
+            "amount": 36,
+            "types": {
+                "PL": 12,
+                "EMC": 11,
+                "REQ": 10,
+                "INC": 3
+            }
+        },
+        "0": {
+            "amount": 74,
+            "types": {
+                "PRL": 24,
+                "EMR": 2,
+                "SBT": 5,
+                "RRL": 14,
+                "VTS": 1,
+                "RLP": 1,
+                "EMP": 11,
+                "ATACN": 1,
+                "PRLP": 4,
+                "EMC": 7,
+                "PPP": 2,
+                "RDF": 2
+            }
+        },
+        "2016": {
+            "amount": 45,
+            "types": {
+                "PL": 13,
+                "PEC": 4,
+                "REQ": 10,
+                "INC": 6,
+                "CAE": 4,
+                "EMC": 8
+            }
+        },
+        "2017": {
+            "amount": 23,
+            "types": {
+                "INC": 4,
+                "EMC": 8,
+                "REQ": 5,
+                "PEC": 1,
+                "PL": 2,
+                "SLD": 2,
+                "EMA": 1
+            }
+        },
+        "2018": {
+            "amount": 8,
+            "types": {
+                "EMC": 2,
+                "REQ": 3,
+                "SOR": 1,
+                "CAE": 1,
+                "PL": 1
+            }
+        },
+        "2019": {
+            "amount": 98,
+            "types": {
+                "REQ": 12,
+                "PL": 8,
+                "EMC": 75,
+                "INC": 1,
+                "CAE": 1,
+                "RAT": 1
+            }
+        },
+        "2020": {
+            "amount": 18,
+            "types": {
+                "EMC": 3,
+                "PL": 8,
+                "REQ": 5,
+                "INC": 2
+            }
+        },
+        "2021": {
+            "amount": 38,
+            "types": {
+                "DOC": 6,
+                "INC": 2,
+                "PL": 5,
+                "PEC": 2,
+                "REQ": 21,
+                "ATACN": 1,
+                "PLV": 1
+            }
+        },
+        "2022": {
+            "amount": 11,
+            "types": {
+                "PL": 1,
+                "REQ": 9,
+                "DOC": 1
+            }
+        }
+    }
+}

@@ -1,0 +1,3919 @@
+{
+    "id": 204566,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204566",
+    "nome": "Marreca Filho",
+    "siglaPartido": "PATRIOTA",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37907",
+    "siglaUf": "MA",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204566.jpg",
+    "email": "dep.marrecafilho@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 2191375,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2191375",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 24,
+            "ano": 2019,
+            "ementa": "Sugere ao Excelentíssimo Senhor Ministro dos Transportes, a construção do viaduto na BR 222, no trecho que corta o município de Itapecuru-Mirim, no estado do Maranhão."
+        },
+        {
+            "id": 2191376,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2191376",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 25,
+            "ano": 2019,
+            "ementa": "Requer urgência na duplicação da BR-222, no trecho entre o entroncamento no Km 96 da BR 135, e o município de Itapecuru-Mirim, no Estado do Maranhão."
+        },
+        {
+            "id": 2191711,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2191711",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 659,
+            "ano": 2019,
+            "ementa": "Dispõe sobre a carteira de identidade militar dos Oficiais e Aspirantes-a-Oficial da 2ª Classe da Reserva (R/2) das Forças Armadas."
+        },
+        {
+            "id": 2192712,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192712",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1033,
+            "ano": 2019,
+            "ementa": "Altera o art. 4º da Lei nº 9.636, de 15 de maio de 1998, para dispor sobre a transferência de receitas, provenientes de aforamento e ocupação de terrenos de marinha e seus acrescidos, aos Municípios em que se situam."
+        },
+        {
+            "id": 2193078,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193078",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1116,
+            "ano": 2019,
+            "ementa": "Altera o art. 24 da Lei nº 8.666, de 21 de junho de 1993, para permitir aos estabelecimentos penais a aquisição de gêneros alimentícios diretamente da agricultura familiar."
+        },
+        {
+            "id": 2193079,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193079",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1117,
+            "ano": 2019,
+            "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para prever que a revisão das bases de cálculo do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) e do Imposto sobra a Transmissão de Bens Imóveis (ITBI) e a atualização monetária dos valores que as compõem constituem requisitos essenciais da responsabilidade na gestão fiscal."
+        },
+        {
+            "id": 2193081,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193081",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1118,
+            "ano": 2019,
+            "ementa": "Obriga hipermercados, supermercados e estabelecimentos similares a disporem de local específico para a venda de produtos provenientes da agricultura familiar."
+        },
+        {
+            "id": 2193518,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193518",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1313,
+            "ano": 2019,
+            "ementa": "Acrescenta artigo à Lei nº 7.498, de 25 de junho de 1986, para dispor sobre a jornada de trabalho de enfermeiros, técnicos de enfermagem, auxiliares de enfermagem e parteiras."
+        },
+        {
+            "id": 2193520,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193520",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1314,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, de forma a incluir, como dever do Estado, a garantia de vaga em creche e no ensino médio no estabelecimento público de ensino dessas etapas mais próximo da residência do educando."
+        },
+        {
+            "id": 2193521,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193521",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1315,
+            "ano": 2019,
+            "ementa": "Determinar que dez por cento dos recursos do Fundo Nacional de Segurança Pública sejam destinados às polícias militares dos Estados."
+        },
+        {
+            "id": 2194265,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194265",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 67,
+            "ano": 2019,
+            "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para prever que a revisão das bases de cálculo do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) e do Imposto sobra a Transmissão de Bens Imóveis (ITBI) e a atualização monetária dos valores que as compõem constituem requisitos essenciais da responsabilidade na gestão fiscal."
+        },
+        {
+            "id": 2194402,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194402",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 11,
+            "ano": 2019,
+            "ementa": "Requeremos a realização de Audiência Pública para debater os \"Desafios da Agricultura Familiar frente à aposentadoria rural e os programas de incentivo direcionados aos agricultores familiares e aos empreendimentos familiares rurais\"."
+        },
+        {
+            "id": 2194563,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194563",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 849,
+            "ano": 2019,
+            "ementa": "Requer o registro da Frente Parlamentar Mista da Agricultura Familiar."
+        },
+        {
+            "id": 2194565,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194565",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 850,
+            "ano": 2019,
+            "ementa": "Requer o registro da Frente Parlamentar Mista dos Agentes Comunitários de Saúde, e de Combate às Endemias."
+        },
+        {
+            "id": 2196646,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196646",
+            "siglaTipo": "EMP",
+            "codTipo": 131,
+            "numero": 2,
+            "ano": 2019,
+            "ementa": ""
+        },
+        {
+            "id": 2197513,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197513",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2201,
+            "ano": 2019,
+            "ementa": "Modifica a Lei nº 3.999 de 15 de dezembro de 1961, que \"Altera o salário-mínimo dos médicos e cirurgiões dentistas\", para dispor sobre o salário profissional desses trabalhadores."
+        },
+        {
+            "id": 2198106,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198106",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 112,
+            "ano": 2019,
+            "ementa": "Requer o envio de Requerimento de Informação ao Excelentíssimo Senhor Ministro de Estado da Educação, Abraham Weintraub, solicitando esclarecimentos sobre os impactos financeiros provocados pelo corte de verbas para Educação no Orçamento de 2019"
+        },
+        {
+            "id": 2198577,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198577",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2385,
+            "ano": 2019,
+            "ementa": "Institui a Certidão Negativa de Utilização Ilegal do Trabalho da Criança e do Adolescente e dá outras providências - CNTCA, nos termos do inciso XXXIII do art. 7º da Constituição Federal, altera O parágrafo 3º do art. 4, da Lei nº 12.414, de 2011, e altera o inciso V do art. 27 da Lei nº 8.666, de 21 de junho de 1993."
+        },
+        {
+            "id": 2198633,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198633",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2408,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 - que institui o Código de Trânsito Brasileiro, para dispor que infração de trânsito de natureza leve ou média será punida com pena de advertência, quando o infrator não houver sido penalizado pela mesma infração nos últimos doze meses."
+        },
+        {
+            "id": 2198672,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198672",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marreca Filho (PATRI-MA), pela incompatibilidade e inadequação financeira e orçamentária do Projeto, e do Substitutivo da Comissão Comissão de Desenvolvimento Econômico, Indústria Comércio e Serviços."
+        },
+        {
+            "id": 2198692,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198692",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 113,
+            "ano": 2019,
+            "ementa": "Requer a realização de Audiência Pública com os representantes do Fundo Nacional da FNDE, para apresentar esclarecimentos acerca das obras inacabadas das creches, pré-escolas, escolas e quadras-poliesportivas do País."
+        },
+        {
+            "id": 2198693,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198693",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 114,
+            "ano": 2019,
+            "ementa": "Requer a realização de Audiência Pública para esclarecer cortes em programas e ações governamentais relacionados à educação previstos na Lei Orçamentária Anual de 2019."
+        },
+        {
+            "id": 2198876,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198876",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 66,
+            "ano": 2019,
+            "ementa": "Requer, nos termos regimentais, seja criado no âmbito da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural a subcomissão Permanente de Pescados."
+        },
+        {
+            "id": 2199624,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2199624",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2199625,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2199625",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2199779,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2199779",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2019,
+            "ementa": "Emenda modificativa que estabelece regra de transição justa e proporcional aos servidores públicos em geral e professores."
+        },
+        {
+            "id": 2200583,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200583",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marreca Filho (PATRI-MA), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2200584,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200584",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2200893,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200893",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 5,
+            "ano": 2019,
+            "ementa": "Altera os arts. 40 e 201 da Constituição Federal, e o arts 3º, 4º, 10 e 18 da Proposta de Emenda à Constituição nº 6, de 2019, que dispõe sobre a seguridade social, estabelece regras de transição e dá outras providências"
+        },
+        {
+            "id": 2201763,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2201763",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 6,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2202176,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202176",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 7,
+            "ano": 2019,
+            "ementa": "Modifica a Proposta de Emenda à Constituição 6/19 no âmbito do sistema de previdência e seguridade social dos operadores de Segurança Pública, mantendo a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria a estes servidores, nos termos definidos em leis complementares."
+        },
+        {
+            "id": 2203457,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203457",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 8,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2203537,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203537",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 10,
+            "ano": 2019,
+            "ementa": "IInclui oficiais de justiça entre os beneficiários de aposentadoria especial."
+        },
+        {
+            "id": 2203549,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203549",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 12,
+            "ano": 2019,
+            "ementa": "Altera dispositivos dos artigos 1º, 4º, 10 e 12 da PEC 06/2019 para dispor sobre o regime previdenciário dos policiais dos órgãos a que se referem o inciso IV do caput do art. 51, o inciso XIII, do caput do art. 52 e os incisos I a IV do caput do art. 144  da Constituição e dá outras providências.\""
+        },
+        {
+            "id": 2203565,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203565",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 13,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências"
+        },
+        {
+            "id": 2203690,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203690",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 15,
+            "ano": 2019,
+            "ementa": "Altera o artigo 42 da Constituição Federal para garantir reciprocidade da contagem do tempo de serviço, bem como garantir a simetria no Sistema de Proteção Social dos militares federais; e suprime dispositivos da PEC 06/2019 (art. 1º, inciso XXI do art. 22; §§ 1º, 2º e 3º do art. 42; e art. 17)."
+        },
+        {
+            "id": 2203709,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203709",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2940,
+            "ano": 2019,
+            "ementa": "Dispõe sobre os códigos de acesso telefônico destinados a atender denúncias de violência contra a mulher (Disque 180) e de violações de Direitos Humanos (Disque 100)."
+        },
+        {
+            "id": 2204003,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204003",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 16,
+            "ano": 2019,
+            "ementa": "Aplica aos policiais militares e aos bombeiros militares as regras de transferência para a inatividade e pensão por morte dos militares das Forças Armadas, salvo se a corporação já possuir regulamentação por lei federal."
+        },
+        {
+            "id": 2204224,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204224",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 17,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204242,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204242",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 18,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204261,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204261",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 19,
+            "ano": 2019,
+            "ementa": "Adiciona ao art. 1º da Proposta de Emenda Constitucional 6, de 2019, o inciso V do § 7º do art. 201 e o artigo 25 para dispor sobre o regime previdenciário dos vigilantes e dá outras providências."
+        },
+        {
+            "id": 2204263,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204263",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 20,
+            "ano": 2019,
+            "ementa": "Dê-se nova redação ao § 9º do art. 39 da Constituição Federal, constante do art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, para ressalvar o pagamento do benefício especial resultante da opção a que se refere o § 16 do art. 40."
+        },
+        {
+            "id": 2204284,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204284",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 21,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204310,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204310",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 23,
+            "ano": 2019,
+            "ementa": "Inclui os servidores da Perícia Oficial de Natureza Criminal. emenda aditiva"
+        },
+        {
+            "id": 2204313,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204313",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do relator, Dep. Marreca Filho, pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2204411,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204411",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 737,
+            "ano": 2019,
+            "ementa": "Sugere a criação, no âmbito do Sistema Nacional de Emprego - SINE, do Programa Banco de Emprego para a Juventude."
+        },
+        {
+            "id": 2204443,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204443",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 24,
+            "ano": 2019,
+            "ementa": "Suprima-se do texto da Proposta de Emenda à Constituição nº 6, de 2019, os dispositivos ou expressões que alteram os requisitos de tempo de contribuição e/ou de idade mínima, as regras de transição e disposições transitórias, para a aposentadoria dos professores."
+        },
+        {
+            "id": 2204456,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204456",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 25,
+            "ano": 2019,
+            "ementa": "Acrescenta artigo à PEC 06/2019 para incluir na regra de transição período adicional de contribuição de trinta por cento."
+        },
+        {
+            "id": 2204461,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204461",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2204496,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204496",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 26,
+            "ano": 2019,
+            "ementa": "Modifica arts. 1º, 4º, 5º e 12º da Proposta de Emenda à Constituição nº 6 de 2019."
+        },
+        {
+            "id": 2204571,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204571",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 30,
+            "ano": 2019,
+            "ementa": "EMENDA MODIFICATIVA  (Altera os arts. 22 e 24 da PEC nº 6/2019.)"
+        },
+        {
+            "id": 2204580,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204580",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 31,
+            "ano": 2019,
+            "ementa": "Dê-se ao art. 3º constante do Capítulo III da PEC 06, de 2019, a seguinte redação:"
+        },
+        {
+            "id": 2204617,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204617",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 33,
+            "ano": 2019,
+            "ementa": "Suprime dispositivos da PEC 6, de 2019 que tratam da alíquota de contribuição."
+        },
+        {
+            "id": 2204618,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204618",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 34,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204619,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204619",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 35,
+            "ano": 2019,
+            "ementa": "Altera o art. 8º, §1º, incisos II e III, suprime o atual inciso III, do art. 8º, § 1º,  renumera o seu atual inciso IV,  para inciso III, altera o art. 8º, § 2º, suprime o inciso II, do parágrafo 7º, do art. 12, suprime o parágrafo 9º, do art. 12, bem como suprime os incisos III e V do parágrafo 10 do Art. 12, todos da PEC 06/2019, que modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204621,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204621",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 36,
+            "ano": 2019,
+            "ementa": "Suprime as redações dadas ao § 6º do art. 40, ao art. 201-A e o art. 115 constantes dos artigos 1º e 2º da PEC 6 de 2019."
+        },
+        {
+            "id": 2204631,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204631",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 37,
+            "ano": 2019,
+            "ementa": "Art 1º. Dê-se ao artigo 3º da PEC n. 6/2019, caput e parágrafos, a seguinte redação:"
+        },
+        {
+            "id": 2204639,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204639",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 38,
+            "ano": 2019,
+            "ementa": "Acrescente-se ao art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, a seguinte redação:"
+        },
+        {
+            "id": 2204658,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204658",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 39,
+            "ano": 2019,
+            "ementa": "Acrescente-se ao artigo 10 do Ato das Disposições Constitucionais Transitórias, alterado pelo art. 2º da Proposta, a seguinte alínea \"c\" no inciso II: \"Art.2º.......................................................................................... ...................................................................................................... Art. 10.......................................................................................... ..................................................................................................... II - .............................................................................................. ................................................................................................... c) do empregado nos 2 (dois) últimos anos que faltarem para completar a idade mínima para a aposentadoria. ............................................................................................\" (NR)"
+        },
+        {
+            "id": 2204662,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204662",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 40,
+            "ano": 2019,
+            "ementa": "Dê-se ao item 3 da alínea \"e\" do inciso I do § 1º do art. 40 do texto constitucional, alterado pelo art. 1º da Proposta de Emenda à Constituição nº 6/2019, a seguinte redação:"
+        },
+        {
+            "id": 2204663,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204663",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 41,
+            "ano": 2019,
+            "ementa": "Suprimam-se o número 2 da letra 'e' do inciso I do § 1º do art. 40, alterado pelo art. 1º e o inciso II do § 4º do art. 12; inclua-se os seguintes §§ 18 e 19 ao art. 40 da Constituição, alterado pelo art. 1º; dê-se nova redação ao art. 4º; e inclua-se o art. 46, renumerando-se os demais, todos da PEC nº 6, de 2019, nos seguintes termos:"
+        },
+        {
+            "id": 2204672,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204672",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 42,
+            "ano": 2019,
+            "ementa": "Altera o Art. 40 da constituição, inserido no artigo 1º da Proposta de Emenda à Constituição nº 6 de 2019."
+        },
+        {
+            "id": 2204748,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204748",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 43,
+            "ano": 2019,
+            "ementa": "Acrescenta os oficiais e os agentes de inteligência da Agência Brasileira de Inteligência nas categorias previstas com a possibilidade de aposentadoria especial."
+        },
+        {
+            "id": 2204749,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204749",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 44,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204832,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204832",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 45,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204835,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204835",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 47,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204836,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204836",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 48,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204837,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204837",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 49,
+            "ano": 2019,
+            "ementa": "Suprimam-se o § 8º do art. 40 da Constituição Federal, alterado pelo art. 1º da PEC 6/2019, os §§ 3º e 4º do art. 9º, e a expressão \"§19\" da alínea \"a\" do inciso I do art. 46 da PEC 6/2019."
+        },
+        {
+            "id": 2204838,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204838",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 50,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204839,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204839",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 51,
+            "ano": 2019,
+            "ementa": "Suprimam-se o art. 149 e seus parágrafos, incisos e alíneas do art. 1º, o inciso II do art. 195 do art. 1º, o art. 13 e seus §§ 1º e 2º, o caput do art. 14 e seus parágrafos e incisos, o art. 15 e seus §§ 1º e 2º e o art. 45 da PEC 6/2019."
+        },
+        {
+            "id": 2204840,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204840",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 52,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204841,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204841",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 53,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204842,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204842",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 54,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205023,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205023",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 56,
+            "ano": 2019,
+            "ementa": "Acrescenta alteração ao inciso V, do artigo 49 da Constituição Federal."
+        },
+        {
+            "id": 2205024,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205024",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 57,
+            "ano": 2019,
+            "ementa": "Acrescenta § 14º ao artigo 37, da Proposta de Emenda Constitucional nº 6 de 2019."
+        },
+        {
+            "id": 2205160,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205160",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 58,
+            "ano": 2019,
+            "ementa": "Para suprimir os artigos 13, 14 e 15 da PEC 6/2019 (alíquotas progressivas e extraordinárias)."
+        },
+        {
+            "id": 2205162,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205162",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 59,
+            "ano": 2019,
+            "ementa": "Acrescenta a expressão \"preservando-lhe, em caráter permanente, o valor real\", aos artigos 40, §1, alínea C e 201, § 1º, inciso V, ambos da Constituição Federal."
+        },
+        {
+            "id": 2205163,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205163",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 60,
+            "ano": 2019,
+            "ementa": "Altera o art. 3º da PEC para determinar o aumento de 17% (dezessete por cento) do tempo que faltar para que os servidores públicos em atividade garantam o direito de se aposentar percebendo proventos de aposentadoria conforme as regras de seu momento de ingresso no Serviço Público."
+        },
+        {
+            "id": 2205165,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205165",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 61,
+            "ano": 2019,
+            "ementa": "Modifica os arts. 3º e 8º, o §3º, do art. 19, o § 2º do art. 24, o §1º, do art. 25, o art. 26 e o art. 30, todos da PEC 06/2019. Suprime o art. 3º, o inciso II, do §3° e o inciso I, do §5°, do art. 4°, o inciso II, do §4°, e o inciso I, do §6° do art. 6°, o § 1º, do art. 9°, o inciso II, do § 7º, do art. 12, o § 9º, do art. 12, o inciso III, do § 10, do art. 12, o inciso V, do § 10, do art. 12, todos da PEC 6/2019, para garantir condições sociais mínimas quanto às pensões, às acumulações e à aposentadoria por invalidez."
+        },
+        {
+            "id": 2205208,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205208",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 62,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205213,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205213",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 63,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205251,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205251",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 64,
+            "ano": 2019,
+            "ementa": "Restringe aos servidores da União as modificações feitas pela PEC 06/19, cabendo aos estados, DF e municípios estabelecerem os respectivos regimes próprios, considerando suas disponibilidades financeiras."
+        },
+        {
+            "id": 2205262,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205262",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 65,
+            "ano": 2019,
+            "ementa": "Altera o § 1º do art. 203 da Constituição Federal, para dispor sobre a condição de concessão do BPC ao deficiente e para permitir que outro benefício assistencial já concedido a membro da família não seja computado para fins de cálculo da renda familiar."
+        },
+        {
+            "id": 2205280,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205280",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 66,
+            "ano": 2019,
+            "ementa": "Estende aos peritos oficiais de natureza criminal e demais servidores da perícia oficial de natureza criminal as regras de aposentadoria das demais categorias policiais."
+        },
+        {
+            "id": 2205343,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205343",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 67,
+            "ano": 2019,
+            "ementa": "Proposta de Emenda que substitui o art. 1° da PEC 06/2019 para corrigir distorções nas regras previdenciárias relacionadas aos Regimes Próprios de Previdência Social, em especial no tocante às atividades especiais."
+        },
+        {
+            "id": 2205344,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205344",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 68,
+            "ano": 2019,
+            "ementa": "Proposta de Emenda que substitui o art. 1° da PEC 06/2019 para modificar o art. 149, corrigindo distorções nos Regimes Próprios de Previdência Social."
+        },
+        {
+            "id": 2205345,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205345",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 69,
+            "ano": 2019,
+            "ementa": "Projeto de Emenda que modifica os artigos 1°, 3°, 6°, 7°, 10, 18, 21, 22, 24, 37, 41 e 46, suprime partes dos artigos 1° e 3°, e suprime integralmente os arts. 2°, 8°, 12, 13, 14, 15, 19, 20, 25, 26, 27, 28, 29, 30, 31, 32, 33, 35, 36, 38, 40, 41, 42, 43, 44, 45 e 46 da PEC 06/2019, para alterar as regras geral e de transição relacionados aos Regimes de Previdência Social."
+        },
+        {
+            "id": 2205352,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205352",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 70,
+            "ano": 2019,
+            "ementa": "Proposto de Emenda Constitucional que altera os arts. 3°, 6°, 7°, 10 e 46 da PEC 06/2019 para substituir o texto da regra de transição relacionada aos Regimes Próprios de Previdência Social, das regras atinentes às atividades especiais e  quanto ao abono de permanência."
+        },
+        {
+            "id": 2205353,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205353",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 71,
+            "ano": 2019,
+            "ementa": "Emenda que suprime partes dos arts. 1° e 3°, e os arts. 2°, 8°, 12, 13, 14, 15, 28, 30, 31, 40, 41 e 42 da PEC 06/2019 para adequar as regras relacionadas aos Servidors Públicos ligados a Regimes Próprios de Previdência Social."
+        },
+        {
+            "id": 2205398,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205398",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 72,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205439,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205439",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 73,
+            "ano": 2019,
+            "ementa": "Altera os art. 3º, 12, 18, 19 e 24 da Proposta de Emenda à Constituição nº 6, de 2019 no que tange a aposentadoria especial dos professores da educação infantil e do ensino fundamental e médio."
+        },
+        {
+            "id": 2205451,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205451",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 74,
+            "ano": 2019,
+            "ementa": "Regulamenta a competência da Justiça Federal para julgar as causas relacionadas às entidades de previdência complementar a que se refere o §15 do art. 40 da Constituição Federal."
+        },
+        {
+            "id": 2205543,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205543",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 76,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205545,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205545",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 77,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205560,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205560",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 79,
+            "ano": 2019,
+            "ementa": "Dá-se nova redação ao Art. 1º, Capítulo I, da PEC 6/2019, no tocante ao \"art.109, I e ao § 3º, da Constituição Federal e altera o art.44, do Capítulo VII, da PEC 6/2019, passando-se a vigorar com a seguinte redação:  \"I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto às de falência, as de acidente de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho\"; (...)  § 3º -\"serão processadas e julgadas na Justiça Estadual, no foro do domicílio dos segurados ou beneficiários, as causas em que forem parte instituição de previdência social e segurado, sempre que a comarca não seja sede de vara do juízo federal, e, se verificada essa condição, a lei poderá permitir que outras causas sejam também processadas e julgadas pela Justiça Estadual.\"(...) \"Art.44 - A Justiça Estadual será competente para julgar as ações previdenciárias em primeira instância apenas, sempre que a Comarca de domicílio do segurado ou beneficiário não for sede de vara federal.\" (...)"
+        },
+        {
+            "id": 2205564,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205564",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 80,
+            "ano": 2019,
+            "ementa": "Dê-se ao § 15, do art. 40, da Constituição Federal, COntido no art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, a seguinte redação:"
+        },
+        {
+            "id": 2205582,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205582",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 81,
+            "ano": 2019,
+            "ementa": "Altera o §1º e os incisos I e II, do §3º, o §5º; do artigo 4 º da PEC 06, de 2019, que dispõe sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2205583,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205583",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 82,
+            "ano": 2019,
+            "ementa": "Acrescentam-se ao art. 3º, como regra de transição para os servidores públicos que na data da publicação desta emenda possuírem trinta anos de contribuição ou que ingressaram no serviço público antes de 16 de dezembro de 1998, e altera-se o art. 2º Art. 46 aonde ficam revogados: I - os §§ 18, 19, 20 e 21 do art. 40 e o §§ 12 e 13 do art. 201 da Constituição e II - os artigos 9º, 13 e 15 da Emenda Constitucional nº 20, de 15 de dezembro de 1998."
+        },
+        {
+            "id": 2205596,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205596",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 90,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205599,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205599",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 91,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205605,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205605",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 92,
+            "ano": 2019,
+            "ementa": "Assegura, até a edição de lei complementar, a aposentadoria dos professores e professoras pelas regras constitucionais atualmente vigentes."
+        },
+        {
+            "id": 2205608,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205608",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 93,
+            "ano": 2019,
+            "ementa": "Suprime alterações promovidas pela PEC n. 6, de 2019, para assegurar o acesso ao Poder Judiciário."
+        },
+        {
+            "id": 2205611,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205611",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 95,
+            "ano": 2019,
+            "ementa": "Garante contagem de tempo de contribuição aos ACS e ACE, no período de 1º de janeiro de 1991 a 31 de dezembro de 2006."
+        },
+        {
+            "id": 2205612,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205612",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 96,
+            "ano": 2019,
+            "ementa": "Mantém o regime jurídico previdenciário vigente na Constituição Federal para trabalhadoras e trabalhadores rurais."
+        },
+        {
+            "id": 2205621,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205621",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 98,
+            "ano": 2019,
+            "ementa": "Modifica  o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205622,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205622",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 99,
+            "ano": 2019,
+            "ementa": "Modifica  o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205625,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205625",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 100,
+            "ano": 2019,
+            "ementa": "Adiciona artigo que estabelece que a vedação da percepção simultânea de proventos de aposentadoria do regime próprio de previdência social de que trata o art. 40, de proventos de inatividade, de que tratam os art. 42 e art. 142 e de proventos de aposentadoria do Regime Geral de Previdência Social, de que trata o art. 201, decorrentes do exercício de cargo, emprego ou função pública, com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma prevista nesta Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração, seja aplicada somente aos empregados públicos que ainda não estejam aposentados pelo Regime Geral de Previdência Social."
+        },
+        {
+            "id": 2205626,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205626",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 101,
+            "ano": 2019,
+            "ementa": "Emenda modificativa que torna as novas regras para o Benefício de Prestação Continuada - BPC, opção para o idoso que completar 60 anos de idade, sem excluir as regras atuais vigentes para a concessão do benefício aos 65 anos."
+        },
+        {
+            "id": 2205627,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205627",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 102,
+            "ano": 2019,
+            "ementa": "emenda aditiva que adiciona artigo que permite continuar em atividade o empregado que perceba cumulativamente, na data da publicação desta Emenda,  proventos de aposentadoria do Regime Geral de Previdência Social, de que trata o art. 201, decorrentes do exercício de cargo, emprego ou função pública, com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma prevista nesta Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração, desde que opte por ter o pagamento do benefício suspenso enquanto continuar no exercício do cargo, emprego ou função pública."
+        },
+        {
+            "id": 2205628,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205628",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 103,
+            "ano": 2019,
+            "ementa": "Suprimido o § 5º do art. 195 previsto no art. 1º da PEC 06/ 2019"
+        },
+        {
+            "id": 2205629,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205629",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 104,
+            "ano": 2019,
+            "ementa": "Altera o art. 24 da PEC 06/ 2019"
+        },
+        {
+            "id": 2205631,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205631",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 106,
+            "ano": 2019,
+            "ementa": "Suprime § 3º do art. 239, alterado pelo art. 1º da PEC 06/ 2019"
+        },
+        {
+            "id": 2205635,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205635",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 108,
+            "ano": 2019,
+            "ementa": "Em relação ao art. 239 da Constituição Federal de 1988, alterado pelo art. 1º da PEC nº 6, de 2019, altere-se a redação do caput e de seu § 1º."
+        },
+        {
+            "id": 2205636,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205636",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 109,
+            "ano": 2019,
+            "ementa": "Destina à educação 20% do que for economizado com a reforma da Previdência e elimina o teto dos gastos com educação."
+        },
+        {
+            "id": 2205638,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205638",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 110,
+            "ano": 2019,
+            "ementa": "Acrescente-se parágrafo único ao art. 45 da Proposta de Emenda à Constituição nº 6, de 2019 (Disposições Finais), para elencar as categorias de trabalhadores que não serão atingidas pela Reforma da Previdência, tendo em vista suas condições de trabalho e a aposentadoria a ser recebida que em maioria não ultrapassa três salários mínimos, que passa a ter a seguinte redação"
+        },
+        {
+            "id": 2205640,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205640",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 111,
+            "ano": 2019,
+            "ementa": "Suprima-se o §1º do Art. 4º da Proposta de Emenda à Constituição nº 06, de 2019."
+        },
+        {
+            "id": 2205641,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205641",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 112,
+            "ano": 2019,
+            "ementa": "Acrescente-se o inciso III ao §3º e o §7º no art. 4º da Proposta de Emenda à Constituição nº 06, de 2019."
+        },
+        {
+            "id": 2205642,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205642",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 113,
+            "ano": 2019,
+            "ementa": "Altera o §1º do Art. 4º da Proposta de Emenda à Constituição nº 06, de 2019."
+        },
+        {
+            "id": 2205643,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205643",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 114,
+            "ano": 2019,
+            "ementa": "Acrescente-se parágrafo único ao art. 45 da Proposta de Emenda à Constituição nº 6, de 2019 (Disposições Finais), para elencar as categorias de trabalhadores que não serão atingidas pela Reforma da Previdência, tendo em vista suas condições de trabalho e a aposentadoria a ser recebida que em maioria não ultrapassa três salários mínimos, que passa a ter a seguinte redação"
+        },
+        {
+            "id": 2205684,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205684",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 117,
+            "ano": 2019,
+            "ementa": "MODIFICA O SISTEMA DE PREVIDÊNCIA SOCIAL, ESTABELECE REGRAS DE TRANSIÇÃO E DISPOSIÇÕES TRANSITÓRIAS, E DÁ OUTRAS PROVIDÊNCIAS"
+        },
+        {
+            "id": 2205720,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205720",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 126,
+            "ano": 2019,
+            "ementa": "Altera o art. 8º, §1º, incisos II e III, suprime o atual inciso III, do art. 8º, § 1º,  renumera o seu atual inciso IV,  para inciso III, altera o art. 8º, § 2º, suprime o parágrafo 9º, do art. 12, bem como suprime os incisos III e V do parágrafo 10 do Art. 12, todos da PEC 06/2019, que modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências"
+        },
+        {
+            "id": 2205723,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205723",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 127,
+            "ano": 2019,
+            "ementa": "Acrescenta ao art. 3º - A, no capítulo III, atinente às regras opcionais de transição relacionadas aos regimes próprios de previdência social."
+        },
+        {
+            "id": 2205727,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205727",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 128,
+            "ano": 2019,
+            "ementa": "Altera a Proposta de Emenda à Constituição n° 06, de 2019."
+        },
+        {
+            "id": 2205734,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205734",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 133,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205747,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205747",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 141,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205751,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205751",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 142,
+            "ano": 2019,
+            "ementa": "Suprimam-se as alterações ao art. 203 da Constituição, promovidas pelo art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, e, em decorrência, suprimam-se os arts. 40, 41 e 42 da PEC; e inclua-se, no art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, nas partes que promovem alterações nos arts. 40, art. 201 e art. 203 do corpo permanente da Constituição, os seguintes dispositivos, sem prejuízo de outras adequações ou ajustes necessários nos demais dispositivos da proposta"
+        },
+        {
+            "id": 2205752,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205752",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 143,
+            "ano": 2019,
+            "ementa": "Suprima-se o inc. V do caput do art. 201, mencionado no art. 1º da Proposta de Emenda à Constituição n° 6, de 2019, e dê-se a seguinte redação aos art. 12 e 30."
+        },
+        {
+            "id": 2205762,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205762",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 145,
+            "ano": 2019,
+            "ementa": "Art. 1º Acrescente-se ao art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, a seguinte redação; Art. 2º Dê-se aos art. 4º, art.  5º, e  art. 17 da Proposta de Emenda à Constituição nº 6, de 2019, a seguinte redação;  Art. 3º  acrescente-se à Proposta de Emenda à Constituição nº 6/2019, a seguinte redação; Art. 4º Suprima-se os números 2 e 3 da letra e inciso I do § 1º do art. 40, alterado pelo art.1º,  e os incisos II e III do § 4º do art. 12 da Proposta de Emenda à Constituição nº 6 de 2019, renumerando os demais."
+        },
+        {
+            "id": 2205763,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205763",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 146,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205764,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205764",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 147,
+            "ano": 2019,
+            "ementa": "APOSENTADORIA ESPECIAL DOS VIGILANTES BRASILEIROS. Modifica o artº 201 da CF/88, assim como os artº 21 e 25 da PEC 06/2019, para dispor sobre as regras de aposentadoria especiais."
+        },
+        {
+            "id": 2205765,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205765",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 148,
+            "ano": 2019,
+            "ementa": "Inclui Comissários da Infância e da Juventude, Assistentes Sociais Judiciais e Psicólogos Judiciais entre os beneficiários de aposentadoria especial."
+        },
+        {
+            "id": 2205766,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205766",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 149,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205767,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205767",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 150,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205778,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205778",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 151,
+            "ano": 2019,
+            "ementa": "Emenda Modiificativa que altera as condições para a aposentadoria de deficientes físicos, descritas na PEC nº 06/2019."
+        },
+        {
+            "id": 2205789,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205789",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 157,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205802,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205802",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 161,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205830,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205830",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 170,
+            "ano": 2019,
+            "ementa": "Altera o art. 40, § 15, da Constituição e inclui o art. 3º-A na Proposta de Emenda Constitucional n. 6/2019."
+        },
+        {
+            "id": 2205861,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205861",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 178,
+            "ano": 2019,
+            "ementa": "O art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, passa a ter a seguinte redação:"
+        },
+        {
+            "id": 2205864,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205864",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 180,
+            "ano": 2019,
+            "ementa": "Suprima-se os incisos V, VI, VII e VIII do §1º; os §2º e §3º; dê-se nova redação ao §4º com a supressão da expressão \"com a redução ou a majoração a que se refere o § 1º\", todos do artigo 14 da Proposta de Emenda à Constituição nº 06, de 2019, com as alterações de sequência dos demais parágrafos:                         Art. 14 ........................................................................................... §1º ............................................................................................"
+        },
+        {
+            "id": 2205866,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205866",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 181,
+            "ano": 2019,
+            "ementa": "Suprima-se o §1º da Proposta de Emenda à Constituição nº 06, de 2019, com as alterações de sequência dos demais parágrafos: Art. 4º ........................................................................................... §1º ............................................................................................"
+        },
+        {
+            "id": 2205875,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205875",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 182,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências. Suprima-se a expressão \"e de qualquer natureza\" do art. 195, inciso I, alínea \"a\"."
+        },
+        {
+            "id": 2205877,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205877",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 184,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras previdências."
+        },
+        {
+            "id": 2205878,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205878",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 185,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras previdências."
+        },
+        {
+            "id": 2205882,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205882",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 187,
+            "ano": 2019,
+            "ementa": "Suprime modificações promovidas no Benefício de Prestação Continuada - BPC e as alterações relacionadas aos Trabalhadores Rurais, alterando arts. 22, 24 e 203 da Constituição."
+        },
+        {
+            "id": 2205885,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205885",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 188,
+            "ano": 2019,
+            "ementa": "Adicione-se ao texto da Proposta de Emenda à Constituição nº 6, de 2019, os seguintes dispositivos: \"Art. 37...  II-A - O estabelecimento de limite de idade para inscrição em concurso público apenas é legítimo quando justificado pela natureza das atribuições do cargo a ser preenchido. ............\" (NR)  \"Art. 195......  § 9º-A. A lei complementar a que se refere o §1º do art. 201 fixará desconto na alíquota da contribuição social prevista na alínea a do inciso I do caput deste artigo em relação ao empregado cuja idade seja inferior em até dez anos à idade mínima exigida para a aposentadoria e estabelecerá critérios para a dedução de despesas com capacitação dos empregados desta faixa etária da base de cálculo da mesma contribuição social.  .....\" (NR)"
+        },
+        {
+            "id": 2205886,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205886",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 189,
+            "ano": 2019,
+            "ementa": "Suprime da PEC 6, de 2019, dispositivos relacionados à desconstitucionalização das regras previdenciárias e os relacionados ao novo regime de capitalização e determina a realização de referendo sobre as modificações na contida."
+        },
+        {
+            "id": 2205887,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205887",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 190,
+            "ano": 2019,
+            "ementa": "Suprime da PEC 6/2019 dispositivos relacionados à previdência do trabalhador rural, aos benefícios assistenciais e ao benefício do Abono Salarial."
+        },
+        {
+            "id": 2205892,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205892",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 191,
+            "ano": 2019,
+            "ementa": "Modifica dispositivos da PEC 6, de 2019, que prejudicam as trabalhadoras."
+        },
+        {
+            "id": 2205893,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205893",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 192,
+            "ano": 2019,
+            "ementa": "Altera dispositivos da PEC 6/2019 relacionados com a aposentadoria dos professores de educação infantil, ensino fundamental e médio."
+        },
+        {
+            "id": 2205894,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205894",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 193,
+            "ano": 2019,
+            "ementa": "Modifica o art. 54 do do Ato das Disposições Constitucionais Transitórias para conceder gratificação natalina aos seringueiros recrutados nos termos do Decreto-Lei nº 5.813, de 14 de setembro de 1943."
+        },
+        {
+            "id": 2205895,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205895",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 194,
+            "ano": 2019,
+            "ementa": "Modifica na PEC 6/2019  dispositivos relacionados ao cálculo de benefícios, à carência de 20 anos e à regra de majoração permanente da idade mínima."
+        },
+        {
+            "id": 2205900,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205900",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 196,
+            "ano": 2019,
+            "ementa": "Altera dispositivos relativos ao sistema previdenciário de Capitalização."
+        },
+        {
+            "id": 2205907,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205907",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 197,
+            "ano": 2019,
+            "ementa": "Com o objetivo de adotar uma regra de transição unificada para servidores públicos civis do regime próprio de previdência social e segurados do regime geral de previdência social, modifique-se a redação do inciso V do art. 3º e o inciso II do art. 18, ambos da Proposta de Emenda à Constituição (PEC) nº 6, de 2019, e, em decorrência, suprimam-se os §§ 2º e 3º do art. 3º e os §§ 1º e 2º do art. 18 da referida PEC."
+        },
+        {
+            "id": 2205912,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205912",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 198,
+            "ano": 2019,
+            "ementa": "Suprima-se do art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, a alteração do § 5º do art. 195 da Constituição."
+        },
+        {
+            "id": 2205913,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205913",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 199,
+            "ano": 2019,
+            "ementa": "Dê-se ao § 5º do art. 195 alterado pelo art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, a seguinte redação: \"Art. 1º ......................................................................................... ...................................................................................................... Art. 195......................................................................................... ...................................................................................................... § 5º Nenhum benefício ou serviço da seguridade social poderá ser criado, majorado ou estendido por ato administrativo ou lei, sem a correspondente fonte de custeio total. ............................................................................................\" (NR)"
+        },
+        {
+            "id": 2205924,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205924",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 210,
+            "ano": 2019,
+            "ementa": "Prevê a concessão de aposentadoria por condição especial de trabalho para os motoristas de transporte rodoviário de passageiros e de cargas, cobradores e agentes de bordo."
+        },
+        {
+            "id": 2205926,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205926",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 211,
+            "ano": 2019,
+            "ementa": "Altera os arts. 37, 38, 39, 40, 42, 149, 195, 201, 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2205929,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205929",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 212,
+            "ano": 2019,
+            "ementa": "Acrescenta ao art. 40 alterado pelo art. 1ª da Proposta de Emenda à Constituição nº 06, de 2019 os parágrafos 18 e 19, altera a redação do § 7º do artigo 6º, do § 5º do art. 12 e altera a redação do § 2º do artigo 25, incluídos na Proposta de Emenda à Constituição nº 06, de 2019 conforme textos abaixo:"
+        },
+        {
+            "id": 2205932,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205932",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 215,
+            "ano": 2019,
+            "ementa": "Emenda ao inciso III do art. 3º, ao inciso II do art. 6º e ao inciso II do art. 7º da PEC 6/2019."
+        },
+        {
+            "id": 2205946,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205946",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 228,
+            "ano": 2019,
+            "ementa": "Altera a Proposta de Emenda à Constituição nº 6, de 2019, para devolver ao texto da Constituição Federal as regras previdenciárias, com exclusão da capitalização e das regras de transição."
+        },
+        {
+            "id": 2205947,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205947",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 229,
+            "ano": 2019,
+            "ementa": "Suprime do artigo 1º da Proposta de Emenda à Constituição nº 6/2019 a redação dada ao artigo 203 da Constituição Federal e, por consequência, os artigos 40, 41 e 42 da proposta, relativos ao benefício da assistência social à pessoa portadora de deficiência e ao idoso que dele necessitar."
+        },
+        {
+            "id": 2205948,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205948",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 230,
+            "ano": 2019,
+            "ementa": "Suprime do artigo 1º da Proposta de Emenda à Constituição nº 6/2019 a redação dada ao § 6º do artigo 40 e ao artigo 201-A da Constituição Federal e, por consequência, o artigo 115 do Ato das Disposições Constitucionais Transitórias, com redação dada pelo artigo 2º da proposta, relativamente à instituição de novo regime de previdência social, organizado com base em sistema de capitalização individual."
+        },
+        {
+            "id": 2205949,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205949",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 231,
+            "ano": 2019,
+            "ementa": "Suprime do artigo 1º da Proposta de Emenda à Constituição nº 6/2019 a redação dada aos §§ 3º, 3º-A e 3º-B do artigo 239 da Constituição Federal, relativos à alteração nas regras de acesso e no valor do abono salarial anual."
+        },
+        {
+            "id": 2205950,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205950",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 232,
+            "ano": 2019,
+            "ementa": "Restaura as regras constitucionais da aposentadoria de professoras e professores da educação básica."
+        },
+        {
+            "id": 2205951,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205951",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 233,
+            "ano": 2019,
+            "ementa": "Suprime dispositivos relativos às regras de idade, tempo mínimo de contribuição e valores de benefícios, além do § 5º do art. 195 da PEC 6/2019, que cerceia o acesso à justiça."
+        },
+        {
+            "id": 2205952,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205952",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 234,
+            "ano": 2019,
+            "ementa": "Visa restabelecer os direitos da seguridade ao trabalhador rural, individual e avulso ,e ao segurado especial, bem como garantir, quanto à previdência social, seus atributos redistributivos e de combate à pobreza e à miséria ."
+        },
+        {
+            "id": 2205953,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205953",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 235,
+            "ano": 2019,
+            "ementa": "Condiciona o início da vigência da Emenda Constitucional à sua aprovação em referendo popular."
+        },
+        {
+            "id": 2205954,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205954",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 236,
+            "ano": 2019,
+            "ementa": "Propõe alteração dos requisitos para aposentadoria voluntária, em todos os regimes, restabelecendo a fórmula instituída pela Emenda Constitucional nº 47, de 2005."
+        },
+        {
+            "id": 2205957,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205957",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 239,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205976,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205976",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 257,
+            "ano": 2019,
+            "ementa": "Altera os arts. 40 e 201 da Constituição Federal, contidos no art. 1º da PEC, para reintroduzir na Constituição os requisitos para aposentadoria dos professores e, em decorrência, suprime as regras de transição e transitórias relativas aos professores"
+        },
+        {
+            "id": 2205977,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205977",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 258,
+            "ano": 2019,
+            "ementa": "Acrescente-se o seguinte parágrafo ao art. 9º da Proposta de Emenda à Constituição nº 6, de 2019."
+        },
+        {
+            "id": 2205979,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205979",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 260,
+            "ano": 2019,
+            "ementa": "Suprime dispositivos da PEC nº 6, de 2019, relacionados à aposentadoria dos servidores públicos policiais e às inatividades e pensões das polícias militares e dos corpos de bombeiros militares."
+        },
+        {
+            "id": 2205980,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205980",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 261,
+            "ano": 2019,
+            "ementa": "Modifica dispositivos da PEC nº 6, de 2019, relacionados à aposentadoria dos professores."
+        },
+        {
+            "id": 2205981,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205981",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 262,
+            "ano": 2019,
+            "ementa": "Modifica as regras de transição dos servidores públicos, alterando-se os § 2º e o inciso I do § 7º do art. 3º e o inciso I do § 4º do art. 6º, todos da PEC 6/2019."
+        },
+        {
+            "id": 2205986,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205986",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 267,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205987,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205987",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 268,
+            "ano": 2019,
+            "ementa": "Institui o adicional de 25%, incidente sobre o valor do Benefício de Prestação Continuada da Assistência Social, garantido pelo art. 203 da Constituição Federal, para o idoso ou pessoa com deficiência que necessite de cuidados permanentes para a realização de atividades básicas da vida diária."
+        },
+        {
+            "id": 2205989,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205989",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 270,
+            "ano": 2019,
+            "ementa": "Art. 1º - O Art. 20 da proposta de Emenda à Constituição nº 06, de 2019 passa a vigorar com a seguinte redação\"."
+        },
+        {
+            "id": 2206795,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206795",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2019,
+            "ementa": "Altera o art. 3 da PEC 15/2015 e o art. 213 da Constituição Federal para possibilitar que estados e municípios optem por direcionar parte dos recursos do FUNDEB para organizações da sociedade civil e para financiar bolsas de estudo em instituições de ensino privadas."
+        },
+        {
+            "id": 2206845,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206845",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Parecer do relator, Dep. Marreca Filho, pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2206846,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206846",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 2,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2206983,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206983",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 4,
+            "ano": 2019,
+            "ementa": "Inclui mecanismo de transparência e de prestação de contas de todos os entes federativos no uso de recursos provenientes do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB"
+        },
+        {
+            "id": 2207238,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207238",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marreca Filho (PATRIOTA-MA), pela aprovação deste, com substitutivo, e pela rejeição do PL 311/2019, e do PL 1574/2019, apensados."
+        },
+        {
+            "id": 2207239,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207239",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2207444,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207444",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 2,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2207445,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207445",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marreca Filho (PATRIOTA-MA), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2208543,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208543",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3603,
+            "ano": 2019,
+            "ementa": "Regulamenta a profissão do condutor de ambulância."
+        },
+        {
+            "id": 2208646,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208646",
+            "siglaTipo": "REQ",
+            "codTipo": 311,
+            "numero": 1787,
+            "ano": 2019,
+            "ementa": "Requerimento de retirada de proposição."
+        },
+        {
+            "id": 2210260,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210260",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3829,
+            "ano": 2019,
+            "ementa": "Regulamentação e enquadramento da atividade do profissional condutor de ambulância na área da saúde."
+        },
+        {
+            "id": 2211898,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2211898",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2211909,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2211909",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Marreca Filho (PATRIOTA-MA), pela aprovação deste, do PL 2204/2019, e do PL 2360/2019, apensados, com substitutivo."
+        },
+        {
+            "id": 2211910,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2211910",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Dispõe sobre os empreendimentos de turismo rural da agricultura familiar."
+        },
+        {
+            "id": 2212184,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212184",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 5,
+            "ano": 2019,
+            "ementa": "Requer realização de audiência pública para discutir e analisar a PEC 45 de 2019, que propõe Reforma Tributária, com a presença do convidado Robson Braga de Andrade, Presidente da Confederação Nacional da Indústria."
+        },
+        {
+            "id": 2212300,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212300",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2019,
+            "ementa": "Dê-se à Proposta de Emenda à Constituição n° 45, de 2019, a seguinte redação: \"Cria o imposto federal sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira."
+        },
+        {
+            "id": 2214941,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2214941",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4450,
+            "ano": 2019,
+            "ementa": "Cria o Programa Universidade Social, e dá outras providências."
+        },
+        {
+            "id": 2214943,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2214943",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4451,
+            "ano": 2019,
+            "ementa": "\"Dá nova redação ao caput do artigo 3º da Lei nº 11.326, de 24 de julho de 2006, que estabelece as diretrizes para a formulação da Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais\"."
+        },
+        {
+            "id": 2214945,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2214945",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4452,
+            "ano": 2019,
+            "ementa": "Dispõe sobre o atendimento prioritário a pessoas com fibromialgia"
+        },
+        {
+            "id": 2214946,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2214946",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4453,
+            "ano": 2019,
+            "ementa": "Dispõe sobre a destinação final ambientalmente adequada dos medicamentos vencidos ou impróprios para o consumo."
+        },
+        {
+            "id": 2214947,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2214947",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4454,
+            "ano": 2019,
+            "ementa": "Acrescenta dispositivo à Lei Nº 8.080, de 19 de setembro de 1990, para garantir, através do Sistema Único de Saúde (SUS), tratamento médico a pacientes portadores de doenças não tratáveis no município de origem."
+        },
+        {
+            "id": 2215687,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2215687",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 4,
+            "ano": 2019,
+            "ementa": "Insere-se o artigo 162-A, na Constituição Federal, por meio do artigo 1º da Proposta de Emenda à Constituição n° 45, de 2019, que passará a ter a seguinte redação:"
+        },
+        {
+            "id": 2215688,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2215688",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4536,
+            "ano": 2019,
+            "ementa": "Acrescenta o art. 67-A a Lei nº 8.666, de 21 de junho de 1993, a fim de tornar obrigatória a inserção, no Sistema Integrado de Administração de Serviços Gerais - SIASG, das informações referentes aos contratos e convênios firmados pelos órgãos e entidades integrantes do orçamento da União"
+        },
+        {
+            "id": 2215690,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2215690",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4537,
+            "ano": 2019,
+            "ementa": "Dispõe sobre a prestação de serviços de psicologia e de assistência social nas Escolas públicas de educação básica."
+        },
+        {
+            "id": 2215691,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2215691",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4538,
+            "ano": 2019,
+            "ementa": "Institui a Política Nacional de Incentivo à Agricultura de Precisão."
+        },
+        {
+            "id": 2215878,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2215878",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 5,
+            "ano": 2019,
+            "ementa": "Dê-se a Proposta de Emenda a Constituição nº 45, de 2019, os arts. 1º a 6º, a seguinte redação:"
+        },
+        {
+            "id": 2215994,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2215994",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4558,
+            "ano": 2019,
+            "ementa": "Declara direitos das pessoas portadoras de sequelas graves advindas de queimaduras e dá outras providências"
+        },
+        {
+            "id": 2216107,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2216107",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4567,
+            "ano": 2019,
+            "ementa": "Acrescenta dispositivo à Lei nº 11.340/2006 - Lei Maria da Penha, para permitir que mulheres brasileiras, vítimas de violência doméstica no exterior, possam optar por seu domicilio original para os processos regidos por esta lei, e nele permanecer até a definição judicial."
+        },
+        {
+            "id": 2216456,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2216456",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 6,
+            "ano": 2019,
+            "ementa": "Acrescenta no art. 146 da CF dispositivo que prevê a possibilidade de o notário ou registrador poder optar pelo regime simplificado de tributação"
+        },
+        {
+            "id": 2216643,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2216643",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 7,
+            "ano": 2019,
+            "ementa": "Evita redução do valor efetivamente gasto com saúde ou educação abaixo do piso constitucional."
+        },
+        {
+            "id": 2216644,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2216644",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 8,
+            "ano": 2019,
+            "ementa": "Cria capítulo específico conferindo às Administrações Tributárias da União, dos Estados e do Distrito Federal uma identidade nacional"
+        },
+        {
+            "id": 2216649,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2216649",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 10,
+            "ano": 2019,
+            "ementa": "Define distribuição da arrecadação para Fundo de Participação de Estados e do Distrito Federal e para Fundo de Participação dos Municípios."
+        },
+        {
+            "id": 2216650,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2216650",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 11,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional, para modificar os artigos 152-A e 154, bem como acrescentar o inciso IV ao art. 159."
+        },
+        {
+            "id": 2217130,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2217130",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 13,
+            "ano": 2019,
+            "ementa": "Dá nova redação ao art. 1º da Proposta de Emenda Constitucional nº 45, de 2019:"
+        },
+        {
+            "id": 2217423,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2217423",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 14,
+            "ano": 2019,
+            "ementa": "Dispõe acerca da tributação incidente sobre a folha de salários e disciplina a contribuição previdenciária sobre a receita bruta para as plataformas intermediadoras de serviços."
+        },
+        {
+            "id": 2217612,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2217612",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 15,
+            "ano": 2019,
+            "ementa": "Altera inciso V do § 1º do art. 152-A, incluído pelo art. 1º da PEC 45 de 2019."
+        },
+        {
+            "id": 2217839,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2217839",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 16,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional para modificar o parágrafo 6º do art. 152-A."
+        },
+        {
+            "id": 2218058,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218058",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 17,
+            "ano": 2019,
+            "ementa": "Altera o Artigo 1º da PEC 45/2019 - do Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2218087,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218087",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 18,
+            "ano": 2019,
+            "ementa": "Dê-se ao art. 152-A, incluído pelo art.1º da Proposta de Emenda à Constituição nº 45, de 2019, a seguinte redação:"
+        },
+        {
+            "id": 2218100,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218100",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4788,
+            "ano": 2019,
+            "ementa": "Aumenta a pena dos crimes cometidos contra crianças e adolescentes."
+        },
+        {
+            "id": 2218104,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218104",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 19,
+            "ano": 2019,
+            "ementa": "Altera o inciso VI e acrescenta inciso VII ao parágrafo 1° do artigo 152-A da CF, conforme artigo 1° da PEC 45/2019"
+        },
+        {
+            "id": 2218373,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218373",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 1274,
+            "ano": 2019,
+            "ementa": "Sugere a adoção de fiscalização informativa em estabelecimentos comerciais de revenda varejista de combustíveis"
+        },
+        {
+            "id": 2218562,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218562",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 21,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2218570,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218570",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 22,
+            "ano": 2019,
+            "ementa": "Acrescenta-se §10º ao artigo 152-A, da Constituição Federal, alterado pelo Artigo 1º da PEC 45 de 2019, dando a seguinte redação:"
+        },
+        {
+            "id": 2218575,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218575",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 23,
+            "ano": 2019,
+            "ementa": "Altere-se o art. 3º da Proposta de Emenda à Constituição nº 45, de 2019, para dar aos arts. 159 e 161 da Constituição Federal a seguinte redação:"
+        },
+        {
+            "id": 2218682,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218682",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 26,
+            "ano": 2019,
+            "ementa": "Altera-se os artigos 1º e 2º da Proposta de Emenda à Constituição nº 45, de 2019, a fim de dar nova redação ao inciso VI e incluir os incisos VII e VIII ao §1º do art. 152-A e para incluir artigo 121 ao Ato das Disposições Constitucionais Transitórias:"
+        },
+        {
+            "id": 2218875,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218875",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 28,
+            "ano": 2019,
+            "ementa": "Altera a Proposta de Emenda à Constituição nº 45 de 2019, para manter o ICMS e o ISS."
+        },
+        {
+            "id": 2218899,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218899",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 29,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 2218907,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218907",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 30,
+            "ano": 2019,
+            "ementa": "Dê-se ao art. 120 ao Ato das Disposições Constitucionais Transitórias - ADCT, alterado pelo art. 2º da Proposta de Emenda Constitucional nº 45, de 2019, a seguinte redação:"
+        },
+        {
+            "id": 2218911,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218911",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 31,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2218914,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218914",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 32,
+            "ano": 2019,
+            "ementa": "Altera o sistema tributário nacional e da outras previdências."
+        },
+        {
+            "id": 2218993,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218993",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 33,
+            "ano": 2019,
+            "ementa": "O objetivo desta Emenda é propor solução para evitar que a Reforma Tributária aumente os impostos sobre as mensalidades escolares de 8,65% para 25%, impactando negativamente 15 milhões de estudantes de 10 milhões de famílias brasileiras, dificultando o acesso a uma educação de melhor qualidade. Pelo contrário, coloca a Educação como uma prioridade brasileira ao promover a mesma isenção atribuída aos produtos exportados, até porque as famílias que pagam mensalidades desoneram o Estado Brasileiro."
+        },
+        {
+            "id": 2218994,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218994",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 34,
+            "ano": 2019,
+            "ementa": "O objetivo desta Emenda é que o novo imposto sobre bens e serviços não incida sobre serviços estratégicos essências, como a educações básica, superior e profissional, pois o Educação Particular desonera o Estado Brasileiro do oferecer serviços que seriam de sua responsabilidade a 15 milhões de estudantes. Ao reduzir o custo da mensalidade, mais pais de alunos vão realizar o sonho de uma escola particular para seus filhos e ajudar a reduzir o custo do Estado Brasileiro."
+        },
+        {
+            "id": 2218995,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218995",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 35,
+            "ano": 2019,
+            "ementa": "A geração de empregos precisa ser a principal prioridade do país na reforma tributária, num país com mais de 30 milhões de desempregados e subempregados. A PEC 45/2019 aumenta impostos sobre os setores de serviços (70% dos empregos) e para compensar é imprescindível desonerar a folha salarial, abrindo a possibilidade do uso da movimentação financeira. Além de equilibrar a carga, a medida destravará o emprego no país."
+        },
+        {
+            "id": 2218996,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218996",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 36,
+            "ano": 2019,
+            "ementa": "O objetivo desta Emenda é que evitar forte aumento do imposto sobre as mensalidades escolares, que passariam de 8,65 para 25%, o que prejudicaria mais de 15 milhões de estudantes. Aos estabelecer que a alíquota da Educação não pode ser maior que 20% da alíquota que incide sobre bens, encontra-se uma solução justa e equilibrada."
+        },
+        {
+            "id": 2219008,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219008",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 37,
+            "ano": 2019,
+            "ementa": "Dispõe sobre a importância do setor agropecuário, em especial o setor lácteo, para a economia brasileira e disciplina a alíquota diferenciada e o regime de crédito presumido para o referido setor, evitando-se distorções criadas na instituição do IBS."
+        },
+        {
+            "id": 2219013,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219013",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 38,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional, para acrescentar a alínea f, ao inciso VI, do art. 150, bem como modificar o artigo 152-A."
+        },
+        {
+            "id": 2219031,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219031",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 39,
+            "ano": 2019,
+            "ementa": "Altera o inciso IV do § 1º do art. 152-A da Constituição Federal e acrescenta os incisos VII e VIII ao § 1º, bem como os §§ 10º e 11º, do art. 152-A da Constituição Federal."
+        },
+        {
+            "id": 2219056,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219056",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 44,
+            "ano": 2019,
+            "ementa": "Estabelece a desoneração da folha de pagamento, a substituição das contribuições pelo IBS e inclui mecanismos para assegurar a segurança jurídica."
+        },
+        {
+            "id": 2219057,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219057",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 45,
+            "ano": 2019,
+            "ementa": "Art. 1º. Dá nova redação ao art. 1º da Proposta de Emenda Constitucional nº 45, de 2019:"
+        },
+        {
+            "id": 2219060,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219060",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 46,
+            "ano": 2019,
+            "ementa": "Art. 1º. Inclua-se a seguinte Emenda aditiva ao art. 1º da Proposta de Emenda Constitucional nº 45-A de 2019: \"Art. 152-A. ................................................................. .................................................................................... § 10 Lei complementar de que trata o caput deste artigo deverá estabelecer bases de cálculo específicas para os setores relacionados às garantias dos art. 196 e art. 205. \""
+        },
+        {
+            "id": 2219062,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219062",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 47,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional, para acrescer o artigo 152-A à Constituição Federal e modificar o inciso I do parágrafo único do art. 115 do Ato das Disposições Constitucionais Transitórias."
+        },
+        {
+            "id": 2219063,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219063",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 48,
+            "ano": 2019,
+            "ementa": "Altera os artigos 155 e 156 da Constituição Federal referentes ao Sistema Tributário Nacional."
+        },
+        {
+            "id": 2219064,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219064",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 49,
+            "ano": 2019,
+            "ementa": "Dá nova redação ao art. 2º da Proposta de Emenda Constitucional nº 45, de 2019:"
+        },
+        {
+            "id": 2219068,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219068",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 50,
+            "ano": 2019,
+            "ementa": "Dê-se ao inciso IV do §1º do art. 152-A, da Constituição Federal, inserido pelo art. 1º da Proposta de Emenda Constitucional nº 45, de 2019, a seguinte redação:"
+        },
+        {
+            "id": 2219069,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219069",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 51,
+            "ano": 2019,
+            "ementa": "Inclua-se Emenda aditiva ao art. 1º da Proposta de Emenda Constitucional nº 45-A de 2019."
+        },
+        {
+            "id": 2219106,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219106",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 53,
+            "ano": 2019,
+            "ementa": "Altera o Artigo 1º da PEC 45/2019 - do Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 2219176,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219176",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 54,
+            "ano": 2019,
+            "ementa": "Dê-se à Proposta de Emenda à Constituição nº 45, de 2019, a seguinte redação:"
+        },
+        {
+            "id": 2219219,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219219",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 55,
+            "ano": 2019,
+            "ementa": "Dê-se a seguinte redação ao art. 146 da Constituição Federal, renumerando-se o atual parágrafo único como parágrafo primeiro:"
+        },
+        {
+            "id": 2219270,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219270",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 57,
+            "ano": 2019,
+            "ementa": "Dá nova redação à Proposta de Emenda Constitucional nº 45, de 2019, para garantir à Zona Franca de Manaus incentivos fiscais, tratamento tributário diferenciado, pelo prazo estabelecido nos arts.40, 92 e 92-A do Ato das Disposições Constitucionais Transitórias."
+        },
+        {
+            "id": 2219307,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219307",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 59,
+            "ano": 2019,
+            "ementa": "Dê-se nova redação aos incisos IV e VI e acrescente-se inciso VII ao §1º do art. 152-A a ser acrescentado à CF conforme o art. 1º da PEC, nos termos seguintes"
+        },
+        {
+            "id": 2219394,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219394",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 60,
+            "ano": 2019,
+            "ementa": "Altera os art. 152-A, 154-A e 159-A da Constituição Federal, incluído pelo art. 1º da PEC 45 de 2019."
+        },
+        {
+            "id": 2219422,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219422",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4931,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 10.233, de 2001, para dispor sobre a verificação de qualidade em obras de pavimentação asfáltica em rodovias federais."
+        },
+        {
+            "id": 2219476,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219476",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 61,
+            "ano": 2019,
+            "ementa": "Altera o sistema tributário nacional - maior eficiência e simplificação, permitir que o IBS não cumultivo e simples entre outras alterações"
+        },
+        {
+            "id": 2219478,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219478",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 62,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências - institui o Estatuto Nacional da Administrção Tributária e remuneração auditor Fiscal"
+        },
+        {
+            "id": 2219481,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219481",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 63,
+            "ano": 2019,
+            "ementa": "A presente Proposta de Emenda à Constituição tem como objetivo assegurar o equilíbrio federativo entre União, Estados e Municípios com a criação de um comitê gestor nacional para o IBS (Imposto sobre Bens e Serviços)."
+        },
+        {
+            "id": 2219587,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219587",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 64,
+            "ano": 2019,
+            "ementa": "Cria fundo de investimentos em infraestrutura na Região Nordeste."
+        },
+        {
+            "id": 2219588,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219588",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 65,
+            "ano": 2019,
+            "ementa": "Dispõe sobre o estabelecimento de regras de concessão de incentivos ou benefícios, tributários ou financeiros, pelos entes federados com PIB per capita inferior a 75% do PIB per capita nacional."
+        },
+        {
+            "id": 2219614,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219614",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 68,
+            "ano": 2019,
+            "ementa": "Inclui disposições na PEC nº 45/2019, especificamente acerca da manutenção do direito de não tributar a exportação."
+        },
+        {
+            "id": 2219615,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219615",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 69,
+            "ano": 2019,
+            "ementa": "Inclui disposições na PEC nº 45/2019, especificamente acerca da manutenção do direito de não tributar a exportação."
+        },
+        {
+            "id": 2219616,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219616",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 70,
+            "ano": 2019,
+            "ementa": "Inclui disposições na PEC nº 45/2019, especificamente acerca da manutenção do direito de não tributar a exportação."
+        },
+        {
+            "id": 2219650,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219650",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 72,
+            "ano": 2019,
+            "ementa": "Institui imposto sobre lucros ou dividendos e reduz a alíquota do imposto sobre bens e serviços de forma proporcional ao aumento de arrecadação."
+        },
+        {
+            "id": 2219784,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219784",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 73,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2219790,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219790",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 74,
+            "ano": 2019,
+            "ementa": "Altera o inciso III do art. 152-A, conforme art. 1º da PEC 45/2019."
+        },
+        {
+            "id": 2219802,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219802",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 75,
+            "ano": 2019,
+            "ementa": "Emenda modificativa à PEC 45, de 2019, que altera o art. 150, da Constituição Federal."
+        },
+        {
+            "id": 2219813,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219813",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 76,
+            "ano": 2019,
+            "ementa": "\"Definição de alíquotas dos impostos seletivos\""
+        },
+        {
+            "id": 2219822,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219822",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 77,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 2219851,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219851",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 78,
+            "ano": 2019,
+            "ementa": "Substitui os incisos VIII e IX o art. 152-A, conforme art. 1º da PEC 45/2019"
+        },
+        {
+            "id": 2219857,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219857",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 80,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2219867,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219867",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 81,
+            "ano": 2019,
+            "ementa": "Incluir na reforma tributária medidas destinadas a ampliar a arrecadação tributária disponível para os municípios, a partir da criação de uma Contribuição Social Extraordinária sobre o Lucro Líquido (CSLL) dos bancos, destinada aos municípios."
+        },
+        {
+            "id": 2219869,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219869",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 82,
+            "ano": 2019,
+            "ementa": "Cria dispositivo que obriga a redução da alíquota do imposto sobre bens e serviços no mesmo montante da elevação da tributação progressiva sobre altas rendas e patrimônios."
+        },
+        {
+            "id": 2219871,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219871",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 83,
+            "ano": 2019,
+            "ementa": "Cria dispositivo que disciplina deduções, isenções e remissões do Sistema Tributário Nacional."
+        },
+        {
+            "id": 2219873,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219873",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 84,
+            "ano": 2019,
+            "ementa": "Cria dispositivo que inclui nas finalidades do imposto seletivo o estímulo ao comportamento inclusivo de caráter étnico-racial e de gênero, e a sustentabilidade ambiental, na produção e comercialização de bens, serviços ou direitos."
+        },
+        {
+            "id": 2219876,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219876",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 85,
+            "ano": 2019,
+            "ementa": "Altera o art. 152-A, incluído pelo art.1º da Proposta de Emenda à Constituição nº 45, de 2019, a seguinte redação:  para fixar alíquota específica única para as operações com óleo diesel; e, representar, judicial e extrajudicialmente, a União, os Estados, o Distrito Federal e os Municípios nas matérias relativas ao imposto sobre bens e serviços."
+        },
+        {
+            "id": 2219902,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219902",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 86,
+            "ano": 2019,
+            "ementa": "Altere-se o art. 1º da Proposta de Emenda à Constituição nº 45, de 2019, para dar ao art. 159-B; ao art. 159-C; aos incisos II e III do caput do art. 159-E e ao inciso I do seu parágrafo único; e ao caput do art. 159-G; todos da Constituição Federal, as seguintes redações."
+        },
+        {
+            "id": 2219903,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219903",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 87,
+            "ano": 2019,
+            "ementa": "Altere-se o art. 1º da Proposta de Emenda à Constituição nº 45, de 2019, para dar aos artigos 145, 149, 152-A e 154, todos da Constituição Federal, a seguinte redação."
+        },
+        {
+            "id": 2219907,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219907",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 88,
+            "ano": 2019,
+            "ementa": "Acrescente-se à Proposta de Emenda à Constituição nº 45, de 2019, a seguinte emenda, que dá nova redação aos seguintes dispositivos"
+        },
+        {
+            "id": 2219908,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219908",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 89,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 2219910,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219910",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 90,
+            "ano": 2019,
+            "ementa": "Reduz a alíquota singular referente a recursos não vinculados da União após 10 anos."
+        },
+        {
+            "id": 2219912,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219912",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 91,
+            "ano": 2019,
+            "ementa": "Acrescente-se à Proposta de Emenda à Constituição nº 45, de 2019, a seguinte emenda, que dá nova redação aos seguintes dispositivos."
+        },
+        {
+            "id": 2219922,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219922",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 97,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional, estabelecendo parâmetros para a desoneração da folha de salários na faixa de 1 (um) salário mínimo, progressivamente, no período de 10 (dez) anos"
+        },
+        {
+            "id": 2219929,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219929",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 101,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2219930,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219930",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 102,
+            "ano": 2019,
+            "ementa": "Permite a criação de alíquota diferenciada para o setor de serviços e dá outras providências"
+        },
+        {
+            "id": 2219932,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219932",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 103,
+            "ano": 2019,
+            "ementa": "Dá nova redação ao art. 2º da Proposta de Emenda Constitucional nº 45, de 2019:"
+        },
+        {
+            "id": 2219933,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219933",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 104,
+            "ano": 2019,
+            "ementa": "Inclui disposições na PEC nº 45/2019, especificamente acerca da manutenção do direito de não tributar a exportação."
+        },
+        {
+            "id": 2219935,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219935",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 105,
+            "ano": 2019,
+            "ementa": "Com base na redação dada à PEC 45/2019, acrescente-se ao citado projeto o artigo 162-A, na forma a seguir aduzida:"
+        },
+        {
+            "id": 2219946,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219946",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 110,
+            "ano": 2019,
+            "ementa": "Inclui disposições na PEC nº 45/2019, especificamente acerca do necessário tratamento a ser conferido ao agronegócio."
+        },
+        {
+            "id": 2219948,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219948",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 111,
+            "ano": 2019,
+            "ementa": "Altera os artigos. 3º e 6º da Proposta de Emenda Constitucional nº 45, de 2019, para conceder isenção fiscal sobre bens e serviços relativos à geração de energia eólica, solar e de biomassa, bem como fixa o prazo de dez anos para a referida isenção"
+        },
+        {
+            "id": 2219950,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219950",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 112,
+            "ano": 2019,
+            "ementa": "Exclui do IBS a locação de bens imóveis e as receitas das transações decorrentes de incorporação imobiliária e de loteamento, e das transações sujeitas ao ITBI"
+        },
+        {
+            "id": 2220492,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2220492",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 117,
+            "ano": 2019,
+            "ementa": "\"Altera os artigos 62, 145, 146, 149, 150, 153, 154, 155, 156, 159, 195 e 239 da Constituição Federal e acresce os artigos 115 e 116 ao Ato das Disposições Constitucionais Transitórias.\""
+        },
+        {
+            "id": 2221170,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221170",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 122,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional para acrescentar os § 10 e alíneas a) e b), § 11 e § 12 ao artigo 152-A. Com vistas a permitir que os contribuintes se aproveitem de todos os dispêndios utilizados no desenvolvimento das suas atividades, mediante a aplicação de uma alíquota a ser prevista em Lei Complementar, a presente emenda admite que o crédito presumido seja apropriado de acordo com a depreciação mensal do bem."
+        },
+        {
+            "id": 2221171,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221171",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 123,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional para acrescentar os § 10 e alíneas a) e b), § 11 e § 12 ao artigo 152-A. Para que se evitem distorções tributarias na implementação do novo tributo (principio da não-cumulatividade), propõe-se a possibilidade das pessoas jurídicas que exercem, de maneira preponderante, atividades de compra, venda, locação de bens e móveis, cessão de direitos relativos á sua aquisição e arrendamento mercantil, aproveitarem créditos do IBS com base no custo de aquisição dos bens adquiridos antes da vigência do imposto."
+        },
+        {
+            "id": 2221268,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221268",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5170,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 9.795, de 27 de abril de 1999, para direcionar parte dos Recursos obtidos pela aplicação das multas ambientais, à Implementação das Políticas públicas e Ações em Educação Ambiental."
+        },
+        {
+            "id": 2221354,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221354",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 124,
+            "ano": 2019,
+            "ementa": "Dá nova redação aos artigos 1º e 4º da Proposta de Emenda Constitucional nº 45, de 2019"
+        },
+        {
+            "id": 2221474,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221474",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 125,
+            "ano": 2019,
+            "ementa": "Acrescenta os §§ 6º e 7º no art. 167, constante do art. 1º da Proposta de Emenda Constitucional nº 45, de 2019"
+        },
+        {
+            "id": 2221475,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221475",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 126,
+            "ano": 2019,
+            "ementa": "Modifica o inciso I do Art. 158, constante no Art. 3º da PEC 45/2019."
+        },
+        {
+            "id": 2221476,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221476",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 127,
+            "ano": 2019,
+            "ementa": "Altera o inciso II, acrescenta os §§2º, 3º e 4º ao Art. 159-G renomeando o Parágrafo único e os §§1º e 2º ao Art. 159-D, todos constantes no Art. 1º da PEC 45/2019:"
+        },
+        {
+            "id": 2221477,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221477",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 128,
+            "ano": 2019,
+            "ementa": "Acrescenta os §§6º, 10 e 10-A ao Art. 152-A, constante no Art. 1º da PEC e o inciso V ao Art. 157 e ao Art. 158 da Constituição Federal, renomeando os demais, constante no Art. 3º da PEC 45 de 2019."
+        },
+        {
+            "id": 2221478,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221478",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 129,
+            "ano": 2019,
+            "ementa": "Modifica a redação do inciso III do art. 159 da Constituição Federal, constante no art. 3º da Proposta de Emenda Constitucional nº 45/2019."
+        },
+        {
+            "id": 2221541,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221541",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 130,
+            "ano": 2019,
+            "ementa": "Dê-se ao artigo 153, VII, da Constituição Federal, alterado pelo artigo 1º da Proposta de Emenda à Constituição n° 45, de 2019, a seguinte redação:  \"Art. 1º ................................................................................ ............................................................................................ \"Art. 153. ............................................................................ ............................... VII - grandes fortunas……....................................................\""
+        },
+        {
+            "id": 2221577,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221577",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 132,
+            "ano": 2019,
+            "ementa": "Confere a possibilidade de a União, Estados, Distrito Federal ou Municípios instituírem, em lei própria, contribuição como instrumento de apoio ao desenvolvimento econômico sustentável de atividade produtiva na forma que especifica."
+        },
+        {
+            "id": 2221750,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221750",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 133,
+            "ano": 2019,
+            "ementa": "Insere-se o inciso V no parágrafo único do artigo 146, da Constituição Federal, por meio do artigo 1º da Proposta de Emenda à Constituição n° 45, de 2019, que passará a ter a seguinte redação:  \"Art. 1º .............................................................................. ............................................................................................ \"Art. 146. ................................................................. ................................................................................. Parágrafo único...................................................... ................................................................................. V- será aplicado às pessoas jurídicas que aufiram, em cada ano-calendário, receita bruta não superior a mil salários mínimos."
+        },
+        {
+            "id": 2221757,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221757",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 134,
+            "ano": 2019,
+            "ementa": "Altera artigo 153, §2º, da Constituição Federal, por meio do artigo 1º da Proposta de Emenda à Constituição n° 45."
+        },
+        {
+            "id": 2221760,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221760",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 135,
+            "ano": 2019,
+            "ementa": "Altera o ao §6º, do artigo 152-A, inserido pelo artigo 1º da Proposta de Emenda à Constituição n° 45, de 2019."
+        },
+        {
+            "id": 2221794,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221794",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 136,
+            "ano": 2019,
+            "ementa": "Art. 1º. O art. 2º da Proposta de Emenda à Constituição nº 45, de 2019, passa a vigorar acrescido do seguinte dispositivo:   Art. 2º....................................................................................   Art. 121. A redução de alíquotas previstas no art. 117 e art. 118 e a substituição dos impostos a que se referem o art. 153, IV, o art. 155, II, o art. 156, III, da Constituição, das contribuições a que se referem o art. 195, I, \"b\" e IV, da Constituição, e da contribuição para o Programa de Integração Social, a que se refere o art. 239 da Constituição, pelo imposto a que se refere o art. 152-A da Constituição, não reduzirão as isenções, os incentivos e os benefícios fiscais ou financeiro-fiscais relativos a esses tributos concedidos por prazo certo e em função de determinadas condições, vigentes quando da entrada em vigor do imposto a que se refere o art. 152-A da Constituição, assegurada a sua fruição integral, ainda que, mediante abatimento do pagamento do imposto previsto no art. 152-A, na respectiva proporção do ente da federação que concedeu a isenção, incentivo ou benefício. (NR)"
+        },
+        {
+            "id": 2221880,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221880",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 137,
+            "ano": 2019,
+            "ementa": "Acrescenta o §º 10 ao artigo 152-A, da Constituição Federal, para tratamento específico, por meio de diferencial de alíquota aos serviços de educação e possibilidade de apropriação dos créditos sobre as despesas com a folha de pagamento desse setor."
+        },
+        {
+            "id": 2221884,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221884",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 138,
+            "ano": 2019,
+            "ementa": "Acrescenta o §§º 10, 11 e 12 ao artigo 152-A, da Constituição Federal, para tratamento específico, por meio de diferencial de alíquota aos serviços de educação e desoneração da folha de pagamento desse setor."
+        },
+        {
+            "id": 2221888,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221888",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 139,
+            "ano": 2019,
+            "ementa": "Dá nova redação ao inciso V do § 1º do artigo 152-A, da Constituição Federal, para que não incida o IBS sobre a exportação dos serviços de Educação."
+        },
+        {
+            "id": 2221893,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221893",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 140,
+            "ano": 2019,
+            "ementa": "Art. 1º. O art.1º da Proposta de Emenda à Constituição nº 45, de 2019 passa a vigorar com as seguintes alterações:   Art. 152-A.......................................................................................  §1º .................................................  VI - .......................................................  VII - Excetuam-se do disposto no inciso anterior, alíquotas reduzidas previstas em Lei Complementar para determinados setores da economia, produtos, serviços e/ou direitos ou em razão da utilização de novas tecnologias que beneficiem a população e o meio ambiente.   .............................................................. (NR)  § 9º Excetua-se do disposto no inciso IV do § 1º:  I - a devolução parcial, através de mecanismos de transferência de renda, do imposto recolhido pelos contribuintes de baixa renda, nos termos da lei complementar referida no caput.  II - as alíquotas minoradas previstas em Lei Complementar para determinados setores da economia, produtos, serviços e/ou direitos ou em razão da utilização de novas tecnologias que beneficiem a população e o meio ambiente, nos termos do inciso VI do §1º do caput. (NR)"
+        },
+        {
+            "id": 2221894,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221894",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 141,
+            "ano": 2019,
+            "ementa": "Modifica o artigo 1º, o artigo 2º e acrescenta dispositivo na Proposta de Emenda à Constituição nº 45, de 2019."
+        },
+        {
+            "id": 2221922,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221922",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 148,
+            "ano": 2019,
+            "ementa": "Altera o Art. 1º da Proposta de Emenda a Constituição nº 45 de 2019, acrescendo o §14 ao Art. 195, que passa a ter a seguinte redação:"
+        },
+        {
+            "id": 2221940,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221940",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 150,
+            "ano": 2019,
+            "ementa": "Altere-se o art. 1º da Proposta de Emenda à Constituição n° 45, de 2019, para dar aos arts. 146 e 152-A da Constituição Federal as seguintes redações:"
+        },
+        {
+            "id": 2221994,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221994",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 151,
+            "ano": 2019,
+            "ementa": "Acrescenta o art. 162-A à Constituição Federal, para dispor sobre a autoridade administrativa tributária da União, dos Estados, do Distrito Federal e dos Municípios."
+        },
+        {
+            "id": 2222001,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222001",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 152,
+            "ano": 2019,
+            "ementa": "Dê-se ao art. 1° da Proposta de Emenda Constitucional nº 45, de 2019, a seguinte redação:"
+        },
+        {
+            "id": 2222008,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222008",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 153,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2222012,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222012",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 154,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2222016,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222016",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 155,
+            "ano": 2019,
+            "ementa": "Acrescenta e modifica redação nos arts. 150, 153 e 156 da Constituição, constante no Art. 3º da PEC 45/2019."
+        },
+        {
+            "id": 2222074,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222074",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 160,
+            "ano": 2019,
+            "ementa": "Altera o art. 195 para permitir a criação de contribuição social sobre os rendimentos dos títulos da dívida pública"
+        },
+        {
+            "id": 2222075,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222075",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 161,
+            "ano": 2019,
+            "ementa": "Determina que lei complementar deverá estabelecer tratamento tributário diferenciado e favorecido para as empresas de incorporação e construção civil."
+        },
+        {
+            "id": 2222078,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222078",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 162,
+            "ano": 2019,
+            "ementa": "\"Art. Fica vedada a cobrança de foro e taxa de ocupação, bem como de laudêmio sobre as transferências de domínio, das áreas de que trata o §3º do art. 49 do Ato das Disposições Constitucionais Transitórias, a partir da data de publicação desta Emenda Constitucional.\""
+        },
+        {
+            "id": 2222109,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222109",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 163,
+            "ano": 2019,
+            "ementa": "Altera os artigos 1º ao 9º da Proposta de Emenda à Constituição nº 45 de 2019."
+        },
+        {
+            "id": 2222139,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222139",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 164,
+            "ano": 2019,
+            "ementa": "Inclui-se a alínea \"g\", na redação do artigo 61, §1º, II, da Constituição Federal, por meio do artigo 1º da Proposta de Emenda à Constituição n° 45, de 2019, que passará a ter a seguinte redação:"
+        },
+        {
+            "id": 2222159,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222159",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 166,
+            "ano": 2019,
+            "ementa": "Acrescenta dispositivos ao artigo 152-A da Constituição para dispor sobre entrada em vigor de ato da União, dos Estados e dos Municípios que aumente a alíquota singular do IBS; assegurar ao saldo acumulado na contabilidade do contribuinte por mais de 30 dias a natureza de crédito financeiro, sujeito a juros e atualização monetária na forma a ser estabelecida em lei complementar; e dispor sobre incidência e prazo de recolhimento do IBS; acrescenta dispositivo ao artigo 117 do ADCT para dispor que, durante o período de transição, não sejam instituídas novas obrigações ou aumentadas exigências existentes."
+        },
+        {
+            "id": 2222169,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222169",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 167,
+            "ano": 2019,
+            "ementa": "Acrescenta-se o § 10 e alíneas a) e b), § 11 e § 12 ao artigo 152-A da Constituição Federal, alterado pelo artigo 1º da PEC nº. 45 de 2019, com a seguinte redação:"
+        },
+        {
+            "id": 2222314,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222314",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 173,
+            "ano": 2019,
+            "ementa": "Inclui-se inciso VII ao art. 152-A, da Proposta de Emenda Constitucional nº 45, de 2019."
+        },
+        {
+            "id": 2222389,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222389",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 174,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2222741,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222741",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 175,
+            "ano": 2019,
+            "ementa": "Altera o § 2º, inciso V, do art. 146, conforme art. 1º da PEC 45/2019."
+        },
+        {
+            "id": 2222742,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222742",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 176,
+            "ano": 2019,
+            "ementa": "A geração de empregos precisa ser a principal prioridade do país na reforma tributária, num país com mais de 30 milhões de desempregados e subempregados. A emenda proíbe que a folha salarial seja base de cálculo de impostos, abre a possibilidade do uso da movimentação financeira e traz ainda como alternativa o uso de mecanismo como o “fator r” do Simples, que reduz impostos para quem emprega mais."
+        },
+        {
+            "id": 2222744,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222744",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 177,
+            "ano": 2019,
+            "ementa": "Altera o caput do art. 152-A, acrescenta os incisos VI, VII, VIII e IX, conforme art. 1º da PEC 45/2019."
+        },
+        {
+            "id": 2222885,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222885",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2019,
+            "ementa": "Cria a modalidade de doação direcionada de recursos da União para os entes da Federação cujos recursos poderão vir de emendas de bancada."
+        },
+        {
+            "id": 2223815,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2223815",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 1434,
+            "ano": 2019,
+            "ementa": "Requer informações sobre as obras de revitalização e reforma da estação rodoviária do Entroncamento, no Município de Itapecuru-Mirim, Estado do Maranhão."
+        },
+        {
+            "id": 2223880,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2223880",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 179,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências. EMENDA Nº (Do Sr. Deputado Capitão Alberto Neto) Dá nova redação ao art. 1º da Proposta de Emenda Constitucional nº 45, de 2019: \"Art. 1º.......................................................................:......... ............................................................................................ Art. 152-A............................................................................. ............................................................................................. § 3º ...................................................................................... I - incidirá a alíquota do Estado ou Distrito Federal e do Município de origem; II - o imposto pertencerá ao Estado ou Distrito Federal e ao Município de origem. ..................................................................................\" (NR)."
+        },
+        {
+            "id": 2223887,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2223887",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 180,
+            "ano": 2019,
+            "ementa": "Garantir créditos tributários do IBS nas operações com produtos regionais da Amazônia, nos termos do Decreto-Lei nº 1.435, de 16 de dezembro de 1975, de forma a salvaguardar a produção e industrialização com o uso de matérias primas regionais da Amazônia."
+        },
+        {
+            "id": 2224224,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224224",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5399,
+            "ano": 2019,
+            "ementa": "Dispõe sobre a criação de novas unidades de conservação marinhas até 2030."
+        },
+        {
+            "id": 2224230,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224230",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 1452,
+            "ano": 2019,
+            "ementa": "Solicita ao Excelentíssimo Senhor Ministro do Meio Ambiente informações sobre as manchas de petróleo encontradas nas águas do mar e na areia das praias do Estado do Maranhão."
+        },
+        {
+            "id": 2224383,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224383",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 181,
+            "ano": 2019,
+            "ementa": "Inclua-se o inciso VII, ao § 1º, do art. 152-A, a ser acrescentado à CF conforme o art. 1º da PEC, nos termos seguintes:"
+        },
+        {
+            "id": 2224478,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224478",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 185,
+            "ano": 2019,
+            "ementa": "Altera o art. 1º e 2º da Proposta de Emenda a Constituição n 45 de 2019, acrescenta o inciso VIII ao artigo 163 da Constituição Federal e acrescenta o art. 121 ao Ato das Disposições Constitucionais Transitórias que passam a ter a seguinte redação:"
+        },
+        {
+            "id": 2224479,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224479",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 186,
+            "ano": 2019,
+            "ementa": "Altera o art. 1º e 2º da Proposta de Emenda a Constituição nº 45 de 2019, acrescentando o inciso V, ao artigo 175 da Constituição Federal e o art.121 do Ato das Disposições Constitucionais Transitórias que passam a ter a seguinte redação:"
+        },
+        {
+            "id": 2224482,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224482",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 187,
+            "ano": 2019,
+            "ementa": "Altera o art. 1º da Proposta de Emenda à Constituição nº 45 de 2019, acrescentando-se o inciso I ao §6º do art. 195, da Constituição Federal, que passa a ter a seguinte redação:"
+        },
+        {
+            "id": 2224483,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224483",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 188,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 2224570,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224570",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 189,
+            "ano": 2019,
+            "ementa": "Permite tratamento tributário diferenciado para alimentos, medicamentos, transporte público coletivo de passageiros urbano e de caráter urbano, bens do ativo imobilizado, saneamento básico, educação infantil, ensino fundamental, médio e superior e educação profissional."
+        },
+        {
+            "id": 2224575,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224575",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 2640,
+            "ano": 2019,
+            "ementa": "Requer a inclusão na ordem do Dia do Projeto de Lei nº 2.295, de 2000, que \"Dispõe sobre a jornada de trabalho dos Enfermeiros, Técnicos e Auxiliares de Enfermagem \""
+        },
+        {
+            "id": 2224576,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224576",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 1413,
+            "ano": 2019,
+            "ementa": "Sugere a retomada das obras na rodovia BR-222, entre os Municípios de Itapecuru e Chapadinha, no Estado do Maranhão."
+        },
+        {
+            "id": 2224648,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224648",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 191,
+            "ano": 2019,
+            "ementa": "Inclui-se inciso VII ao art. 152-A, da proposta de emenda Constitucional nº 045, de 2019"
+        },
+        {
+            "id": 2224673,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224673",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 192,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2224804,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224804",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 194,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2224805,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224805",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 195,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2224849,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224849",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 199,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2224878,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224878",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 200,
+            "ano": 2019,
+            "ementa": "Introduz o artigo 159-H e altera o inciso IV do artigo 167 na PEC 45/2019 visando a instituição de fundo para o transporte público coletivo urbano e de caráter urbano visando reduzir as tarifas pagas pela população brasileira."
+        },
+        {
+            "id": 2225010,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2225010",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 204,
+            "ano": 2019,
+            "ementa": "Dispõe sobre a regulamentação para a instituição de incentivos e benefícios fiscais."
+        },
+        {
+            "id": 2225014,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2225014",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 205,
+            "ano": 2019,
+            "ementa": "Aumenta o aporte de recursos destinados aos programas de financiamento produtivo das Regiões Norte, Nordeste e Centro-Oeste, assegurando-se metade dos recursos da Região Nordeste a todo semiárido do Nordeste."
+        },
+        {
+            "id": 2226709,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2226709",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5633,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 569, de 21 de dezembro de 1948, para alterar os valores referentes à indenização devida pelo sacrifício de animais."
+        },
+        {
+            "id": 2226710,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2226710",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 1471,
+            "ano": 2019,
+            "ementa": "Sugere ao Poder Executivo a elaboração e a remessa, à apreciação do Congresso Nacional, de projeto de lei destinado a instituir conselhos nacional e regionais com o intuito de supervisionar as atividades desenvolvidas pelos profissionais da área de Tecnologia da Informação - TI."
+        },
+        {
+            "id": 2227925,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2227925",
+            "siglaTipo": "REQ",
+            "codTipo": 310,
+            "numero": 2843,
+            "ano": 2019,
+            "ementa": "Requeiro a Vossa Excelência que seja dada como retirada a aposição de minha assinatura da lista de autores do Recurso nº 55/2019 contra apreciação conclusiva de comissão, pertinente ao Projeto de Lei nº 1.645, de 2019"
+        },
+        {
+            "id": 2227927,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2227927",
+            "siglaTipo": "REQ",
+            "codTipo": 310,
+            "numero": 2844,
+            "ano": 2019,
+            "ementa": "Requeiro a Vossa Excelência que seja dada como retirada a aposição de minha assinatura da lista de autores do Recurso nº 56/2019 contra apreciação conclusiva de comissão, pertinente ao Projeto de Lei nº 1.645, de 2019"
+        },
+        {
+            "id": 2228362,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2228362",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5866,
+            "ano": 2019,
+            "ementa": "Dispõe sobre o monitoramento contábil permanente dos contratos e convênios realizados entre a administração pública federal e particular, nas áreas de educação e saúde."
+        },
+        {
+            "id": 2229319,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2229319",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5950,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, de modo a incluir na Relação Descritiva das Rodovias do Sistema Rodoviário Federal a rodovia MA-006, no Estado do Maranhão."
+        },
+        {
+            "id": 2230453,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2230453",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6128,
+            "ano": 2019,
+            "ementa": "Dispõe sobre a proibição de cobrança de taxa pela confecção, registro ou expedição de diploma por instituição de ensino."
+        },
+        {
+            "id": 2230454,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2230454",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6129,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências, a fim de ampliar para as empresas a exigência de contratação de beneficiário reabilitado ou de pessoa com deficiência."
+        },
+        {
+            "id": 2230455,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2230455",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6130,
+            "ano": 2019,
+            "ementa": "Dispõe sobre o acréscimo, nas disposições sobre currículo escolar do art. 27 da Lei nº 9.394, de 20 de dezembro de 1996, das temáticas de noções jurídicas e de cidadania."
+        },
+        {
+            "id": 2230708,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2230708",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 1552,
+            "ano": 2019,
+            "ementa": "Sugere à conclusão das obras das Praças: Praça da Biblioteca, Praça da Saudade e Praça do Farol, no município Itapecuru Mirim, no Estado do Maranhão."
+        },
+        {
+            "id": 2230740,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2230740",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2019,
+            "ementa": "Acrescenta o art. 18-A ao Ato das Disposições Constitucionais Transitórias, para dispor sobre a convalidação de atos administrativos praticados no Estado do Tocantins entre 1º de janeiro de 1989 e 31 de dezembro de 1994."
+        },
+        {
+            "id": 2231728,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2231728",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6266,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 9.427, de 26 de dezembro de 1996, e a Lei nº 11.445, de 5 de janeiro de 2007, para determinar que reajustes das tarifas de energia elétrica e água não possam ser superiores que ao Índice Nacional de Preços ao Consumidor (INPC)."
+        },
+        {
+            "id": 2231730,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2231730",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6267,
+            "ano": 2019,
+            "ementa": "Altera os artigos 429 e 430 da Consolidação das Leis do Trabalho (CLT), a fim de dispor sobre a contratação de aprendizes pelos empreendimentos de agricultura familiar."
+        },
+        {
+            "id": 2231928,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2231928",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6287,
+            "ano": 2019,
+            "ementa": "Altera o art. 15 da Lei nº 12.852, de 5 de agosto de 2013, acrescendo incisos VIII e IX no caput para incluir expressamente a menção o fomento de atividades econômicas no campo vinculadas à cultura e ao turismo e a promoção da formação e da profissionalização de técnicos culturais no campo."
+        },
+        {
+            "id": 2231929,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2231929",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6288,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 11.326, de 24 de julho de 2006, para dispor sobre a isenção de contribuições previdenciárias incidentes sobre as vendas de produtos da agricultura familiar."
+        },
+        {
+            "id": 2233201,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2233201",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 1620,
+            "ano": 2019,
+            "ementa": "Sugere a alteração do limite de valor Previsto no § 2º da cláusula primeira do Convênio ICMS nº 38, de 30 de março de 2012."
+        },
+        {
+            "id": 2234583,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2234583",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6500,
+            "ano": 2019,
+            "ementa": "Altera as Leis nº 7.713, de 1988; 8.036, de 1990; 8.112, de 1991; e 8.213, de 1991, para considerar \"doença grave\" a doença de Machado-Joseph (ataxia espinocerebelar autossômica dominante tipo 3), com fins de isenção do imposto de renda sobre rendimentos provenientes de aposentadoria ou reforma, movimentação da conta vinculada do trabalhador no FGTS, concessão de aposentadoria por invalidez permanente e de auxílio-doença independentemente de carência."
+        },
+        {
+            "id": 2234584,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2234584",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6501,
+            "ano": 2019,
+            "ementa": "Acrescenta o § 4º ao art. 25 da Lei nº 10.438, de 26 de abril de 2002, para conceder ininterruptamente desconto tarifário concernente à energia elétrica consumida nas atividades de irrigação da agricultura familiar."
+        },
+        {
+            "id": 2236753,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2236753",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 184,
+            "ano": 2020,
+            "ementa": "Dispõe sobre a obrigatoriedade de adoção de QR Code nas embalagens de produtos alimentícios."
+        },
+        {
+            "id": 2236754,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2236754",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 186,
+            "ano": 2020,
+            "ementa": "Determina a inclusão de quadras poliesportivas nos novos estabelecimentos públicos de ensino fundamental e médio."
+        },
+        {
+            "id": 2236755,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2236755",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 187,
+            "ano": 2020,
+            "ementa": "Altera o Decreto-Lei nº 986, de 21 de outubro de 1969, para dispor sobre a rotulagem de alimentos com substâncias nocivas à saúde."
+        },
+        {
+            "id": 2236756,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2236756",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 188,
+            "ano": 2020,
+            "ementa": "Dispõe sobre a impressão de informações acerca da preservação, reutilização e uso racional da água na contracapa dos livros didáticos adotados pelas escolas estaduais e municipais com a finalidade de combater a cultura do desperdício e estimular a racionalização do consumo da água."
+        },
+        {
+            "id": 2241777,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2241777",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 862,
+            "ano": 2020,
+            "ementa": "Dispõe sobre o direito pessoa com deficiência de ingressar e permanecer em ambientes de uso coletivo acompanhado de animal de assistência."
+        },
+        {
+            "id": 2245001,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2245001",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1713,
+            "ano": 2020,
+            "ementa": "Dispõe sobre a redução de encargos \neducacionais em 50% (cinquenta por cento)\n e sobre a suspensão de pagamento de \nobrigações financeiras por parte dos alunos \nbeneficiários de financiamento estudantil em\ncursos regulares presenciais de instituições \nde ensino privadas,"
+        },
+        {
+            "id": 2245004,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2245004",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 376,
+            "ano": 2020,
+            "ementa": "Sugere a ampliação do prazo de\nvalidade dos exames para mormo, em todo o \npaís."
+        },
+        {
+            "id": 2245005,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2245005",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1716,
+            "ano": 2020,
+            "ementa": "Acrescenta o § 1o_A ao art . 3° da Lei nº\n13.979 , de 6 de fevereiro de 2020 , para\nobrigar a testagem em massa de pacientes\nsintomáticos."
+        },
+        {
+            "id": 2248045,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2248045",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1864,
+            "ano": 2020,
+            "ementa": "Dispensa a apresentação de pedido médico para a realização de exame laboratorial em rede particular para detecção do Coronavírus."
+        },
+        {
+            "id": 2250835,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2250835",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2277,
+            "ano": 2020,
+            "ementa": "SUSPENDE  POR QUATRO MESES O PAGAMENTO DE EMPRÉSTIMOS CONSIGNADOS POR PESSOAS FÍSICAS E JURÍDICAS."
+        },
+        {
+            "id": 2250862,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2250862",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2282,
+            "ano": 2020,
+            "ementa": "Dispõe sobre desconto de 40% em mensalidades da rede privada de ensino durante o período de pandemia do novo coronavírus."
+        },
+        {
+            "id": 2250876,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2250876",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2290,
+            "ano": 2020,
+            "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, o Estatuto da Pessoa com Deficiência, para incluir a visão monocular como impedimento de função do corpo."
+        },
+        {
+            "id": 2251877,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2251877",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2440,
+            "ano": 2020,
+            "ementa": "Dispõe sobre a concessão de auxílio financeiro aos profissionais de saúde da rede pública diretamente envolvidos no combate à pandemia de Coronavírus (Covid-19) e com diagnóstico positivo para a doença."
+        },
+        {
+            "id": 2251886,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2251886",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 533,
+            "ano": 2020,
+            "ementa": "Sugere a regulamentação imediata da transferência de recursos do PNAE para as instituições previstas no art. 5º, § 5º da Lei nº 11.947, de 16 de junho de 2009 e, enquanto perdurar o estado de calamidade em decorrência da pandemia causada pelo novo coronavírus (Covid-19), a distribuição direta de gêneros alimentícios, não apenas para os pais ou responsáveis dos alunos das escolas públicas, mas também para os outros beneficiários previstos na lei - os pais ou responsáveis dos educandos de instituições filantrópicas e comunitárias."
+        },
+        {
+            "id": 2251895,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2251895",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 436,
+            "ano": 2020,
+            "ementa": "Requer informações acerca da transferência de recurso do PNAE para as instituições educacionais previstas no art. 5º,§ 5º da Lei nº 11.947/2009 (Lei do PNAE)."
+        },
+        {
+            "id": 2251938,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2251938",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2459,
+            "ano": 2020,
+            "ementa": "Dispõe sobre a concessão de prazo adicional para a quitação de débitos relacionados ao não pagamento da tarifa de energia elétrica durante o período de vedação da suspensão do fornecimento do serviço decorrente da pandemia de coronavírus (covid-19)."
+        },
+        {
+            "id": 2252528,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2252528",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2597,
+            "ano": 2020,
+            "ementa": "Dispõe sobre remuneração de adicional de insalubridade para os membros dos órgãos integrantes do sistema de segurança pública, previstos no Artigo 144 da Constituição Federal e da outras providencias"
+        },
+        {
+            "id": 2252875,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2252875",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2731,
+            "ano": 2020,
+            "ementa": "Altera dispositivos da Lei nº 11.892, de 29 de dezembro de 2008, que institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia."
+        },
+        {
+            "id": 2253075,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2253075",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2782,
+            "ano": 2020,
+            "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para dispor sobre inclusão digital."
+        },
+        {
+            "id": 2254763,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254763",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3174,
+            "ano": 2020,
+            "ementa": "Estabelece política federal de incentivo à utilização de veículos movidos à propulsão elétrica e híbridos e dá outras providências."
+        },
+        {
+            "id": 2254772,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2254772",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3181,
+            "ano": 2020,
+            "ementa": "Dispõe sobre a obrigatoriedade dos grandes centros comerciais disponibilizarem área para atendimento de primeiros socorros aos seus frequentadores, nos termos que especifica."
+        },
+        {
+            "id": 2255167,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2255167",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3308,
+            "ano": 2020,
+            "ementa": "Altera a Lei nº 10.216, de 06 de abril de 2001, para dispor sobre as condições do transporte de pacientes em urgências psiquiátricas."
+        },
+        {
+            "id": 2255171,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2255171",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3309,
+            "ano": 2020,
+            "ementa": "Acrescenta inciso XI ao art. 4º da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as Diretrizes e Bases da Educação Nacional, para incluir entre os deveres do Estado com a educação básica pública a distribuição de recursos educacionais com vistas a promover a equalização das oportunidades educacionais."
+        },
+        {
+            "id": 2256414,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256414",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3553,
+            "ano": 2020,
+            "ementa": "Institui diretrizes para serviços de proteção e atendimento especializado a gestantes dependentes químicas a serem criados no âmbito da Proteção Especial da Assistência Social, e dá outras providências ."
+        },
+        {
+            "id": 2256417,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256417",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3555,
+            "ano": 2020,
+            "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro e 1995, para incluir os produtores rurais no rol de beneficiários da isenção do Imposto sobre Produtos Industrializados - IPI na aquisição de automóveis."
+        },
+        {
+            "id": 2256861,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256861",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3659,
+            "ano": 2020,
+            "ementa": "Dispõe sobre o fornecimento obrigatório de protocolo de atendimento aos pacientes, pelas instituições prestadoras de serviços de saúde em todo o território nacional."
+        },
+        {
+            "id": 2259700,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259700",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 916,
+            "ano": 2020,
+            "ementa": "Sugere alterações na Classificação Brasileira de Ocupações para reconhecer o exercício profissional dos Agentes Técnicos de Saúde Comunitária."
+        },
+        {
+            "id": 2261958,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2261958",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 2316,
+            "ano": 2020,
+            "ementa": "Requer o registro da Frente Parlamentar Mista Pelo Fortalecimento do SUS."
+        },
+        {
+            "id": 2262824,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2262824",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4550,
+            "ano": 2020,
+            "ementa": "Dispõe sobre a proteção de crianças e adolescentes vítimas de violência sexual, alterando o Decreto-Lei nº 2.848, de 7 de dezembro de 1940, Código Penal, e a Lei nº 13.431, de 4 de abril de 2017."
+        },
+        {
+            "id": 2268029,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268029",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5638,
+            "ano": 2020,
+            "ementa": "Dispõe sobre ações emergenciais destinadas ao setor de eventos decorrentes dos efeitos de combate à pandemia da COVID-19.  NOVA EMENTA: Dispõe sobre ações emergenciais e temporárias destinadas ao setor de eventos para compensar os efeitos decorrentes das medidas de combate à pandemia da Covid-19; institui o Programa Emergencial de Retomada do Setor de Eventos (Perse) e o Programa de Garantia aos Setores Críticos (PGSC); e altera as Leis nºs 13.756, de 12 de dezembro de 2018, e 8.212, de 24 de julho de 1991."
+        },
+        {
+            "id": 2268427,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268427",
+            "siglaTipo": "DOC",
+            "codTipo": 863,
+            "numero": 1,
+            "ano": 2021,
+            "ementa": "Constitui Bloco Parlamentar."
+        },
+        {
+            "id": 2268565,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268565",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 9,
+            "ano": 2021,
+            "ementa": "Indica Líder do Bloco Parlamentar PSL, PL, PP, PSD, REPUBLICANOS, PTB, PROS, PODE, PSC, AVANTE, PATRIOTA."
+        },
+        {
+            "id": 2270232,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270232",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 186,
+            "ano": 2021,
+            "ementa": "Requer a inclusão de coautoria ao Projeto de Lei nº 5638 de 2020."
+        },
+        {
+            "id": 2270320,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270320",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 205,
+            "ano": 2021,
+            "ementa": "Requer coautoria do Projeto de Lei nº 5.638/2020."
+        },
+        {
+            "id": 2270891,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270891",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 5,
+            "ano": 2021,
+            "ementa": "ATA DA BANCADA FEDERAL DO ESTADO DO MARANHÃO"
+        },
+        {
+            "id": 2271033,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271033",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 13,
+            "ano": 2021,
+            "ementa": "ATA BANCADA FEDERAL DO MARANHÃO PARA APRESENTAÇÃO DE EMENDAS AO PLO 2021, PLN 2/2020."
+        },
+        {
+            "id": 2271067,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271067",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 17,
+            "ano": 2021,
+            "ementa": "ATA BANCADA DO MA PLOA 2021"
+        },
+        {
+            "id": 2271868,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271868",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 354,
+            "ano": 2021,
+            "ementa": "Requer inclusão na co-autoria do PL 5638/2020"
+        },
+        {
+            "id": 2271929,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271929",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 359,
+            "ano": 2021,
+            "ementa": "Requer coautoria do Projeto de Lei 5638/2020."
+        },
+        {
+            "id": 2275932,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275932",
+            "siglaTipo": "DOC",
+            "codTipo": 861,
+            "numero": 121,
+            "ano": 2021,
+            "ementa": "Inclusão de membro na Frente Parlamentar em Defesa das Guardas Municipais."
+        },
+        {
+            "id": 2278250,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278250",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 775,
+            "ano": 2021,
+            "ementa": "Requer registro da Frente Parlamentar Mista - Brasil Competitivo."
+        },
+        {
+            "id": 2284051,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284051",
+            "siglaTipo": "DOC",
+            "codTipo": 865,
+            "numero": 271,
+            "ano": 2021,
+            "ementa": "Desligamento do Bloco Parlamentar PSL, PL, PP, PSD, MDB, PSDB, REPUBLICANOS, DEM, PODE, AVANTE, PATRIOTA"
+        },
+        {
+            "id": 2285501,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285501",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 15,
+            "ano": 2021,
+            "ementa": "Acrescenta o art. 115 ao Ato das Disposições Constitucionais Transitórias, para determinar que os Municípios poderão parcelar seus débitos previdenciários em 240 parcelas, excepcionalmente, em 2021."
+        },
+        {
+            "id": 2286770,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2286770",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a PEC 32/2020( reforma administrativa) para criar o Regime Jurídico Peculiar dos Policiais Civis da União e do Distrito Federal, estendendo esse regime aos Estados e Municípios, para os seus \"policiais\".  As categorias englobadas são:  UNIÃO: Policiais Federais, Policiais Rodoviários Federais, Policiais Penais Federais; ESTADOS E DF: Policiais Civis Distritais e Estaduais, Policiais e Integrantes da Polícia Científica Estadual, Policiais Penais Estaduais, Agentes de Segurança Socioeducativos Estaduais, Agentes de Trânsito Estaduais; MUNICÍPIOS: Guardas Municipais e Agentes de Trânsito Municipais"
+        },
+        {
+            "id": 2287772,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287772",
+            "siglaTipo": "REC",
+            "codTipo": 373,
+            "numero": 29,
+            "ano": 2021,
+            "ementa": "Contra a apreciacão conclusiva do Projeto de Lei No 399/2015, do Deputado Fábio Mitidieri, que altera o art. 2º da Lei nº 11.343, de 23 de agosto de 2006, para viabilizar a comercialização de medicamentos que contenham extratos, substratos ou partes da planta Cannabis sativa em sua formulação."
+        },
+        {
+            "id": 2288015,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288015",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2293,
+            "ano": 2021,
+            "ementa": "Cria o Cadastro Nacional de Violência Contra a Mulher."
+        },
+        {
+            "id": 2288016,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288016",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2294,
+            "ano": 2021,
+            "ementa": "Institui desconto nas tarifas de energia elétrica de unidades consumidoras classificadas como associação comunitária, cooperativa e fundação, sem fins lucrativos, e Organização Não Governamental - ONG."
+        },
+        {
+            "id": 2288017,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288017",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2295,
+            "ano": 2021,
+            "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro de 1995, para conceder às auto-escolas a isenção do Imposto sobre Produtos Industrializados na aquisição de veículos novos."
+        },
+        {
+            "id": 2288018,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288018",
+            "siglaTipo": "REQ",
+            "codTipo": 304,
+            "numero": 1361,
+            "ano": 2021,
+            "ementa": "Requer que a PEC 14/2021 seja apensada à PEC 22/2011"
+        },
+        {
+            "id": 2288288,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288288",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 780,
+            "ano": 2021,
+            "ementa": "Requer o envio de Indicação ao Poder Executivo Federal, com sugestão de providências para viabilizar a criação do Conselho Federal dos Técnicos em Agentes de Combate às Endemias."
+        },
+        {
+            "id": 2288289,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288289",
+            "siglaTipo": "REQ",
+            "codTipo": 448,
+            "numero": 1382,
+            "ano": 2021,
+            "ementa": "Requerimento de manifestação de apoio à urgência para apreciação imediata do Projeto de Lei nº 2170/2021."
+        },
+        {
+            "id": 2289422,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289422",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2424,
+            "ano": 2021,
+            "ementa": "Altera a Lei nº 6.938, de 31 de agosto de 1981, e o Decreto-Lei nº 227, de 28 de fevereiro de 1967, para responsabilizar o minerador pelos danos causados pelos rejeitos e estéreis da atividade minerária."
+        },
+        {
+            "id": 2290032,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290032",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 19,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290228,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290228",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 44,
+            "ano": 0,
+            "ementa": "Emenda à PEC nº 32/2020, que altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2291109,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291109",
+            "siglaTipo": "ATACN",
+            "codTipo": 897,
+            "numero": 35,
+            "ano": 2021,
+            "ementa": "Ata p/ escolha de emendas da Bancada MA."
+        },
+        {
+            "id": 2291393,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291393",
+            "siglaTipo": "REQ",
+            "codTipo": 525,
+            "numero": 46,
+            "ano": 2021,
+            "ementa": "Requer, nos termos do § 4º do art. 46 do Regimento Interno da Câmara dos Deputados, a convocação de reunião extraordinária da Comissão Especial destinada a dar parecer à PEC 135/2019."
+        },
+        {
+            "id": 2291721,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291721",
+            "siglaTipo": "REQ",
+            "codTipo": 525,
+            "numero": 47,
+            "ano": 2021,
+            "ementa": "Requer, nos termos do § 4º do art. 46 do Regimento Interno da Câmara dos Deputados, a convocação de reunião extraordinária da Comissão Especial destinada a dar parecer à PEC n. 135, de 2019."
+        },
+        {
+            "id": 2296274,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2296274",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2963,
+            "ano": 2021,
+            "ementa": "Altera o art. 25 da Lei Nº 10.438, de 26 de abril de 2002, para estender às cooperativas e às colônias de pescadores artesanais os descontos especiais nas tarifas de energia elétrica aplicáveis às unidades consumidoras classificadas na Classe Rural."
+        },
+        {
+            "id": 2299063,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299063",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3199,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a atenção à saúde dos portadores de atrofia muscular espinhal - AME a ser prestada pelos serviços de saúde do SUS."
+        },
+        {
+            "id": 2300209,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2300209",
+            "siglaTipo": "REQ",
+            "codTipo": 343,
+            "numero": 1892,
+            "ano": 2021,
+            "ementa": "Requeremos, nos termos do art. 91, inciso I, do Regimento Interno, a transformação de Sessão Plenária da Câmara dos Deputados em Comissão Geral para, em alusão ao mês de conscientização do OUTUBRO ROSA, debatermos “Os impactos da pandemia nos casos de cânceres no Brasil: a detecção, o rastreamento, o diagnóstico, o financiamento e o tratamento de cânceres, com ênfase em câncer de mama e de colo do útero”."
+        },
+        {
+            "id": 2307616,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307616",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 2412,
+            "ano": 2021,
+            "ementa": "Criação da Frente Parlamentar de Prevenção de Doenças Pulmonares Graves."
+        },
+        {
+            "id": 2307829,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307829",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4095,
+            "ano": 2021,
+            "ementa": "Altera a Lei nº 11.445, de 5 de janeiro de 2007, que estabelece as diretrizes nacionais para o saneamento básico, para determinar que a alocação de recursos federais para obras seja condicionada à existência de projeto básico."
+        },
+        {
+            "id": 2314821,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314821",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 138,
+            "ano": 2022,
+            "ementa": "REQUER O REGISTRO DA FRENTE PARLAMENTAR MISTA DO EMPREENDEDORISMO"
+        },
+        {
+            "id": 2316670,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2316670",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 425,
+            "ano": 2022,
+            "ementa": "Cria o Programa de Incentivo à Adoção de Tecnologias Redutoras de Risco Agroclimático."
+        },
+        {
+            "id": 2316673,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2316673",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 426,
+            "ano": 2022,
+            "ementa": "Altera a Lei no 11.326, de 24 de julho de 2006, para dispor sobre a assistência técnica e material ao agricultor familiar."
+        },
+        {
+            "id": 2318622,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318622",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 141,
+            "ano": 2022,
+            "ementa": "Solicita à Excelentíssima Senhora Ministra-Chefe da Secretaria de Governo do Brasil informações sobre a não criação do Conselho Federal dos Técnicos em Agentes de Combate às Endemias e dos Conselhos Regionais de Técnicos em Agentes de Combate às Endemias."
+        },
+        {
+            "id": 2321470,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321470",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 694,
+            "ano": 2022,
+            "ementa": "Requer a inclusão na Ordem do Dia do Plenário, do Projeto de Lei nº 2.564/2020, que altera a Lei nº  7.498, de 25 de junho de 1986, para instituir o piso salarial nacional do Enfermeiro, do Técnico de Enfermagem e da Parteira."
+        },
+        {
+            "id": 2321509,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321509",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 697,
+            "ano": 2022,
+            "ementa": "Requer a inclusão na Ordem do Dia do Plenário, do Projeto de Lei nº 1313 de 2019, que acrescenta artigo à Lei nº 7.498, de 25 de junho de 1986, para dispor sobre a jornada de trabalho de enfermeiros, técnicos de enfermagem, auxiliares de enfermagem e parteiras"
+        }
+    ]
+}

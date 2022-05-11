@@ -1,0 +1,85 @@
+{
+    "id": 128760,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/128760",
+    "nome": "Paulo Marinho Jr",
+    "siglaPartido": "PL",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/37906",
+    "siglaUf": "MA",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/128760.jpg",
+    "email": "dep.paulomarinhojr@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 548170,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/548170",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 3008,
+            "ano": 2012,
+            "ementa": "Sugere ao Ministro da Educação, Aloizio Mercadante,  instituir a Fundação Universidade Federal dos Cocais, no Estado do Maranhão."
+        },
+        {
+            "id": 552253,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/552253",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 3129,
+            "ano": 2012,
+            "ementa": "Sugere a instalação de porto seco no Município de Caxias, Estado do Maranhão."
+        },
+        {
+            "id": 552327,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/552327",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 2423,
+            "ano": 2012,
+            "ementa": "Requerimento de informação ao Senhor Ministro da Fazenda, sobre a criação e instalação da Agência do Banco da Amazônia em Caxias, Estado do Maranhão."
+        },
+        {
+            "id": 552328,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/552328",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 2424,
+            "ano": 2012,
+            "ementa": "Requerimento de informação ao Senhor Ministro dasComunicações, sobre a concessão do Serviço de Retransmissão de Televisão (RTV),  em Caxias, Estado do Maranhão."
+        },
+        {
+            "id": 2238880,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2238880",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 100,
+            "ano": 2020,
+            "ementa": "Indicação ao Ministério da Infraestrutura, para a destinação de recursos para construção do viaduto de interligação entre a MA-034 e BR 316."
+        },
+        {
+            "id": 2259291,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259291",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 857,
+            "ano": 2020,
+            "ementa": "Indicação ao Ministério da Infraestrutura, para a destinação de recursos para construção do viaduto de interligação entre a MA-034 e BR 316."
+        },
+        {
+            "id": 2259294,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259294",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4060,
+            "ano": 2020,
+            "ementa": "Institui o Programa Nacional de Apoio à Inovação e à Pesquisa Científica e Tecnológica no Sistema Único de Saúde (PRONPEC)."
+        },
+        {
+            "id": 2259296,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2259296",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 858,
+            "ano": 2020,
+            "ementa": "Indicação ao Ministério da Infraestrutura, para a destinação de recursos para construção do viaduto de interligação entre a MA-034 e BR 316."
+        }
+    ]
+}

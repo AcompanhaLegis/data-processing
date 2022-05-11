@@ -1,0 +1,93 @@
+{
+    "proposicoes_by_year": {
+        "2015": {
+            "amount": 21,
+            "types": {
+                "EMC": 10,
+                "REQ": 11
+            }
+        },
+        "0": {
+            "amount": 107,
+            "types": {
+                "RLP": 4,
+                "PRL": 22,
+                "VTS": 2,
+                "RLF": 2,
+                "EMR": 4,
+                "CVO": 2,
+                "SBT": 8,
+                "ESB": 9,
+                "RRL": 3,
+                "SBR": 1,
+                "EMP": 7,
+                "ECN": 1,
+                "EMC": 42
+            }
+        },
+        "2016": {
+            "amount": 14,
+            "types": {
+                "RIC": 2,
+                "PFC": 1,
+                "EMC": 9,
+                "REQ": 2
+            }
+        },
+        "2017": {
+            "amount": 91,
+            "types": {
+                "EMC": 86,
+                "PFC": 1,
+                "REQ": 2,
+                "SOR": 1,
+                "PL": 1
+            }
+        },
+        "2018": {
+            "amount": 10,
+            "types": {
+                "PL": 3,
+                "REQ": 2,
+                "EMC": 5
+            }
+        },
+        "2019": {
+            "amount": 283,
+            "types": {
+                "REQ": 5,
+                "PL": 7,
+                "EMC": 263,
+                "INC": 1,
+                "EMP": 6,
+                "PEC": 1
+            }
+        },
+        "2020": {
+            "amount": 10,
+            "types": {
+                "PL": 6,
+                "REQ": 2,
+                "DOC": 2
+            }
+        },
+        "2021": {
+            "amount": 17,
+            "types": {
+                "DOC": 9,
+                "PL": 1,
+                "REQ": 4,
+                "PEC": 2,
+                "REC": 1
+            }
+        },
+        "2022": {
+            "amount": 3,
+            "types": {
+                "EMC": 1,
+                "REQ": 1,
+                "DOC": 1
+            }
+        }
+    }
+}

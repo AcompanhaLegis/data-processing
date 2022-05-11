@@ -1,0 +1,427 @@
+{
+    "id": 215043,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/215043",
+    "nome": "Josivaldo JP",
+    "siglaPartido": "PSD",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+    "siglaUf": "MA",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/215043.jpg",
+    "email": "dep.josivaldojp@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 2269341,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2269341",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 35,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1027/2021"
+        },
+        {
+            "id": 2270891,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270891",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 5,
+            "ano": 2021,
+            "ementa": "ATA DA BANCADA FEDERAL DO ESTADO DO MARANHÃO"
+        },
+        {
+            "id": 2271067,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271067",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 17,
+            "ano": 2021,
+            "ementa": "ATA BANCADA DO MA PLOA 2021"
+        },
+        {
+            "id": 2274768,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2274768",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 38,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1036/2021"
+        },
+        {
+            "id": 2275700,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275700",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 22,
+            "ano": 2021,
+            "ementa": "Solicita a aprovação de Moção de Repúdio contra a declaração preconceituosa da Deputada Estadual Janaína Paschoal (SP)."
+        },
+        {
+            "id": 2277393,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277393",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1304,
+            "ano": 2021,
+            "ementa": "Inclui na lei a caterorias de professores, policiais militares e bombeiros, na prioridade de vacinação contra a covid-19"
+        },
+        {
+            "id": 2278636,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278636",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1476,
+            "ano": 2021,
+            "ementa": "Projeto de Lei que dá prioridade  no Plano Nacional de Imunização a categoria de pastores, eclesiásticos, padres, freiras, e demais sacerdotes na atuação de atividades religiosas."
+        },
+        {
+            "id": 2279525,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2279525",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Regulamenta limite máximo de comissão cobrada pelas empresas de transporte remunerado privado individual em 10%."
+        },
+        {
+            "id": 2282706,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2282706",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1797,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a regulamentação da profissão de Cuidador e dá outras providências."
+        },
+        {
+            "id": 2283414,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2283414",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1867,
+            "ano": 2021,
+            "ementa": "Cria o Programa Municipal de Incentivo ao Emprego – PROMIE, para pessoas residentes nos municípios, nas contratações terceirizadas onde há recursos da União, e dá outras providências."
+        },
+        {
+            "id": 2285501,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285501",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 15,
+            "ano": 2021,
+            "ementa": "Acrescenta o art. 115 ao Ato das Disposições Constitucionais Transitórias, para determinar que os Municípios poderão parcelar seus débitos previdenciários em 240 parcelas, excepcionalmente, em 2021."
+        },
+        {
+            "id": 2285947,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285947",
+            "siglaTipo": "DOC",
+            "codTipo": 865,
+            "numero": 285,
+            "ano": 2021,
+            "ementa": "Desligamento do PODEMOS do Bloco PSL, PL, PP, PSD, MDB, PSDB, REPUBLICANOS, DEM, PODE, AVANTE, PATRIOTA."
+        },
+        {
+            "id": 2287772,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2287772",
+            "siglaTipo": "REC",
+            "codTipo": 373,
+            "numero": 29,
+            "ano": 2021,
+            "ementa": "Contra a apreciacão conclusiva do Projeto de Lei No 399/2015, do Deputado Fábio Mitidieri, que altera o art. 2º da Lei nº 11.343, de 23 de agosto de 2006, para viabilizar a comercialização de medicamentos que contenham extratos, substratos ou partes da planta Cannabis sativa em sua formulação."
+        },
+        {
+            "id": 2290098,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290098",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 35,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290228,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290228",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 44,
+            "ano": 0,
+            "ementa": "Emenda à PEC nº 32/2020, que altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290261,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290261",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 47,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290272,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290272",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 49,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa"
+        },
+        {
+            "id": 2290328,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290328",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 55,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290382,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290382",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 58,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290383,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290383",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 59,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2290390,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290390",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 60,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa"
+        },
+        {
+            "id": 2290398,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290398",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 61,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2293622,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293622",
+            "siglaTipo": "DOC",
+            "codTipo": 861,
+            "numero": 334,
+            "ano": 2021,
+            "ementa": "Requeiro a Vossa Excelência, na condição de Presidente da Frente Parlamentar da Agropecuária – FPA, nos termos do Regimento Interno da Câmara dos Deputados, à inclusão do Parlamentar relacionado abaixo, como membro da Frente Parlamentar da Agropecuária à 56ª Legislatura, considerando sua adesão haverem sido  após o registro da mencionada Frente."
+        },
+        {
+            "id": 2295971,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2295971",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2935,
+            "ano": 2021,
+            "ementa": "Dispõe sobre a Isenção do Imposto sobre Produtos Industrializados - IPI e Imposto sobre Operações Financeiras - IOF; na aquisição de motocicletas ou motonetas para utilização no transporte autônomo de passageiros, bem como, de entrega de mercadorias e em serviço comunitário de rua, e dá outras providências."
+        },
+        {
+            "id": 2297340,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297340",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Institui o Código Eleitoral."
+        },
+        {
+            "id": 2297361,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2297361",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 6,
+            "ano": 0,
+            "ementa": "Suprima-se do texto do Projeto de Lei Complementar o inciso XIV e os §§ 8.º e 9.º do art. 181."
+        },
+        {
+            "id": 2298926,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298926",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 138,
+            "ano": 2021,
+            "ementa": "Institui o complexo geoeconômico, social e cultural; da Região Tocantina, nos termos do artigo 43 da Constituição Federal e dá outras providências."
+        },
+        {
+            "id": 2299431,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299431",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 1852,
+            "ano": 2021,
+            "ementa": "Requer a realização de Sessão Solene com vistas a comemorarmos os 85 anos de fundação da ABIH Nacional – Associação Brasileira da indústria de Hotéis, com lançamento do livro, contando a história da entidade, e do selo comemorativo dos Correios."
+        },
+        {
+            "id": 2305082,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305082",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 2274,
+            "ano": 2021,
+            "ementa": "Requer nos termos regimentais o registro da   Frente Parlamentar Mista em Defesa das Cidades Históricas - Patrimônio Cultural Brasileiro."
+        },
+        {
+            "id": 2309687,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2309687",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Josivaldo Jp (PODE-MA), pela rejeição."
+        },
+        {
+            "id": 2313069,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313069",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 2857,
+            "ano": 2021,
+            "ementa": "Requer dispensa do interstício regimental entre o primeiro e o segundo turno de deliberação da Proposta de Emenda à Constituição nº 200, de 2016."
+        },
+        {
+            "id": 2314821,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314821",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 138,
+            "ano": 2022,
+            "ementa": "REQUER O REGISTRO DA FRENTE PARLAMENTAR MISTA DO EMPREENDEDORISMO"
+        },
+        {
+            "id": 2315346,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2315346",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 19,
+            "ano": 0,
+            "ementa": "Suprima-se o Capítulo II “Das Modalidades de jogos e apostas admitidas” e o art. 116 da Subemenda Substitutiva ao Projeto de Lei nº 442, de 1991."
+        },
+        {
+            "id": 2315348,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2315348",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 21,
+            "ano": 0,
+            "ementa": "Altera o caput do art. 82, que passa a ter a seguinte redação:\n\nArt. 82. O pagamento da premiação deve ocorrer diretamente e exclusivamente em conta vinculada ao CPF do apostador/jogador, em até 60 minutos, prescrevendo em 90 (noventa) dias os prêmios não reclamados por jogadores e apostadores quando a conta não estiver disponível ou não for substituída por nova conta, observados os mesmos requisitos, no período."
+        },
+        {
+            "id": 2315349,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2315349",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 22,
+            "ano": 0,
+            "ementa": "Supressão do inciso II do art. 29\n\nII – após 12 meses de vigência da presente Lei, caso não haja regulamentação fica autorizado a operação provisória de vídeo-bingo, de bingo e jogo do bicho até a regulamentação em todo território nacional."
+        },
+        {
+            "id": 2315350,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2315350",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 23,
+            "ano": 0,
+            "ementa": "Supressão do parágrafo único do art. 27 \n\n§ único: As empresas locadoras de máquinas de jogos e apostas não precisarão de licença para operar."
+        },
+        {
+            "id": 2315395,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2315395",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 30,
+            "ano": 0,
+            "ementa": "Revoga os dispositivos legais que menciona referentes à prática do \"jogo do bicho\"."
+        },
+        {
+            "id": 2315401,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2315401",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 31,
+            "ano": 0,
+            "ementa": "Revoga os dispositivos legais que menciona referentes à prática do \"jogo do bicho\"."
+        },
+        {
+            "id": 2315404,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2315404",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 32,
+            "ano": 0,
+            "ementa": "Revoga os dispositivos legais que menciona referentes à prática do\" jogo do bicho\"."
+        },
+        {
+            "id": 2317563,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2317563",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 17,
+            "ano": 2022,
+            "ementa": "Estabelece normas gerais relativas a direitos, garantias e deveres do contribuinte, principalmente quanto a sua interação perante a Fazenda Pública e dispõe sobre critérios para a responsabilidade tributária."
+        },
+        {
+            "id": 2318037,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318037",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Inclua-se o seguinte parágrafo único ao art. 3º do Projeto\nde Lei n. 4.251, de 2021:\n“Art.3º\n\nParágrafo único. Os recursos do PROMULHER não poderão ser\nusados para financiar, direta ou indiretamente, equipamentos e\nserviços relacionados à prática do aborto.”"
+        },
+        {
+            "id": 2319445,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319445",
+            "siglaTipo": "EMP",
+            "codTipo": 873,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a Lei nº 11.096, de 13 de janeiro de 2005, e a Lei nº 11.128, de 28 de junho de 2005, para dispor sobre o Programa Universidade para Todos"
+        },
+        {
+            "id": 2319491,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319491",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 515,
+            "ano": 2022,
+            "ementa": "Requer Urgência para o Projeto de Lei nº 3188, de 2021, que “Altera a Lei nº 13.999, de 18 de maio de 2020, que institui o Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe), e a Lei nº 14.161, de 2 de junho de 2021, que dispõe sobre o Pronampe, para permitir melhores condições de sustentabilidade ao Programa como política oficial de crédito permanente no tratamento diferenciado e favorecido aos beneficiários do Programa.”"
+        },
+        {
+            "id": 2319978,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319978",
+            "siglaTipo": "DOC",
+            "codTipo": 610,
+            "numero": 420,
+            "ano": 2022,
+            "ementa": "CD222404123100"
+        },
+        {
+            "id": 2319979,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2319979",
+            "siglaTipo": "DOC",
+            "codTipo": 861,
+            "numero": 421,
+            "ano": 2022,
+            "ementa": "Inclusão de membro na Frente Parlamentar Evangélica do Congresso Nacional"
+        },
+        {
+            "id": 2320680,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2320680",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Josivaldo Jp (PSD-MA), pela rejeição."
+        }
+    ]
+}

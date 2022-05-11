@@ -1,0 +1,154 @@
+{
+    "proposicoes_by_year": {
+        "2002": {
+            "amount": 5,
+            "types": {
+                "EMC": 5
+            }
+        },
+        "0": {
+            "amount": 104,
+            "types": {
+                "PRL": 62,
+                "VTS": 7,
+                "EMR": 3,
+                "EMC": 2,
+                "CVO": 1,
+                "SBT": 8,
+                "PEP": 1,
+                "RDF": 3,
+                "PPP": 3,
+                "ESB": 13,
+                "DTQ": 1
+            }
+        },
+        "2003": {
+            "amount": 682,
+            "types": {
+                "RCP": 11,
+                "EMC": 582,
+                "REQ": 3,
+                "REC": 14,
+                "PEC": 62,
+                "RIC": 1,
+                "PL": 4,
+                "PRC": 3,
+                "INC": 1,
+                "PDC": 1
+            }
+        },
+        "2004": {
+            "amount": 205,
+            "types": {
+                "PEC": 74,
+                "EMC": 109,
+                "PDC": 2,
+                "REC": 4,
+                "REQ": 3,
+                "RIC": 1,
+                "RCP": 5,
+                "PRC": 5,
+                "PL": 2
+            }
+        },
+        "2005": {
+            "amount": 153,
+            "types": {
+                "PRC": 5,
+                "PEC": 69,
+                "RCP": 7,
+                "REQ": 9,
+                "PDC": 5,
+                "REC": 6,
+                "EMC": 44,
+                "PL": 6,
+                "EMP": 2
+            }
+        },
+        "2006": {
+            "amount": 73,
+            "types": {
+                "EMC": 20,
+                "PEC": 41,
+                "REC": 6,
+                "PRC": 3,
+                "REQ": 1,
+                "PDC": 2
+            }
+        },
+        "2015": {
+            "amount": 31,
+            "types": {
+                "REQ": 10,
+                "REM": 1,
+                "PL": 7,
+                "PRC": 1,
+                "EMC": 10,
+                "PEC": 1,
+                "INC": 1
+            }
+        },
+        "2019": {
+            "amount": 356,
+            "types": {
+                "PL": 4,
+                "REQ": 19,
+                "EMC": 327,
+                "INC": 1,
+                "SLD": 1,
+                "EPP": 1,
+                "EMO": 3
+            }
+        },
+        "2016": {
+            "amount": 34,
+            "types": {
+                "PL": 4,
+                "PDC": 1,
+                "REQ": 1,
+                "EMC": 26,
+                "RCP": 2
+            }
+        },
+        "2017": {
+            "amount": 149,
+            "types": {
+                "PL": 7,
+                "EMC": 126,
+                "REQ": 16
+            }
+        },
+        "2018": {
+            "amount": 14,
+            "types": {
+                "REQ": 3,
+                "REC": 1,
+                "EMP": 1,
+                "EMC": 7,
+                "PL": 2
+            }
+        },
+        "2020": {
+            "amount": 12,
+            "types": {
+                "EMC": 9,
+                "PL": 3
+            }
+        },
+        "2021": {
+            "amount": 7,
+            "types": {
+                "DOC": 4,
+                "EMC": 2,
+                "REQ": 1
+            }
+        },
+        "2022": {
+            "amount": 6,
+            "types": {
+                "DOC": 3,
+                "REL": 3
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+[
+    {
+        "ano": 2022,
+        "mes": 4,
+        "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "codDocumento": 7368312,
+        "tipoDocumento": "Nota Fiscal Eletrônica",
+        "codTipoDocumento": 4,
+        "dataDocumento": "2022-04-11",
+        "numDocumento": "3985",
+        "valorDocumento": 631.3,
+        "urlDocumento": "http://camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7368312",
+        "nomeFornecedor": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA-ME",
+        "cnpjCpfFornecedor": "12132854000100",
+        "valorLiquido": 631.3,
+        "valorGlosa": 0.0,
+        "numRessarcimento": "",
+        "codLote": 1846604,
+        "parcela": 0
+    },
+    {
+        "ano": 2022,
+        "mes": 4,
+        "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "codDocumento": 7362114,
+        "tipoDocumento": "Nota Fiscal Eletrônica",
+        "codTipoDocumento": 4,
+        "dataDocumento": "2022-04-04",
+        "numDocumento": "18938",
+        "valorDocumento": 280.09,
+        "urlDocumento": "http://camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=7362114",
+        "nomeFornecedor": "AUTO POSTO JPC DERIVADOS DE PETROLEO LTDA",
+        "cnpjCpfFornecedor": "07129219000134",
+        "valorLiquido": 280.09,
+        "valorGlosa": 0.0,
+        "numRessarcimento": "",
+        "codLote": 1846604,
+        "parcela": 0
+    }
+]

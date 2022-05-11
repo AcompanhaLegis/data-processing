@@ -1,0 +1,1948 @@
+{
+    "id": 204419,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/204419",
+    "nome": "Glaustin da Fokus",
+    "siglaPartido": "PSC",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36833",
+    "siglaUf": "GO",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204419.jpg",
+    "email": "dep.glaustindafokus@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 2191658,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2191658",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 625,
+            "ano": 2019,
+            "ementa": "Institui o Dia Nacional de Combate e Prevenção ao Assédio Moral e Sexual nas relações de trabalho."
+        },
+        {
+            "id": 2192619,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2192619",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 993,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 7.827, de 27 de setembro de 1989, para incluir municípios na área de aplicação de recursos do Fundo Constitucional de Financiamento do Norte."
+        },
+        {
+            "id": 2193128,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2193128",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1132,
+            "ano": 2019,
+            "ementa": "Altera o parágrafo 3º do artigo 1º da Lei n. 9.826, de 23 de agosto de 1999, para prorrogar o crédito presumido do Imposto sobre Produtos Industrializados - IPI dos empreendimentos industriais instalados na região Centro-Oeste."
+        },
+        {
+            "id": 2194794,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2194794",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1620,
+            "ano": 2019,
+            "ementa": "Dispõe sobre o registro da transmissão direta, entre concessionárias, dos bens imóveis vinculados à exploração do serviço público contratado, e para tanto acrescenta o item 45 ao artigo 167 da Lei dos Registros Públicos (Lei nº 6.015, de 31 de dezembro de 1973), e dá outras providências"
+        },
+        {
+            "id": 2195466,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195466",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1764,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 8.429, de 2 de junho de 1992, que \"dispõe sobre as sanções aplicáveis aos agentes públicos nos casos de enriquecimento ilícito no exercício de mandato, cargo, emprego ou função na administração pública direta, indireta ou fundacional\", para tratar da pena de cassação da aposentadoria no caso em que especifica."
+        },
+        {
+            "id": 2195517,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2195517",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1774,
+            "ano": 2019,
+            "ementa": "Acrescenta o §2º ao art. 6º da Lei nº 5.991, de 17 de dezembro de 1973, para autorizar os supermercados e estabelecimentos similares a dispensarem medicamentos isentos de prescrição."
+        },
+        {
+            "id": 2196870,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196870",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2058,
+            "ano": 2019,
+            "ementa": "Dispõe sobre o controle de entrada indevida de objetos, instrumentos e substâncias perigosos nos estabelecimentos de ensino"
+        },
+        {
+            "id": 2196871,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196871",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2059,
+            "ano": 2019,
+            "ementa": "Altera a redação do Código Civil, Lei nº 10.406, de 10 de janeiro de 2002, para disciplinar a relação de revenda e distribuição entre fornecedores e distribuidores"
+        },
+        {
+            "id": 2196876,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196876",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 16,
+            "ano": 2019,
+            "ementa": "Requer a realização de audiência pública para debater a relevância do Sistema \"S\" (SENAC, SESC,SESCOOP, SENAI, SESI, SEST, SENAT, SENAR e SEBRAE) e os novos desafios para o ano de 2019."
+        },
+        {
+            "id": 2196877,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196877",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 17,
+            "ano": 2019,
+            "ementa": "Requer a realização de audiência pública para debater a transparência e os parâmetros da aplicação da Multa do art. 57 do Código de Defesa do Consumidor, ao supermercadista."
+        },
+        {
+            "id": 2196884,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2196884",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 15,
+            "ano": 2019,
+            "ementa": "Requer a realização de audiência pública conjunta nas Comissões de Defesa dos Direitos das Pessoas com Deficiência (CPD) e de Trabalho, de Administração e Serviço Público (CTASP), para debater a relevância da aprovação do PL 9.382/2017, de autoria da Comissão de Defesa dos Direitos das Pessoas com Deficiência, que dispõe sobre o exercício profissional e condições de trabalho do profissional tradutor, guia-intérprete e intérprete de LIBRAS."
+        },
+        {
+            "id": 2198576,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198576",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 1259,
+            "ano": 2019,
+            "ementa": "Requer a realização de Sessão Solene para celebração do 51º aniversário da Associação Brasileira de Supermercados - ABRAS."
+        },
+        {
+            "id": 2198582,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198582",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 19,
+            "ano": 2019,
+            "ementa": "Requer que seja convidado o Sr. José Roberto Tadros, Presidente da Confederação Nacional do Comércio de Bens, Serviços e Turismo - CNC e o Sr. Marcelo Baiocchi, Presidente da Federação do Comércio do Estado de Goiás - FECOMERCIO-GO, para a audiência pública para debater a relevância do Sistema \"S\" (SENAC, SESC,SESCOOP, SENAI, SESI, SEST, SENAT, SENAR e SEBRAE) e os novos desafios para o ano de 2019."
+        },
+        {
+            "id": 2198771,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2198771",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 37,
+            "ano": 2019,
+            "ementa": "Requer o encaminhamento de pedido de informações acerca da estimativa das renúncias de receitas para 2019, 2020 e 2021, acompanhadas das respectivas memórias de cálculo, que decorreriam da aprovação do Projeto de Lei nº 981, de 2019"
+        },
+        {
+            "id": 2200368,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200368",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 26,
+            "ano": 2019,
+            "ementa": "inclui convidados na audiência pública do Requerimento n°  17/2019 para debater a transparência e os parâmetros da aplicação da Multa do art. 57 do Código de Defesa do Consumidor, ao supermercadista"
+        },
+        {
+            "id": 2200458,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2200458",
+            "siglaTipo": "REQ",
+            "codTipo": 355,
+            "numero": 1373,
+            "ano": 2019,
+            "ementa": "Requer Voto de Pesar pelo falecimento do Professor Júlio César Barroso de Sousa, Coordenador do Colégio Municipal do Céu Azul, em Valparaíso de Goiás/GO"
+        },
+        {
+            "id": 2202175,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202175",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 351,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202177,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202177",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 352,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 868/2018"
+        },
+        {
+            "id": 2202361,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2202361",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 28,
+            "ano": 2019,
+            "ementa": "inclui convidados ao Requerimento nº 22/2019 para discutir os impactos da lei 4.886 de 1965 que \"regula as atividades dos representantes comerciais autônomos\" nas relações comerciais."
+        },
+        {
+            "id": 2203457,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203457",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 8,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204051,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204051",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 33,
+            "ano": 2019,
+            "ementa": "Requer realização de Audiência Pública em conjunto com a Comissão de Seguridade social e Família para debater o processo de avaliação de patentes no Brasil."
+        },
+        {
+            "id": 2204496,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204496",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 26,
+            "ano": 2019,
+            "ementa": "Modifica arts. 1º, 4º, 5º e 12º da Proposta de Emenda à Constituição nº 6 de 2019."
+        },
+        {
+            "id": 2204655,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204655",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 32,
+            "ano": 2019,
+            "ementa": "Requer o Aditamento ao Requerimento nº 23/2019 para a inclusão de palestrantes."
+        },
+        {
+            "id": 2204749,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204749",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 44,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204957,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204957",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 55,
+            "ano": 2019,
+            "ementa": "Dê-se aos artigos 22 e 42 constantes do art. 1º da PEC e por consequência ao art. 17, a seguinte redação:"
+        },
+        {
+            "id": 2205106,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205106",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 35,
+            "ano": 2019,
+            "ementa": "Requer a realização da Semana de Valorização das Pessoas com Deficiência da Câmara Federal."
+        },
+        {
+            "id": 2205129,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205129",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 36,
+            "ano": 2019,
+            "ementa": "Requer o ADITAMENTO ao Requerimento nº 23/2019 para a inclusão e exclusão de palestrantes."
+        },
+        {
+            "id": 2205160,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205160",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 58,
+            "ano": 2019,
+            "ementa": "Para suprimir os artigos 13, 14 e 15 da PEC 6/2019 (alíquotas progressivas e extraordinárias)."
+        },
+        {
+            "id": 2205162,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205162",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 59,
+            "ano": 2019,
+            "ementa": "Acrescenta a expressão \"preservando-lhe, em caráter permanente, o valor real\", aos artigos 40, §1, alínea C e 201, § 1º, inciso V, ambos da Constituição Federal."
+        },
+        {
+            "id": 2205163,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205163",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 60,
+            "ano": 2019,
+            "ementa": "Altera o art. 3º da PEC para determinar o aumento de 17% (dezessete por cento) do tempo que faltar para que os servidores públicos em atividade garantam o direito de se aposentar percebendo proventos de aposentadoria conforme as regras de seu momento de ingresso no Serviço Público."
+        },
+        {
+            "id": 2205262,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205262",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 65,
+            "ano": 2019,
+            "ementa": "Altera o § 1º do art. 203 da Constituição Federal, para dispor sobre a condição de concessão do BPC ao deficiente e para permitir que outro benefício assistencial já concedido a membro da família não seja computado para fins de cálculo da renda familiar."
+        },
+        {
+            "id": 2205335,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205335",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 38,
+            "ano": 2019,
+            "ementa": "Requer o ADITAMENTO ao Requerimento nº 23/2019 para a inclusão e exclusão de palestrantes."
+        },
+        {
+            "id": 2205582,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205582",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 81,
+            "ano": 2019,
+            "ementa": "Altera o §1º e os incisos I e II, do §3º, o §5º; do artigo 4 º da PEC 06, de 2019, que dispõe sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2205594,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205594",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 88,
+            "ano": 2019,
+            "ementa": "Altera a Proposta de Emenda à Constituição n° 6, de 2019, no que se refere à pessoa com deficiência."
+        },
+        {
+            "id": 2205611,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205611",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 95,
+            "ano": 2019,
+            "ementa": "Garante contagem de tempo de contribuição aos ACS e ACE, no período de 1º de janeiro de 1991 a 31 de dezembro de 2006."
+        },
+        {
+            "id": 2205621,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205621",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 98,
+            "ano": 2019,
+            "ementa": "Modifica  o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205622,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205622",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 99,
+            "ano": 2019,
+            "ementa": "Modifica  o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205880,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205880",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 186,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205942,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205942",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 224,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205943,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205943",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 225,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205959,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205959",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 241,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências"
+        },
+        {
+            "id": 2205977,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205977",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 258,
+            "ano": 2019,
+            "ementa": "Acrescente-se o seguinte parágrafo ao art. 9º da Proposta de Emenda à Constituição nº 6, de 2019."
+        },
+        {
+            "id": 2207519,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207519",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela aprovação."
+        },
+        {
+            "id": 2207624,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207624",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 894,
+            "ano": 2019,
+            "ementa": "Sugere a apresentação de projeto de lei visando alterar o § 1º do caput do artigo 186 da Lei nº 8.112, de 1990."
+        },
+        {
+            "id": 2207626,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207626",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3455,
+            "ano": 2019,
+            "ementa": "Acrescenta novo parágrafo 2º ao art. 39 da Lei nº 8.078, de 11 de setembro de 1990, que \"Dispõe sobre a proteção do consumidor e dá outras providências, para fins de vedar as instituições financeiras a realizarem aplicações financeiras sem autorização do consumidor."
+        },
+        {
+            "id": 2207829,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207829",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2207832,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207832",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Institui o Dia Nacional da Pessoa Surdocega, e dá outras providências."
+        },
+        {
+            "id": 2208479,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208479",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária."
+        },
+        {
+            "id": 2209542,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2209542",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3739,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 9.296, de 24 de julho de 1996, que regulamenta o inciso XII, parte final, do art. 5º da Constituição Federal, para regular a disponibilização de informações acerca da localização geográfica de terminais telefônicos, na interceptação de comunicações telefônicas."
+        },
+        {
+            "id": 2209651,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2209651",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3747,
+            "ano": 2019,
+            "ementa": "Acrescenta parágrafo único ao art. 6º-A da Lei nº 10.101, de 19 de dezembro de 2000, para vedar o estabelecimento de cláusula de convenção coletiva que condicione a permissão para o trabalho aos feriados à assinatura de termo de adesão ou a qualquer outro procedimento que requeira autenticação, homologação, autorização ou aprovação de sindicato."
+        },
+        {
+            "id": 2210409,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2210409",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 7,
+            "ano": 2019,
+            "ementa": "Dá nova redação à MPV 877/2019"
+        },
+        {
+            "id": 2212066,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212066",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 4,
+            "ano": 2019,
+            "ementa": "Requer a realização de reunião de audiência pública sobre o impacto da união dos impostos na economia Brasileira, com a participação de um representante da Receita Federal Brasileira, da Secretaria da Fazenda, da Confederação Nacional dos Municípios, do Economista Bernard Appy e do Ministro da Economia, Paulo Guedes."
+        },
+        {
+            "id": 2212184,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212184",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 5,
+            "ano": 2019,
+            "ementa": "Requer realização de audiência pública para discutir e analisar a PEC 45 de 2019, que propõe Reforma Tributária, com a presença do convidado Robson Braga de Andrade, Presidente da Confederação Nacional da Indústria."
+        },
+        {
+            "id": 2212300,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2212300",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2019,
+            "ementa": "Dê-se à Proposta de Emenda à Constituição n° 45, de 2019, a seguinte redação: \"Cria o imposto federal sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira."
+        },
+        {
+            "id": 2213151,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2213151",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 926,
+            "ano": 2019,
+            "ementa": "Solicita informações ao Sr. Ministro de Estado da Economia sobre os impactos da Reforma Tributária proposta pela PEC nº 45/2019."
+        },
+        {
+            "id": 2213152,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2213152",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 70,
+            "ano": 2019,
+            "ementa": "Requer a realização de reunião de audiência pública sobre os riscos e as consequências da adoção de criptomoedas no Brasil."
+        },
+        {
+            "id": 2214955,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2214955",
+            "siglaTipo": "REQ",
+            "codTipo": 308,
+            "numero": 2135,
+            "ano": 2019,
+            "ementa": "Requer a redistribuição do Projeto de Lei nº 491, de 2015, de modo que seja também apreciado pela Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços."
+        },
+        {
+            "id": 2215725,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2215725",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2215726,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2215726",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a Lei Complementar nº 123 de 14 de dezembro de 2006, para reduzir o valor devido na forma do Simples Nacional, a título do imposto de renda das pessoas jurídicas e da contribuição social sobre o lucro líquido, pelas microempresas e pelas empresas de pequeno porte com número maior de empregados."
+        },
+        {
+            "id": 2215878,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2215878",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 5,
+            "ano": 2019,
+            "ementa": "Dê-se a Proposta de Emenda a Constituição nº 45, de 2019, os arts. 1º a 6º, a seguinte redação:"
+        },
+        {
+            "id": 2216168,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2216168",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 52,
+            "ano": 2019,
+            "ementa": "Requer a realização de ato comemorativo organizado por essa Comissão em alusão ao Dia Nacional de Luta das Pessoas com Deficiência"
+        },
+        {
+            "id": 2217654,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2217654",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 2278,
+            "ano": 2019,
+            "ementa": "Requer a realização de sessão solene, no Plenário da Câmara dos Deputados, em comemoração ao Dia Nacional de Valorização da Família."
+        },
+        {
+            "id": 2218621,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218621",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 24,
+            "ano": 2019,
+            "ementa": "Prevê tratamento diferenciado e favorecido para o pequeno produtor rural e para a agricultura familiar."
+        },
+        {
+            "id": 2218676,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218676",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 25,
+            "ano": 2019,
+            "ementa": "Proposta de Emenda à Constituição Nº 45, DE 2019. Altera o Sistema Tributário Nacional e dá outras providências. Acrescenta ao art. 1º da Proposta de Emenda à Constituição nº 45, de 2019, os seguintes dispositivos: Alinea f ao inciso VI do art.150 da Constituição Federal e parágrafo oitavo ao art. 150 da Constituição Federal."
+        },
+        {
+            "id": 2218835,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218835",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 27,
+            "ano": 2019,
+            "ementa": "Insere dispositivos para prever a celebração de convênios entre os estados e o Distrito Federal sobre isenções do imposto sobre operações relativas à circulação de mercadorias."
+        },
+        {
+            "id": 2218899,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218899",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 29,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 2218903,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218903",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2019,
+            "ementa": "A Emenda proposta altera a Lei nº 9.826, de 23 de agosto de 1999, com o propósito de ampliar o prazo, de 31 de dezembro de 2020, por mais 05 (cinco) anos, ou seja, até 31 de dezembro de 2025, para a fruição do incentivo fiscal concedido aos empreendimentos industriais instalados na região Centro-Oeste."
+        },
+        {
+            "id": 2218911,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218911",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 31,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2218988,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218988",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela rejeição."
+        },
+        {
+            "id": 2218997,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218997",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2218998,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218998",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Veda a comercialização de produtos ópticos na condição que menciona."
+        },
+        {
+            "id": 2219008,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219008",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 37,
+            "ano": 2019,
+            "ementa": "Dispõe sobre a importância do setor agropecuário, em especial o setor lácteo, para a economia brasileira e disciplina a alíquota diferenciada e o regime de crédito presumido para o referido setor, evitando-se distorções criadas na instituição do IBS."
+        },
+        {
+            "id": 2219031,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219031",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 39,
+            "ano": 2019,
+            "ementa": "Altera o inciso IV do § 1º do art. 152-A da Constituição Federal e acrescenta os incisos VII e VIII ao § 1º, bem como os §§ 10º e 11º, do art. 152-A da Constituição Federal."
+        },
+        {
+            "id": 2219270,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219270",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 57,
+            "ano": 2019,
+            "ementa": "Dá nova redação à Proposta de Emenda Constitucional nº 45, de 2019, para garantir à Zona Franca de Manaus incentivos fiscais, tratamento tributário diferenciado, pelo prazo estabelecido nos arts.40, 92 e 92-A do Ato das Disposições Constitucionais Transitórias."
+        },
+        {
+            "id": 2219615,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219615",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 69,
+            "ano": 2019,
+            "ementa": "Inclui disposições na PEC nº 45/2019, especificamente acerca da manutenção do direito de não tributar a exportação."
+        },
+        {
+            "id": 2219650,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219650",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 72,
+            "ano": 2019,
+            "ementa": "Institui imposto sobre lucros ou dividendos e reduz a alíquota do imposto sobre bens e serviços de forma proporcional ao aumento de arrecadação."
+        },
+        {
+            "id": 2219822,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219822",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 77,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 2219851,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219851",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 78,
+            "ano": 2019,
+            "ementa": "Substitui os incisos VIII e IX o art. 152-A, conforme art. 1º da PEC 45/2019"
+        },
+        {
+            "id": 2219857,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219857",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 80,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2219908,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219908",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 89,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 2219910,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219910",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 90,
+            "ano": 2019,
+            "ementa": "Reduz a alíquota singular referente a recursos não vinculados da União após 10 anos."
+        },
+        {
+            "id": 2219950,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219950",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 112,
+            "ano": 2019,
+            "ementa": "Exclui do IBS a locação de bens imóveis e as receitas das transações decorrentes de incorporação imobiliária e de loteamento, e das transações sujeitas ao ITBI"
+        },
+        {
+            "id": 2219970,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219970",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 113,
+            "ano": 2019,
+            "ementa": "Acrescente- se inciso VII ao §1º do Art. 152-A da PEC nº 45, de 2019, com a seguinte redação:                          VII - os Estados, o Distrito Federal e os Municípios poderão desenvolver Políticas Públicas de Incentivo Fiscal quando o resultado do Produto Interno Bruto - PIB for considerado negativo ou em recessão relativo ao ano anterior e o Índice de Desenvolvimento Humano - IDH ocupar colocação inferior a 50% dos estados ou municípios federados, descritos no ranking do desenvolvimento do IBGE."
+        },
+        {
+            "id": 2219971,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219971",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 114,
+            "ano": 2019,
+            "ementa": "Acrescente- se inciso III ao §2º do Art. 152-A da PEC nº 45, de 2019, com a seguinte redação:                        III - a alíquota para o imposto será a soma dos impostos que serão substituídos, não podendo ser superior a soma do percentual vigente no momento de sua regulamentação\"."
+        },
+        {
+            "id": 2220697,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2220697",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 76,
+            "ano": 2019,
+            "ementa": "Requer a realização de Audiência Pública no âmbito da Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços, para promover consulta acerca da Proposta de Lei nº 6.229, de 2005, de autoria do ex-deputado Medeiros, cujo objetivo é alterar o § 7º do art. 6º da Lei nº 11.101, de 9 de fevereiro de 2005, que \"Regula a recuperação judicial, a extrajudicial e a falência do empresário e da sociedade empresária\", para submeter todos os créditos tributários à recuperação judicial."
+        },
+        {
+            "id": 2221503,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221503",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 77,
+            "ano": 2019,
+            "ementa": "Requer a inclusão de Representantes na Audiência Pública a ser realizada no âmbito da Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços, que irá promover consulta acerca da Proposta de Lei nº 6.229, de 2005, de autoria do ex-deputado Medeiros, cujo objetivo é alterar o § 7º do art. 6º da Lei nº 11.101, de 9 de fevereiro de 2005, que \"Regula a recuperação judicial, a extrajudicial e a falência do empresário e da sociedade empresária\", para submeter todos os créditos tributários à recuperação judicial."
+        },
+        {
+            "id": 2221880,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221880",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 137,
+            "ano": 2019,
+            "ementa": "Acrescenta o §º 10 ao artigo 152-A, da Constituição Federal, para tratamento específico, por meio de diferencial de alíquota aos serviços de educação e possibilidade de apropriação dos créditos sobre as despesas com a folha de pagamento desse setor."
+        },
+        {
+            "id": 2221884,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221884",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 138,
+            "ano": 2019,
+            "ementa": "Acrescenta o §§º 10, 11 e 12 ao artigo 152-A, da Constituição Federal, para tratamento específico, por meio de diferencial de alíquota aos serviços de educação e desoneração da folha de pagamento desse setor."
+        },
+        {
+            "id": 2221888,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2221888",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 139,
+            "ano": 2019,
+            "ementa": "Dá nova redação ao inciso V do § 1º do artigo 152-A, da Constituição Federal, para que não incida o IBS sobre a exportação dos serviços de Educação."
+        },
+        {
+            "id": 2222078,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222078",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 162,
+            "ano": 2019,
+            "ementa": "\"Art. Fica vedada a cobrança de foro e taxa de ocupação, bem como de laudêmio sobre as transferências de domínio, das áreas de que trata o §3º do art. 49 do Ato das Disposições Constitucionais Transitórias, a partir da data de publicação desta Emenda Constitucional.\""
+        },
+        {
+            "id": 2222150,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222150",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 165,
+            "ano": 2019,
+            "ementa": "Dispõe sobre tratamento diferenciado e favorecido às startups ou empresas de inovação."
+        },
+        {
+            "id": 2222741,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222741",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 175,
+            "ano": 2019,
+            "ementa": "Altera o § 2º, inciso V, do art. 146, conforme art. 1º da PEC 45/2019."
+        },
+        {
+            "id": 2222744,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2222744",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 177,
+            "ano": 2019,
+            "ementa": "Altera o caput do art. 152-A, acrescenta os incisos VI, VII, VIII e IX, conforme art. 1º da PEC 45/2019."
+        },
+        {
+            "id": 2224483,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224483",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 188,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 2224570,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224570",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 189,
+            "ano": 2019,
+            "ementa": "Permite tratamento tributário diferenciado para alimentos, medicamentos, transporte público coletivo de passageiros urbano e de caráter urbano, bens do ativo imobilizado, saneamento básico, educação infantil, ensino fundamental, médio e superior e educação profissional."
+        },
+        {
+            "id": 2224673,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224673",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 192,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 2224840,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2224840",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 197,
+            "ano": 2019,
+            "ementa": "Dispõe tratamento diferenciado nas obrigações acessórias referentes às entidades do terceiro setor."
+        },
+        {
+            "id": 2226204,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2226204",
+            "siglaTipo": "REQ",
+            "codTipo": 308,
+            "numero": 2753,
+            "ano": 2019,
+            "ementa": "Requer a revisão do despacho do PL nº 3.281/2019, para que acrescente a Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços na apreciação da matéria tratada pelo referido PL."
+        },
+        {
+            "id": 2226877,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2226877",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela aprovação deste, do Substitutivo adotado pela Comissão 1 da CIDOSO, do PL 130/2011, do PL 289/2011, do PL 747/2011, do PL 2238/2011, do PL 2543/2011, do PL 3035/2011, do PL 5836/2013, do PL 1132/2015, do PL 2429/2015, do PL 8575/2017, do PL 6166/2013, do PL 1389/2011, do PL 1629/2011, do PL 7608/2014, do PL 6489/2013, do PL 8150/2014, e do PL 7588/2017, apensados, e pela rejeição do PL 561/2011, do PL 911/2011, do PL 7934/2017, do PL 2266/2015, e do PL 3888/2015, apensados."
+        },
+        {
+            "id": 2226884,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2226884",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5670,
+            "ano": 2019,
+            "ementa": "Acrescenta o art. 442-B à Consolidação das Leis do Trabalho e altera seu art. 468 para dispor sobre o trabalho multifuncional."
+        },
+        {
+            "id": 2226885,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2226885",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5671,
+            "ano": 2019,
+            "ementa": "Institui o mês denominado Setembro Verde, dedicado à inclusão social das pessoas com deficiência."
+        },
+        {
+            "id": 2226889,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2226889",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela rejeição deste, e do PL 1040/2019, apensado."
+        },
+        {
+            "id": 2227870,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2227870",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5814,
+            "ano": 2019,
+            "ementa": "Altera a Lei nº 12.023, de 27 de agosto de 2009."
+        },
+        {
+            "id": 2227874,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2227874",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela aprovação, com emenda."
+        },
+        {
+            "id": 2227878,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2227878",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela rejeição."
+        },
+        {
+            "id": 2227891,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2227891",
+            "siglaTipo": "EMR",
+            "codTipo": 257,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2227921,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2227921",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária do Projeto de Lei nº 3.568/2015, do PL nº 4.795/2016, apensado, e do Substitutivo da Comissão de Trabalho, de Administração e Serviço Público."
+        },
+        {
+            "id": 2228759,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2228759",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5895,
+            "ano": 2019,
+            "ementa": "Altera a redação da Lei nº 7.990, de 28 de dezembro de 1989, para estabelecer nova disciplina para o cálculo da Tarifa Atualizada de Referência (TAR)."
+        },
+        {
+            "id": 2229875,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2229875",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6055,
+            "ano": 2019,
+            "ementa": "Altera o inciso XIV do art. 6º da Lei nº 7.713, de 22 de dezembro de 1988, para incluir o xeroderma pigmentoso no rol de doenças a cujos portadores é concedida a isenção do imposto de renda sobre os proventos de aposentadoria ou reforma."
+        },
+        {
+            "id": 2229876,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2229876",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6056,
+            "ano": 2019,
+            "ementa": "Altera o art. 320 do Código de Trânsito Brasileiro para garantir percentual mínimo de aplicação de recursos arrecadados com a cobrança de multas em implantação e adequação de calçadas, passarelas para pedestres, ciclovias e ciclofaixas."
+        },
+        {
+            "id": 2229880,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2229880",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2229881,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2229881",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Proíbe o consumo de carne de cães e de gatos em todo território nacional."
+        },
+        {
+            "id": 2230740,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2230740",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2019,
+            "ementa": "Acrescenta o art. 18-A ao Ato das Disposições Constitucionais Transitórias, para dispor sobre a convalidação de atos administrativos praticados no Estado do Tocantins entre 1º de janeiro de 1989 e 31 de dezembro de 1994."
+        },
+        {
+            "id": 2231077,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2231077",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6233,
+            "ano": 2019,
+            "ementa": "Acrescenta parágrafo ao artigo 156 do Código de Processo Penal, estabelecendo a obrigatoriedade de o Ministério Público buscar a verdade dos fatos também a favor do indiciado ou acusado, isto é, a acusação é obrigada a entregar à defesa eventuais evidências que possam exonerar o réu."
+        },
+        {
+            "id": 2231078,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2231078",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6234,
+            "ano": 2019,
+            "ementa": "Dispõe sobre o registro da transmissão direta, mediante ato oneroso, de bens imóveis vinculados à exploração do serviço de energia elétrica, entre delegatárias de serviços de energia elétrica, e dá outras providências."
+        },
+        {
+            "id": 2232034,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232034",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela rejeição."
+        },
+        {
+            "id": 2232253,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232253",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária; e, no mérito, pela aprovação."
+        },
+        {
+            "id": 2232421,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232421",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin Fokus (PSC-GO), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária do Projeto de Lei nº 5.764/2013, e dos PL nºs 8.185/2014 e 8.624/2017, apensados; e, no mérito, pela aprovação do PL 5.764/2013 e dos PL 8.185/2014 e 8.624/2017, apensados, com substitutivo."
+        },
+        {
+            "id": 2232428,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2232428",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Obriga a inserção de cláusula limitadora de responsabilidade nas apólices relativas ao seguro de veículos automotores de vias terrestres."
+        },
+        {
+            "id": 2233359,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2233359",
+            "siglaTipo": "REQ",
+            "codTipo": 319,
+            "numero": 3192,
+            "ano": 2019,
+            "ementa": "Requer a retirada de tramitação do PL 1620/2019, que dispõe sobre o registro da transmissão direta, entre concessionárias, dos bens imóveis vinculados à exploração do serviço público contratado, e para tanto acrescenta o item 45 ao artigo 167 da Lei dos Registros Públicos (Lei nº 6.015, de 31 de dezembro de 1973), e dá outras providências."
+        },
+        {
+            "id": 2233360,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2233360",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 3193,
+            "ano": 2019,
+            "ementa": "Requer a inclusão na Ordem do Dia Projeto de Lei n° 5671/2019, que institui o mês denominado Setembro Verde, dedicado à inclusão social das pessoas com deficiência."
+        },
+        {
+            "id": 2233422,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2233422",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 108,
+            "ano": 2019,
+            "ementa": "Requer a realização de audiência pública sobre os critérios utilizados na seleção de material a ser disponibilizados aos clientes, mais especificamente  sobre o episódio da porta dos fundos: primeira tentação de cristo no Youtube e na NETFLIX Brasil."
+        },
+        {
+            "id": 2233631,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2233631",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 3206,
+            "ano": 2019,
+            "ementa": "Requer regime de urgência para a apreciação do Projeto de Lei nº. 5671/2019, que institui o mês denominado Setembro Verde, dedicado à inclusão social das pessoas com deficiência."
+        },
+        {
+            "id": 2234343,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2234343",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6466,
+            "ano": 2019,
+            "ementa": "Acrescenta o § 15 ao art. 3º da Lei Complementar nº 63, de 11 de janeiro de 1990, para restringir a forma de cálculo do valor adicionado derivado da geração de energia hidrelétrica estampada no § 14 aos Municípios sedes de usinas hidrelétricas sob o regime de cotas."
+        },
+        {
+            "id": 2236783,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2236783",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 5,
+            "ano": 2020,
+            "ementa": "Acrescenta o § 15 ao art. 3º da Lei Complementar nº 63, de 11 de janeiro de 1990, para restringir a forma de cálculo do valor adicionado derivado da geração de energia hidrelétrica estampada no § 14 aos Municípios sedes de usinas hidrelétricas sob o regime de cotas."
+        },
+        {
+            "id": 2236785,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2236785",
+            "siglaTipo": "REQ",
+            "codTipo": 311,
+            "numero": 115,
+            "ano": 2020,
+            "ementa": "Requer a retirada de tramitação do PL 6466/2019, que acrescenta o § 15 ao art. 3º da Lei Complementar nº 63, de 11 de janeiro de 1990, para restringir a forma de cálculo do valor adicionado derivado da geração de energia hidrelétrica estampada no § 14 aos Municípios sedes de usinas hidrelétricas sob o regime de cotas."
+        },
+        {
+            "id": 2236978,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2236978",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 182,
+            "ano": 2020,
+            "ementa": "Requer regime de urgência para a apreciação do Projeto de Lei nº. 6234/2019, que dispõe sobre o registro da transmissão direta, mediante ato oneroso, de bens imóveis vinculados à exploração do serviço de energia elétrica, entre delegatárias de serviços de energia elétrica, e dá outras providências."
+        },
+        {
+            "id": 2242701,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2242701",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1422,
+            "ano": 2020,
+            "ementa": "Suspende a cobrança e proíbe o corte, pelo período que determina, a cobrança por parte das concessionárias de serviço público de telefonia, luz, água, internet e gás."
+        },
+        {
+            "id": 2243028,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2243028",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1528,
+            "ano": 2020,
+            "ementa": "Dispõe sobre a suspensão das cobranças e proibição de corte, por parte das \nconcessionárias de serviço público de energia elétrica e água, das taxas de consumo pelo período que determina, para templos de qualquer culto e associações sem fins lucrativos."
+        },
+        {
+            "id": 2247080,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2247080",
+            "siglaTipo": "EMP",
+            "codTipo": 131,
+            "numero": 4,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2248040,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2248040",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 93,
+            "ano": 2020,
+            "ementa": "Autoriza as instituições financeiras, mediante equalização de taxas de juros, a alongarem dívidas decorrentes de empréstimos e financiamentos de qualquer natureza, bem como a disponibilizar linhas de crédito, a título de capital de giro, em favor de pessoas jurídicas cujas atividades econômicas tenham sido impactadas negativamente em decorrência da pandemia da Covid-19."
+        },
+        {
+            "id": 2255841,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2255841",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 17,
+            "ano": 2020,
+            "ementa": "Dá nova redação à MPV 983/2020"
+        },
+        {
+            "id": 2255842,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2255842",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 18,
+            "ano": 2020,
+            "ementa": "Dá nova redação à MPV 983/2020"
+        },
+        {
+            "id": 2256820,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256820",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2020,
+            "ementa": "Dá nova redação à MPV 987/2020"
+        },
+        {
+            "id": 2261312,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2261312",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 4417,
+            "ano": 2020,
+            "ementa": "Estabelece a obrigação de restituição aos segurados, de parte dos prêmios de seguros pagos às Sociedades Seguradoras, em virtude da pandemia do Coronavírus - Covid-19."
+        },
+        {
+            "id": 2261413,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2261413",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 83,
+            "ano": 2020,
+            "ementa": "Dá nova redação à MPV 996/2020"
+        },
+        {
+            "id": 2261414,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2261414",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 84,
+            "ano": 2020,
+            "ementa": "Dá nova redação à MPV 996/2020"
+        },
+        {
+            "id": 2261415,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2261415",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 85,
+            "ano": 2020,
+            "ementa": "Dá nova redação à MPV 996/2020"
+        },
+        {
+            "id": 2261416,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2261416",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 86,
+            "ano": 2020,
+            "ementa": "Dá nova redação à MPV 996/2020"
+        },
+        {
+            "id": 2261417,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2261417",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 87,
+            "ano": 2020,
+            "ementa": "Dá nova redação à MPV 996/2020"
+        },
+        {
+            "id": 2261418,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2261418",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 88,
+            "ano": 2020,
+            "ementa": "Dá nova redação à MPV 996/2020"
+        },
+        {
+            "id": 2264464,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2264464",
+            "siglaTipo": "PRLP",
+            "codTipo": 891,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Dispõe sobre o financiamento a microempresa e empresa de pequeno e médio porte, sobre o crédito presumido apurado com base em créditos decorrentes de diferenças temporárias, sobre o compartilhamento de alienação fiduciária e sobre a dispensa do cumprimento de exigências de demonstração de regularidade fiscal nas operações praticadas pelo Banco Central do Brasil em decorrência do disposto no art. 7º da Emenda Constitucional nº 106, de 7 de maio de 2020, e altera a Lei nº 13.476, de 28 de agosto de 2017, a Lei nº 13.097, de 19 de janeiro de 2015, e a Lei nº 6.015, de 31 de dezembro de 1973."
+        },
+        {
+            "id": 2264469,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2264469",
+            "siglaTipo": "PRLP",
+            "codTipo": 891,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Dispõe sobre o financiamento a microempresa e empresa de pequeno e médio porte, sobre o crédito presumido apurado com base em créditos decorrentes de diferenças temporárias, sobre o compartilhamento de alienação fiduciária e sobre a dispensa do cumprimento de exigências de demonstração de regularidade fiscal nas operações praticadas pelo Banco Central do Brasil em decorrência do disposto no art. 7º da Emenda Constitucional nº 106, de 7 de maio de 2020, e altera a Lei nº 13.476, de 28 de agosto de 2017, a Lei nº 13.097, de 19 de janeiro de 2015, e a Lei nº 6.015, de 31 de dezembro de 1973."
+        },
+        {
+            "id": 2264666,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2264666",
+            "siglaTipo": "PRLP",
+            "codTipo": 891,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Dispõe sobre o financiamento a microempresa e empresa de pequeno e médio porte, sobre o crédito presumido apurado com base em créditos decorrentes de diferenças temporárias, sobre o compartilhamento de alienação fiduciária e sobre a dispensa do cumprimento de exigências de demonstração de regularidade fiscal nas operações praticadas pelo Banco Central do Brasil em decorrência do disposto no art. 7º da Emenda Constitucional nº 106, de 7 de maio de 2020, e altera a Lei nº 13.476, de 28 de agosto de 2017, a Lei nº 13.097, de 19 de janeiro de 2015, e a Lei nº 6.015, de 31 de dezembro de 1973."
+        },
+        {
+            "id": 2264882,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2264882",
+            "siglaTipo": "PRLP",
+            "codTipo": 891,
+            "numero": 4,
+            "ano": 0,
+            "ementa": "Dispõe sobre o financiamento a microempresa e empresa de pequeno e médio porte, sobre o crédito presumido apurado com base em créditos decorrentes de diferenças temporárias, sobre o compartilhamento de alienação fiduciária e sobre a dispensa do cumprimento de exigências de demonstração de regularidade fiscal nas operações praticadas pelo Banco Central do Brasil em decorrência do disposto no art. 7º da Emenda Constitucional nº 106, de 7 de maio de 2020, e altera a Lei nº 13.476, de 28 de agosto de 2017, a Lei nº 13.097, de 19 de janeiro de 2015, e a Lei nº 6.015, de 31 de dezembro de 1973."
+        },
+        {
+            "id": 2266998,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2266998",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 19,
+            "ano": 0,
+            "ementa": "Cria fonte de recursos para o enfrentamento de \ncalamidade pública nacional decorrente de \npandemia da COVID-19 reconhecida pelo \nCongresso Nacional."
+        },
+        {
+            "id": 2266999,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2266999",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 22,
+            "ano": 0,
+            "ementa": "Acrescente-se o seguinte § 2º ao art. 4º da Lei Complementar nº 159, de 19 de \nmaio de 2017, com a redação conferida pelo art. 13 do Substitutivo ao Projeto de Lei \nComplementar nº 101, de 2020:"
+        },
+        {
+            "id": 2267082,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2267082",
+            "siglaTipo": "REQ",
+            "codTipo": 391,
+            "numero": 2956,
+            "ano": 2020,
+            "ementa": "Requer regime de urgência para a apreciação do Projeto de Lei nº. 4417/2020, que estabelece a obrigação\nde restituição aos segurados, de parte dos prêmios de seguros pagos às Sociedades Seguradoras, em virtude da\npandemia do Coronavírus - Covid-19."
+        },
+        {
+            "id": 2268427,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268427",
+            "siglaTipo": "DOC",
+            "codTipo": 863,
+            "numero": 1,
+            "ano": 2021,
+            "ementa": "Constitui Bloco Parlamentar."
+        },
+        {
+            "id": 2268430,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268430",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 3,
+            "ano": 2021,
+            "ementa": "Senhor Presidente,\nA Bancada do Partido Social Cristão – PSC, abaixo-assinada, indica o Deputado ALUISIO MENDES - PSC/MA para líder do partido na Câmara dos Deputados, a partir de JANEIRO DE 2021."
+        },
+        {
+            "id": 2268630,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268630",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 29,
+            "ano": 2021,
+            "ementa": "Comunica líder do Bloco Parlamentar PP, PL, PSD, REPUBLICANOS, PROS, PODEMOS, PSC, AVANTE, PATRIOTA."
+        },
+        {
+            "id": 2270376,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270376",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 8,
+            "ano": 0,
+            "ementa": "Equipara ao setor de eventos o setor de alimentação fora do lar."
+        },
+        {
+            "id": 2270517,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270517",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1029/2021"
+        },
+        {
+            "id": 2271050,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271050",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 630,
+            "ano": 2021,
+            "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para obrigar o poder público a fomentar projetos e programas específicos de atenção à saúde e educação especializada para pessoas com Transtorno do Espectro Autista."
+        },
+        {
+            "id": 2271088,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271088",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 19,
+            "ano": 2021,
+            "ementa": "ATA DA BANCADA DO ESTADO DE GOIAS - LOA 2021"
+        },
+        {
+            "id": 2273953,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273953",
+            "siglaTipo": "DOC",
+            "codTipo": 861,
+            "numero": 86,
+            "ano": 2021,
+            "ementa": "Adesão do Deputado Glaustin da Fokus à Frente Parlamentar Mista da Mineração."
+        },
+        {
+            "id": 2274269,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2274269",
+            "siglaTipo": "REQ",
+            "codTipo": 664,
+            "numero": 518,
+            "ano": 2021,
+            "ementa": "Requer a retirada de tramitação da Emenda em Comissão n° 2 a MPV 1029/2021 que altera a Lei nº 13.475, de 28 de agosto de 2017, que dispõe sobre oexercício da profissão de tripulante de aeronave, denominado aeronauta."
+        },
+        {
+            "id": 2274721,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2274721",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1020,
+            "ano": 2021,
+            "ementa": "Altera o artigo 31 da Lei Federal nº 8.078, de 11 de setembro de 1.990 (Código de Defesa do Consumidor), para dispor sobre os deveres do fornecedor de apresentar aos consumidores as bulas de todos os medicamentos farmacêuticos ou fitoterápicos, inclusive os manipulados, habitualmente comercializados."
+        },
+        {
+            "id": 2274727,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2274727",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin da Fokus (PSC-GO), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2274729,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2274729",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2275537,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275537",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 5,
+            "ano": 2021,
+            "ementa": "Altera artigo 130-A da Constituição Federal no que trata da composição do Conselho Nacional do Ministério Público e  dá outras providências."
+        },
+        {
+            "id": 2277635,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277635",
+            "siglaTipo": "DOC",
+            "codTipo": 863,
+            "numero": 170,
+            "ano": 2021,
+            "ementa": "Com os nossos cumprimentos, informamos a Vossa Excelência que os Deputados abaixo-assinados dos partidos: PTB/ PROS/ PSC, apoiam o desligamento em conjunto do Bloco: PSL/ PL/ PP/ PSD/ MDB/ PSDB/ REPUBLICANOS/ DEM/ PROS/ PTB/ PODE/ PSC/ AVANTE/ PATRIOTA.\nComunicam ainda que permanecerão funcionando como bloco parlamentar (PTB/ PROS/ PSC)."
+        },
+        {
+            "id": 2277636,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2277636",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 171,
+            "ano": 2021,
+            "ementa": "Os Deputados que constituem o Bloco Parlamentar formado pelo PTB/ PROS/ PSC, conforme o § 2º do art. 9º do Regimento Interno, comunicam à Mesa Diretora da Câmara dos Deputados a indicação do Deputado ALUISIO MENDES (PSC/MA) para o exercício do cargo de Líder do Bloco Parlamentar."
+        },
+        {
+            "id": 2278250,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2278250",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 775,
+            "ano": 2021,
+            "ementa": "Requer registro da Frente Parlamentar Mista - Brasil Competitivo."
+        },
+        {
+            "id": 2283091,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2283091",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin da Fokus (PSC-GO), pela aprovação."
+        },
+        {
+            "id": 2283093,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2283093",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin da Fokus (PSC-GO), pela rejeição."
+        },
+        {
+            "id": 2283121,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2283121",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin da Fokus (PSC-GO), pela aprovação deste, do PL 706/2019, do PL 3231/2019, do PL 4325/2019, do PL 128/2020, do PL 205/2020, do PL 4859/2020, e do PL 497/2021, apensados, com Substitutivo."
+        },
+        {
+            "id": 2283122,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2283122",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Proíbe o uso de fogos de artifício com estampido."
+        },
+        {
+            "id": 2284479,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284479",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1935,
+            "ano": 2021,
+            "ementa": "Altera o artigo 31 da Lei Federal nº 8.078, de 11 de setembro de 1.990 (Código de Defesa do Consumidor), para dispor sobre os deveres do fornecedor de apresentar aos consumidores os testes de equivalência farmacêutica, perfil de dissolução, bio-equivalência, bem como origem de matéria prima dos princípios ativos para produção/fabricação dos remédios genéricos e similares."
+        },
+        {
+            "id": 2284555,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2284555",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 14,
+            "ano": 2021,
+            "ementa": "Altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais."
+        },
+        {
+            "id": 2285796,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285796",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 33,
+            "ano": 2021,
+            "ementa": "Requer aditamento ao Requerimento nº 31/2021, para inclusão de convidado na audiência pública para instruir a apreciação do PL nº 3274/2015."
+        },
+        {
+            "id": 2285908,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2285908",
+            "siglaTipo": "VTS",
+            "codTipo": 260,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera as Leis nos 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003, para criar benefícios para as empresas que contratem planos privados de assistência à saúde para seus empregados."
+        },
+        {
+            "id": 2286770,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2286770",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a PEC 32/2020( reforma administrativa) para criar o Regime Jurídico Peculiar dos Policiais Civis da União e do Distrito Federal, estendendo esse regime aos Estados e Municípios, para os seus \"policiais\".  As categorias englobadas são:  UNIÃO: Policiais Federais, Policiais Rodoviários Federais, Policiais Penais Federais; ESTADOS E DF: Policiais Civis Distritais e Estaduais, Policiais e Integrantes da Polícia Científica Estadual, Policiais Penais Estaduais, Agentes de Segurança Socioeducativos Estaduais, Agentes de Trânsito Estaduais; MUNICÍPIOS: Guardas Municipais e Agentes de Trânsito Municipais"
+        },
+        {
+            "id": 2286797,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2286797",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 7,
+            "ano": 0,
+            "ementa": "Acrescenta dispositivos à Constituição Federal"
+        },
+        {
+            "id": 2288214,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288214",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 1377,
+            "ano": 2021,
+            "ementa": "Solicita urgência urgentíssima (art. 155 do Regimento Interno da Câmara dos Deputados) para apreciação do Projeto de Lei nº 2.170, de 2021."
+        },
+        {
+            "id": 2288983,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2288983",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin da Fokus (PSC-GO), pela aprovação."
+        },
+        {
+            "id": 2289483,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289483",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin da Fokus (PSC-GO), pela aprovação deste, e do PL 4670/2020, apensado, com Substitutivo."
+        },
+        {
+            "id": 2289486,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289486",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Dispõe sobre normas gerais de proteção aos animais em situação de desastre e altera a Lei n° 9.605, de 12 de fevereiro de 1998 (Lei dos Crimes Ambientais), para tipificar crime de maus tratos a animais relacionado à ocorrência de desastre, e a Lei n° 12.334, de 20 de setembro de 2010 (Lei de Segurança de Barragens), para incluir na Política Nacional de Segurança de Barragens (PNSB) os cuidados com animais vitimados por desastres."
+        },
+        {
+            "id": 2289778,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289778",
+            "siglaTipo": "EMP",
+            "codTipo": 870,
+            "numero": 4,
+            "ano": 0,
+            "ementa": "Altera as expressões “com a perspectiva de gênero e de raça ou etnia” contidas nos incisos II e VIII do art. 8º do Projeto para “com recorte por sexo e raça ou etnia” e “considerando o sexo e a raça ou etnia”, respectivamente."
+        },
+        {
+            "id": 2289988,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289988",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 1473,
+            "ano": 2021,
+            "ementa": "Requer, nos termos regimentais, urgência para apreciação do Projeto de Decreto Legislativo nº 292, de 2021, que “Susta os efeitos do Portaria GM/SM nº 1.263, de 18 de junho de 2021, que dispõe sobre a aplicação de emendas parlamentares que adicionarem recursos ao Sistema Único de Saúde (SUS), para a realização de transferências do Fundo Nacional de Saúde aos fundos de saúde dos Estados, Distrito Federal e Municípios, no exercício de 2021”."
+        },
+        {
+            "id": 2290110,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290110",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 318,
+            "ano": 2021,
+            "ementa": "Nos termos dos §§ 2º e 3º do art. 9º do Regimento Interno, informamos que a Liderança do Bloco PROS, PSC e PTB, obedecerá a rodízio durante a 3ª Sessão Legislativa, da 56ª Legislatura, conforme acordo celebrado e na forma do cronograma indicado"
+        },
+        {
+            "id": 2291096,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291096",
+            "siglaTipo": "ATACN",
+            "codTipo": 897,
+            "numero": 32,
+            "ano": 2021,
+            "ementa": "ATA DA BANCADA DO ESTADO DE GOIAS - LDO 2022"
+        },
+        {
+            "id": 2292250,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292250",
+            "siglaTipo": "REQ",
+            "codTipo": 525,
+            "numero": 38,
+            "ano": 2021,
+            "ementa": "Requer, nos termos do § 4º do art. 46 do Regimento Interno da Câmara dos Deputados, a convocação de reunião extraordinária da Comissão Especial destinada a dar parecer à PEC n. 125, de 2011."
+        },
+        {
+            "id": 2292797,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292797",
+            "siglaTipo": "REQ",
+            "codTipo": 525,
+            "numero": 39,
+            "ano": 2021,
+            "ementa": "Requer, nos termos do § 4º do art. 46 do Regimento Interno da Câmara dos Deputados, a convocação de reunião extraordinária da Comissão Especial destinada a dar parecer à PEC n. 125, de 2011."
+        },
+        {
+            "id": 2292798,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292798",
+            "siglaTipo": "REQ",
+            "codTipo": 525,
+            "numero": 40,
+            "ano": 2021,
+            "ementa": "Requer, nos termos do § 4º do art. 46 do Regimento Interno da Câmara dos Deputados, a convocação de reunião extraordinária da Comissão Especial destinada a dar parecer à PEC n. 125, de 2011."
+        },
+        {
+            "id": 2292799,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2292799",
+            "siglaTipo": "REQ",
+            "codTipo": 525,
+            "numero": 41,
+            "ano": 2021,
+            "ementa": "Requer, nos termos do § 4º do art. 46 do Regimento Interno da Câmara dos Deputados, a convocação de reunião extraordinária da Comissão Especial destinada a dar parecer à PEC n. 125, de 2011."
+        },
+        {
+            "id": 2293127,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293127",
+            "siglaTipo": "REQ",
+            "codTipo": 312,
+            "numero": 42,
+            "ano": 2021,
+            "ementa": "Requer, nos termos regimentais a retirada do Requerimento de Convocação de Reunião Extraordinária nº 40/2021, da Comissão Especial destinada a dar parecer à PEC n. 125, de 2011."
+        },
+        {
+            "id": 2293128,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293128",
+            "siglaTipo": "REQ",
+            "codTipo": 312,
+            "numero": 43,
+            "ano": 2021,
+            "ementa": "Requer, nos termos regimentais a retirada do Requerimento de Convocação de Reunião Extraordinária nº 41/2021, da Comissão Especial destinada a dar parecer à PEC n. 125, de 2011."
+        },
+        {
+            "id": 2293129,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293129",
+            "siglaTipo": "REQ",
+            "codTipo": 312,
+            "numero": 44,
+            "ano": 2021,
+            "ementa": "Requer, nos termos regimentais a retirada do Requerimento de Convocação de Reunião Extraordinária nº 39/2021, da Comissão Especial destinada a dar parecer à PEC n. 125, de 2011."
+        },
+        {
+            "id": 2293985,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2293985",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 1649,
+            "ano": 2021,
+            "ementa": "Requer dispensa do interstício regimental entre o primeiro e o segundo turno de deliberação da Proposta de Emenda à Constituição nº 125, de 2011."
+        },
+        {
+            "id": 2296829,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2296829",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 53,
+            "ano": 2021,
+            "ementa": "Requer seja realizada Audiência Pública conjunta para debater o processo de abertura comercial do Brasil, especialmente a revisão das tarifas de importação."
+        },
+        {
+            "id": 2296883,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2296883",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin da Fokus (PSC-GO), pela aprovação deste, e da Emenda Adotada pela Comissão de Defesa do Consumidor, com substitutivo."
+        },
+        {
+            "id": 2296889,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2296889",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Dispõe sobre os planos privados de assistência à saúde animal."
+        },
+        {
+            "id": 2298408,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298408",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin da Fokus (PSC-GO), pela aprovação deste, e do PL 2645/2021, apensado, com substitutivo."
+        },
+        {
+            "id": 2298409,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2298409",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 2299035,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299035",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 1846,
+            "ano": 2021,
+            "ementa": "Requer urgência para o Projeto de Lei nº 2541, de 2021."
+        },
+        {
+            "id": 2299653,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2299653",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 1867,
+            "ano": 2021,
+            "ementa": "Requer o registro da Frente Parlamentar em Apoio ao Produtor de Leite perante a Mesa da Câmara dos Deputados."
+        },
+        {
+            "id": 2301088,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2301088",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 32,
+            "ano": 2021,
+            "ementa": "Altera a Constituição Federal para elevar para setenta anos a idade máxima para a escolha e nomeação de membros do Supremo Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais, do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho e do Tribunal de Contas da União. NOVA EMENTA: Altera a Constituição Federal para elevar para setenta anos a idade máxima para a escolha e nomeação de membros do Supremo Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais, do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho, do Tribunal de Contas da União e dos Ministros civis do Superior Tribunal Militar."
+        },
+        {
+            "id": 2301824,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2301824",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin da Fokus (PSC-GO), pela rejeição."
+        },
+        {
+            "id": 2302987,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2302987",
+            "siglaTipo": "REQ",
+            "codTipo": 391,
+            "numero": 2071,
+            "ano": 2021,
+            "ementa": "Requer regime de urgência para a apreciação do Projeto de Lei nº 1935/2021, que altera o artigo 31 da Lei Federal nº 8.078, de 11 de setembro de 1.990 (Código de Defesa do Consumidor), para dispor sobre os deveres do fornecedor de apresentar aos consumidores os testes de equivalência farmacêutica, perfil de dissolução, bio-equivalência, bem como origem de matéria prima dos princípios ativos para produção/fabricação dos remédios genéricos e similares."
+        },
+        {
+            "id": 2303561,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2303561",
+            "siglaTipo": "REQ",
+            "codTipo": 308,
+            "numero": 2140,
+            "ano": 2021,
+            "ementa": "Requer o encaminhamento da PEC nº 14/2021 à CCJC."
+        },
+        {
+            "id": 2305530,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2305530",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin da Fokus (PSC-GO), pela aprovação."
+        },
+        {
+            "id": 2307893,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307893",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Glaustin da Fokus (PSC-GO), pela aprovação, com Substitutivo."
+        },
+        {
+            "id": 2307895,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307895",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Dispõe sobre a compensação de jornada de trabalho do empregado por meio de banco de horas enquanto perdurar, no território nacional, a emergência em saúde pública decorrente do coronavírus."
+        },
+        {
+            "id": 2307979,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307979",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 2430,
+            "ano": 2021,
+            "ementa": "Requer a realização de sessão solene, no Plenário da Câmara dos Deputados, em Homenagem aos 70 anos da Igreja do Evangelho Quadrangular."
+        },
+        {
+            "id": 2307980,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2307980",
+            "siglaTipo": "REQ",
+            "codTipo": 308,
+            "numero": 2431,
+            "ano": 2021,
+            "ementa": "Reque a reanálise de distribuição  de projeto de Lei."
+        },
+        {
+            "id": 2313069,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313069",
+            "siglaTipo": "REQ",
+            "codTipo": 323,
+            "numero": 2857,
+            "ano": 2021,
+            "ementa": "Requer dispensa do interstício regimental entre o primeiro e o segundo turno de deliberação da Proposta de Emenda à Constituição nº 200, de 2016."
+        },
+        {
+            "id": 2313114,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313114",
+            "siglaTipo": "REQ",
+            "codTipo": 293,
+            "numero": 2861,
+            "ano": 2021,
+            "ementa": "Requer a realização de sessão solene para homenagear o cantor e compositor Édison Coelho."
+        },
+        {
+            "id": 2313791,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313791",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 7,
+            "ano": 2022,
+            "ementa": "Indicação do Dep. Euclydes Pettersen como líder do partido."
+        },
+        {
+            "id": 2313958,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2313958",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 9,
+            "ano": 2022,
+            "ementa": "Indicação Líder PSC 2022"
+        },
+        {
+            "id": 2314162,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314162",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 167,
+            "ano": 2022,
+            "ementa": "Dispõe sobre normas de vigilância sanitária, de \nfabricação, comercialização, publicidade, os requisitos\nsanitários e os demais regulamentos afetos aos produtos \ne insumos da Medicina Tradicional Chinesa (MTC), dos \nmedicamentos fitoterápicos e dos produtos tradicionais \nfitoterápicos e correlatos, e dá outras providências."
+        },
+        {
+            "id": 2314723,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314723",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 98,
+            "ano": 2022,
+            "ementa": "Indica o Dep. Federal Euclydes Pettersen (PSC/MG) como líder do bloco do PSC/PTB na Câmara dos Deputados."
+        },
+        {
+            "id": 2314821,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2314821",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 138,
+            "ano": 2022,
+            "ementa": "REQUER O REGISTRO DA FRENTE PARLAMENTAR MISTA DO EMPREENDEDORISMO"
+        },
+        {
+            "id": 2318956,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2318956",
+            "siglaTipo": "REQ",
+            "codTipo": 392,
+            "numero": 453,
+            "ano": 2022,
+            "ementa": "Requer regime de urgência para apreciação do Projeto de Lei nº 2832/2021, que “institui o Dia Nacional do Cristão.”"
+        },
+        {
+            "id": 2321377,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2321377",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1102,
+            "ano": 2022,
+            "ementa": "Concede anistia aos fatos que especifica."
+        }
+    ]
+}

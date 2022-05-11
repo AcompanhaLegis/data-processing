@@ -1,0 +1,3100 @@
+{
+    "id": 141434,
+    "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141434",
+    "nome": "Flaviano Melo",
+    "siglaPartido": "MDB",
+    "uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36899",
+    "siglaUf": "AC",
+    "idLegislatura": 56,
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141434.jpg",
+    "email": "dep.flavianomelo@camara.leg.br",
+    "proposicoes": [
+        {
+            "id": 340497,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/340497",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 38,
+            "ano": 2007,
+            "ementa": "Sugere ao Ministro da Saúde a realização de uma campanha de controle e prevenção à malária na região Norte."
+        },
+        {
+            "id": 340667,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/340667",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 45,
+            "ano": 2007,
+            "ementa": "Sugere ao MInistro da Agricultura a reedição da Instrução Normativa nº 82, do Ministério da Agricultura, que regulamenta os termos de comércio interestadual de carne e animais bovinos."
+        },
+        {
+            "id": 340893,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/340893",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 7,
+            "ano": 2007,
+            "ementa": "Altera os  arts. 98 e 144 da Constituição Federal."
+        },
+        {
+            "id": 342727,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/342727",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 8,
+            "ano": 2007,
+            "ementa": "Dá nova redação ao art. 82, da Constituição Federal, para alterar a data do início do mandato do Presidente da República."
+        },
+        {
+            "id": 342759,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/342759",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 19,
+            "ano": 2007,
+            "ementa": "Propõe a criação da Subcomissão Permanente de Aqüicultura e Pesca, no âmbito da Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural."
+        },
+        {
+            "id": 343239,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/343239",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 412,
+            "ano": 2007,
+            "ementa": "Requer a realização de Sessão Solene pelo Centenário de Nascimento do arquiteto Oscar Niemeyer."
+        },
+        {
+            "id": 343431,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/343431",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 10,
+            "ano": 2007,
+            "ementa": "Acresce parágrafo ao art. 217 da Constituição Federal."
+        },
+        {
+            "id": 344690,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/344690",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 422,
+            "ano": 2007,
+            "ementa": "Altera o art. 162, Seção III, e o art. 168, Seção V, do Capítulo V do Título II da Consolidação das Leis do Trabalho, relativo à segurança e medicina do trabalho e dá outras providências."
+        },
+        {
+            "id": 346322,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/346322",
+            "siglaTipo": "RCP",
+            "codTipo": 143,
+            "numero": 2,
+            "ano": 2007,
+            "ementa": "Requer a criação de Comissão Parlamentar de Inquérito, com a finalidade de investigar a realidade do Sistema Carcerário brasileiro, com destaque para a superlotação dos presídios, custos sociais e econômicos desses estabelecimentos, a permanência de encarcerados que já cumpriram pena, a violência dentro das instituições do sistema carcerário, a corrupção, o crime organizado e suas ramificações nos presídios e buscar soluções para o efetivo cumprimento da Lei de Execuções Penais."
+        },
+        {
+            "id": 347707,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/347707",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 33,
+            "ano": 2007,
+            "ementa": "Altera o § 6º do art. 226 da Constituição Federal, para supressão do instituto da separação judicial."
+        },
+        {
+            "id": 347718,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/347718",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 34,
+            "ano": 2007,
+            "ementa": "Dá nova redação ao art. 37 da Constituição Federal."
+        },
+        {
+            "id": 348719,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/348719",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 45,
+            "ano": 2007,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 348726,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/348726",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 46,
+            "ano": 2007,
+            "ementa": "Acrescenta § 3º-A ao art. 66 da Constituição Federal."
+        },
+        {
+            "id": 349704,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/349704",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 53,
+            "ano": 2007,
+            "ementa": "Dá nova redação ao § 3º do Art. 39 da Constituição Federal."
+        },
+        {
+            "id": 353351,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/353351",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 72,
+            "ano": 2007,
+            "ementa": "Dá nova redação ao parágrafo 5º do art. 14 da Constituição Federal e acrescenta artigo ao Ato das Disposições Transitórias."
+        },
+        {
+            "id": 353508,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/353508",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 81,
+            "ano": 2007,
+            "ementa": "Requeremos, nos termos dos Art. 52, § 5º do Regimento Interno da Câmara dos Deputados, que seja incluída na pauta, a Emenda à LDO anexa para que seja votada na reunião de hoje."
+        },
+        {
+            "id": 354077,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/354077",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 78,
+            "ano": 2007,
+            "ementa": "Altera o § 1º do art. 53 da Constituição Federal."
+        },
+        {
+            "id": 354341,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/354341",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 83,
+            "ano": 2007,
+            "ementa": "Acrescenta o § 4º ao art. 25 da Constituição Federal e o art. 182-A, instituindo o plano diretor metropolitano e sua obrigatoriedade."
+        },
+        {
+            "id": 355556,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/355556",
+            "siglaTipo": "EMP",
+            "codTipo": 131,
+            "numero": 186,
+            "ano": 2007,
+            "ementa": "Modifica  a  redação do art. 17,§ 5º,  inciso IV da Lei 9.504/1997,  constante do  art. 5º do PL 1.210/2007."
+        },
+        {
+            "id": 355864,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/355864",
+            "siglaTipo": "EMP",
+            "codTipo": 131,
+            "numero": 145,
+            "ano": 2007,
+            "ementa": "Acrescenta dispositivo a  redação do art. 17,§ 5º,  da Lei 9.504/1997, incluindo alínea ao \tinciso III  , constante do  art. 5º do PL 1.210/2007."
+        },
+        {
+            "id": 384905,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/384905",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 13,
+            "ano": 2008,
+            "ementa": "Acrescenta dispositivos à Proposta de Emenda à Constituição nº 511-A, de 2006, do Senado Federal, que \"altera o art. 62 da Constituição Federal para disciplinar a edição de medidas provisórias”."
+        },
+        {
+            "id": 384916,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/384916",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 14,
+            "ano": 2008,
+            "ementa": "Altera o art. 62 da Constituição Federal para disciplinar a edição de medidas provisórias."
+        },
+        {
+            "id": 384994,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/384994",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 18,
+            "ano": 2008,
+            "ementa": "Altera o art. 62 da Constituição Federal para disciplinar a edição de medidas provisórias."
+        },
+        {
+            "id": 384995,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/384995",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 19,
+            "ano": 2008,
+            "ementa": "Altera o art. 62 da Constituição Federal para disciplinar a edição de medidas provisórias."
+        },
+        {
+            "id": 384996,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/384996",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 20,
+            "ano": 2008,
+            "ementa": "Altera o art. 62 da Constituição Federal para disciplinar a edição de medidas provisórias."
+        },
+        {
+            "id": 384999,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/384999",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 21,
+            "ano": 2008,
+            "ementa": "Altera o art. 62 da Constituição Federal para disciplinar a edição de medidas provisórias."
+        },
+        {
+            "id": 385000,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/385000",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 22,
+            "ano": 2008,
+            "ementa": "Altera o art. 62 da Constituição Federal para disciplinar a edição de medidas provisórias."
+        },
+        {
+            "id": 385001,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/385001",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 23,
+            "ano": 2008,
+            "ementa": "Altera o art. 62 da Constituição Federal para disciplinar a edição de medidas provisórias."
+        },
+        {
+            "id": 385002,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/385002",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 24,
+            "ano": 2008,
+            "ementa": "Altera o art. 62 da Constituição Federal para disciplinar a edição de medidas provisórias."
+        },
+        {
+            "id": 385005,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/385005",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 25,
+            "ano": 2008,
+            "ementa": "Altera o art. 62 da Constituição Federal para disciplinar a edição de medidas provisórias."
+        },
+        {
+            "id": 385007,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/385007",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 26,
+            "ano": 2008,
+            "ementa": "Altera o art. 62 da Constituição Federal para disciplinar a edição de medidas provisórias."
+        },
+        {
+            "id": 393037,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/393037",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3353,
+            "ano": 2008,
+            "ementa": "Dispõe sobre a obrigatoriedade da reserva de locais apropriados para a acomodação de  portadores de deficiência física em teatros, cinemas  e onde ocorra evento cultural em todo o território nacional."
+        },
+        {
+            "id": 393042,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/393042",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 2331,
+            "ano": 2008,
+            "ementa": "Sugere ao Ministro da Justiça  a possibilidade de criação de uma Delegacia da Polícia Rodoviária Federal em Cruzeiro do Sul, no Estado do Acre."
+        },
+        {
+            "id": 393977,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/393977",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 51,
+            "ano": 2008,
+            "ementa": "Altera o Sistema  Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 393978,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/393978",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 52,
+            "ano": 2008,
+            "ementa": "Altera o Sistema  Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 394335,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394335",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 66,
+            "ano": 2008,
+            "ementa": "Altere-se o art. 1º da PEC nº 233-A/2008, apensada à PEC nº 31/2007, para: a)alterar o art. 153, § 3º , III, da Constituição; b)acrescentar o § 8º ao art. 153, o § 7º ao art. 155 e o § 9º ao art. 155-A, todos da Constituição;"
+        },
+        {
+            "id": 394353,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394353",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 67,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 394354,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394354",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 68,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 394627,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394627",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 72,
+            "ano": 2008,
+            "ementa": "Altera o art 1º da PEC nº 233/2008 com o objetivo de criar estímulos ao desenvolvimento sustentável da região amazônica."
+        },
+        {
+            "id": 394955,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394955",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 91,
+            "ano": 2008,
+            "ementa": "Emenda à PEC 233/2008 - Altera o Sistema Tributário Nacional e dá outras providências. (Apensada à PEC 31/07)."
+        },
+        {
+            "id": 394956,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394956",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 92,
+            "ano": 2008,
+            "ementa": "Emenda à PEC 233/2008 - Altera o Sistema Tributário Nacional e dá outras providências. (Apensada à PEC 31/07)."
+        },
+        {
+            "id": 394957,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394957",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 93,
+            "ano": 2008,
+            "ementa": "Emenda à PEC 233/2008 - Altera o Sistema Tributário Nacional e dá outras providências. (Apensada à PEC 31/07)."
+        },
+        {
+            "id": 394958,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394958",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 94,
+            "ano": 2008,
+            "ementa": "Emenda à PEC 233/2008 - Altera o Sistema Tributário Nacional e dá outras providências. (Apensada à PEC 31/07)."
+        },
+        {
+            "id": 394961,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394961",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 95,
+            "ano": 2008,
+            "ementa": "Emenda à PEC 233/2008 - Altera o Sistema Tributário Nacional e dá outras providências. (Apensada à PEC 31/07)."
+        },
+        {
+            "id": 394968,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394968",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 96,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 394971,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394971",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 97,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 394972,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394972",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 98,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 394973,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/394973",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 99,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 395006,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/395006",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 106,
+            "ano": 2008,
+            "ementa": "EMENDA MODIFICATIVA - IVA NACIONAL DA PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 233, DE 2008, apensada à pec Nº 31-a DE 2007."
+        },
+        {
+            "id": 395101,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/395101",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 114,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 395781,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/395781",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 191,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 395892,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/395892",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 198,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 395931,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/395931",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 201,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 395932,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/395932",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 202,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 396023,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/396023",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 207,
+            "ano": 2008,
+            "ementa": "EMENDA SUBSTITUTIVA GLOBAL DO DEP MÁRIO NEGROMONTE À PROPOSTA DE EMENDA À CONSTITUIÇÃO Nº 31-A, DE 2007."
+        },
+        {
+            "id": 396168,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/396168",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 232,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 396181,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/396181",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 235,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 396182,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/396182",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 236,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 396611,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/396611",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 269,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 396827,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/396827",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 280,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 396832,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/396832",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 281,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 396994,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/396994",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 287,
+            "ano": 2008,
+            "ementa": "Apresentação junto a Comissão Especial Destinada a Proferir Parecer à Emenda Constitucional nº 233/2008, de Emenda Modificação, Alterando o § 1º do art. 156 da Constituição Federal."
+        },
+        {
+            "id": 396999,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/396999",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 288,
+            "ano": 2008,
+            "ementa": "Emenda Modificativa a Proposta de Emenda Constitucional nº. 233, DE 2008, que Altera o Sistema Tributário Nacional e dá outras providências, apresentada na Comissão Especial Destinada a Proferir Parecer à PEC nº  233, DE 2008."
+        },
+        {
+            "id": 397084,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397084",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 289,
+            "ano": 2008,
+            "ementa": "Aumenta recursos destinados à saúde."
+        },
+        {
+            "id": 397086,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397086",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 290,
+            "ano": 2008,
+            "ementa": "Princípio da anterioridade do novo Imposto sobre Valor Agregado Federal (IVA-F)"
+        },
+        {
+            "id": 397087,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397087",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 291,
+            "ano": 2008,
+            "ementa": "Propõe que modificações no imposto sobre produtos industrializados devem ser promovidos por lei e não por decreto presidencial"
+        },
+        {
+            "id": 397088,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397088",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 292,
+            "ano": 2008,
+            "ementa": "Destina 9% do Fundo de Equalização de Receitas para entrega aos municípios."
+        },
+        {
+            "id": 397151,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397151",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 293,
+            "ano": 2008,
+            "ementa": "Acrescente-se ao art. 37 da Constituição Federal, a ser incluído na redação da PEC n.º 233, de 2008, que altera o Sistema Tributário Nacional, os seguintes parágrafos:"
+        },
+        {
+            "id": 397197,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397197",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 297,
+            "ano": 2008,
+            "ementa": "Acrescenta o § 1º ao artigo 3º da PEC nº 233, de  2008, com a seguinte redação, ficando renumerado para § 2º o atual parágrafo único"
+        },
+        {
+            "id": 397304,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397304",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 322,
+            "ano": 2008,
+            "ementa": "EMENDA  SUBSTITUTIVA  GLOBAL Nº ______/2008 (DO SR. ARNALDO FARIA DE SÁ E OUTROS)    Dá nova redação ao art. 1º da PEC nº 233/2008, acrescentando dois novos  incisos ao § 6º do art. 153 da Constituição Federal, acrescentando o § 8º ao art. 153 da Constituição Federal, alterando a redação do inciso VI do § 6º do art. 155-A da Constituição Federal, alterando a redação do § 2º do art. 155-A da Constituição Federal e alterando a redação dos incisos I e V do § 2º do art. 155-A da Constituição Federal."
+        },
+        {
+            "id": 397309,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397309",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 324,
+            "ano": 2008,
+            "ementa": "Acrescenta o art. 96 ao Ato das Disposições Constitucionais Transitórias, com a seguinte redação:  Art. 96 - A União, no prazo máximo de 2 anos a contar da publicação dessa Emenda Constitucional, regulamentará por lei todos os programas de cooperação técnica e financeira com Estados e Municípios, prevendo na mesma as responsabilidades de cada ente, a forma de financiamento, a atualização financeira e duração dos mesmos, sendo que a partir da entrada em vigor da presente emenda não poderão ser criados mais a não ser através de lei."
+        },
+        {
+            "id": 397383,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397383",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 329,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397384,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397384",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 330,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397391,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397391",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 331,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397406,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397406",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 334,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397515,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397515",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 337,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributario Nacional e da outras providências"
+        },
+        {
+            "id": 397520,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397520",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 338,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397521,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397521",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 339,
+            "ano": 2008,
+            "ementa": "Suprima-se o inciso II do § 1º do art .212  da Proposta de Emenda à Constituição nº 233, de 2008. A proposta afronta princípio definido pelo legislador constituinte."
+        },
+        {
+            "id": 397546,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397546",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 341,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397548,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397548",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 342,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397549,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397549",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 343,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397551,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397551",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 344,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397554,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397554",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 345,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397556,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397556",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 346,
+            "ano": 2008,
+            "ementa": "ALTERA O SISTEMA TRIBUTÁRIO NACIONAL E DÁ OUTRAS PROVIDÊNCIAS."
+        },
+        {
+            "id": 397560,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397560",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 348,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397568,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397568",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 350,
+            "ano": 2008,
+            "ementa": "Emenda Modificativa a Proposta de Emenda Constitucional nº. 233, DE 2008, que Altera o Sistema Tributário Nacional e dá outras providências, apresentada na Comissão Especial Destinada a Proferir Parecer à PEC nº  233, DE 2008."
+        },
+        {
+            "id": 397569,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397569",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 351,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397590,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397590",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 356,
+            "ano": 2008,
+            "ementa": "ALTERA O SISTEMA TRIBUTÁRIO NACIONAL, IMPEDINDO A TRANSFORMAÇÃO DAS CONTRIBUIÇÕES COFINS, PIS, CIDE E SALÁRIO EDUCAÇÃO NO IVA-F."
+        },
+        {
+            "id": 397591,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397591",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 357,
+            "ano": 2008,
+            "ementa": "ALTERA O SISTEMA TRIBUTÁRIO, EXTINGUINDO AS ISENÇÕES DE IMPOSTO DE RENDA SOBRE A DISTRIBUIÇÃO DE LUCROS E SOBRE OS GANHOS DOS ESTRANGEIROS COM TÍTULOS DA DÍVIDA INTERNA."
+        },
+        {
+            "id": 397593,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397593",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 358,
+            "ano": 2008,
+            "ementa": "ALTERA O SISTEMA TRIBUTÁRIO NACIONAL, PREVENDO QUE A REDUÇÃO DA CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL SOBRE A FOLHA SERÁ COMPENSADA POR CONTRIBUIÇÕES INCIDENTES SOBRE O FATURAMENTO OU O LUCRO"
+        },
+        {
+            "id": 397594,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397594",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 359,
+            "ano": 2008,
+            "ementa": "ALTERA O SISTEMA TRIBUTÁRIO NACIONAL, RETIRANDO DA CONSTITUIÇÃO A ISENÇÃO TRIBUTÁRIA PARA AS EXPORTAÇÕES"
+        },
+        {
+            "id": 397596,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397596",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 360,
+            "ano": 2008,
+            "ementa": "ALTERA O SISTEMA TRIBUTÁRIO NACIONAL, AUMENTANDO DE 51,6% PARA 100% A PARTICIPAÇÃO DOS ESTADOS E MUNICÍPIOS NA PARTILHA DO IMPOSTO SOBRE GRANDES FORTUNAS"
+        },
+        {
+            "id": 397597,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397597",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 361,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397600,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397600",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 362,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 397610,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397610",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 369,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397611,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397611",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 370,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397612,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397612",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 371,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397613,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397613",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 372,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397635,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397635",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 376,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397689,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397689",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 398,
+            "ano": 2008,
+            "ementa": "Inclua-se no art. 1º da PEC nº 233-A/2008 o seguinte parágrafo ao art. 20 da Constituição:   “Art. 20. ................................................................. ................................................................................ § 1º-A A exploração de petróleo, gás natural e de outros recursos minerais estará sujeita a idênticas alíquotas de compensação financeira; .......................................................................” (NR)"
+        },
+        {
+            "id": 397695,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397695",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 399,
+            "ano": 2008,
+            "ementa": "implementemos um regime especial, simplificado e privilegiado, para as obrigações tributárias, aduaneiras, cambiais, trabalhistas e previdenciárias que decorrem das atividades de produção das obras audiovisuais. É necessária a criação de um programa específico de isenção  fiscal para produções estrangeiras a serem realizadas em território nacional, a facilitação dos procedimentos de importação temporária de bens e equipamentos de filmagem, da isenção de impostos para importação de equipamentos sem similar nacional (ex-tarifário, da desoneração dos impostos incidentes sobre entrada e saída de divisas para o exterior, entre outros)."
+        },
+        {
+            "id": 397700,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397700",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 400,
+            "ano": 2008,
+            "ementa": "Inclua-se no art. 1º da PEC nº 233-A/2008 o seguinte parágrafo ao art. 20 da Constituição:   “Art. 20. ................................................................. ................................................................................ § 1º-A No caso de grandes volumes ou de grande rentabilidade na exploração de petróleo, gás natural e de outros recursos minerais, será assegurado o pagamento de participação especial aos Estados, ao Distrito Federal e aos Municípios; .......................................................................” (NR)"
+        },
+        {
+            "id": 397708,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397708",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 401,
+            "ano": 2008,
+            "ementa": "Inclua-se no art. 1º da PEC nº 233-A/2008 o seguinte parágrafo ao art. 20 da Constituição:   “Art. 20. ................................................................. ................................................................................ § 1º-A Do produto da arrecadação da compensação financeira pela exploração de recursos minerais, pelo menos vinte por cento será destinado a órgãos da administração direta da União; .......................................................................” (NR)"
+        },
+        {
+            "id": 397763,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397763",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 417,
+            "ano": 2008,
+            "ementa": "AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL, nos termos do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:  Art. 1º A Constituição Federal passa a vigorar com os seguintes artigos alterados e acrescidos:"
+        },
+        {
+            "id": 397795,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397795",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 426,
+            "ano": 2008,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências."
+        },
+        {
+            "id": 397827,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397827",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 437,
+            "ano": 2008,
+            "ementa": "Objetivo suprir omissão da PEC 233 no que respeita à convalidação e manutenção dos benefícios fiscais do ICMS, concedidos sem a observância da Lei Complementar nº 24, de 7 de janeiro de 2008."
+        },
+        {
+            "id": 397829,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397829",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 438,
+            "ano": 2008,
+            "ementa": "A proposta pretende definir o quorum mínimo para aprovação das matérias de competência do órgão colegiado responsável pela administração do novo ICMS."
+        },
+        {
+            "id": 397831,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397831",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 439,
+            "ano": 2008,
+            "ementa": "A proposição procura manter a finalidade de retirar a cumulatividade existente na tributação efetuada por meio das contribuições, sem, contudo criar um IVA de competência federal."
+        },
+        {
+            "id": 397832,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397832",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 440,
+            "ano": 2008,
+            "ementa": "A proposição objetiva manter a idéia de simplificação prevista em todas as propostas de reforma tributária discutidas nos últimos anos."
+        },
+        {
+            "id": 397835,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397835",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 441,
+            "ano": 2008,
+            "ementa": "A proposição prevê a separação do ressarcimento da desoneração das exportações do ressarcimento que a PEC prevê para as perdas que eventualmente sejam impostas aos entes federados em função da Reforma Tributária."
+        },
+        {
+            "id": 397875,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397875",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 461,
+            "ano": 2008,
+            "ementa": "Altera a alínea \"c\" do inciso IV do artigo 155-A da PEC 31/2007."
+        },
+        {
+            "id": 397888,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397888",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 475,
+            "ano": 2008,
+            "ementa": "Dê-se ao art. 149-A, na forma do art. 1º da Proposta de Emenda à Constituição nº 233, de 2008, a seguinte e nova redação:"
+        },
+        {
+            "id": 397893,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397893",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 477,
+            "ano": 2008,
+            "ementa": "Dê-se ao § 3º do Art. 150, na forma do art. 1º da Proposta de Emenda à Constituição nº 233, de 2008, a seguinte e nova redação:"
+        },
+        {
+            "id": 397895,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397895",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 478,
+            "ano": 2008,
+            "ementa": "Acrescente-se ao Art. 159, na forma do art. 1º da Proposta de Emenda à Constituição nº 233, de 2008, o parágrafo 5º, passando a vigorar com a seguinte redação:"
+        },
+        {
+            "id": 397899,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397899",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 481,
+            "ano": 2008,
+            "ementa": "Dê-se ao Art. 153, na forma do art. 1º da Proposta de Emenda à Constituição nº 233, de 2008, a seguinte redação:"
+        },
+        {
+            "id": 397900,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/397900",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 482,
+            "ano": 2008,
+            "ementa": "Acrescente-se ao art. 158, na forma do art. 1º da Proposta de Emenda à Constituição nº 233, de 2008, o parágrafo 2º, passando a vigorar com a seguinte redação:"
+        },
+        {
+            "id": 403031,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/403031",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 3045,
+            "ano": 2008,
+            "ementa": "Sugere ao Ministro de Minas e Energia verificar a possibilidade de criação de um Distrito do Departamento Nacional de Produção Mineral, no Estado do Acre."
+        },
+        {
+            "id": 406195,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/406195",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 3163,
+            "ano": 2008,
+            "ementa": "Sugere ao Ministro do Desenvolvimento, Indústria e Comércio Exterior  verificar a possibilidade de criação  de um escritório Alfandegário da SUFRAMA, no município de  Brasiléia, no Estado do Acre."
+        },
+        {
+            "id": 406196,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/406196",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3818,
+            "ano": 2008,
+            "ementa": "Determina a utilização de salas das escolas da rede de ensino público, para cursos pré-vestibulares comunitários, nas condições que menciona e dá outras providências."
+        },
+        {
+            "id": 407243,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/407243",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3878,
+            "ano": 2008,
+            "ementa": "Altera o disposto nos incisos I e II do § 2º do art. 2º da Lei nº 8.001, de 13 de março de 1990 e institui o inciso IV ao mesmo artigo."
+        },
+        {
+            "id": 409025,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/409025",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 3278,
+            "ano": 2008,
+            "ementa": "Sugere ao Ministério da Saúde a aquisição do Aparelho BIOGRAF, através do SUS, específico para a realização do exame PET-CT, para Hospitais que possuam Centros Oncológicos no País."
+        },
+        {
+            "id": 412236,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/412236",
+            "siglaTipo": "PDC",
+            "codTipo": 135,
+            "numero": 981,
+            "ano": 2008,
+            "ementa": "Dispõe sobre a realização de referendo para decidir sobre a alteração da hora no Estado do Acre."
+        },
+        {
+            "id": 413416,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/413416",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2008,
+            "ementa": "Art. 1º - Acrescente-se o art. 96 ao Ato das Disposições Constitucionais Transitórias, com a seguinte redação:   \tArt. 96 - \"Ficam ratificados os atos de criação, incorporação, fusão, desmembramento ou instalação de municípios, ocorridos até a entrada em vigor da presente emenda constitucional\".  Art. 2º - Esta emenda constitucional entra em vigor na data de sua publicação."
+        },
+        {
+            "id": 414662,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/414662",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 3446,
+            "ano": 2008,
+            "ementa": "Solicita informações ao Ministro das Relações Exteriores, Senhor Celso Amorim, acerca da análise feita pelo Grupo de Trabalho Brasil-Peru sobre Cooperação Amazônica e Desenvolvimento Fronteiriço, sob a Coordenação do Ministério das Relações Exteriores, da possibilidade de tratamento diferenciado ao ingresso de alimentos, combustíveis, medicamentos e materiais de construção, dentre outros, em Puerto Esperanza, Municipalidad Provencial de Purus, no Peru, via Município de Santa Rosa do Purus, no Estado do Acre."
+        },
+        {
+            "id": 414664,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/414664",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 3447,
+            "ano": 2008,
+            "ementa": "Solicita informações ao Ministro das Cidades, Márcio Fortes, acerca do déficit habitacional no Acre e  os recursos disponíveis ao Estado no Programa de Aceleração do Crescimento (PAC) para a infra-estrutura  construção de habitações populares nos exercícios 2008 a 2010."
+        },
+        {
+            "id": 414666,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/414666",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 3448,
+            "ano": 2008,
+            "ementa": "Solicita informações ao Ministro da Saúde, José Gomes Temporão, acerca dos índices de desnutrição infantil que acomete as crianças acreanas, inclusive as de origem indígena."
+        },
+        {
+            "id": 417772,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/417772",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 3495,
+            "ano": 2008,
+            "ementa": "Solicita informações ao Ministro da Saúde, José Gomes Temporão, acerca do número de casos de dengue ocorridos no Estado, em especial no Vale do Acre, e as medidas que estão sendo tomadas para prevenção e combate à doença."
+        },
+        {
+            "id": 423627,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/423627",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 4114,
+            "ano": 2009,
+            "ementa": "Requer a inclusão na Ordem do Dia do Projeto de Lei da Câmara dos Deputados nº 42, de 2007, \tque trata da política de fixação do reajuste do salário mínimo e que por emenda, estende a todas as aposentadorias e pensões o mesmo reajuste dado ao salário mínimo."
+        },
+        {
+            "id": 423820,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/423820",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 3711,
+            "ano": 2009,
+            "ementa": "Solicita informações ao Ministro da Saúde, José Gomes Temporão, acerca do número de casos de hanseníase  ocorridos no Estado, em especial no Vale do Juruá e as medidas que estão sendo tomadas para a prevenção e combate à doença."
+        },
+        {
+            "id": 430277,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/430277",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 288,
+            "ano": 2009,
+            "ementa": "Dá nova redação à MPV 459/2009."
+        },
+        {
+            "id": 430403,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/430403",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 3848,
+            "ano": 2009,
+            "ementa": "Sugere ao Ministro da Saúde a disponibilização gratuita pela rede pública dos medicamentos indicados para o tratamento de câncer de mama."
+        },
+        {
+            "id": 432109,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/432109",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 3939,
+            "ano": 2009,
+            "ementa": "Sugere ao Ministro da Justiça, Tarso Genro, o reforço do efetivo da Polícia Federal em Brasiléia, no Acre, a fim de garantir a fiscalização e segurança na fronteira com a Bolívia, em especial na Ponte Wilson Pinheiro."
+        },
+        {
+            "id": 432111,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/432111",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 3940,
+            "ano": 2009,
+            "ementa": "Sugere ao Ministro da Justiça, Tarso Genro, enviar um veículo tipo utilitário médio, preferencialmente traçado, para atender as demandas do Conselho Tutelar  do município de Plácido de Castro, no Acre."
+        },
+        {
+            "id": 433246,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/433246",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 3973,
+            "ano": 2009,
+            "ementa": "Sugere ao Ministro da Saúde, José Gomes Temporão, a reativação do Centro Cirúrgico do Hospital Geral Manoel Monte, do município de Plácido de Castro, no Estado do Acre."
+        },
+        {
+            "id": 435276,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/435276",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2009,
+            "ementa": "Altera o inciso XII do art. 93 da Constituição Federal."
+        },
+        {
+            "id": 440515,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/440515",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (PMDB-AC), pela aprovação."
+        },
+        {
+            "id": 441065,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/441065",
+            "siglaTipo": "REQ",
+            "codTipo": 311,
+            "numero": 5139,
+            "ano": 2009,
+            "ementa": "Requer retirada de Projeto de Lei nº 3.818que determina a utilização das escolas da rede de ensino público para cursos pré-vestibulares comunitários nas condições que menciona e dá outras providências."
+        },
+        {
+            "id": 441071,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/441071",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 4459,
+            "ano": 2009,
+            "ementa": "Sugere ao Ministro da Educação, Fernando Haddad, a utilização de salas de aula da rede de ensino público para cursos pré-vestibulares, nas condições que determina e dá outras providências."
+        },
+        {
+            "id": 444150,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/444150",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 6,
+            "ano": 2009,
+            "ementa": "Garante ao servidor que aposentar-se por invalidez permanente o direito dos proventos integrais com paridade. Altera a Constituição Federal de 1988."
+        },
+        {
+            "id": 446104,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/446104",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 5172,
+            "ano": 2009,
+            "ementa": "Sugere ao ministro da Fazenda, Guido Mantega, a isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de motocicletas para utilização no transporte autônomo de passageiros."
+        },
+        {
+            "id": 453909,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/453909",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 4347,
+            "ano": 2009,
+            "ementa": "Solicita informações ao Ministro das Cidades, Márcio Fortes, acerca do número de contratos celebrados no âmbito dos Programas PAC e Minha Casa Minha Vida, com o Governo do Estado do Acre e Municípios acreanos, seus valores e em que fase encontra-se a execução de cada um destes contratos."
+        },
+        {
+            "id": 453921,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/453921",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2009,
+            "ementa": "Emenda ao Projeto de Lei Nº 5972 de 2009 que Altera a Lei Nº 8.036, de 11 de  maio de 1990, para prever a aplicação de recursos do Fundo de Garantia do Tempo de Serviço em ações de proteção ambiental."
+        },
+        {
+            "id": 454891,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/454891",
+            "siglaTipo": "REQ",
+            "codTipo": 314,
+            "numero": 5688,
+            "ano": 2009,
+            "ementa": "Requer o envio do PDC 981/08 ao Plenário da Câmara, com fundamento no art.52, item III, combinado com o parágrafo 6º do Regimento Interno."
+        },
+        {
+            "id": 457472,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/457472",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2009,
+            "ementa": "EMENDA AO PROJETO DE LEI Nº 6176/2009 QUE AUTORIZAO PODER EXECUTIVO A DOAR QUATRO AERONAVES H-1H À FORÇA AÉREA BOLIVIANA."
+        },
+        {
+            "id": 467077,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/467077",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2010,
+            "ementa": "Acrescenta o artigo 93-A à Constituição Federal de 1988."
+        },
+        {
+            "id": 475806,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/475806",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (PMDB-AC), pela aprovação deste, e pela rejeição do PL 6557/2009, apensado."
+        },
+        {
+            "id": 482921,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/482921",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (PMDB-AC), pela aprovação deste, e do PL 6557/2009, apensado."
+        },
+        {
+            "id": 486324,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/486324",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 7883,
+            "ano": 2010,
+            "ementa": "Altera a alínea \"c\" e inclui a alínea \"d\" no art. 2º do Decreto nº 2.784, de 18 de junho de 1913, que determina a hora legal do Brasil, modificado pela Lei nº 11.662, de 24 de abril de 2008 de acordo com o  resultado do REFERENDO realizado em 31.10.2010 no Estado do Acre."
+        },
+        {
+            "id": 491424,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/491424",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 14,
+            "ano": 2011,
+            "ementa": "Solicita informações ao ministro das Cidades, Mário Negromonte, acerca do número de contratos celebrados no âmbito dos Programas PAC (I e II) e Minha Casa Minha Vida, com o Governo do Estado do Acre e municípios acreanos, seus valores e a fase de execução destes contratos."
+        },
+        {
+            "id": 491426,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/491426",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 15,
+            "ano": 2011,
+            "ementa": "Solicita informações ao Ministro da Saúde, Alexandre Padilha, acerca das ações propostas efetivamente e implementadas pela Pasta contra a eminente epidemia de dengue que ameaça a capital do Estado do Acre, Rio Branco."
+        },
+        {
+            "id": 491427,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/491427",
+            "siglaTipo": "REQ",
+            "codTipo": 363,
+            "numero": 154,
+            "ano": 2011,
+            "ementa": "Requer o desarquivamento das proposições que menciona.  PEC Nº 46/2007 PL Nº 422/2007 PL Nº 3353/2008"
+        },
+        {
+            "id": 494630,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/494630",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 293,
+            "ano": 2011,
+            "ementa": "Solicita informações à Ministra do Planejamento, Miriam Belchior, acerca dos cortes anunciados de R$ 5,1 bilhões na previsão de gastos para 2011 do Programa Minha Casa Minha Vida e o corte específico previsto para execução do referido Programa no Estado do Acre."
+        },
+        {
+            "id": 494968,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/494968",
+            "siglaTipo": "REQ",
+            "codTipo": 310,
+            "numero": 803,
+            "ano": 2011,
+            "ementa": "Requer a retirada e assinatura da CPI destinada a investigar a Confederação Brasileira e Futebol - CBF."
+        },
+        {
+            "id": 495687,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/495687",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 902,
+            "ano": 2011,
+            "ementa": "Requer  inclusão  na Ordem do Dia da Proposta de Emenda a Constituição 153/2003."
+        },
+        {
+            "id": 497610,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/497610",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 1195,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia do PL 2295/2000 do Senado Federal, que \"dispõe sobre a jornada de trabalho dos Enfermeiros,Técnicos e auxiliares de enfermagem\"."
+        },
+        {
+            "id": 497983,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/497983",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 466,
+            "ano": 2011,
+            "ementa": "Solicita informações ao Ministro das Minas e Energia, Edison Lobão, se os componentes de custo - leia-se energia, distribuição, transmissão, tributos, encargos setoriais e taxa de iluminação- e suas respectivas formas de cálculo que integram o valor da conta de cada consumidor de energia elétrica no Estado do Acre, obedecem aos parâmetros estabelecidos por este Ministério. E ainda se a incidência tributária obedece à legislação vigente."
+        },
+        {
+            "id": 499030,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/499030",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 486,
+            "ano": 2011,
+            "ementa": "Solicita informações ao Ministro da Justiça, José Eduardo Cardozo, acerca do corte no orçamento da Polícia Federal (PF) para este ano e as conseqüências nas ações de fiscalização e controle de fronteira para combate ao narcotráfico, contrabando de armas e imigração ilegal, sobretudo via território do Acre."
+        },
+        {
+            "id": 499393,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/499393",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 495,
+            "ano": 2011,
+            "ementa": "Solicita informações ao Ministro da Justiça, José Eduardo Cardozo, acerca dos recursos liberados pelo Programa Nacional de Segurança Pública com Cidadania (Pronasci) ao Estado do Acre por cada  ação e atividade do programa, bem como as metas atingidas."
+        },
+        {
+            "id": 500829,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/500829",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 536,
+            "ano": 2011,
+            "ementa": "Solicita ao Ministro das Cidades, Mário Negromonte, complementação de informações à resposta ao Requerimento nº 14, de 2011, da Câmara dos Deputados com o objetivo de que sejam identificados o número de unidades habitacionais produzidas e em produção bem como os respectivos tomadores, nos contratos firmados no âmbito do Programa Minha Casa Minha Vida e dos Programas PAC (I e II) no Estado do Acre elencados no Ofício nº 001898/2011/GABIN/MCIDADES e  relacionados em ANEXO. Solicita ainda a atualização dos dados referentes aos percentuais de obras executados."
+        },
+        {
+            "id": 501475,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/501475",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 1662,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia da PEC 210, de 2007 que \"altera os artigos 95 e 128 da Constituição Federal, para restabelecer o adicional por tempo de serviço como componente da remuneração das carreiras da Magistratura e do Ministério Público\"."
+        },
+        {
+            "id": 502510,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/502510",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 1762,
+            "ano": 2011,
+            "ementa": "Requer inclusão na Pauta da Ordem do Dia da Proposta de Emenda Constitucional - PEC 270/08."
+        },
+        {
+            "id": 510545,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/510545",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (PMDB-AC), pela aprovação."
+        },
+        {
+            "id": 511176,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/511176",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1761,
+            "ano": 2011,
+            "ementa": "Altera os arts. 9º, 10 e 11 da Lei n.º 9.709, de 18 de novembro de 1997, para tornar vinculante o resultado das consultas populares."
+        },
+        {
+            "id": 513465,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/513465",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 59,
+            "ano": 2011,
+            "ementa": "Altera dispositivos da Constituição Federal para alterar as datas das posses do Presidente e do Vice-Presidente da República, dos Governadores e Vice-Governadores, dos Senadores, Deputados Federais, Distritais e Estaduais."
+        },
+        {
+            "id": 513466,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/513466",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 60,
+            "ano": 2011,
+            "ementa": "Acrescenta o § 4º ao art. 46 da Constituição Federal."
+        },
+        {
+            "id": 513979,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/513979",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 871,
+            "ano": 2011,
+            "ementa": "Solicita informações ao Ministro do Desenvolvimento Indústria e Comércio Exterior, Fernando Damata Pimentel, acerca dos Contratos de Financiamentos firmados entre o BNDES e o Governo do Estado do Acre a partir de 2002."
+        },
+        {
+            "id": 514538,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/514538",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (PMDB-AC), pela aprovação."
+        },
+        {
+            "id": 514552,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/514552",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 2679,
+            "ano": 2011,
+            "ementa": "Solicita inclusão na Ordem do Dia da Proposta de Emenda à Constituição nº 555-A, de 2006, do Sr. Carlos Mota, que \"revoga o art. 4º da Emenda Constitucional nº 41, de 2003\", acabando com a cobrança de contribuição previdenciária sobre os proventos dos servidores públicos aposentados (Contribuição de Inativos)."
+        },
+        {
+            "id": 515024,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/515024",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 2753,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia da Proposta de Emenda à Constituição nº 443 de 2009."
+        },
+        {
+            "id": 515025,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/515025",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 2754,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia da Proposta de Emenda à Constituição nº 487 de 2005 que \"Dispõe sobre a Defensoria Pública, suas atribuições, garantias, vedações e dá outras providências\"."
+        },
+        {
+            "id": 515026,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/515026",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 2755,
+            "ano": 2011,
+            "ementa": "Solicita inclusão na Ordem do Dia da Proposta de Emenda à Constituição nº89 de 2007 que \"Dá nova redação ao Inciso XI do art.37 da Constituição Federal\", estabelecendo o mesmo teto Remuneratório para qualquer que seja a Esfera de Governo."
+        },
+        {
+            "id": 515027,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/515027",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 2756,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia da Proposta de Emenda à Constituição nº300 de 2008 que \"Altera a redação do § 9º do art.144 da Constituição Federal\"."
+        },
+        {
+            "id": 515028,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/515028",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 2757,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia do PL nº 2861/2008, que altera a Lei nº 4.950-A, de 22 de abril de 1966, para estender aos técnicos de nível médio, regularmente inscritos nos Conselhos Regionais de Engenharia, Arquitetura e Agronomia e nos de Química, o piso salarial mínimo\"."
+        },
+        {
+            "id": 515664,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/515664",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 2823,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia do PL nº 4434 de 2008 que  \"Dispõe sobre o reajuste dos benefícios mantidos pelo regime geral de previdência social e o índice de correção previdenciária\"."
+        },
+        {
+            "id": 515667,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/515667",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 2824,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia do PL nº 1033 de 2003 que \"Institui o salário adicional de periculosidade para os vigilantes e empregados em transportes de valores\"."
+        },
+        {
+            "id": 515668,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/515668",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 2825,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia da PEC 190/2007 que \"Disporá sobre o Estatuto dos Servidores do Judiciário\"."
+        },
+        {
+            "id": 516756,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/516756",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 72,
+            "ano": 2011,
+            "ementa": "que solicita a redistribuição do Projeto de Lei Nº 844, de 2011, de autoria do Deputado Arthur Oliveira Maia, que \"dá nova redação aos art. 33, 34 e 35 da Lei nº 9.474, de 1997, que \"define mecanismos para a implementação do Estatuto dos Refugiados de 1951, e determina outras providências\", de modo que a matéria seja igualmente apreciada pela Comissão de Direitos Humanos e Minorias (CDHM)."
+        },
+        {
+            "id": 516792,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/516792",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 2916,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia do PL Nº 7.699 de 2006 que \"Institui o estatuto do portador de Deficiência e dá outras providências\"."
+        },
+        {
+            "id": 519287,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/519287",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 3138,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia do PEC Nº 556/2002 que \"\" concede aos seringueiros (soldado da borracha) os mesmos direitos concedidos aos ex-combatentes: aposentadoria especial, pensão especial, dentro outros\"."
+        },
+        {
+            "id": 519738,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/519738",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 1171,
+            "ano": 2011,
+            "ementa": "Solicita informações à Ministra do Orçamento e Gestão, Miriam Belchior, acerca dos Contratos de Financiamentos firmados com organismos multilaterais de crédito (BIRD, BID, FIDA, BEI e outras) e agências governamentais estrangeiras, para o financiamento de projetos governamentais com o Governo do Estado do Acre a partir de 2002."
+        },
+        {
+            "id": 522792,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/522792",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 3408,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem da PEC nº 02 de 2003 que acrescenta artigos 90 e 91 do ato das Disposições Constitucionais Transitórias, possibilitando que os servidores públicos requisitados optem pela alteração da sua lotação funcional do órgão cedente para o órgão cessionário."
+        },
+        {
+            "id": 522793,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/522793",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 3409,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia do PL 1472/2007 que \"dispõe sobre as medidas de esclarecimento ao consumidor de que trata o parágrafo 5º do art. 150 da Constituição federal; altera o inciso III do art.6º e o inciso IV do art. 106 da Lei nº 8.078, de 11 de setembro de 1990\"."
+        },
+        {
+            "id": 522794,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/522794",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 3410,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia do PL nº 4742 de 2001 que \"Introduz art.146-A no Código Penal Brasileiro - Decreto-Lei nº 2.848, de 07 de dezembro de 1940, dispondo sobre o crime de assédio moral no trabalho\"."
+        },
+        {
+            "id": 522795,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/522795",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 3411,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia do da Proposta de Emenda à Constituição nº 479/2005, que \"acrescenta dispositivo ao Ato das Disposições Constitucionais Transitórias, para considerar estáveis os Agentes de Combate às Endemias, da Fundação Nacional da Saúde - FUNASA, em atuação há 9 (nove) anos, ou mais\"."
+        },
+        {
+            "id": 522797,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/522797",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 3412,
+            "ano": 2011,
+            "ementa": "Requer a inclusão na Ordem do Dia da PEC Nº 544 de 2002 que \"Cria os Tribunais Regionais Federais da 6ª, 7ª, 8ª e 9ª Regiões."
+        },
+        {
+            "id": 523892,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/523892",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2011,
+            "ementa": "Altera  o art.  76 do  Ato  das Disposições Constitucionais Transitórias."
+        },
+        {
+            "id": 536245,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/536245",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 4532,
+            "ano": 2012,
+            "ementa": "Requer inclusão na Ordem do Dia da Proposta de Emenda a Constituição Nº 308/2004 que \"Altera os artigos 21, 32 e 144, da Constituição Federal, criando as Polícias Penitenciária  Federal e Estaduais\"."
+        },
+        {
+            "id": 536247,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/536247",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 4533,
+            "ano": 2012,
+            "ementa": "Requer inclusão na Ordem do Dia da Proposta de Emenda a Constituição Nº 534/2002 que \"Altera o artigo 144, da Constituição Federal, para dispor sobre as competências da Guarda Municipal e Criação da Guarda Nacional\"."
+        },
+        {
+            "id": 541648,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/541648",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 4979,
+            "ano": 2012,
+            "ementa": "Requer inclusão na Ordem do Dia da Proposta de Emenda a Constituição Nº 515/2010 que \"altera a redação do inciso XVIII do art. 7º da Constituição Federal, para aumentar para cento e oitenta dias a duração do período da licença à gestante\""
+        },
+        {
+            "id": 543700,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/543700",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 5176,
+            "ano": 2012,
+            "ementa": "Requer inclusão na Ordem do Dia da Proposta de Emenda a Constituição Nº 518/2010 que \"Dá nova redação ao caput do art. 19 do Ato das Disposições Constitucionais Transitórias e revoga o § 2º do dispositivo\"."
+        },
+        {
+            "id": 543706,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/543706",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo, pela rejeição."
+        },
+        {
+            "id": 543788,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/543788",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2012,
+            "ementa": "Altera o Art. 1º da Proposta de Emenda à Constituição nº 111/2011."
+        },
+        {
+            "id": 544064,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/544064",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 2872,
+            "ano": 2012,
+            "ementa": "Sugere ao Senhor Ministro da Justiça José Eduardo Cardozo para que seja instalado no Município de Tarauacá/AC um posto da Polícia Federal para atender à Regional Tarauacá, Feijó e Jordão."
+        },
+        {
+            "id": 544567,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/544567",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 5268,
+            "ano": 2012,
+            "ementa": "Requer inclusão na Ordem do Dia do Projeto de Lei Nº 1472/2007 que \"Dispõe sobre as medidas de esclarecimento ao consumidor, de que trata o § 5º do artigo 150 da Constituição Federal; altera o inciso III do art. 6º e o inciso IV do art. 106 da Lei nº 8.078, de 11 de setembro de 1990 - Código de Defesa do Consumidor\"."
+        },
+        {
+            "id": 546647,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/546647",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 5443,
+            "ano": 2012,
+            "ementa": "Requer inclusão na Ordem do Dia da Proposta de Emenda a Constituição  nº 54/1999, que \"dispõe do pessoal em exercício, que não tenha sido admitido por concurso público, estável ou não, passa a integrar quadro temporário em extinção à medida que vagarem os cargos ou empregos respectivos.\""
+        },
+        {
+            "id": 547380,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/547380",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 5495,
+            "ano": 2012,
+            "ementa": "Requer inclusão na Ordem do Dia da Proposta de Emenda a Constituição Nº 471/2005  que \"Altera o artigo 236, parágrafo 3º, da Constituição Federal, onde estabelece a efetivação para os atuais responsáveis e substitutos pelos serviços notariais, investidos na forma da Lei\"."
+        },
+        {
+            "id": 551525,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/551525",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 2401,
+            "ano": 2012,
+            "ementa": "Solicita informações à Ministra do Planejamento, Orçamento e Gestão Miriam Belchior, acerca de Contratos de Financiamentos firmados com a Caixa Econômica Federal para o financiamento de projetos governamentais com o Governo do Estado do Acre."
+        },
+        {
+            "id": 551527,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/551527",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 2402,
+            "ano": 2012,
+            "ementa": "Solicita informações à Ministra do Planejamento Orçamento e Gestão Miriam Belchior, acerca dos Contratos de Financiamentos firmados com o Banco Nacional de Desenvolvimento Econômico e Social - BNDES para o financiamento de projetos governamentais com o Governo do Estado do Acre a partir de 1999."
+        },
+        {
+            "id": 552772,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/552772",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 5841,
+            "ano": 2012,
+            "ementa": "Requer inclusão na Ordem do Dia da PEC 555 de 2006, que \"Revoga o art. 4º da Emenda Constitucional nº 41, de 2003\"."
+        },
+        {
+            "id": 554380,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/554380",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 3201,
+            "ano": 2012,
+            "ementa": "Sugere à ministra do Planejamento, Miriam Belchior, a inclusão do projeto de construção da ponte rodoviária sobre o Rio Madeira na BR-364/RO (Travessia Abunã - Jacira) no Plano de Aceleração do Crescimento (PAC)."
+        },
+        {
+            "id": 564053,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/564053",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 6611,
+            "ano": 2012,
+            "ementa": "Requer inclusão na ordem do dia do PL 3299 de 2008, que altera o art. 29 da Lei n° 8.213, de 4 de julho de  1991,e revoga os arts. 3°, 5º, 7° da Lei n° 9.876, de 26 de novembro de 1999, modificando a forma de cálculo de benefícios da Previdência Social."
+        },
+        {
+            "id": 566257,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/566257",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 2808,
+            "ano": 2013,
+            "ementa": "Solicita informações ao Ministro dos Transportes, Senhor Paulo Sergio Passos, acerca dos Contratos/Convênios firmados com o Governo do Estado do Acre para as obras de Construção/Manutenção na BR 364/AC."
+        },
+        {
+            "id": 566258,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/566258",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 2809,
+            "ano": 2013,
+            "ementa": "Solicita informações ao ministro dos Transportes, Paulo Sérgio Passos, acerca do andamento do projeto, licitação e obras  de construção da ponte sobre o rio Madeira ( trecho - Jacira/Abunã ) na BR- 364 , divisa dos  estados de Rondônia e Acre."
+        },
+        {
+            "id": 566259,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/566259",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 6900,
+            "ano": 2013,
+            "ementa": "Requer a inclusão na Ordem do Dia do PL n° 4703/2012 que Altera o inciso XIV do art. 6º da Lei nº 7.713, de 22 de dezembro de 1988, que \"altera a legislação do imposto de renda e dá outras providências\", para inserir o lúpus entre as doenças cujos portadores são beneficiados com a isenção do imposto de renda sobre os proventos de aposentadoria ou reforma motivada pela doença."
+        },
+        {
+            "id": 570144,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/570144",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 110,
+            "ano": 2013,
+            "ementa": "Requer seja convidado o Ministro das Cidades, Aguinaldo Ribeiro, para em Audiência Pública, tratar da construção de Conjuntos Habitacionais, pelo Programa Minha Casa Minha Vida, em áreas inadequadas."
+        },
+        {
+            "id": 572150,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/572150",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 5,
+            "ano": 2013,
+            "ementa": "Acrescenta o artigo 92-A ao Ato das Disposições Constitucionais Transitórias."
+        },
+        {
+            "id": 573838,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/573838",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5444,
+            "ano": 2013,
+            "ementa": "Altera os arts. 20 e 24 e acrescenta o art. 20-A à Lei nº 8.212, de 24 de julho de 1991, para reduzir a contribuição previdenciária do empregado e do empregador doméstico; e modifica o inciso VII e revoga as alíneas \"a\" dos incisos I e III do §3º do art. 12 da Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução do Imposto sobre a Renda da contribuição previdenciária total do empregador doméstico em relação a todos os empregados a seu serviço."
+        },
+        {
+            "id": 575774,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/575774",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (PMDB-AC), pela aprovação."
+        },
+        {
+            "id": 576020,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/576020",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (PMDB-AC), pela aprovação."
+        },
+        {
+            "id": 577030,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/577030",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2013,
+            "ementa": "Acrescenta § 9º ao artigo 166 da Constituição Federal constante do artigo 1º da PEC nº 565-A, de 2006, tornando obrigatórias as transferências financeiras para os Estados, Distrito Federal e Municípios, e dos Estados para os Municípios, inclusive as originárias de emendas."
+        },
+        {
+            "id": 577034,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/577034",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2013,
+            "ementa": "Acrescenta os §§ 9º, 10 e 11 ao art. 166 da Constituição Federal constante do Art. 1º da PEC nº 565-A, de 2006, limitando o percentual de contingenciamento ou cancelamento de programação da lei orçamentária anual originária de emendas."
+        },
+        {
+            "id": 578111,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/578111",
+            "siglaTipo": "REQ",
+            "codTipo": 359,
+            "numero": 7839,
+            "ano": 2013,
+            "ementa": "Requer a instalação de Comissão Especial a fim de dar Parecer sobre a Proposta de Emenda a Constituição Nº 53 de 2007."
+        },
+        {
+            "id": 578112,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/578112",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 5631,
+            "ano": 2013,
+            "ementa": "Permite a atualização dos valores dos imóveis constantes da declaração de ajuste anual do imposto de renda das pessoas físicas, com base no Índice de Valores de Garantia de Imóveis Residenciais Financiados - IVG-R, divulgado pelo Banco Central do Brasil, de forma retroativa, a partir do ano-calendário de 2003."
+        },
+        {
+            "id": 579234,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/579234",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 6,
+            "ano": 2013,
+            "ementa": "Acrescenta o art. 165-A da Constituição Federal, ajustado no art. 2º da PEC 565-A/2006"
+        },
+        {
+            "id": 579428,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/579428",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 7,
+            "ano": 2013,
+            "ementa": "Altera o art. 2º da PEC 565/2006, que acresce art. 165-A à Constituição Federal."
+        },
+        {
+            "id": 579429,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/579429",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 8,
+            "ano": 2013,
+            "ementa": "Altera o art. 2º da PEC 565/2006, que acresce art. 165-A à Constituição Federal."
+        },
+        {
+            "id": 579430,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/579430",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 9,
+            "ano": 2013,
+            "ementa": "Altera o art. 2º da PEC 565/2006, que acresce art. 165-A à Constituição Federal."
+        },
+        {
+            "id": 579431,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/579431",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 10,
+            "ano": 2013,
+            "ementa": "Altera o art. 2º da PEC 565/2006, que acresce art. 165-A à Constituição Federal."
+        },
+        {
+            "id": 579432,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/579432",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 11,
+            "ano": 2013,
+            "ementa": "Altera o art. 2º da PEC 565/2006, que acresce art. 165-A à Constituição Federal."
+        },
+        {
+            "id": 579434,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/579434",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 12,
+            "ano": 2013,
+            "ementa": "Altera o art. 2º da PEC 565/2006, que acresce art. 165-A à Constituição Federal."
+        },
+        {
+            "id": 579661,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/579661",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 16,
+            "ano": 2013,
+            "ementa": "Altera os arts. 57, 165, 166, e acrescenta art. 165-A, todos da Constituição Federal, tornando de execução obrigatória a programação constante da lei orçamentária anual."
+        },
+        {
+            "id": 582664,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/582664",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (PMDB-AC), pela aprovação."
+        },
+        {
+            "id": 584532,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/584532",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 3368,
+            "ano": 2013,
+            "ementa": "Solicita informações ao Ministro dos Transportes, César Borges, acerca das ações deste ministério diante da suspensão da licitação da ponte do Rio Madeira (trecho Jacira - Abunã) por ordem judicial e a expectativa de retomada do andamento do projeto, licitação e obras de construção da ponte na BR-364, divisa dos estados de Rondônia e Acre."
+        },
+        {
+            "id": 586890,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/586890",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 8337,
+            "ano": 2013,
+            "ementa": "Requer a inclusão na Ordem do Dia do Plenário, do Projeto de Lei nº 7.495/2006, que define o piso salarial profissional nacional dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias."
+        },
+        {
+            "id": 589786,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/589786",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo, pela aprovação."
+        },
+        {
+            "id": 592961,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/592961",
+            "siglaTipo": "REQ",
+            "codTipo": 294,
+            "numero": 260,
+            "ano": 2013,
+            "ementa": "Requer seja convidado o Senhor João Batista de Rezende, presidente da Agência Nacional de Telecomunicações-ANATEL, para em Audiência Pública, tratar dos problemas da telefonia celular no Brasil, notadamente no Estado do Acre."
+        },
+        {
+            "id": 594344,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/594344",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2013,
+            "ementa": "Acrescenta as alíneas \"c\" no inciso I e \"d\" no inciso II, ambos do § 4º do art. 177 e o inciso IV no art. 159, todos da Constituição Federal, permitindo que os recursos da CIDE sejam integralmente investidos para baratear a passagem de ônibus em todas as cidades brasileira"
+        },
+        {
+            "id": 595184,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/595184",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2013,
+            "ementa": "Acrescenta os incisos XIII e XIV ao artigo 23 da Constituição Federal."
+        },
+        {
+            "id": 595417,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/595417",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 8772,
+            "ano": 2013,
+            "ementa": "Requer a inclusão na Ordem do Dia do Plenário, da PEC 55, de 2011. que dá nova redação ao § 8º do Art.144, da Constituição Federal, \"para disciplinar a carreira dos agentes públicos responsáveis pelo policiamento de trânsito em âmbito municipal\"."
+        },
+        {
+            "id": 598812,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/598812",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2013,
+            "ementa": "Acrescente-se à Proposta de Emenda à Constituição nº 186, de 2007, a seguinte emenda, que modifica art. 39 da Constituição Federal:"
+        },
+        {
+            "id": 599430,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/599430",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2013,
+            "ementa": "Acrescenta os § 13 e § 14, ao art. 37 da Constituição Federal"
+        },
+        {
+            "id": 600425,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/600425",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 9049,
+            "ano": 2013,
+            "ementa": "Requer a inclusão na Ordem do Dia do Plenário do Projeto de Lei Complementar nº 275, de 2001, que \"Atualiza a ementa e altera o art. 1º da Lei Complementar nº 51, de 20 de dezembro de 1985, que dispõe sobre a aposentadoria do funcionário policial, nos termos do art. 103, da Constituição Federal, para regulamentar a aposentadoria da mulher servidora policial.\""
+        },
+        {
+            "id": 613761,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/613761",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 10076,
+            "ano": 2014,
+            "ementa": "\"Requer  inclusão na Ordem do Dia do Plenário, o PLP 221/2012, que \"altera os Anexos da Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o abatimento de parcela dedutível do valor devido mensalmente pelo pagamento do Simples Nacional, conforme a faixa de renda da pessoa jurídica\"."
+        },
+        {
+            "id": 619094,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/619094",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 4346,
+            "ano": 2014,
+            "ementa": "Solicita informações ao Ministro das Cidades, Senhor Gilberto Magalhães Occhi, acerca dos Contratos firmados com o Governo do Estado do Acre para obras de Saneamento Integrado e Urbanização nos Bairros Palheiral, Conquista, Nova Estação e Santa Inês na cidade de Rio Branco-Acre."
+        },
+        {
+            "id": 620520,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/620520",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 10572,
+            "ano": 2014,
+            "ementa": "\"Requer inclusão na Ordem do Dia do Plenário da PEC 170/2012, que dá nova redação ao inciso I do § 1° do art. 40 da Constituição Federal, que \"garante proventos integrais ao Servidor que se aposentar por invalidez\"."
+        },
+        {
+            "id": 620883,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/620883",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 4404,
+            "ano": 2014,
+            "ementa": "Solicita informações ao ministro dos Transportes, Paulo Sérgio Passos, acerca do montante dos  recursos assegurados, processo de  licitação e o cronograma de execução das obras para construção  da ponte sobre o rio Madeira (trecho Jacira/Abunã-divisa dos estados de Rondônia e Acre)  e as obras de recuperação da BR-364(trecho atingido pelas enchentes do rio Madeira na interligação Porto Velho/Rio Branco)."
+        },
+        {
+            "id": 621276,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/621276",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 4438,
+            "ano": 2014,
+            "ementa": "Solicita informações ao ministro da Pesca e Aquicultura, Eduardo Lopes, acerca do prazo para pagamento dos  2(dois) meses subsequentes ao pagamento da  primeira  prorrogação de 1 (hum) mês, em caráter excepcional, do período de  seguro defeso para os pescadores do Estado do Acre."
+        },
+        {
+            "id": 621595,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/621595",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 5,
+            "ano": 2014,
+            "ementa": "Altera o art. 40 do Ato das Disposições Constitucionais Transitórias para estabelecer a criação da Zona Franca do Semiárido Nordestino."
+        },
+        {
+            "id": 763828,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/763828",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 10810,
+            "ano": 2014,
+            "ementa": "Requer inclusão na Ordem do Dia do Plenário do PL 1728/2007, \"que dá nova redação aos incisos I, II e III do art. 14 da Constituição Federal'', para dispor sobre a data das consultas populares."
+        },
+        {
+            "id": 945473,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/945473",
+            "siglaTipo": "REQ",
+            "codTipo": 363,
+            "numero": 89,
+            "ano": 2015,
+            "ementa": "Requer o desarquivamento das proposições que menciona."
+        },
+        {
+            "id": 947853,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/947853",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2015,
+            "ementa": "Inclua-se na Proposta de Emenda à Constituição 344-A, de 2013, onde couber, o seguinte artigo, renumerando-se os demais."
+        },
+        {
+            "id": 949056,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/949056",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 658,
+            "ano": 2015,
+            "ementa": "Requer a inclusão na Ordem do Dia do PL nº 4434 de 2008 que  \"Dispõe sobre o reajuste dos benefícios mantidos pelo regime geral de previdência social e o índice de correção previdenciária\"."
+        },
+        {
+            "id": 994596,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/994596",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 15,
+            "ano": 2015,
+            "ementa": "Inclua-se na Proposta de Emenda à Constituição nº 344/2013, onde couber, o seguinte artigo, renumerando-se os demais:"
+        },
+        {
+            "id": 994597,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/994597",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 16,
+            "ano": 2015,
+            "ementa": "Inclua-se na Proposta de Emenda à Constituição nº 344/2013, onde couber, o seguinte artigo, renumerando-se os demais:"
+        },
+        {
+            "id": 994598,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/994598",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 17,
+            "ano": 2015,
+            "ementa": "Inclua-se na Proposta de Emenda à Constituição nº 344/2013, onde couber, o seguinte artigo, renumerando-se os demais:"
+        },
+        {
+            "id": 994638,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/994638",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 19,
+            "ano": 2015,
+            "ementa": "Altera o art. 2º da PEC 352/2013 para vedar as coligações nos pleitos proporcionais; aumentar o desempenho mínimo para eleição de deputados federais e implicitamente retirar dispositivos que modificam o sistema eleitoral, instituem a federação de partidos e facilitam a criação de novas agremiações."
+        },
+        {
+            "id": 996665,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996665",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 25,
+            "ano": 2015,
+            "ementa": "Dê-se a seguinte redação aos dispositivos constitucionais abaixo enumerados, constantes do art. 2º da Proposta de Emenda à Constituição nº 352, de 2013, e ao art. 6º da mesma Proposta:"
+        },
+        {
+            "id": 996728,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996728",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 41,
+            "ano": 2015,
+            "ementa": "Suprimir os §§ 5º e 6º e a expressão \"e jurídicas\" do inc. I do § 7º do art. 17 da Constituição Federal, na redação dada pela PEC Nº 352/13."
+        },
+        {
+            "id": 996729,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996729",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 42,
+            "ano": 2015,
+            "ementa": "Dá nova redação aos §§ 6º e 7º do art. 17 da Constituição Federal, na redação dada pela PEC nº 352/13."
+        },
+        {
+            "id": 996731,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/996731",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 43,
+            "ano": 2015,
+            "ementa": "Dá nova redação aos §§ 6º e 7º do art. 17 da Constituição Federal, na redação dada pela PEC nº 352/13."
+        },
+        {
+            "id": 1198583,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1198583",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 1306,
+            "ano": 2015,
+            "ementa": "Requer a inclusão na Ordem do Dia da PEC nº 443 de 2009 que \"Fixa parâmetros para a remuneração dos advogados públicos\"."
+        },
+        {
+            "id": 1228126,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1228126",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2015,
+            "ementa": "Acrescenta os §1º e 2º ao art.228 da Constituição Federal"
+        },
+        {
+            "id": 1230219,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1230219",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 1443,
+            "ano": 2015,
+            "ementa": "Altera a Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV, para submeter os projetos à aprovação de entidade representativa da sociedade civil afetada pelas obras."
+        },
+        {
+            "id": 1279228,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279228",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (PMDB-AC), pela aprovação."
+        },
+        {
+            "id": 1279641,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1279641",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (PMDB-AC), pela aprovação."
+        },
+        {
+            "id": 1280234,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1280234",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2015,
+            "ementa": "\"Acresce parágrafos ao art. 101 da Constituição Federal e altera o art. 100 do ADCT.\""
+        },
+        {
+            "id": 1280235,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1280235",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2015,
+            "ementa": "\"Altera os §§1º e 3º do art. 128 da Constituição Federal.\""
+        },
+        {
+            "id": 1306665,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1306665",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 3,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (PMDB-AC), pela rejeição."
+        },
+        {
+            "id": 1306744,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1306744",
+            "siglaTipo": "EMR",
+            "codTipo": 257,
+            "numero": 1,
+            "ano": 0,
+            "ementa": ""
+        },
+        {
+            "id": 1306745,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1306745",
+            "siglaTipo": "CVO",
+            "codTipo": 195,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer com Complementação de Voto, Dep. Flaviano Melo (PMDB-AC), pela aprovação, com emenda."
+        },
+        {
+            "id": 1306988,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1306988",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 666,
+            "ano": 2015,
+            "ementa": "Requer informações ao Ministro dos Transportes e Dnit sobre execução dos recursos federais destinados às obras de infraestrutura na rodovia federal BR 364 no Estado do Acre."
+        },
+        {
+            "id": 1579307,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1579307",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 59,
+            "ano": 2015,
+            "ementa": "Requer a realização de Audiência Pública com a finalidade de ouvir o Excelentíssimo Senhor Prefeito da cidade do Rio de Janeiro, Eduardo Paes, para discutir sobre a revitalização e modernização de centros urbanos degradados através de parcerias públicos privados (PPP''s)."
+        },
+        {
+            "id": 1700610,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1700610",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 2847,
+            "ano": 2015,
+            "ementa": "Requer a inclusão em pauta da PEC 186/2007."
+        },
+        {
+            "id": 1700615,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1700615",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 895,
+            "ano": 2015,
+            "ementa": "Requer o envio de Indicação ao Poder Executivo relativa à inclusão de Educação para a Cidadania como componente curricular obrigatório da educação básica."
+        },
+        {
+            "id": 1700617,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1700617",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 896,
+            "ano": 2015,
+            "ementa": "Sugere ao Ministério do Meio Ambiente, ao Ministério das Cidades e ao Ministério da Integração Nacional a realização de visitas às cidades atingidas pelas enchentes do Rio Acre e estudos que objetivem reduzir seu impacto sobre a população."
+        },
+        {
+            "id": 1700618,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/1700618",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 897,
+            "ano": 2015,
+            "ementa": "Sugere ao Ministério das Comunicações que, por intermédio da Empresa Brasileira de Correios e Telégrafos, adote as providências necessárias para melhorar a qualidade dos serviços prestados pela empresa no Estado do Acre."
+        },
+        {
+            "id": 2017008,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2017008",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 1066,
+            "ano": 2015,
+            "ementa": "Sugere ao Ministério de Minas Energia providências visando melhorar a qualidade do fornecimento de energia elétrica no Acre."
+        },
+        {
+            "id": 2017584,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2017584",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 1293,
+            "ano": 2015,
+            "ementa": "Requer do Senhor Ministro de Minas e Energia informações sobre os frequentes desligamentos de energia elétrica no estado do Acre."
+        },
+        {
+            "id": 2077558,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2077558",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 2060,
+            "ano": 2016,
+            "ementa": "Sugere ao Ministério do Meio Ambiente que promova o debate com os pequenos produtores rurais do Parque Nacional da Serra do Divisor, Acre."
+        },
+        {
+            "id": 2087686,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2087686",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (PMDB-AC), pela aprovação."
+        },
+        {
+            "id": 2089304,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2089304",
+            "siglaTipo": "SLD",
+            "codTipo": 612,
+            "numero": 6,
+            "ano": 2016,
+            "ementa": "objetiva incluir no Anexo de Metas e Prioridades do PLDO (PLN nº 2/2016): \"Apoio a Obras Preventivas de Desastres\". Programa/Ação: 2040/8348."
+        },
+        {
+            "id": 2089569,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2089569",
+            "siglaTipo": "SLD",
+            "codTipo": 612,
+            "numero": 15,
+            "ano": 2016,
+            "ementa": "objetiva incluir no Anexo de Metas e Prioridades do PLDO (PLN nº 2/2016): \"Apoio à Política Nacional de Desenvolvimento Urbano\". Programa/Ação: 2054/1D73."
+        },
+        {
+            "id": 2109985,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2109985",
+            "siglaTipo": "RIC",
+            "codTipo": 148,
+            "numero": 2247,
+            "ano": 2016,
+            "ementa": "Solicita informações ao ministro da Justiça e Cidadania, Alexandre de Moraes, acerca das ações desta Pasta contra a onda violência que tem atingido sistematicamente o Estado do Acre."
+        },
+        {
+            "id": 2111175,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2111175",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 14,
+            "ano": 2016,
+            "ementa": "Altera o Ato das Disposições Constitucionais Transitórias, para instituir o Novo Regime Fiscal."
+        },
+        {
+            "id": 2114486,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2114486",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 7,
+            "ano": 2016,
+            "ementa": "Altera o art. 31 da Emenda Constitucional nº 19, de 4 de junho de 1998, para prever a inclusão, em quadro em extinção da administração pública federal, de servidor público, de integrante da carreira de policial, civil ou militar, e de pessoa que haja mantido relação ou vínculo funcional, empregatício, estatutário ou de trabalho com a administração pública dos ex-Territórios ou dos Estados do Amapá ou de Roraima, inclusive suas prefeituras, na fase de instalação dessas unidades federadas, e dá outras providências."
+        },
+        {
+            "id": 2124318,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124318",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2124414,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124414",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 7,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2124988,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2124988",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 24,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125034,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125034",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 36,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências. (Reintroduz a parte final do § 20 do art. 40, original, da CF \"ressalvado o disposto no art.142, § 3º, X. neste dispositivo alterado pela PEC)"
+        },
+        {
+            "id": 2125035,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125035",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 37,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências   Suprima-se do art. 1º da PEC 287, de 2016 a referência ao art. 42 da Constituição nos seguintes dispositivos: inciso I do § 3º, § 3º-A do art. 40 e §§ 7º-A, 7º-B e 7º-C do art. 201 da CF."
+        },
+        {
+            "id": 2125304,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125304",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 74,
+            "ano": 2017,
+            "ementa": "Insere-se o parágrafo § 7º ao art. 2º da PEC 287, de 2016, e, por via de consequência, altere-se o caput do artigo 3º, da forma a seguir:"
+        },
+        {
+            "id": 2125344,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125344",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 97,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição Federal, para dispor sobre a seguridade social, estabelece regras de transição, e dá outras providências.  EMENDA Nº Possibilita regra de transição a todos os trabalhadores, desde que cumpram requisitos de contribuição e idade mínima, conforme tabelas."
+        },
+        {
+            "id": 2125345,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125345",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 98,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125416,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125416",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 143,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências."
+        },
+        {
+            "id": 2125897,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2125897",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 147,
+            "ano": 2017,
+            "ementa": "Altera os arts. 37, 40, 109, 149, 167, 195, 201 e 203 da Constituição, para dispor sobre a seguridade social, estabelece regras de transição e dá outras providências"
+        },
+        {
+            "id": 2143962,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2143962",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2017,
+            "ementa": "Altera a Constituição Federal para vedar as coligações nas eleições proporcionais, disciplinar a autonomia dos partidos políticos e estabelecer normas sobre fidelidade partidária e funcionamento parlamentar dos partidos políticos; e estabelece normas de transição."
+        },
+        {
+            "id": 2144059,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2144059",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 7,
+            "ano": 2017,
+            "ementa": "Altera Constituição Federal para vedar as coligações nas eleições proporcionais, disciplinar a autonomia dos partidos políticos e estabelecer normas sobre fidelidade partidária e o funcionamento parlamentar dos partidos políticos."
+        },
+        {
+            "id": 2148063,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2148063",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (PMDB-AC), pela aprovação deste, e do PL 2186/2015, apensado, com substitutivo."
+        },
+        {
+            "id": 2148069,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2148069",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Altera a Lei 10.257, de 10 de julho de 2001, para incluir, entre o conteúdo mínimo do plano diretor, normas de verticalização e ocupação para redução de impactos ambientais por meio da instalação de coberturas vegetadas (telhados verdes) e reservatórios de águas pluviais em edifícios."
+        },
+        {
+            "id": 2151469,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2151469",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 8586,
+            "ano": 2017,
+            "ementa": "Assegura ao idoso franquia de bagagem no transporte aéreo."
+        },
+        {
+            "id": 2153043,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2153043",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 4003,
+            "ano": 2017,
+            "ementa": "Sugere ao Ministro de Estado da Fazenda que sejam editados, pela Superintendência de Seguros Privados (Susep), os atos normativos necessários ao aprimoramento da regulamentação vigente do setor, a fim de permitir a transferência provisória de cobertura de seguro de automóveis."
+        },
+        {
+            "id": 2156099,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2156099",
+            "siglaTipo": "SOR",
+            "codTipo": 611,
+            "numero": 7,
+            "ano": 2017,
+            "ementa": "Tipo: Aprop.- Inclusão. Funcional/Ação: 2054.1D73 (Apoio à Política Nacional de Desenvolvimento Urbano). Quantidade: 500. Valor: 120.000.000."
+        },
+        {
+            "id": 2162518,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2162518",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 9110,
+            "ano": 2017,
+            "ementa": "Alterna a Lei nº 11.438, de 29 de dezembro de 2006, para aumentar o limite de dedução de doação de pessoa jurídica relativo a valores despendidos a título de patrocínio ou doação de projeto desportivo ou paradesportivo destinado a promover a inclusão social."
+        },
+        {
+            "id": 2164275,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2164275",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 452,
+            "ano": 2017,
+            "ementa": "Modifica a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir a dedução de despesas de Microempresas e Empresas de Pequeno Porte com patrocínio ou doação no apoio direto a projetos desportivos e paradesportivos previamente aprovados pelo Ministério do Esporte."
+        },
+        {
+            "id": 2166596,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2166596",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 4495,
+            "ano": 2017,
+            "ementa": "Sugere a instituição de modalidade profissional médica para atuação exclusiva em Atenção Básica para intercambistas brasileiros após o término do contrato com o Programa Mais Médicos."
+        },
+        {
+            "id": 2166597,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2166597",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 9373,
+            "ano": 2017,
+            "ementa": "Institui a Semana Nacional de Enfrentamento às Doenças Endêmicas."
+        },
+        {
+            "id": 2166599,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2166599",
+            "siglaTipo": "INC",
+            "codTipo": 133,
+            "numero": 4496,
+            "ano": 2017,
+            "ementa": "Sugere a instituição de modalidade profissional médica para atuação exclusiva em Atenção Básica para intercambistas brasileiros após o término do contrato com o Programa Mais Médicos."
+        },
+        {
+            "id": 2169744,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2169744",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 8304,
+            "ano": 2018,
+            "ementa": "Requer a inclusão na Ordem do Dia do PL 2295/2000 do Senado Federal, que \"dispõe sobre a jornada de trabalho dos Enfermeiros, Técnicos e auxiliares de enfermagem\"."
+        },
+        {
+            "id": 2179233,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2179233",
+            "siglaTipo": "REQ",
+            "codTipo": 310,
+            "numero": 8858,
+            "ano": 2018,
+            "ementa": "Requer retirada de assinatura em proposição de iniciativa coletiva (RCP nº 43/2018)."
+        },
+        {
+            "id": 2181226,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181226",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (MDB-AC), pela aprovação, com substitutivo."
+        },
+        {
+            "id": 2181227,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181227",
+            "siglaTipo": "SBT",
+            "codTipo": 255,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Dá nova redação ao parágrafo 2º do art. 32 da Lei nº 13.146, de 06 de julho de 2015, que \"Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência).\"."
+        },
+        {
+            "id": 2181229,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2181229",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 2,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (MDB-AC), pela constitucionalidade, juridicidade e técnica legislativa."
+        },
+        {
+            "id": 2191643,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2191643",
+            "siglaTipo": "REQ",
+            "codTipo": 363,
+            "numero": 324,
+            "ano": 2019,
+            "ementa": "Requer o desarquivamento das Proposições PEC 59/2011, PL 9373/2017, PL 9110/2017, PL 8586/2017, PL 1443/2015, PL 422/2007 e PLP 452/2017 nos termos do art. 105, Parágrafo Único, do Regimento Interno da Câmara dos Deputados."
+        },
+        {
+            "id": 2197063,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2197063",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 14,
+            "ano": 2019,
+            "ementa": "Requer a criação de Subcomissão Permanente de Habitação."
+        },
+        {
+            "id": 2203565,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2203565",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 13,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências"
+        },
+        {
+            "id": 2204284,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204284",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 21,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2204914,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2204914",
+            "siglaTipo": "PLP",
+            "codTipo": 140,
+            "numero": 140,
+            "ano": 2019,
+            "ementa": "Altera o art. 1º da Lei Complementar nº 64, de 18 de maio de 1990, para tornar inelegíveis as pessoas físicas que tenham débito com a Previdência Social ou que sejam proprietárias, controladoras ou administradoras de pessoa jurídica que tenha débito previdenciário."
+        },
+        {
+            "id": 2205751,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205751",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 142,
+            "ano": 2019,
+            "ementa": "Suprimam-se as alterações ao art. 203 da Constituição, promovidas pelo art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, e, em decorrência, suprimam-se os arts. 40, 41 e 42 da PEC; e inclua-se, no art. 1º da Proposta de Emenda à Constituição nº 6, de 2019, nas partes que promovem alterações nos arts. 40, art. 201 e art. 203 do corpo permanente da Constituição, os seguintes dispositivos, sem prejuízo de outras adequações ou ajustes necessários nos demais dispositivos da proposta"
+        },
+        {
+            "id": 2205792,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205792",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 158,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205802,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205802",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 161,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências."
+        },
+        {
+            "id": 2205899,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2205899",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 195,
+            "ano": 2019,
+            "ementa": "Modifica o sistema de previdência social, estabelece regras de transição e disposições transitórias, e dá outras providências"
+        },
+        {
+            "id": 2206181,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206181",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2019,
+            "ementa": "Acrescenta os incisos VII e VIII ao art. 212-A, inserido pelo art. 3º da Proposta de Emenda à Constituição nº 15, de 2015, instituindo contribuição da União para os entes federados que alcançarem evolução significativa em processos e resultados educacionais."
+        },
+        {
+            "id": 2206183,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206183",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 2,
+            "ano": 2019,
+            "ementa": "Altera o inciso VI do art. 212-A, inserido pelo art. 3º da Proposta de Emenda à Constituição nº 15, de 2015, fixando novo percentual mínimo de complementação da União."
+        },
+        {
+            "id": 2206795,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2206795",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2019,
+            "ementa": "Altera o art. 3 da PEC 15/2015 e o art. 213 da Constituição Federal para possibilitar que estados e municípios optem por direcionar parte dos recursos do FUNDEB para organizações da sociedade civil e para financiar bolsas de estudo em instituições de ensino privadas."
+        },
+        {
+            "id": 2208808,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208808",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 1795,
+            "ano": 2019,
+            "ementa": "Requer a inclusão na Ordem do Dia do PL 2295/2000 do Senado Federal, que \"dispõe sobre a jornada de trabalho dos Enfermeiros, Técnicos e auxiliares de enfermagem\"."
+        },
+        {
+            "id": 2208809,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2208809",
+            "siglaTipo": "REQ",
+            "codTipo": 318,
+            "numero": 1796,
+            "ano": 2019,
+            "ementa": "Requer a inclusão na Ordem do Dia da PEC 454/2009, que \"Estabelece diretrizes para a organização da carreira única de Médico de Estado\"."
+        },
+        {
+            "id": 2214938,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2214938",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 3,
+            "ano": 2019,
+            "ementa": "Altera o artigo 159 da Constituição para acrescentar a Contribuição Social prevista na alínea c, do Inciso I, do Art. 195 no sistema de repasse aos Estados e Municípios."
+        },
+        {
+            "id": 2215013,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2215013",
+            "siglaTipo": "PRL",
+            "codTipo": 190,
+            "numero": 1,
+            "ano": 0,
+            "ementa": "Parecer do Relator, Dep. Flaviano Melo (MDB-AC), pela aprovação."
+        },
+        {
+            "id": 2218835,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218835",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 27,
+            "ano": 2019,
+            "ementa": "Insere dispositivos para prever a celebração de convênios entre os estados e o Distrito Federal sobre isenções do imposto sobre operações relativas à circulação de mercadorias."
+        },
+        {
+            "id": 2218899,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218899",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 29,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional e dá outras providências"
+        },
+        {
+            "id": 2218995,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2218995",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 35,
+            "ano": 2019,
+            "ementa": "A geração de empregos precisa ser a principal prioridade do país na reforma tributária, num país com mais de 30 milhões de desempregados e subempregados. A PEC 45/2019 aumenta impostos sobre os setores de serviços (70% dos empregos) e para compensar é imprescindível desonerar a folha salarial, abrindo a possibilidade do uso da movimentação financeira. Além de equilibrar a carga, a medida destravará o emprego no país."
+        },
+        {
+            "id": 2219922,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2219922",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 97,
+            "ano": 2019,
+            "ementa": "Altera o Sistema Tributário Nacional, estabelecendo parâmetros para a desoneração da folha de salários na faixa de 1 (um) salário mínimo, progressivamente, no período de 10 (dez) anos"
+        },
+        {
+            "id": 2228986,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2228986",
+            "siglaTipo": "PFC",
+            "codTipo": 138,
+            "numero": 40,
+            "ano": 2019,
+            "ementa": "Propõe que a Comissão de Minas e Energia promova, com auxílio do Tribunal de Contas da União, fiscalização e controle dos atos realizados pela Agência Nacional de Energia Elétrica (ANEEL) referentes ao reajuste tarifário anual de 2018 da Companhia de Eletricidade do Acre - Eletroacre."
+        },
+        {
+            "id": 2230740,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2230740",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 1,
+            "ano": 2019,
+            "ementa": "Acrescenta o art. 18-A ao Ato das Disposições Constitucionais Transitórias, para dispor sobre a convalidação de atos administrativos praticados no Estado do Tocantins entre 1º de janeiro de 1989 e 31 de dezembro de 1994."
+        },
+        {
+            "id": 2231864,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2231864",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 6280,
+            "ano": 2019,
+            "ementa": "Acrescenta parágrafos ao art. 53, da Lei nº 8.078, de 11 de setembro de 1990 (Código de Proteção e Defesa do Consumidor), para assegurar o direito à compensação ao devedor que efetuar o pagamento de prestações na ordem inversa dos seus vencimentos."
+        },
+        {
+            "id": 2251066,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2251066",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 2325,
+            "ano": 2020,
+            "ementa": "Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para assegurar a continuidade do pagamento do seguro-desemprego pelo tempo de duração do estado de emergência pública causada pelo SARS-CoV-2 (Covid-19)."
+        },
+        {
+            "id": 2257679,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2257679",
+            "siglaTipo": "PL",
+            "codTipo": 139,
+            "numero": 3798,
+            "ano": 2020,
+            "ementa": "Institui a Política Nacional de Proteção ao Paciente com Lúpus e dá outras providências"
+        },
+        {
+            "id": 2258181,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2258181",
+            "siglaTipo": "REQ",
+            "codTipo": 147,
+            "numero": 1902,
+            "ano": 2020,
+            "ementa": "Requer a inclusão de coautoria ao PL 3.798/2020 que Institui a Política Nacional de Proteção ao Paciente com Lúpus e dá outras providências"
+        },
+        {
+            "id": 2261958,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2261958",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 2316,
+            "ano": 2020,
+            "ementa": "Requer o registro da Frente Parlamentar Mista Pelo Fortalecimento do SUS."
+        },
+        {
+            "id": 2268593,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268593",
+            "siglaTipo": "DOC",
+            "codTipo": 863,
+            "numero": 19,
+            "ano": 2021,
+            "ementa": "Os Deputados da Bancada do Partido MDB, consoante o Art. 9º c/c Art. 12 do Regimento Interno da Câmara dos Deputados, deliberam constituir o Bloco Parlamentar ."
+        },
+        {
+            "id": 2268600,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2268600",
+            "siglaTipo": "DOC",
+            "codTipo": 859,
+            "numero": 24,
+            "ano": 2021,
+            "ementa": "Indicação do Deputado Isnaldo Bulhôes para exercer a função de Líder da Bancada do MDB."
+        },
+        {
+            "id": 2270800,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270800",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 3,
+            "ano": 2021,
+            "ementa": "Altera os arts. 14, 27, 53, 102 e 105 da Constituição Federal, para dispor sobre as prerrogativas parlamentares e dá outras providências."
+        },
+        {
+            "id": 2271006,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271006",
+            "siglaTipo": "DOC",
+            "codTipo": 864,
+            "numero": 61,
+            "ano": 2021,
+            "ementa": "Adesão do MOVIMENTO DEMOCRÁTICO BRASILEIRO -\nMDB ao Bloco Parlamentar composto pelas seguintes lideranças partidárias: PSL, PL, PP,\nPSD, REPUBLICANOS, PTB, PROS, PODE, PSC, AVANTE, PATRIOTA."
+        },
+        {
+            "id": 2271092,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2271092",
+            "siglaTipo": "DOC",
+            "codTipo": 866,
+            "numero": 21,
+            "ano": 2021,
+            "ementa": "Ata da Bancada do Acre para a escolha das emendas de Bancada  da LOA 2021"
+        },
+        {
+            "id": 2272124,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2272124",
+            "siglaTipo": "EMC",
+            "codTipo": 130,
+            "numero": 78,
+            "ano": 2021,
+            "ementa": "Dá nova redação à MPV 1034/2021"
+        },
+        {
+            "id": 2273544,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2273544",
+            "siglaTipo": "REQ",
+            "codTipo": 609,
+            "numero": 423,
+            "ano": 2021,
+            "ementa": "Requer a criação da Frente Parlamentar em Defesa das Energias Renováveis - FER."
+        },
+        {
+            "id": 2275537,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2275537",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 5,
+            "ano": 2021,
+            "ementa": "Altera artigo 130-A da Constituição Federal no que trata da composição do Conselho Nacional do Ministério Público e  dá outras providências."
+        },
+        {
+            "id": 2289943,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289943",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 5,
+            "ano": 0,
+            "ementa": "Emenda Modificativa à PEC nº 32/2020. Adicional de substituição."
+        },
+        {
+            "id": 2289944,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2289944",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 6,
+            "ano": 0,
+            "ementa": "Emenda modificativa à PEC nº 32/2020. Carreiras típicas de Estado."
+        },
+        {
+            "id": 2290390,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290390",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 60,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa"
+        },
+        {
+            "id": 2290398,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2290398",
+            "siglaTipo": "EMC",
+            "codTipo": 869,
+            "numero": 61,
+            "ano": 0,
+            "ementa": "Altera disposições sobre servidores, empregados públicos e organização administrativa."
+        },
+        {
+            "id": 2291133,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2291133",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 21,
+            "ano": 2021,
+            "ementa": "\"Acrescenta ao art. 37 da Constituição Federal o inciso XXIII, vedando aos militares da ativa a ocupação de cargo de natureza civil na Administração Pública, nos três níveis da Federação\"."
+        },
+        {
+            "id": 2301088,
+            "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2301088",
+            "siglaTipo": "PEC",
+            "codTipo": 136,
+            "numero": 32,
+            "ano": 2021,
+            "ementa": "Altera a Constituição Federal para elevar para setenta anos a idade máxima para a escolha e nomeação de membros do Supremo Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais, do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho e do Tribunal de Contas da União. NOVA EMENTA: Altera a Constituição Federal para elevar para setenta anos a idade máxima para a escolha e nomeação de membros do Supremo Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais, do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho, do Tribunal de Contas da União e dos Ministros civis do Superior Tribunal Militar."
+        }
+    ]
+}
