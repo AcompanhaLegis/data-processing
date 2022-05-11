@@ -14,6 +14,7 @@ def proposicoes_by_year(deputado_id, data_dict = dict()):
         deputado = json.load(f)
         data_dict['proposicoes_by_year'] = {}
         for proposicao in deputado['proposicoes']:
+            print("Compiling proposicoes data for deputado {}".format(deputado_id))
             types = data_dict['proposicoes_by_year'].get(proposicao['ano'], {}).get('types', {})
             types[proposicao['siglaTipo']] = types.get(proposicao['siglaTipo'], 0) + 1
             data_dict['proposicoes_by_year'][proposicao['ano']] = {
@@ -32,6 +33,7 @@ def expenses_by_year_month(deputado_id, data_dict = dict()):
         deputado_expenses = json.load(f)
         data_dict['expenses_by_year_month'] = {}
         for expense in deputado_expenses:
+            print("Compiling expenses for deputado {}".format(deputado_id))
             year = expense['ano']
             month = expense['mes']
             amount = data_dict['expenses_by_year_month'].get(year, {}).get(month, 0) + expense['valorLiquido']
