@@ -1,13 +1,11 @@
-import http.server
-import socketserver
+from flask import Flask
+from flask_cors import CORS
 
 PORT = 9000
 DATA_DIR = "./deputados_data_digest"
 
-class Handler(http.server.SimpleHTTPRequestHandler):
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, directory=DATA_DIR, **kwargs)
+# Initialize
+app = Flask('acompanha-legis-data', static_url_path='/', static_folder=DATA_DIR, )
+cors = CORS(app, resources={r"/*": {"origins": "*"}})
 
-with socketserver.TCPServer(("", PORT), Handler) as httpd:
-    print("serving at port", PORT)
-    httpd.serve_forever()
+app.run(host='0.0.0.0', port=PORT, debug=True)
